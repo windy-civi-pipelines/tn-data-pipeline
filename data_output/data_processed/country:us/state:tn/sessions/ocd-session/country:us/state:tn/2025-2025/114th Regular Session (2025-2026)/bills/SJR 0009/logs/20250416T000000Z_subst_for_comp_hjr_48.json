@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Subst. for comp. HJR 48",
+    "date": "2025-04-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "substitution"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR 0009"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Am. tabled. (Amendment 2 - HA0437)",
+    "date": "2025-04-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1084"
+}

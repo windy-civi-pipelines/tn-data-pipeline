@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "H. adopted am. (Amendment 1 - HA0102)",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1253"
+}

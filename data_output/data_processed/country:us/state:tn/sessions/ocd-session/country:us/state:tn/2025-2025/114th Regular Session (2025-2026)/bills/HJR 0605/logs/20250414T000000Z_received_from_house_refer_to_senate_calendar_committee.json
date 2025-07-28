@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Received from House, refer to Senate Calendar Committee",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR 0605"
+}

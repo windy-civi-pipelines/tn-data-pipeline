@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Action def. in  Transportation Committee to First Calendar of 2026",
+    "date": "2025-03-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 0864"
+}

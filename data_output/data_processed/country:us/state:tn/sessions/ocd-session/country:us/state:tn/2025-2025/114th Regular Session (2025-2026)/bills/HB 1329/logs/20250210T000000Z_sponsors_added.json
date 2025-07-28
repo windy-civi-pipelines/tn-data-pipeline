@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Sponsor(s) Added.",
+    "date": "2025-02-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "sponsorship"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1329"
+}

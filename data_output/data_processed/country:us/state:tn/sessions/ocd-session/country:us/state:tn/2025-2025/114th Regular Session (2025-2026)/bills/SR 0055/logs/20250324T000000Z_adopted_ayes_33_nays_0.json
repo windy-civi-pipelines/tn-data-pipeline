@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Adopted, Ayes 33, Nays 0",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR 0055"
+}

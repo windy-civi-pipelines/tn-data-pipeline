@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Action deferred in Senate Health and Welfare Committee to 3/26/2025",
+    "date": "2025-03-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 1154"
+}

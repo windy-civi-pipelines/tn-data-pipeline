@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Am. tabled. (Amendment 1 - HA6005)",
+    "date": "2025-01-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 6003"
+}

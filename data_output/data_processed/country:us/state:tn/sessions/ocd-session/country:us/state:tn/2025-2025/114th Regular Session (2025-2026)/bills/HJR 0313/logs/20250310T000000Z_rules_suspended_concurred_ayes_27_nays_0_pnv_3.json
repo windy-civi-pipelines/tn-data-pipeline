@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Rules Suspended, Concurred, Ayes 27, Nays 0, PNV 3",
+    "date": "2025-03-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR 0313"
+}

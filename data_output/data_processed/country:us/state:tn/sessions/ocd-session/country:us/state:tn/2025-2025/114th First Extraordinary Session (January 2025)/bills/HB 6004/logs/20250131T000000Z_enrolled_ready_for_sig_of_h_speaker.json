@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enrolled; ready for sig. of H. Speaker.",
+    "date": "2025-01-31",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "enrolled"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 6004"
+}

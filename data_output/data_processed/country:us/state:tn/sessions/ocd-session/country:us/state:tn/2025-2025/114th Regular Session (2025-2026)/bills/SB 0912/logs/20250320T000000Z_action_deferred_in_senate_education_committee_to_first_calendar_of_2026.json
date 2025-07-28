@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Action deferred in Senate Education Committee to first calendar of 2026",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 0912"
+}

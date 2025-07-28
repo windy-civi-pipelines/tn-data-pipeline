@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed on Second Consideration, refer to Senate State and Local Government Committee",
+    "date": "2025-02-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0309"
+}

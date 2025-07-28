@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Re-ref. Calendar & Rules Committee",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 0766"
+}

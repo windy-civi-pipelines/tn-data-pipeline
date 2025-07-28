@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Def. to Summer Study in  Transportation Subcommittee",
+    "date": "2025-03-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 0924"
+}

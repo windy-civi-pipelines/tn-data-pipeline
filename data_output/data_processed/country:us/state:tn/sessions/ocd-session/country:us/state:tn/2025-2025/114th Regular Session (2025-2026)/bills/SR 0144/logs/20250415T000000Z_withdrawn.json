@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Withdrawn.",
+    "date": "2025-04-15",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR 0144"
+}
