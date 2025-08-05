@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Rec. for pass. if am., ref. to  Calendar & Rules Committee",
+    "date": "2025-03-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 0825"
+}

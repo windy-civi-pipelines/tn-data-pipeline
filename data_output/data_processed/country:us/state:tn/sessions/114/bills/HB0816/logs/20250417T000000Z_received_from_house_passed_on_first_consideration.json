@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Received from House, Passed on First Consideration",
+    "date": "2025-04-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 0816"
+}

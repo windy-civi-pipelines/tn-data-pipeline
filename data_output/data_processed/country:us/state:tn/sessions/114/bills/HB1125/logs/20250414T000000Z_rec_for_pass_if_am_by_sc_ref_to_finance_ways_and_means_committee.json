@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Rec for pass if am by s/c ref. to  Finance, Ways, and Means Committee",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1125"
+}

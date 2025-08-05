@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Adopted, Ayes 28, Nays 1, PNV 3",
+    "date": "2025-03-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR 0003"
+}

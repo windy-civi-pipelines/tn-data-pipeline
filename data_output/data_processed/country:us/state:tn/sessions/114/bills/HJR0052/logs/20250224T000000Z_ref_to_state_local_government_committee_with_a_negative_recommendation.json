@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "ref to State & Local Government Committee with a Negative Recommendation",
+    "date": "2025-02-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HJR 0052"
+}

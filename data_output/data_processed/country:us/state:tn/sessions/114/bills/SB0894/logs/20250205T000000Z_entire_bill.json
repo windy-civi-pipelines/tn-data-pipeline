@@ -1,0 +1,76 @@
+{
+  "legislative_session": "114",
+  "identifier": "SB 0894",
+  "title": "Contractors - As introduced, extends from two to four years the period of time that a contractor's certificate of license is valid before expiring and requiring renewal. - Amends TCA Title 62, Chapter 6.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Contractors"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Withdrawn.",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Filed for introduction",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Stevens",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Stevens\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current Version",
+      "links": [
+        {
+          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0894.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0894&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tn/government",
+    "name": "Tennessee",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tn"
+  },
+  "scraped_at": "2025-08-05T18:02:00+00:00",
+  "_id": "48df1fce-7226-11f0-9310-66b5c70dc502"
+}

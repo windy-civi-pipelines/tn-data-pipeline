@@ -1,0 +1,37 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE CALENDAR & RULES COMMITTEE: H. Placed on Consent Calendar for 3/17/2025 3/13/2025 (2)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-17",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "f8bc3288-7226-11f0-9310-66b5c70dc502",
+  "bill_action": null,
+  "bill_identifier": "HB 0582",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0582&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "f8bd6298-7226-11f0-9310-66b5c70dc502"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Assigned to General Subcommittee of Senate Energy, Ag., and Nat. Resources Committee",
+    "date": "2025-03-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0825"
+}

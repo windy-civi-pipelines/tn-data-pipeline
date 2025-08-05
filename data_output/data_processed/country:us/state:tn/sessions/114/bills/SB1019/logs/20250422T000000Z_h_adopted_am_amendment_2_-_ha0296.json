@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "H. adopted am. (Amendment 2 - HA0296)",
+    "date": "2025-04-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1019"
+}

@@ -1,0 +1,109 @@
+{
+  "legislative_session": "114",
+  "identifier": "SR 0248",
+  "title": "Memorials, Academic Achievement - Ellie Clark, Salutatorian, Greenbrier High School -",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "Academic Achievement",
+    "Memorials"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Adopted, Ayes 31, Nays 0",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Placed on Senate Consent Calendar 4  for 4/22/2025",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Refer to Senate Calendar Committee",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Filed for introduction",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Enrolled and ready for signatures",
+      "date": "2025-04-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Signed by Senate Speaker",
+      "date": "2025-04-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roberts",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roberts\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current Version",
+      "links": [
+        {
+          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SR0248.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SR0248&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tn/government",
+    "name": "Tennessee",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tn"
+  },
+  "scraped_at": "2025-08-05T18:05:16+00:00",
+  "_id": "bd86b68e-7226-11f0-9310-66b5c70dc502"
+}

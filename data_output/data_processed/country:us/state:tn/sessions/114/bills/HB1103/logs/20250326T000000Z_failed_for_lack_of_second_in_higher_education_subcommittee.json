@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Failed for lack of second in: Higher Education Subcommittee",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1103"
+}

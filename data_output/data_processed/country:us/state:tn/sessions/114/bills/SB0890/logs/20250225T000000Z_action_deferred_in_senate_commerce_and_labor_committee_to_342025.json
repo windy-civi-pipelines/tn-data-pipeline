@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Action deferred in Senate Commerce and Labor Committee to 3/4/2025",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 0890"
+}

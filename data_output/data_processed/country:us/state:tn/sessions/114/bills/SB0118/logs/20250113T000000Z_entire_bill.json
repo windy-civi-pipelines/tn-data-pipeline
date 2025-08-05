@@ -1,0 +1,107 @@
+{
+  "legislative_session": "114",
+  "identifier": "SB 0118",
+  "title": "Unclaimed Property - As introduced, allows the treasurer to file the annual report regarding the total amount and value of abandoned or unclaimed property with executive and legislative branch officials electronically. - Amends TCA Title 43; Title 44; Title 47; Title 48 and Title 66.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Unclaimed Property"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "HB 0054"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed for introduction",
+      "date": "2025-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Introduced, Passed on First Consideration",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Passed on Second Consideration, refer to Senate Commerce and Labor Committee",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hatcher",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hatcher\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 54",
+      "legislative_session": "114",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Current Version",
+      "links": [
+        {
+          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0118.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0054.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0118&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tn/government",
+    "name": "Tennessee",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tn"
+  },
+  "scraped_at": "2025-08-05T17:59:59+00:00",
+  "_id": "00b659ba-7226-11f0-9310-66b5c70dc502"
+}

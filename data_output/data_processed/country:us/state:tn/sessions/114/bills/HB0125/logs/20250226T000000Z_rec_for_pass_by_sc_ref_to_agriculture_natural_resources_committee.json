@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Rec. for pass by s/c ref. to  Agriculture & Natural Resources Committee",
+    "date": "2025-02-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 0125"
+}

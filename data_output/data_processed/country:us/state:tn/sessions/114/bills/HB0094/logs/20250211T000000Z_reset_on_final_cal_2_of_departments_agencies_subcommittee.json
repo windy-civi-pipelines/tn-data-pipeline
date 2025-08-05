@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reset on Final cal. #2 of  Departments & Agencies Subcommittee",
+    "date": "2025-02-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 0094"
+}

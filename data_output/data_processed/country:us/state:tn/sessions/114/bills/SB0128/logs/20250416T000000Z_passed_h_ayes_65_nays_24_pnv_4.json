@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed H., Ayes 65, Nays 24, PNV 4",
+    "date": "2025-04-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0128"
+}

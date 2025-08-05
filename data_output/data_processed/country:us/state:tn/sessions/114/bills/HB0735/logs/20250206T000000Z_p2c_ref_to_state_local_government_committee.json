@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "P2C, ref. to State & Local Government Committee",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 0735"
+}

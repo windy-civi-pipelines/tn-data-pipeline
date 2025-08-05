@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed Senate, Ayes 27, Nays 5",
+    "date": "2025-04-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 0816"
+}

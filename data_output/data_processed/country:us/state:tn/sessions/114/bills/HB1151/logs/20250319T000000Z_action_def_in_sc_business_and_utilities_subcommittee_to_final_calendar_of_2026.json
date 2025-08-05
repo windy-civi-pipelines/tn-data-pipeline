@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Action Def. in s/c  Business and Utilities Subcommittee to Final Calendar of 2026",
+    "date": "2025-03-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1151"
+}

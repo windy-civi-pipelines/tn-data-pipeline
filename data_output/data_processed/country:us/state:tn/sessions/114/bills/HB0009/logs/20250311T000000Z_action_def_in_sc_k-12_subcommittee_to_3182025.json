@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Action Def. in s/c  K-12 Subcommittee to 3/18/2025",
+    "date": "2025-03-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 0009"
+}

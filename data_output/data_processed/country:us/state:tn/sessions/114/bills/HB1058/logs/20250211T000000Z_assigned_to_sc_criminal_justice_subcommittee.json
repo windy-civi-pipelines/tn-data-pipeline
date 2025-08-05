@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Assigned to s/c Criminal Justice Subcommittee",
+    "date": "2025-02-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1058"
+}
