@@ -1,0 +1,289 @@
+Title: HOUSE BILL 1064
+Official Title: HOUSE BILL 1064
+Number of Sections: 12
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+By Hardaway
+SENATE BILL 1187
+By Akbari
+AN ACT to amend Tennessee Code Annotated, Title 10;
+Title 38; Title 39; Title 40; Chapter 969 of the
+Public Acts of 2024 and Chapter 1033 of the
+Public Acts of 2024, relative to criminal law.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 40, Chapter 11, Part 1, is amended by
+adding the following new section:
+(a) Following the arrest of a person for an offense listed in subsection (b), the
+court or magistrate shall order the defendant to wear a global positioning monitoring
+system device as a condition of bail as set forth in § 40-11-152(b)(2), unless the court or
+magistrate finds the offender no longer poses a threat to the alleged victim or public
+safety.
+(b) This section applies to a defendant arrested for:
+(1) An offense, during the course of which:
+(A) The defendant is alleged to have carried, possessed, or used
+a firearm or dangerous weapon;
+(B) A person was killed or suffered serious bodily injury; or
+(C) The defendant is alleged to have used force against the
+person of another;
+(2) Domestic assault, under § 39-13-111;
+(3) Burglary of a freight or passenger car, automobile, truck, trailer, boat,
+airplane, or other motor vehicle, under § 39-13-1002(a)(4);
+(4) Reckless driving, under § 55-10-205;
+SB1187
+003007
+- 1 -
+(5) Drag racing, under § 55-10-502; or
+(6) A second or subsequent offense under title 39, chapter 13, part 10 or
+title 39, chapter 14, part 1.
+(c) The clerk of each court that orders the use of global positioning monitoring
+pursuant to subsection (a) shall report the number of defendants currently subject to
+such an order and the offenses for which the defendant is awaiting trial on a monthly
+basis to the administrative office of the courts. The administrative office of the courts
+shall compile an annual report of the number of defendants subject to such an order,
+including totals for each county, to be submitted to the committee of the house of
+representatives with jurisdiction over subject matters pertaining to criminal justice and
+the judiciary committee of the senate by July 1 of each year.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 40-11-152(b)(2), is amended by
+deleting the language:
+Pursuant to § 40-11-150(n), if the court or magistrate finds probable cause to
+believe that one (1) or more of the circumstances in § 40-11-150(n)(1) did occur, then
+unless the court or magistrate finds the offender no longer poses a threat to the alleged
+victim or public safety and makes such a finding in a written order, the court or
+magistrate shall order a defendant who is charged with the offense of aggravated
+assault, as defined in § 39-13-102(a)(1)(A)(i), (a)(1)(A)(iii), or (a)(1)(A)(iv), in which the
+alleged victim of the offense is a domestic abuse victim, as defined in § 36-3-601, to do
+the following as a condition of bail:
+and substituting instead:
+Pursuant to § 40-11-150(n) and SECTION 1, if the court or magistrate finds
+probable cause to believe that one (1) or more of the circumstances in § 40-11-150(n)(1)
+or SECTION 1(b) did occur, then unless the court or magistrate finds the offender no
+- 2 - 003007
+longer poses a threat to the alleged victim or public safety and makes such a finding in a
+written order, the court or magistrate shall order the defendant to do the following as a
+condition of bail:
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 40-11-115(a), is amended by adding
+the following new subdivision:
+(3) When a magistrate orders a defendant released pending trial, the magistrate
+must include in the magistrate's order a written record of the factors considered in
+determining whether to release the defendant on recognizance, upon unsecured bond,
+with conditions of release, or following the deposit of bail.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 39-13-502(a)(4), is amended by
+deleting the subdivision and substituting:
+(4) The defendant knows that the defendant is infected with a sexually
+transmitted disease, and the sexually transmitted disease is transmitted to the victim. As
+used in this subdivision (a)(4), "sexually transmitted disease" means the same as
+defined in § 68-10-101.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 40-11-152(d), is amended by
+deleting the subsection and substituting:
+(d) If the magistrate prohibited the defendant from going to or near certain
+locations as a condition of release at the victim's request, the court must seal any record
+of the victim's home address or other exact location provided to the magistrate by the
+victim.
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Section 40-11-152, is amended by deleting
+the language "subsection (d)" wherever it appears and substituting instead "subsection (l)".
+
+Section 8:
+SECTION 7. Tennessee Code Annotated, Section 40-11-152(l), is amended by adding
+the following new subdivisions:
+- 3 - 003007
+( ) Any sanctions that the magistrate may impose on the defendant for violating
+a condition of bond imposed under this section;
+( ) The procedure that the victim is to follow, and support services available to
+assist the victim, if the defendant violates a condition of bond or if the global positioning
+monitoring system equipment fails;
+( ) Community services available to assist the victim in obtaining shelter,
+counseling, education, child care, legal representation, and other assistance available to
+address the consequences of domestic violence;
+
+Section 9:
+SECTION 8. Tennessee Code Annotated, Title 40, Chapter 11, Part 1, is amended by
+adding the following new section:
+If the magistrate or other judicial official requires a defendant to be subject to a
+global positioning monitoring system as a condition of release pursuant to § 40-11-
+150(n), § 40-11-152, SECTION 1(b), or another provision of law, then the sheriff's
+department shall not release the defendant until a qualified contract service provider has
+installed the global positioning monitoring system and begun monitoring the defendant's
+compliance with the conditions of release.
+
+Section 10:
+SECTION 9. Tennessee Code Annotated, Title 38, Chapter 8, Part 1, is amended by
+adding the following new section:
+(a) In order to initiate a traffic stop, a law enforcement officer in a marked law
+enforcement vehicle must:
+(1) Activate the vehicle's blue lights at the time the officer begins to follow
+the motor vehicle for the purpose of initiating a traffic stop; and
+(2) Notify the law enforcement agency's dispatcher that the officer is
+initiating a traffic stop.
+- 4 - 003007
+(b) In order to ensure the safety of all motorists, pedestrians, and property
+located near highways and streets, a law enforcement officer is required to follow the
+written policies of the law enforcement agency during any traffic stop.
+
+Section 11:
+SECTION 10. Tennessee Code Annotated, Section 39-14-105, is amended by adding
+the following new subsection:
+(e) A violation of this part for which the punishment is determined pursuant to
+this section shall be punished one (1) classification higher than provided in this section if
+the violation was committed against the property of a first responder, as defined by first
+responder or law enforcement officer, as those terms are defined in § 39-13-116, while
+the first responder or law enforcement officer is engaged in official duties.
+
+Section 12:
+SECTION 11. This act takes effect July 1, 2025, the public welfare requiring it.
+- 5 - 003007
+[DELETED: S]
+[DELETED:  -0S]
+[DELETED:  -0SSSSS]
+[DELETED:  -0SS]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1064
+By Hardaway
+SENATE BILL 1187
+By Akbari
+AN ACT to amend Tennessee Code Annotated, Title 10;
+Title 38; Title 39; Title 40; Chapter 969 of the
+Public Acts of 2024 and Chapter 1033 of the
+Public Acts of 2024, relative to criminal law.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 40, Chapter 11, Part 1, is amended by
+adding the following new section:
+(a) Following the arrest of a person for an offense listed in subsection (b), the
+court or magistrate shall order the defendant to wear a global positioning monitoring
+system device as a condition of bail as set forth in § 40-11-152(b)(2), unless the court or
+magistrate finds the offender no longer poses a threat to the alleged victim or public
+safety.
+(b) This section applies to a defendant arrested for:
+(1) An offense, during the course of which:
+(A) The defendant is alleged to have carried, possessed, or used
+a firearm or dangerous weapon;
+(B) A person was killed or suffered serious bodily injury; or
+(C) The defendant is alleged to have used force against the
+person of another;
+(2) Domestic assault, under § 39-13-111;
+(3) Burglary of a freight or passenger car, automobile, truck, trailer, boat,
+airplane, or other motor vehicle, under § 39-13-1002(a)(4);
+(4) Reckless driving, under § 55-10-205;
+SB1187
+003007
+- 1 -
+
+(5) Drag racing, under § 55-10-502; or
+(6) A second or subsequent offense under title 39, chapter 13, part 10 or
+title 39, chapter 14, part 1.
+(c) The clerk of each court that orders the use of global positioning monitoring
+pursuant to subsection (a) shall report the number of defendants currently subject to
+such an order and the offenses for which the defendant is awaiting trial on a monthly
+basis to the administrative office of the courts. The administrative office of the courts
+shall compile an annual report of the number of defendants subject to such an order,
+including totals for each county, to be submitted to the committee of the house of
+representatives with jurisdiction over subject matters pertaining to criminal justice and
+the judiciary committee of the senate by July 1 of each year.
+SECTION 2. Tennessee Code Annotated, Section 40-11-152(b)(2), is amended by
+deleting the language:
+Pursuant to § 40-11-150(n), if the court or magistrate finds probable cause to
+believe that one (1) or more of the circumstances in § 40-11-150(n)(1) did occur, then
+unless the court or magistrate finds the offender no longer poses a threat to the alleged
+victim or public safety and makes such a finding in a written order, the court or
+magistrate shall order a defendant who is charged with the offense of aggravated
+assault, as defined in § 39-13-102(a)(1)(A)(i), (a)(1)(A)(iii), or (a)(1)(A)(iv), in which the
+alleged victim of the offense is a domestic abuse victim, as defined in § 36-3-601, to do
+the following as a condition of bail:
+and substituting instead:
+Pursuant to § 40-11-150(n) and SECTION 1, if the court or magistrate finds
+probable cause to believe that one (1) or more of the circumstances in § 40-11-150(n)(1)
+or SECTION 1(b) did occur, then unless the court or magistrate finds the offender no
+- 2 - 003007
+
+longer poses a threat to the alleged victim or public safety and makes such a finding in a
+written order, the court or magistrate shall order the defendant to do the following as a
+condition of bail:
+SECTION 3. Tennessee Code Annotated, Section 40-11-115(a), is amended by adding
+the following new subdivision:
+(3) When a magistrate orders a defendant released pending trial, the magistrate
+must include in the magistrate's order a written record of the factors considered in
+determining whether to release the defendant on recognizance, upon unsecured bond,
+with conditions of release, or following the deposit of bail.
+SECTION 4. Tennessee Code Annotated, Section 39-13-502(a)(4), is amended by
+deleting the subdivision and substituting:
+(4) The defendant knows that the defendant is infected with a sexually
+transmitted disease, and the sexually transmitted disease is transmitted to the victim. As
+used in this subdivision (a)(4), "sexually transmitted disease" means the same as
+defined in § 68-10-101.
+SECTION 5. Tennessee Code Annotated, Section 40-11-152(d), is amended by
+deleting the subsection and substituting:
+(d) If the magistrate prohibited the defendant from going to or near certain
+locations as a condition of release at the victim's request, the court must seal any record
+of the victim's home address or other exact location provided to the magistrate by the
+victim.
+SECTION 6. Tennessee Code Annotated, Section 40-11-152, is amended by deleting
+the language "subsection (d)" wherever it appears and substituting instead "subsection (l)".
+SECTION 7. Tennessee Code Annotated, Section 40-11-152(l), is amended by adding
+the following new subdivisions:
+- 3 - 003007
+
+( ) Any sanctions that the magistrate may impose on the defendant for violating
+a condition of bond imposed under this section;
+( ) The procedure that the victim is to follow, and support services available to
+assist the victim, if the defendant violates a condition of bond or if the global positioning
+monitoring system equipment fails;
+( ) Community services available to assist the victim in obtaining shelter,
+counseling, education, child care, legal representation, and other assistance available to
+address the consequences of domestic violence;
+SECTION 8. Tennessee Code Annotated, Title 40, Chapter 11, Part 1, is amended by
+adding the following new section:
+If the magistrate or other judicial official requires a defendant to be subject to a
+global positioning monitoring system as a condition of release pursuant to § 40-11-
+150(n), § 40-11-152, SECTION 1(b), or another provision of law, then the sheriff's
+department shall not release the defendant until a qualified contract service provider has
+installed the global positioning monitoring system and begun monitoring the defendant's
+compliance with the conditions of release.
+SECTION 9. Tennessee Code Annotated, Title 38, Chapter 8, Part 1, is amended by
+adding the following new section:
+(a) In order to initiate a traffic stop, a law enforcement officer in a marked law
+enforcement vehicle must:
+(1) Activate the vehicle's blue lights at the time the officer begins to follow
+the motor vehicle for the purpose of initiating a traffic stop; and
+(2) Notify the law enforcement agency's dispatcher that the officer is
+initiating a traffic stop.
+- 4 - 003007
+
+(b) In order to ensure the safety of all motorists, pedestrians, and property
+located near highways and streets, a law enforcement officer is required to follow the
+written policies of the law enforcement agency during any traffic stop.
+SECTION 10. Tennessee Code Annotated, Section 39-14-105, is amended by adding
+the following new subsection:
+(e) A violation of this part for which the punishment is determined pursuant to
+this section shall be punished one (1) classification higher than provided in this section if
+the violation was committed against the property of a first responder, as defined by first
+responder or law enforcement officer, as those terms are defined in § 39-13-116, while
+the first responder or law enforcement officer is engaged in official duties.
+SECTION 11. This act takes effect July 1, 2025, the public welfare requiring it.
+- 5 - 003007
+
+[DELETED: S]
+[DELETED:  -0S]
+[DELETED:  -0SSSSS]
+[DELETED:  -0SS]
+[DELETED:  -0S]

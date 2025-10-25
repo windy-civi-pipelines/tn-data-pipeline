@@ -1,0 +1,159 @@
+Title: HOUSE BILL 896
+Official Title: HOUSE BILL 896
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Todd
+SENATE BILL 880
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 5, relative to regulatory actions.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 4, Chapter 5, is amended by adding the
+following new section:
+
+Section 3:
+§ 4-5-232. Sound science in regulations act.
+(a) An agency shall not disseminate, propose, or finalize any regulatory action
+by promulgating rules or a similar action for a substance, mixture, or chemical related to
+drinking water, water pollution control, hazardous substances, contaminated site
+remediation, air quality, or solid or hazardous waste handling unless:
+(1) All scientific and technical information relied on to support the
+regulatory action is based upon the best available science; and
+(2) With respect to human health, the best available science indicates
+that exposure to the substance, mixture, or chemical that exceeds the level
+proposed in the regulatory action is causally linked to manifest bodily harm in
+humans.
+(b) For purposes of this section, the term:
+(1) "Best available science" means science that:
+(A) Is reliable, unbiased, and reasonably applied to the agency's
+regulatory action;
+SB0880
+002240
+- 1 -
+(B) Maximizes the quality, objectivity, and integrity of information,
+including statistical information; human, animal, and other relevant
+scientific studies; and human health risk-based assessments; and
+(C) Involves the use of supporting studies that are:
+(i) Conducted in accordance with sound and objective
+scientific practices utilizing data collected by generally accepted
+methods or best available methods;
+(ii) Subject to independent verification; and
+(iii) Published in a refereed journal;
+(2) "Refereed journal" means a publication that:
+(A) Uses an editorial board or critical review panel of subject
+matter experts in the relevant scientific or technical disciplines who
+critically and objectively assess the methodology and analysis of
+submitted scientific studies in a nonpartisan fashion and provide editorial
+services prior to publication;
+(B) Takes meaningful steps to avoid biases in its scientific review
+process; and
+(C) Does not charge publication or submission fees to authors;
+and
+(3) "Regulatory action" means a risk, exposure, or health advisory;
+hazard assessment, health-based guidance level, enforceable drinking water
+standard, or hazardous substance or chemical of concern remediation standard;
+a hazardous substance, solid waste, or hazardous waste designation or
+determination; criteria document; standard; limitation; public notice; regulation or
+- 2 - 002240
+legislative rule; regulatory impact analysis; guidance document; or other similar
+administrative action or scientific or technical assessment or conclusion.
+(c) This section only applies to agency regulatory actions that are adopted on or
+after July 1, 2025, and that are more stringent than any applicable federal regulatory
+action or adopted in the absence of a federal regulatory action.
+(d) This section must not be construed to impact:
+(1) Any regulatory action by an agency in existence before July 1, 2025;
+(2) Any regulatory action by an agency in furtherance of federal agency
+primacy requirements; or
+(3) Any regulatory action by an agency that is the substantive equivalent
+to a federal regulation.
+
+Section 4:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 002240
+[DELETED: S§((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 896
+By Todd
+SENATE BILL 880
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 5, relative to regulatory actions.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 4, Chapter 5, is amended by adding the
+following new section:
+§ 4-5-232. Sound science in regulations act.
+(a) An agency shall not disseminate, propose, or finalize any regulatory action
+by promulgating rules or a similar action for a substance, mixture, or chemical related to
+drinking water, water pollution control, hazardous substances, contaminated site
+remediation, air quality, or solid or hazardous waste handling unless:
+(1) All scientific and technical information relied on to support the
+regulatory action is based upon the best available science; and
+(2) With respect to human health, the best available science indicates
+that exposure to the substance, mixture, or chemical that exceeds the level
+proposed in the regulatory action is causally linked to manifest bodily harm in
+humans.
+(b) For purposes of this section, the term:
+(1) "Best available science" means science that:
+(A) Is reliable, unbiased, and reasonably applied to the agency's
+regulatory action;
+SB0880
+002240
+- 1 -
+
+(B) Maximizes the quality, objectivity, and integrity of information,
+including statistical information; human, animal, and other relevant
+scientific studies; and human health risk-based assessments; and
+(C) Involves the use of supporting studies that are:
+(i) Conducted in accordance with sound and objective
+scientific practices utilizing data collected by generally accepted
+methods or best available methods;
+(ii) Subject to independent verification; and
+(iii) Published in a refereed journal;
+(2) "Refereed journal" means a publication that:
+(A) Uses an editorial board or critical review panel of subject
+matter experts in the relevant scientific or technical disciplines who
+critically and objectively assess the methodology and analysis of
+submitted scientific studies in a nonpartisan fashion and provide editorial
+services prior to publication;
+(B) Takes meaningful steps to avoid biases in its scientific review
+process; and
+(C) Does not charge publication or submission fees to authors;
+and
+(3) "Regulatory action" means a risk, exposure, or health advisory;
+hazard assessment, health-based guidance level, enforceable drinking water
+standard, or hazardous substance or chemical of concern remediation standard;
+a hazardous substance, solid waste, or hazardous waste designation or
+determination; criteria document; standard; limitation; public notice; regulation or
+- 2 - 002240
+
+legislative rule; regulatory impact analysis; guidance document; or other similar
+administrative action or scientific or technical assessment or conclusion.
+(c) This section only applies to agency regulatory actions that are adopted on or
+after July 1, 2025, and that are more stringent than any applicable federal regulatory
+action or adopted in the absence of a federal regulatory action.
+(d) This section must not be construed to impact:
+(1) Any regulatory action by an agency in existence before July 1, 2025;
+(2) Any regulatory action by an agency in furtherance of federal agency
+primacy requirements; or
+(3) Any regulatory action by an agency that is the substantive equivalent
+to a federal regulation.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 002240
+
+[DELETED: S§((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((]

@@ -1,0 +1,134 @@
+Title: HOUSE BILL 1223
+Official Title: HOUSE BILL 1223
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Howell
+SENATE BILL 1134
+By Gardenhire
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 10 and Title 56, relative to studying
+reimbursements under policies of health insurers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 4, Chapter 10, is amended by adding
+the following new section:
+(a) The Tennessee advisory commission on intergovernmental relations (TACIR)
+shall perform a comprehensive evaluation of:
+(1) The process by which health insurers approve or deny coverage or
+reimbursement for healthcare benefits under a plan or policy of insurance,
+including the criteria used to determine whether to approve or deny such
+coverage or reimbursement;
+(2) The process for notification of policyholders and healthcare providers
+regarding the denial of a claim or reimbursement for such healthcare benefits;
+(3) The process for appealing the denial of a claim or reimbursement for
+such healthcare benefits, including the process for obtaining a prior authorization,
+if required;
+(4) The process for recoupment by or reimbursement to a policyholder or
+healthcare provider for unpaid claims from a health insurer upon successful
+appeal after denial of such claims or reimbursement for healthcare benefits;
+(5) The manner in which health insurers must maintain and manage
+reserve funds;
+SB1134
+000711
+- 1 -
+(6) The aggregate number of denials of claims for coverage and
+reimbursement by health insurers on an annual basis for each of the past five (5)
+calendar years beginning January 1, 2021, including:
+(A) The percentage of such denials based on the aggregate
+number of claims per year; and
+(B) The identification of each health insurer that deviates from the
+aggregate mean by ten percent (10%) or more based on data reported
+under subdivision (a)(6)(A); and
+(7) The manner in which this state and its departments and agencies
+audit individual health insurers and the frequency thereof.
+(b) All appropriate state departments and agencies shall provide assistance to
+TACIR in connection with the comprehensive evaluation conducted under subsection
+(a).
+(c) On or before January 15, 2026, TACIR shall report its findings and
+recommendations, including any proposed legislation, regarding the evaluation
+conducted under subsection (a) to the chairs of the commerce and labor committee of
+the senate and the committee of the house of representatives having jurisdiction over
+health insurance matters.
+(d) TACIR shall not include in its evaluation under subsection (a) healthcare
+policies or plans through contracts with the state to provide insurance through the
+TennCare program or its successor program, codified under title 71, chapter 5, or the
+CoverKids program or its successor program, codified under title 71, chapter 3, part 11.
+(e) As used in this section, "health insurer" means a health insurance entity as
+that term is defined in § 56-7-109.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 000711
+[DELETED: S((((((]
+[DELETED:  -0(((((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1223
+By Howell
+SENATE BILL 1134
+By Gardenhire
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 10 and Title 56, relative to studying
+reimbursements under policies of health insurers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 4, Chapter 10, is amended by adding
+the following new section:
+(a) The Tennessee advisory commission on intergovernmental relations (TACIR)
+shall perform a comprehensive evaluation of:
+(1) The process by which health insurers approve or deny coverage or
+reimbursement for healthcare benefits under a plan or policy of insurance,
+including the criteria used to determine whether to approve or deny such
+coverage or reimbursement;
+(2) The process for notification of policyholders and healthcare providers
+regarding the denial of a claim or reimbursement for such healthcare benefits;
+(3) The process for appealing the denial of a claim or reimbursement for
+such healthcare benefits, including the process for obtaining a prior authorization,
+if required;
+(4) The process for recoupment by or reimbursement to a policyholder or
+healthcare provider for unpaid claims from a health insurer upon successful
+appeal after denial of such claims or reimbursement for healthcare benefits;
+(5) The manner in which health insurers must maintain and manage
+reserve funds;
+SB1134
+000711
+- 1 -
+
+(6) The aggregate number of denials of claims for coverage and
+reimbursement by health insurers on an annual basis for each of the past five (5)
+calendar years beginning January 1, 2021, including:
+(A) The percentage of such denials based on the aggregate
+number of claims per year; and
+(B) The identification of each health insurer that deviates from the
+aggregate mean by ten percent (10%) or more based on data reported
+under subdivision (a)(6)(A); and
+(7) The manner in which this state and its departments and agencies
+audit individual health insurers and the frequency thereof.
+(b) All appropriate state departments and agencies shall provide assistance to
+TACIR in connection with the comprehensive evaluation conducted under subsection
+(a).
+(c) On or before January 15, 2026, TACIR shall report its findings and
+recommendations, including any proposed legislation, regarding the evaluation
+conducted under subsection (a) to the chairs of the commerce and labor committee of
+the senate and the committee of the house of representatives having jurisdiction over
+health insurance matters.
+(d) TACIR shall not include in its evaluation under subsection (a) healthcare
+policies or plans through contracts with the state to provide insurance through the
+TennCare program or its successor program, codified under title 71, chapter 5, or the
+CoverKids program or its successor program, codified under title 71, chapter 3, part 11.
+(e) As used in this section, "health insurer" means a health insurance entity as
+that term is defined in § 56-7-109.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 000711
+
+[DELETED: S((((((]
+[DELETED:  -0(((((S]

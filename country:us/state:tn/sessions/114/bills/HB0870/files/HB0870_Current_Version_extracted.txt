@@ -1,0 +1,138 @@
+Title: SENATE BILL 420
+Official Title: SENATE BILL 420
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Reeves
+HOUSE BILL 870
+By Rudder
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 8; Title 10; Title 53; Title 56; Title 63; Title 68
+and Title 71, relative to pharmacy benefits.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 56-7-3201, is amended by adding
+the following new subdivisions:
+( ) ''Health plan'' means a policy, contract, certification, or agreement offered or
+issued by an insurer to provide, deliver, arrange for, pay for, or reimburse any of the
+costs of healthcare services;
+( ) ''Healthcare service'' means an item or service furnished to an individual for
+the purpose of preventing, diagnosing, alleviating, curing, or healing human illness,
+injury, or physical disability;
+( ) ''Insurer'' means an entity subject to the insurance laws and rules of
+insurance in this state or subject to the jurisdiction of the commissioner, that contracts or
+offers to contract to provide, deliver, arrange for, pay for, or reimburse the costs of
+healthcare services under a health plan in this state;
+( ) ''Third-party administrator'' means a third-party administrator as defined in §
+56-7-2902.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 56-7-3205, is amended by deleting
+the section and substituting:
+(a) When calculating an enrollee's contribution to an applicable cost sharing
+requirement, an insurer shall include cost sharing amounts paid by the enrollee or on
+behalf of the enrollee by another person. If, under federal law, application of this
+HB0870
+001736
+- 1 -
+requirement would result in health savings account ineligibility under § 223 of the federal
+internal revenue code (26 U.S.C. § 223), then this requirement applies for health savings
+account-qualified high deductible health plans with respect to the deductible of such a
+plan after the enrollee has satisfied the minimum deductible under § 223 of the federal
+internal revenue code (26 U.S.C. § 223), except for items or services that are preventive
+care pursuant to § 223(c)(2)(C) of the federal internal revenue code (26 U.S.C. §
+223(c)(2)(C)), in which case the requirements of this subsection (a) apply regardless of
+whether such minimum deductible has been satisfied.
+(b) Subsection (a) does not apply to a prescription drug for which there is a
+generic alternative, unless the enrollee has obtained access to the brand name
+prescription drug through prior authorization, a step therapy protocol, the insurer's
+exceptions and appeals process, or as specified in § 53-10-204(a).
+(c) The annual limitation on cost sharing provided for under 42 U.S.C. §
+18022(c)(1) applies to all healthcare services covered under a health plan offered or
+issued by an insurer in this state.
+(d) An insurer, pharmacy benefits manager, or third-party administrator shall not
+directly or indirectly set, alter, implement, or condition the terms of health plan coverage,
+including the benefit design, based in part or entirely on information about the availability
+or amount of financial or product assistance available for a prescription drug.
+(e) In implementing the requirements of this section, the state shall only regulate
+an insurer, pharmacy benefits manager, or third-party administrator to the extent
+permissible under applicable law.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies only to health plans entered into, amended, extended, or renewed on or after
+January 1, 2026.
+- 2 - 001736
+[DELETED: S((((S(]
+[DELETED:  -0((((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 420
+By Reeves
+HOUSE BILL 870
+By Rudder
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 8; Title 10; Title 53; Title 56; Title 63; Title 68
+and Title 71, relative to pharmacy benefits.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 56-7-3201, is amended by adding
+the following new subdivisions:
+( ) ''Health plan'' means a policy, contract, certification, or agreement offered or
+issued by an insurer to provide, deliver, arrange for, pay for, or reimburse any of the
+costs of healthcare services;
+( ) ''Healthcare service'' means an item or service furnished to an individual for
+the purpose of preventing, diagnosing, alleviating, curing, or healing human illness,
+injury, or physical disability;
+( ) ''Insurer'' means an entity subject to the insurance laws and rules of
+insurance in this state or subject to the jurisdiction of the commissioner, that contracts or
+offers to contract to provide, deliver, arrange for, pay for, or reimburse the costs of
+healthcare services under a health plan in this state;
+( ) ''Third-party administrator'' means a third-party administrator as defined in §
+56-7-2902.
+SECTION 2. Tennessee Code Annotated, Section 56-7-3205, is amended by deleting
+the section and substituting:
+(a) When calculating an enrollee's contribution to an applicable cost sharing
+requirement, an insurer shall include cost sharing amounts paid by the enrollee or on
+behalf of the enrollee by another person. If, under federal law, application of this
+HB0870
+001736
+- 1 -
+
+requirement would result in health savings account ineligibility under § 223 of the federal
+internal revenue code (26 U.S.C. § 223), then this requirement applies for health savings
+account-qualified high deductible health plans with respect to the deductible of such a
+plan after the enrollee has satisfied the minimum deductible under § 223 of the federal
+internal revenue code (26 U.S.C. § 223), except for items or services that are preventive
+care pursuant to § 223(c)(2)(C) of the federal internal revenue code (26 U.S.C. §
+223(c)(2)(C)), in which case the requirements of this subsection (a) apply regardless of
+whether such minimum deductible has been satisfied.
+(b) Subsection (a) does not apply to a prescription drug for which there is a
+generic alternative, unless the enrollee has obtained access to the brand name
+prescription drug through prior authorization, a step therapy protocol, the insurer's
+exceptions and appeals process, or as specified in § 53-10-204(a).
+(c) The annual limitation on cost sharing provided for under 42 U.S.C. §
+18022(c)(1) applies to all healthcare services covered under a health plan offered or
+issued by an insurer in this state.
+(d) An insurer, pharmacy benefits manager, or third-party administrator shall not
+directly or indirectly set, alter, implement, or condition the terms of health plan coverage,
+including the benefit design, based in part or entirely on information about the availability
+or amount of financial or product assistance available for a prescription drug.
+(e) In implementing the requirements of this section, the state shall only regulate
+an insurer, pharmacy benefits manager, or third-party administrator to the extent
+permissible under applicable law.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies only to health plans entered into, amended, extended, or renewed on or after
+January 1, 2026.
+- 2 - 001736
+
+[DELETED: S((((S(]
+[DELETED:  -0((((S]

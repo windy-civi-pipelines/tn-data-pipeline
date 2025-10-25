@@ -1,0 +1,88 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE RESOLUTION 138
+By Grills
+A RESOLUTION to honor Dyersburg State Community College on
+being named the College of the Year.
+WHEREAS, it is fitting that we pay tribute to those educational institutions that, through
+the natural talents and unflagging commitment to academic excellence evidenced by their
+administration, faculty, staff, and students, have brought honor to the State of Tennessee; and
+WHEREAS, Dyersburg State Community College is one such exemplary institution,
+which was recently named the College of the Year as part of the Tennessee Board of Regents'
+seventh annual SOAR Awards; and
+WHEREAS, the SOAR Awards annually recognize one community college based on a
+number of criteria, including the institution's major accomplishments for students and the
+communities they serve; and
+WHEREAS, under the leadership of Dr. Scott Cook, president of Dyersburg State
+Community College, the institution has focused on fostering student success and creating an
+empowering educational environment; and
+WHEREAS, this prestigious honor is a tremendous source of pride for the
+administration, faculty, staff, and students of Dyersburg State Community College and the
+residents of the State of Tennessee; and
+WHEREAS, the dedication to academic excellence demonstrated by all the fine
+individuals affiliated with Dyersburg State Community College is clearly deserving of our
+respect, admiration, and commendation; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we
+congratulate Dyersburg State Community College on being named the College of the Year,
+HR0138
+008109
+- 1 -
+salute the school's administration, faculty, staff, and students on this prestigious honor, and
+extend to them our best wishes for much continued success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 008109
+[DELETED: WWWWWW]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE RESOLUTION 138
+By Grills
+A RESOLUTION to honor Dyersburg State Community College on
+being named the College of the Year.
+WHEREAS, it is fitting that we pay tribute to those educational institutions that, through
+the natural talents and unflagging commitment to academic excellence evidenced by their
+administration, faculty, staff, and students, have brought honor to the State of Tennessee; and
+WHEREAS, Dyersburg State Community College is one such exemplary institution,
+which was recently named the College of the Year as part of the Tennessee Board of Regents'
+seventh annual SOAR Awards; and
+WHEREAS, the SOAR Awards annually recognize one community college based on a
+number of criteria, including the institution's major accomplishments for students and the
+communities they serve; and
+WHEREAS, under the leadership of Dr. Scott Cook, president of Dyersburg State
+Community College, the institution has focused on fostering student success and creating an
+empowering educational environment; and
+WHEREAS, this prestigious honor is a tremendous source of pride for the
+administration, faculty, staff, and students of Dyersburg State Community College and the
+residents of the State of Tennessee; and
+WHEREAS, the dedication to academic excellence demonstrated by all the fine
+individuals affiliated with Dyersburg State Community College is clearly deserving of our
+respect, admiration, and commendation; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we
+congratulate Dyersburg State Community College on being named the College of the Year,
+HR0138
+008109
+- 1 -
+
+salute the school's administration, faculty, staff, and students on this prestigious honor, and
+extend to them our best wishes for much continued success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 008109
+
+[DELETED: WWWWWW]
+[DELETED:  -0B]

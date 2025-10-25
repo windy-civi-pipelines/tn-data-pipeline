@@ -1,0 +1,310 @@
+Title: HOUSE BILL 867
+Official Title: HOUSE BILL 867
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+By Hicks T
+SENATE BILL 898
+By Massey
+AN ACT to amend Tennessee Code Annotated, Title 56;
+Title 63; Title 68 and Title 71, relative to maternal
+health.
+WHEREAS, remote patient monitoring services are already covered services by
+TennCare; and
+WHEREAS, pregnancies impacted by maternal hypertension and maternal diabetes are
+more likely to have pregnancy complications; and
+WHEREAS, maternal health outcomes remain poor in Tennessee; and
+WHEREAS, there is a need to establish in Tennessee a targeted maternal health
+program that impacts pregnant recipients of medical assistance who have higher risks of
+pregnancy complications because of their maternal hypertension or maternal diabetes; now,
+therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 5, is amended by adding
+the following as a new part:
+71-5-801. Definitions.
+As used in this part:
+(1) "Bureau" means the bureau of TennCare;
+(2) "Director" means the director of TennCare;
+(3) "Eligible participant" means a patient who:
+(A) Is a recipient of medical assistance under this chapter;
+(B) Is a member of a participating managed care organization; and
+(C) Is pregnant;
+SB0898
+002756
+- 1 -
+(4) "Healthcare provider" means an obstetrician or maternal fetal medicine
+physician who:
+(A) Is licensed in this state under title 63, chapter 6 or 9; and
+(B) Is caring for an eligible participant during pregnancy;
+(5) "Nursing team" means a team of two (2) or more nurses licensed under title
+63, chapter 7, and at least one (1) dietitian or diabetes care and education specialist who
+is licensed, certified, or authorized or permitted by the laws of this state to administer
+health care in the ordinary course of practice of such professions;
+(6) "Participating managed care organization" means the managed care
+organization selected by the bureau to administer the pilot program;
+(7) "Pilot program" means the maternal health monitoring pilot program;
+(8) "Remote patient monitoring for maternal hypertension and maternal
+diabetes" or "remote patient monitoring devices" means technology provided by a
+technology vendor that:
+(A) Collects health data from an eligible participant and electronically
+transmits that information securely for interpretation and recommendation;
+(B) Monitors health data, including blood pressure, weight, blood glucose
+levels, or other physiological health data as determined by the eligible
+participant's healthcare provider;
+(C) Is capable of transmitting health data through cellular networks so
+eligible participants who lack broadband or a wireless telecommunications device
+can benefit; and
+(D) Is preprogrammed equipment provided specifically for an eligible
+participant that works directly out of the box for that specific eligible participant;
+and
+- 2 - 002756
+(9) "Technology vendor" means a technology company that is authorized by the
+United States food and drug administration to provide technology services, and that is
+selected by the bureau to contract with the participating managed care organization in
+administering the pilot program.
+71-5-802. Establishment of pilot program.
+The maternal health monitoring pilot program is to be administered by the bureau
+to offer eligible participants improved maternal health care through remote patient
+monitoring for maternal hypertension and maternal diabetes.
+71-5-803. Administration of pilot program.
+The bureau shall select a managed care organization and technology vendor to
+administer the pilot program in a manner determined by the bureau. For the purpose of
+administering the pilot program, the participating managed care organization shall
+contract directly with a technology vendor to offer remote patient monitoring for maternal
+hypertension and maternal diabetes.
+71-5-804. Remote patient monitoring for maternal hypertension and maternal
+diabetes requirements.
+(a) When offering remote patient monitoring for maternal hypertension and
+maternal diabetes to an eligible participant under the pilot program, the technology
+vendor shall ensure that:
+(1) Remote patient monitoring for maternal hypertension and maternal
+diabetes is possible during the second and third trimesters and for up to three (3)
+months postpartum;
+(2) Remote patient monitoring devices are delivered to the eligible
+participant; and
+- 3 - 002756
+(3) The eligible participant has a process to be trained in how to use the
+remote patient monitoring devices.
+(b) The technology vendor shall:
+(1) Employ a healthcare provider or a nursing team; and
+(2) Assign a program manager to support implementation and
+administration of this pilot program and to coordinate efforts with participating
+managed care organizations and the bureau.
+(c) The technology vendor's healthcare provider or nursing team must be
+capable of supporting the eligible participant by:
+(1) Monitoring and reviewing health data of the eligible participant;
+(2) Creating an agreed-upon escalation pathway with the managed care
+organization if the eligible participant's remote patient monitoring readings, in
+conjunction with the eligible participant's symptoms, require immediate attention
+from the eligible participant's healthcare provider; and
+(3) Providing health coaching to the eligible participant in matters
+including nutrition, condition management, and healthy behavior modification.
+71-5-805. Pilot participation goals.
+The bureau shall implement the pilot program in as many counties as necessary
+to ensure participation of no less than three hundred (300) eligible participants. The
+participating managed care organization shall ensure that eligible participants in the
+counties selected by the bureau have access to the pilot program. The pilot program
+must be operational no later than one hundred eighty (180) calendar days after the date
+on which the contract is entered between the participating managed care organization
+and the technology vendor.
+71-5-806. Fee payment for administration of pilot program.
+- 4 - 002756
+Subject to appropriations or the availability of funds, the bureau shall pay a fee to
+the participating managed care organization to administer the pilot program. The
+participating managed care organization shall contract with the technology vendor.
+Payment for contracting with the technology vendor must be bundled to include costs of
+providing remote patient monitoring for maternal hypertension and maternal diabetes as
+provided in this part. It is the legislative intent that an initial appropriation of six hundred
+thousand dollars ($600,000) be appropriated in fiscal year 2025-2026 and each
+subsequent fiscal year to offset the costs of the pilot program.
+71-5-807. Operation of pilot program.
+The bureau shall implement the pilot program as necessary to ensure
+participation of a statistically relevant number of eligible participants.
+71-5-808. Report.
+On or before January 1, 2026, and on or before January 1 each year thereafter,
+the bureau shall submit a report, in consultation with the participating managed care
+organization and technology vendor, on the evaluation of the pilot program, including
+recommendations regarding whether the pilot program should be expanded throughout
+this state, to the speaker of the house of representatives, speaker of the senate, chair of
+the health and welfare committee of the senate, and the chair of the committee of the
+house of representatives having jurisdiction over health-related matters.
+71-5-809. Rulemaking.
+The director is authorized to promulgate rules to effectuate this part. The rules
+must be promulgated in accordance with the Uniform Administrative Procedures Act,
+compiled in title 4, chapter 5.
+
+Section 3:
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+- 5 - 002756
+requested to include the headings in any compilation or publication containing this act.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 6 - 002756
+[DELETED: WWWWS7A]
+[DELETED:  -0]
+[DELETED:  -077T]
+[DELETED:  -07T]
+[DELETED:  -0SO7T]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 867
+By Hicks T
+SENATE BILL 898
+By Massey
+AN ACT to amend Tennessee Code Annotated, Title 56;
+Title 63; Title 68 and Title 71, relative to maternal
+health.
+WHEREAS, remote patient monitoring services are already covered services by
+TennCare; and
+WHEREAS, pregnancies impacted by maternal hypertension and maternal diabetes are
+more likely to have pregnancy complications; and
+WHEREAS, maternal health outcomes remain poor in Tennessee; and
+WHEREAS, there is a need to establish in Tennessee a targeted maternal health
+program that impacts pregnant recipients of medical assistance who have higher risks of
+pregnancy complications because of their maternal hypertension or maternal diabetes; now,
+therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 5, is amended by adding
+the following as a new part:
+71-5-801. Definitions.
+As used in this part:
+(1) "Bureau" means the bureau of TennCare;
+(2) "Director" means the director of TennCare;
+(3) "Eligible participant" means a patient who:
+(A) Is a recipient of medical assistance under this chapter;
+(B) Is a member of a participating managed care organization; and
+(C) Is pregnant;
+SB0898
+002756
+- 1 -
+
+(4) "Healthcare provider" means an obstetrician or maternal fetal medicine
+physician who:
+(A) Is licensed in this state under title 63, chapter 6 or 9; and
+(B) Is caring for an eligible participant during pregnancy;
+(5) "Nursing team" means a team of two (2) or more nurses licensed under title
+63, chapter 7, and at least one (1) dietitian or diabetes care and education specialist who
+is licensed, certified, or authorized or permitted by the laws of this state to administer
+health care in the ordinary course of practice of such professions;
+(6) "Participating managed care organization" means the managed care
+organization selected by the bureau to administer the pilot program;
+(7) "Pilot program" means the maternal health monitoring pilot program;
+(8) "Remote patient monitoring for maternal hypertension and maternal
+diabetes" or "remote patient monitoring devices" means technology provided by a
+technology vendor that:
+(A) Collects health data from an eligible participant and electronically
+transmits that information securely for interpretation and recommendation;
+(B) Monitors health data, including blood pressure, weight, blood glucose
+levels, or other physiological health data as determined by the eligible
+participant's healthcare provider;
+(C) Is capable of transmitting health data through cellular networks so
+eligible participants who lack broadband or a wireless telecommunications device
+can benefit; and
+(D) Is preprogrammed equipment provided specifically for an eligible
+participant that works directly out of the box for that specific eligible participant;
+and
+- 2 - 002756
+
+(9) "Technology vendor" means a technology company that is authorized by the
+United States food and drug administration to provide technology services, and that is
+selected by the bureau to contract with the participating managed care organization in
+administering the pilot program.
+71-5-802. Establishment of pilot program.
+The maternal health monitoring pilot program is to be administered by the bureau
+to offer eligible participants improved maternal health care through remote patient
+monitoring for maternal hypertension and maternal diabetes.
+71-5-803. Administration of pilot program.
+The bureau shall select a managed care organization and technology vendor to
+administer the pilot program in a manner determined by the bureau. For the purpose of
+administering the pilot program, the participating managed care organization shall
+contract directly with a technology vendor to offer remote patient monitoring for maternal
+hypertension and maternal diabetes.
+71-5-804. Remote patient monitoring for maternal hypertension and maternal
+diabetes requirements.
+(a) When offering remote patient monitoring for maternal hypertension and
+maternal diabetes to an eligible participant under the pilot program, the technology
+vendor shall ensure that:
+(1) Remote patient monitoring for maternal hypertension and maternal
+diabetes is possible during the second and third trimesters and for up to three (3)
+months postpartum;
+(2) Remote patient monitoring devices are delivered to the eligible
+participant; and
+- 3 - 002756
+
+(3) The eligible participant has a process to be trained in how to use the
+remote patient monitoring devices.
+(b) The technology vendor shall:
+(1) Employ a healthcare provider or a nursing team; and
+(2) Assign a program manager to support implementation and
+administration of this pilot program and to coordinate efforts with participating
+managed care organizations and the bureau.
+(c) The technology vendor's healthcare provider or nursing team must be
+capable of supporting the eligible participant by:
+(1) Monitoring and reviewing health data of the eligible participant;
+(2) Creating an agreed-upon escalation pathway with the managed care
+organization if the eligible participant's remote patient monitoring readings, in
+conjunction with the eligible participant's symptoms, require immediate attention
+from the eligible participant's healthcare provider; and
+(3) Providing health coaching to the eligible participant in matters
+including nutrition, condition management, and healthy behavior modification.
+71-5-805. Pilot participation goals.
+The bureau shall implement the pilot program in as many counties as necessary
+to ensure participation of no less than three hundred (300) eligible participants. The
+participating managed care organization shall ensure that eligible participants in the
+counties selected by the bureau have access to the pilot program. The pilot program
+must be operational no later than one hundred eighty (180) calendar days after the date
+on which the contract is entered between the participating managed care organization
+and the technology vendor.
+71-5-806. Fee payment for administration of pilot program.
+- 4 - 002756
+
+Subject to appropriations or the availability of funds, the bureau shall pay a fee to
+the participating managed care organization to administer the pilot program. The
+participating managed care organization shall contract with the technology vendor.
+Payment for contracting with the technology vendor must be bundled to include costs of
+providing remote patient monitoring for maternal hypertension and maternal diabetes as
+provided in this part. It is the legislative intent that an initial appropriation of six hundred
+thousand dollars ($600,000) be appropriated in fiscal year 2025-2026 and each
+subsequent fiscal year to offset the costs of the pilot program.
+71-5-807. Operation of pilot program.
+The bureau shall implement the pilot program as necessary to ensure
+participation of a statistically relevant number of eligible participants.
+71-5-808. Report.
+On or before January 1, 2026, and on or before January 1 each year thereafter,
+the bureau shall submit a report, in consultation with the participating managed care
+organization and technology vendor, on the evaluation of the pilot program, including
+recommendations regarding whether the pilot program should be expanded throughout
+this state, to the speaker of the house of representatives, speaker of the senate, chair of
+the health and welfare committee of the senate, and the chair of the committee of the
+house of representatives having jurisdiction over health-related matters.
+71-5-809. Rulemaking.
+The director is authorized to promulgate rules to effectuate this part. The rules
+must be promulgated in accordance with the Uniform Administrative Procedures Act,
+compiled in title 4, chapter 5.
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+- 5 - 002756
+
+requested to include the headings in any compilation or publication containing this act.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 6 - 002756
+
+[DELETED: WWWWS7A]
+[DELETED:  -0]
+[DELETED:  -077T]
+[DELETED:  -07T]
+[DELETED:  -0SO7T]
+[DELETED:  -0S]
