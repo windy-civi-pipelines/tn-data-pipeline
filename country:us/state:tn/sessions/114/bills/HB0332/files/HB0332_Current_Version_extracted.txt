@@ -1,0 +1,242 @@
+Title: SENATE BILL 867
+Official Title: SENATE BILL 867
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Stevens
+HOUSE BILL 332
+By Baum
+AN ACT to amend Tennessee Code Annotated, Title 4 and
+Title 8, relative to government services.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. This act is known and may be cited as the "Government Serves the People
+Act."
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 4, Chapter 3, Part 10, is amended by
+adding the following new section:
+(a) As used in this section:
+(1) "Agency" means a department, agency, commission, board, or other
+unit of state government;
+(2) "Commissioner" means the commissioner of finance and
+administration;
+(3) "Government service delivery" means an action by an agency related
+to providing a benefit or service to a state resident, business, or organization,
+including any such action of a contractor or nonprofit organization acting on
+behalf of the agency or administering a state-funded program;
+(4) "Government service delivery channel" means the format or medium
+of an interaction or transaction with an agency, including in-person, through the
+mail, through a digital service, by telephone, through a contact center, on a
+website, through outreach and communication, and through collaboration with a
+third party, or through other ways in which an individual or entity significantly
+interacts or engages with an agency; and
+HB0332
+001847
+- 1 -
+(5) "High-impact service program" means an agency program identified
+by the commissioner due to the scale and impact of the public-facing services of
+the program.
+(b) The commissioner shall designate a state official as the state of Tennessee
+government service delivery coordinator within the department of finance and
+administration whose responsibility is to coordinate government-wide efforts to improve
+government service delivery by agencies. The coordinator shall:
+(1) Facilitate and coordinate government-wide efforts to improve
+government service delivery provided by agencies, particularly with respect to
+high-impact service programs;
+(2) Carry out the duties and powers prescribed by the commissioner;
+(3) Serve as the coordinating, government-wide official responsible for
+supporting government service delivery;
+(4) Advise the commissioner concerning the improvement of government
+service delivery provided by agencies;
+(5) In consultation with each lead agency service delivery official and any
+other agency stakeholder as appropriate, develop and oversee the
+implementation of government-wide government service delivery standards,
+policies, and guidelines for services and programs provided by agencies,
+including standards, policies, and guidelines to:
+(A) Understand the needs of an individual, business, or
+organization interacting with an agency;
+(B) Solicit and consider voluntary feedback on the government
+service delivery by the agency;
+(C) Assess government service delivery processes;
+- 2 - 001847
+(D) Consider the factors of ease, efficiency, transparency,
+accessibility, fairness, burden, and duration, including wait and
+processing times, with respect to government service delivery; and
+(E) Encourage the adoption of commercial products and services
+to measure and ensure holistic government service delivery channels and
+customer service satisfaction and customer experience;
+(6) Collect and report qualitative and quantitative information or data on
+government service delivery through existing reporting mechanisms;
+(7) Evaluate the quality of government service delivery, including through
+the establishment of performance metrics developed using the standards,
+policies, and guidelines developed pursuant to subdivision (b)(5) and the
+information or data collected and reported pursuant to subdivision (b)(6);
+(8) Engage with stakeholders to identify leading practices in service
+design and delivery that would improve government service delivery across and
+within agencies; and
+(9) Coordinate with other executive agency stakeholders on government
+service delivery.
+(c)
+(1) The commissioner shall identify each agency that must comply with
+this section. Each agency that is selected shall designate an official to be
+responsible for the government service delivery of the agency.
+(2) The official selected in an agency shall:
+(A) Possess sufficient operational authority to effectuate
+implementation of government service delivery improvements within the
+agency, particularly with respect to high impact service programs;
+- 3 - 001847
+(B) Coordinate and execute, as appropriate, under the direction of
+the head of the agency, and in collaboration with relevant agency officials
+as appropriate, efforts to improve and enhance the government service
+delivery and government service delivery channels of the agency;
+(C) At the direction of the state of Tennessee government service
+delivery lead, submit an implementation plan for improving agency
+government service delivery no later than one (1) year from the effective
+date of this act;
+(D) Coordinate the collection and reporting of the data and
+information required and use such data and information to improve
+government service delivery;
+(E) Facilitate collaboration among and between offices, and
+components within the agency and with other agencies as appropriate, in
+coordination with the state of Tennessee government service delivery
+coordinator, to improve and enhance government service delivery; and
+(F) Assist in the incorporation of the government service delivery
+requirements established under this section in agency plans, such as
+strategic plans or annual performance plans.
+(d) The commissioner or commissioner's designee shall provide an annual
+report to the governor and the speakers of the senate and the house of representatives
+on government-wide current and future efforts to improve government service delivery
+by agencies.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 001847
+[DELETED: SS]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 867
+By Stevens
+HOUSE BILL 332
+By Baum
+AN ACT to amend Tennessee Code Annotated, Title 4 and
+Title 8, relative to government services.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as the "Government Serves the People
+Act."
+SECTION 2. Tennessee Code Annotated, Title 4, Chapter 3, Part 10, is amended by
+adding the following new section:
+(a) As used in this section:
+(1) "Agency" means a department, agency, commission, board, or other
+unit of state government;
+(2) "Commissioner" means the commissioner of finance and
+administration;
+(3) "Government service delivery" means an action by an agency related
+to providing a benefit or service to a state resident, business, or organization,
+including any such action of a contractor or nonprofit organization acting on
+behalf of the agency or administering a state-funded program;
+(4) "Government service delivery channel" means the format or medium
+of an interaction or transaction with an agency, including in-person, through the
+mail, through a digital service, by telephone, through a contact center, on a
+website, through outreach and communication, and through collaboration with a
+third party, or through other ways in which an individual or entity significantly
+interacts or engages with an agency; and
+HB0332
+001847
+- 1 -
+
+(5) "High-impact service program" means an agency program identified
+by the commissioner due to the scale and impact of the public-facing services of
+the program.
+(b) The commissioner shall designate a state official as the state of Tennessee
+government service delivery coordinator within the department of finance and
+administration whose responsibility is to coordinate government-wide efforts to improve
+government service delivery by agencies. The coordinator shall:
+(1) Facilitate and coordinate government-wide efforts to improve
+government service delivery provided by agencies, particularly with respect to
+high-impact service programs;
+(2) Carry out the duties and powers prescribed by the commissioner;
+(3) Serve as the coordinating, government-wide official responsible for
+supporting government service delivery;
+(4) Advise the commissioner concerning the improvement of government
+service delivery provided by agencies;
+(5) In consultation with each lead agency service delivery official and any
+other agency stakeholder as appropriate, develop and oversee the
+implementation of government-wide government service delivery standards,
+policies, and guidelines for services and programs provided by agencies,
+including standards, policies, and guidelines to:
+(A) Understand the needs of an individual, business, or
+organization interacting with an agency;
+(B) Solicit and consider voluntary feedback on the government
+service delivery by the agency;
+(C) Assess government service delivery processes;
+- 2 - 001847
+
+(D) Consider the factors of ease, efficiency, transparency,
+accessibility, fairness, burden, and duration, including wait and
+processing times, with respect to government service delivery; and
+(E) Encourage the adoption of commercial products and services
+to measure and ensure holistic government service delivery channels and
+customer service satisfaction and customer experience;
+(6) Collect and report qualitative and quantitative information or data on
+government service delivery through existing reporting mechanisms;
+(7) Evaluate the quality of government service delivery, including through
+the establishment of performance metrics developed using the standards,
+policies, and guidelines developed pursuant to subdivision (b)(5) and the
+information or data collected and reported pursuant to subdivision (b)(6);
+(8) Engage with stakeholders to identify leading practices in service
+design and delivery that would improve government service delivery across and
+within agencies; and
+(9) Coordinate with other executive agency stakeholders on government
+service delivery.
+(c)
+(1) The commissioner shall identify each agency that must comply with
+this section. Each agency that is selected shall designate an official to be
+responsible for the government service delivery of the agency.
+(2) The official selected in an agency shall:
+(A) Possess sufficient operational authority to effectuate
+implementation of government service delivery improvements within the
+agency, particularly with respect to high impact service programs;
+- 3 - 001847
+
+(B) Coordinate and execute, as appropriate, under the direction of
+the head of the agency, and in collaboration with relevant agency officials
+as appropriate, efforts to improve and enhance the government service
+delivery and government service delivery channels of the agency;
+(C) At the direction of the state of Tennessee government service
+delivery lead, submit an implementation plan for improving agency
+government service delivery no later than one (1) year from the effective
+date of this act;
+(D) Coordinate the collection and reporting of the data and
+information required and use such data and information to improve
+government service delivery;
+(E) Facilitate collaboration among and between offices, and
+components within the agency and with other agencies as appropriate, in
+coordination with the state of Tennessee government service delivery
+coordinator, to improve and enhance government service delivery; and
+(F) Assist in the incorporation of the government service delivery
+requirements established under this section in agency plans, such as
+strategic plans or annual performance plans.
+(d) The commissioner or commissioner's designee shall provide an annual
+report to the governor and the speakers of the senate and the house of representatives
+on government-wide current and future efforts to improve government service delivery
+by agencies.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 001847
+
+[DELETED: SS]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0S]

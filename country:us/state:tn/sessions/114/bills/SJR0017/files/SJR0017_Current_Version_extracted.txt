@@ -1,0 +1,177 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 17
+By Akbari
+A RESOLUTION to honor the memory of United States President
+Jimmy Carter.
+WHEREAS, the members of this General Assembly were greatly saddened to learn of
+the passing of United States President Jimmy Carter; and
+WHEREAS, President Carter was a man of deep faith, a humanitarian of the highest
+order, and a true exemplar of servant-hearted leadership as a way of life; and
+WHEREAS, James Earl Carter, Jr., was born on October 1, 1924, in Plains, Georgia, the
+eldest child of James Earl Carter, Sr., and Bessie Lillian Gordy Carter, who together started a
+peanut business; and
+WHEREAS, after high school, Jimmy Carter was a submarine officer with the United
+States Navy, serving seven years before returning to run the family farm upon the death of his
+father; he was thus a peanut farmer when he entered politics on the ground floor, achieving
+election to local school and library boards before becoming a member of the Georgia State
+Senate; and
+WHEREAS, he served two terms as a state senator before being elected as Georgia's
+76th Governor, a post he held from 1971 to 1975; in his inaugural speech, at a time when
+desegregation and civil rights remained tinderbox issues, Jimmy Carter declared that "the time
+for racial discrimination is over," and during his time as governor, he ensured that African
+Americans were appointed to public offices; and
+WHEREAS, although his bid for the presidency initially polled at four-percent support
+from fellow Democrats, he toppled incumbent Gerald Ford to become the 39th President of the
+United States, serving in the country's highest office from 1977 to 1981; and
+SJR0017
+001196
+- 1 -
+WHEREAS, his presidency was marked by his support of women, including his
+appointment of women to key positions within his administration and encouragement of his wife,
+Rosalynn Carter, to maintain a national profile as First Lady; he also championed an equal
+rights amendment to the U.S. Constitution, which would have provided legal protection against
+discrimination on the grounds of sex; and
+WHEREAS, President Carter was one of the first international leaders to take climate
+change seriously; he installed solar panels on the roof of the White House and passed laws to
+protect millions of acres of unspoiled land in Alaska from development; and
+WHEREAS, early in his term, President Jimmy Carter collaborated with Congress to
+fulfill his campaign promise to create a cabinet-level education department, and on October 17,
+1979, he signed into law the Department of Education Organization Act, establishing the United
+States Department of Education; he also expanded the Head Start program to include an
+additional 43,000 children and families; and
+WHEREAS, under President Carter's administration, the United States Foreign Service
+lifted its ban on gay and lesbian personnel, and in 1977, the Carter administration became the
+first U.S. presidential administration to invite gay and lesbian rights activists to the White House
+to discuss federal policy on ending discrimination in the federal government on the basis of
+sexual orientation; and
+WHEREAS, his legacy also includes brokering peace between Israel and Egypt, inviting
+Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin to Camp David in
+September 1978; the meeting resulted in the Camp David Accords, which ended the war
+between the two countries and garnered Egypt's formal recognition of Israel as an independent
+state; and
+WHEREAS, in his post-presidency years, Jimmy Carter established the Carter Center to
+promote and expand human rights, leading to his receipt of a Nobel Peace Prize in 2002; he
+- 2 - 001196
+also became a key figure in Habitat for Humanity, volunteering with the nonprofit alongside his
+wife beginning in 1984. He ultimately helped build 4,447 homes for those in need; and
+WHEREAS, President Carter was deeply devoted to his family, and he always
+endeavored to remain true to family values of the highest order; and
+WHEREAS, he enjoyed the loving companionship of his beloved wife of seventy-seven
+years, Rosalynn Smith Carter, who preceded him in death in 2023; together they were blessed
+with four children, Jack, James "Chip" III, Donnel, and Amy; twelve grandchildren; and thirteen
+great-grandchildren; and
+WHEREAS, President Jimmy Carter leaves behind an indelible legacy of integrity and
+probity in public life, compassion and loyalty in private life, and diligence and dedication in all his
+chosen endeavors; and
+WHEREAS, it is fitting that we should remember the bountiful life of this exceptional
+public servant and human being; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor the memory of United States President
+Jimmy Carter, reflecting fondly upon his impeccable character and his legacy of compassionate
+service.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 001196
+[DELETED: W6 9 ]
+[DELETED:  -0]
+[DELETED:  -0WWWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 17
+By Akbari
+A RESOLUTION to honor the memory of United States President
+Jimmy Carter.
+WHEREAS, the members of this General Assembly were greatly saddened to learn of
+the passing of United States President Jimmy Carter; and
+WHEREAS, President Carter was a man of deep faith, a humanitarian of the highest
+order, and a true exemplar of servant-hearted leadership as a way of life; and
+WHEREAS, James Earl Carter, Jr., was born on October 1, 1924, in Plains, Georgia, the
+eldest child of James Earl Carter, Sr., and Bessie Lillian Gordy Carter, who together started a
+peanut business; and
+WHEREAS, after high school, Jimmy Carter was a submarine officer with the United
+States Navy, serving seven years before returning to run the family farm upon the death of his
+father; he was thus a peanut farmer when he entered politics on the ground floor, achieving
+election to local school and library boards before becoming a member of the Georgia State
+Senate; and
+WHEREAS, he served two terms as a state senator before being elected as Georgia's
+76th Governor, a post he held from 1971 to 1975; in his inaugural speech, at a time when
+desegregation and civil rights remained tinderbox issues, Jimmy Carter declared that "the time
+for racial discrimination is over," and during his time as governor, he ensured that African
+Americans were appointed to public offices; and
+WHEREAS, although his bid for the presidency initially polled at four-percent support
+from fellow Democrats, he toppled incumbent Gerald Ford to become the 39th President of the
+United States, serving in the country's highest office from 1977 to 1981; and
+SJR0017
+001196
+- 1 -
+
+WHEREAS, his presidency was marked by his support of women, including his
+appointment of women to key positions within his administration and encouragement of his wife,
+Rosalynn Carter, to maintain a national profile as First Lady; he also championed an equal
+rights amendment to the U.S. Constitution, which would have provided legal protection against
+discrimination on the grounds of sex; and
+WHEREAS, President Carter was one of the first international leaders to take climate
+change seriously; he installed solar panels on the roof of the White House and passed laws to
+protect millions of acres of unspoiled land in Alaska from development; and
+WHEREAS, early in his term, President Jimmy Carter collaborated with Congress to
+fulfill his campaign promise to create a cabinet-level education department, and on October 17,
+1979, he signed into law the Department of Education Organization Act, establishing the United
+States Department of Education; he also expanded the Head Start program to include an
+additional 43,000 children and families; and
+WHEREAS, under President Carter's administration, the United States Foreign Service
+lifted its ban on gay and lesbian personnel, and in 1977, the Carter administration became the
+first U.S. presidential administration to invite gay and lesbian rights activists to the White House
+to discuss federal policy on ending discrimination in the federal government on the basis of
+sexual orientation; and
+WHEREAS, his legacy also includes brokering peace between Israel and Egypt, inviting
+Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin to Camp David in
+September 1978; the meeting resulted in the Camp David Accords, which ended the war
+between the two countries and garnered Egypt's formal recognition of Israel as an independent
+state; and
+WHEREAS, in his post-presidency years, Jimmy Carter established the Carter Center to
+promote and expand human rights, leading to his receipt of a Nobel Peace Prize in 2002; he
+- 2 - 001196
+
+also became a key figure in Habitat for Humanity, volunteering with the nonprofit alongside his
+wife beginning in 1984. He ultimately helped build 4,447 homes for those in need; and
+WHEREAS, President Carter was deeply devoted to his family, and he always
+endeavored to remain true to family values of the highest order; and
+WHEREAS, he enjoyed the loving companionship of his beloved wife of seventy-seven
+years, Rosalynn Smith Carter, who preceded him in death in 2023; together they were blessed
+with four children, Jack, James "Chip" III, Donnel, and Amy; twelve grandchildren; and thirteen
+great-grandchildren; and
+WHEREAS, President Jimmy Carter leaves behind an indelible legacy of integrity and
+probity in public life, compassion and loyalty in private life, and diligence and dedication in all his
+chosen endeavors; and
+WHEREAS, it is fitting that we should remember the bountiful life of this exceptional
+public servant and human being; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor the memory of United States President
+Jimmy Carter, reflecting fondly upon his impeccable character and his legacy of compassionate
+service.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 001196
+
+[DELETED: W6 9 ]
+[DELETED:  -0]
+[DELETED:  -0WWWBB]

@@ -1,0 +1,75 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 74
+By Jones J
+A RESOLUTION to propose an amendment to Article I of the
+Constitution of Tennessee, relative to the right to
+the preservation of natural resources.
+WHEREAS, current and future generations have the right to enjoy the continued health
+of the environment and natural resources of this State; and
+WHEREAS, protecting the quality and health of Tennessee's environment is critical to
+the long-term prosperity of its citizens; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that a majority of all the members of each house concurring, as shown by the
+yeas and nays entered on their journals, that it is proposed that Article I of the Constitution of
+Tennessee be amended by adding the following language as a new section:
+The people have a right to clean air, pure water, and to the preservation of the natural,
+scenic, historic, and esthetic values of the environment. Tennessee's public natural resources
+are the common property of all the people, including generations yet to come. As trustee of
+these resources, the State shall conserve and maintain them for the benefit of all the people.
+BE IT FURTHER RESOLVED, that the foregoing be referred to the One Hundred
+Fifteenth General Assembly and that this resolution proposing such amendment be published in
+accordance with Article XI, Section 3 of the Constitution of Tennessee by posting such
+amendment on the official website of the Secretary of State and on the official website of the
+General Assembly.
+BE IT FURTHER RESOLVED, that the Clerk of the House of Representatives is directed
+to deliver a copy of this resolution to the Secretary of State.
+HJR0074
+002317
+- 1 -
+[DELETED: WT]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 74
+By Jones J
+A RESOLUTION to propose an amendment to Article I of the
+Constitution of Tennessee, relative to the right to
+the preservation of natural resources.
+WHEREAS, current and future generations have the right to enjoy the continued health
+of the environment and natural resources of this State; and
+WHEREAS, protecting the quality and health of Tennessee's environment is critical to
+the long-term prosperity of its citizens; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that a majority of all the members of each house concurring, as shown by the
+yeas and nays entered on their journals, that it is proposed that Article I of the Constitution of
+Tennessee be amended by adding the following language as a new section:
+The people have a right to clean air, pure water, and to the preservation of the natural,
+scenic, historic, and esthetic values of the environment. Tennessee's public natural resources
+are the common property of all the people, including generations yet to come. As trustee of
+these resources, the State shall conserve and maintain them for the benefit of all the people.
+BE IT FURTHER RESOLVED, that the foregoing be referred to the One Hundred
+Fifteenth General Assembly and that this resolution proposing such amendment be published in
+accordance with Article XI, Section 3 of the Constitution of Tennessee by posting such
+amendment on the official website of the Secretary of State and on the official website of the
+General Assembly.
+BE IT FURTHER RESOLVED, that the Clerk of the House of Representatives is directed
+to deliver a copy of this resolution to the Secretary of State.
+HJR0074
+002317
+- 1 -
+
+[DELETED: WT]

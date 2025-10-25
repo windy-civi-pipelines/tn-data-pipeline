@@ -1,0 +1,76 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 190
+By Lamberth
+A RESOLUTION to confirm the appointment of Rick Spell to the
+advisory board for the University of Tennessee
+Health Science Center.
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, established an advisory
+board for the University of Tennessee Health Science Center; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, provides that the governor
+shall appoint five members to such advisory board; and
+WHEREAS, Governor Bill Lee has appointed Rick Spell to the advisory board for the
+University of Tennessee Health Science Center for a term that expires on June 30, 2028; and
+WHEREAS, Rick Spell is president of the Memphis Athletic Foundation at the University
+of Memphis as well as a member of the Capital Campaign Committee tasked with raising $600
+million; and
+WHEREAS, Mr. Spell graduated from the University of Memphis with a bachelor's
+degree in accounting; he attained his Certified Public Accountant certificate and devoted many
+years of his career to investment banking; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, provides that each member
+appointed by the governor to the advisory board for the University of Tennessee Health Science
+Center shall be confirmed by the general assembly; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby confirm the appointment of Rick Spell to the advisory board for
+the University of Tennessee Health Science Center for a term that expires on June 30, 2028.
+HJR0190
+003252
+- 1 -
+- 2 - 003252
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 190
+By Lamberth
+A RESOLUTION to confirm the appointment of Rick Spell to the
+advisory board for the University of Tennessee
+Health Science Center.
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, established an advisory
+board for the University of Tennessee Health Science Center; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, provides that the governor
+shall appoint five members to such advisory board; and
+WHEREAS, Governor Bill Lee has appointed Rick Spell to the advisory board for the
+University of Tennessee Health Science Center for a term that expires on June 30, 2028; and
+WHEREAS, Rick Spell is president of the Memphis Athletic Foundation at the University
+of Memphis as well as a member of the Capital Campaign Committee tasked with raising $600
+million; and
+WHEREAS, Mr. Spell graduated from the University of Memphis with a bachelor's
+degree in accounting; he attained his Certified Public Accountant certificate and devoted many
+years of his career to investment banking; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, provides that each member
+appointed by the governor to the advisory board for the University of Tennessee Health Science
+Center shall be confirmed by the general assembly; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby confirm the appointment of Rick Spell to the advisory board for
+the University of Tennessee Health Science Center for a term that expires on June 30, 2028.
+HJR0190
+003252
+- 1 -
+
+- 2 - 003252
+
+[DELETED:  -0]

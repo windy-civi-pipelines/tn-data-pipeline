@@ -1,0 +1,181 @@
+Title: HOUSE BILL 782
+Official Title: HOUSE BILL 782
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Martin G
+SENATE BILL 1390
+By Watson
+AN ACT to amend Tennessee Code Annotated, Title 71,
+relative to TennCare.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 2, is amended by adding
+the following as a new part:
+71-2-601.
+As used in this part:
+(1) "Bureau" means the bureau of TennCare;
+(2) "Director" means the director of TennCare; and
+(3) "PACE program" means a program of all-inclusive care for elderly
+persons that provides comprehensive, integrated acute and long-term care
+services for frail, elderly individuals who require the level of care provided in a
+nursing facility and who meet eligibility criteria established by the federal centers
+for medicare and medicaid services (CMS).
+71-2-602.
+(a) The bureau shall authorize an additional PACE program as a pilot in one (1)
+of the two (2) grand divisions where a PACE program did not exist in 2024.
+(b) A prospective PACE applicant for the pilot program shall submit a letter of
+intent to the bureau indicating the prospective applicant's intent to submit a PACE
+application. The letter of intent must identify:
+(1) The prospective applicant;
+SB1390
+002643
+- 1 -
+(2) The proposed service area, including the proposed zip codes and a
+service area map; and
+(3) The proposed site location for the applicant's PACE center.
+(c) The director shall ensure PACE applicants meet the program eligibility
+criteria under 42 CFR Part 460 and certify that applicants are qualified to be PACE
+providers in the proposed geographic service area.
+(d) PACE applicants shall submit a market analysis of the proposed service
+area, which must include:
+(1) An estimate of the number of PACE eligible individuals;
+(2) A description of the methodology and assumptions used to determine
+the potential membership;
+(3) The projected market capture and saturation rate; and
+(4) A demonstration that there is an unmet need for a PACE program in
+the proposed service area.
+(e) The director shall ensure that managed care organizations and all
+appropriate options counseling entities consider the availability of the PACE program
+when considering whether to refer a recipient to a nursing facility or other long-term care
+facility and establish protocols for the referral of eligible persons to the PACE program.
+(f) The bureau shall ensure all PACE programs and organizations meet the
+quality and performance standards established by CMS and the bureau. The bureau
+shall oversee and monitor the PACE programs and organizations based upon data and
+reports that must be periodically submitted by PACE organizations to CMS and the
+bureau.
+(g) On or before January 1, 2026, and on or before January 1 each year
+thereafter, the bureau shall provide a PACE program report to the speaker of the house
+- 2 - 002643
+of representatives, speaker of the senate, chair of the finance, ways, and means
+committee of the senate, and chair of the committee of the house of representatives
+having jurisdiction over finance-related matters.
+(h) The director is authorized to promulgate rules to effectuate this part. The
+rules must be promulgated in accordance with the Uniform Administrative Procedures
+Act, compiled in title 4, chapter 5.
+71-2-603.
+If a PACE program exists in a county having a population of not less than three
+hundred sixty-six thousand two hundred (366,200) nor more than three hundred sixty-six
+thousand three hundred (366,300), according to the 2020 federal census or a
+subsequent federal census, then the service area of the program may expand into
+contiguous counties having:
+(1) A population of not less than twelve thousand seven hundred
+(12,700) nor more than twelve thousand eight hundred (12,800), according to the
+2020 federal census or a subsequent federal census;
+(2) A population of not less than thirty-two thousand eight hundred
+(32,800) nor more than thirty-two thousand eight hundred seventy-five (32,875),
+according to the 2020 federal census or a subsequent federal census; or
+(3) A population of not less than one hundred eight thousand six hundred
+(108,600) nor more than one hundred eight thousand seven hundred (108,700),
+according to the 2020 federal census or a subsequent federal census.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 002643
+[DELETED: S7A(((7(((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(7I(((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 782
+By Martin G
+SENATE BILL 1390
+By Watson
+AN ACT to amend Tennessee Code Annotated, Title 71,
+relative to TennCare.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 2, is amended by adding
+the following as a new part:
+71-2-601.
+As used in this part:
+(1) "Bureau" means the bureau of TennCare;
+(2) "Director" means the director of TennCare; and
+(3) "PACE program" means a program of all-inclusive care for elderly
+persons that provides comprehensive, integrated acute and long-term care
+services for frail, elderly individuals who require the level of care provided in a
+nursing facility and who meet eligibility criteria established by the federal centers
+for medicare and medicaid services (CMS).
+71-2-602.
+(a) The bureau shall authorize an additional PACE program as a pilot in one (1)
+of the two (2) grand divisions where a PACE program did not exist in 2024.
+(b) A prospective PACE applicant for the pilot program shall submit a letter of
+intent to the bureau indicating the prospective applicant's intent to submit a PACE
+application. The letter of intent must identify:
+(1) The prospective applicant;
+SB1390
+002643
+- 1 -
+
+(2) The proposed service area, including the proposed zip codes and a
+service area map; and
+(3) The proposed site location for the applicant's PACE center.
+(c) The director shall ensure PACE applicants meet the program eligibility
+criteria under 42 CFR Part 460 and certify that applicants are qualified to be PACE
+providers in the proposed geographic service area.
+(d) PACE applicants shall submit a market analysis of the proposed service
+area, which must include:
+(1) An estimate of the number of PACE eligible individuals;
+(2) A description of the methodology and assumptions used to determine
+the potential membership;
+(3) The projected market capture and saturation rate; and
+(4) A demonstration that there is an unmet need for a PACE program in
+the proposed service area.
+(e) The director shall ensure that managed care organizations and all
+appropriate options counseling entities consider the availability of the PACE program
+when considering whether to refer a recipient to a nursing facility or other long-term care
+facility and establish protocols for the referral of eligible persons to the PACE program.
+(f) The bureau shall ensure all PACE programs and organizations meet the
+quality and performance standards established by CMS and the bureau. The bureau
+shall oversee and monitor the PACE programs and organizations based upon data and
+reports that must be periodically submitted by PACE organizations to CMS and the
+bureau.
+(g) On or before January 1, 2026, and on or before January 1 each year
+thereafter, the bureau shall provide a PACE program report to the speaker of the house
+- 2 - 002643
+
+of representatives, speaker of the senate, chair of the finance, ways, and means
+committee of the senate, and chair of the committee of the house of representatives
+having jurisdiction over finance-related matters.
+(h) The director is authorized to promulgate rules to effectuate this part. The
+rules must be promulgated in accordance with the Uniform Administrative Procedures
+Act, compiled in title 4, chapter 5.
+71-2-603.
+If a PACE program exists in a county having a population of not less than three
+hundred sixty-six thousand two hundred (366,200) nor more than three hundred sixty-six
+thousand three hundred (366,300), according to the 2020 federal census or a
+subsequent federal census, then the service area of the program may expand into
+contiguous counties having:
+(1) A population of not less than twelve thousand seven hundred
+(12,700) nor more than twelve thousand eight hundred (12,800), according to the
+2020 federal census or a subsequent federal census;
+(2) A population of not less than thirty-two thousand eight hundred
+(32,800) nor more than thirty-two thousand eight hundred seventy-five (32,875),
+according to the 2020 federal census or a subsequent federal census; or
+(3) A population of not less than one hundred eight thousand six hundred
+(108,600) nor more than one hundred eight thousand seven hundred (108,700),
+according to the 2020 federal census or a subsequent federal census.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 002643
+
+[DELETED: S7A(((7(((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(7I(((S]

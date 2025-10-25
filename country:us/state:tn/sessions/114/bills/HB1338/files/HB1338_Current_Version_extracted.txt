@@ -1,0 +1,149 @@
+Title: SENATE BILL 191
+Official Title: SENATE BILL 191
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Taylor
+HOUSE BILL 1338
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Section 9-
+21-133 and Title 9, Chapter 21, Part 4, relative to
+local government debt.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 9-21-133(a)(1)(B), is amended by
+deleting subdivision (vii) and substituting the following:
+(vii) Is evidenced by a loan with either this state or a department or agency of
+the federal government; or
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 9-21-133(a)(3), is amended by
+deleting the subdivision and substituting the following:
+(3) "Local government" means any incorporated city or town; metropolitan
+government; county; water, wastewater, or energy authority; or utility district; and
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 9-21-133(b), is amended by deleting
+the subsection and substituting the following:
+(b) For purposes of this section, principal of debt must be treated as being
+payable or amortized upon its stated maturity or upon any mandatory redemption date.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Title 9, Chapter 21, Part 4 ,is amended by
+adding the following new section:
+9-21-409.
+(a) As used in this section:
+(1) "Heightened risk debt" means any debt obligation containing:
+(A) A variable interest rate or rates;
+HB1338
+000710
+- 1 -
+(B) An interest rate reset provision, where the interest rate can be
+changed at certain intervals during the life of the debt; or
+(C) A put option, where the holder of the debt has the ability to
+force repayment before the final maturity date of the debt; and
+(2) "Local government" means any incorporated city or town;
+metropolitan government; county; water, wastewater, or energy authority; or
+utility district.
+(b) Prior to issuing any heightened risk debt, a local government shall submit a
+request to the comptroller of the treasury or the comptroller's designee for approval. The
+comptroller or the comptroller's designee may request any additional information as may
+be required to properly review the request. The comptroller or the comptroller's
+designee shall evaluate each request based on the local government's particular
+circumstances and shall approve the request only if a determination is made that the
+debt terms are in the public's interest.
+(c) The comptroller of the treasury or the comptroller's designee shall report the
+comptroller's approval or disapproval of the request to the governing body of the local
+government within fifteen (15) business days after receipt of the request and all
+requested supplemental documentation. After receiving the approval of the comptroller
+or the comptroller's designee of the request or after the expiration of fifteen (15)
+business days from the date the request and all supplemental documentation are
+received by the comptroller or the comptroller's designee and no disapproval having
+been reported by the comptroller or the comptroller's designee, whichever date is earlier,
+the local government may take such action with reference to the proposed request as it
+deems advisable in accordance with this section.
+- 2 - 000710
+(d) This section does not apply to loans or interim certificates with or purchased
+by either this state or a department or agency of the federal government.
+
+Section 6:
+SECTION 5. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 000710
+[DELETED: S(S(S(S9(((]
+[DELETED:  -0(((((]
+[DELETED:  -0(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 191
+By Taylor
+HOUSE BILL 1338
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Section 9-
+21-133 and Title 9, Chapter 21, Part 4, relative to
+local government debt.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 9-21-133(a)(1)(B), is amended by
+deleting subdivision (vii) and substituting the following:
+(vii) Is evidenced by a loan with either this state or a department or agency of
+the federal government; or
+SECTION 2. Tennessee Code Annotated, Section 9-21-133(a)(3), is amended by
+deleting the subdivision and substituting the following:
+(3) "Local government" means any incorporated city or town; metropolitan
+government; county; water, wastewater, or energy authority; or utility district; and
+SECTION 3. Tennessee Code Annotated, Section 9-21-133(b), is amended by deleting
+the subsection and substituting the following:
+(b) For purposes of this section, principal of debt must be treated as being
+payable or amortized upon its stated maturity or upon any mandatory redemption date.
+SECTION 4. Tennessee Code Annotated, Title 9, Chapter 21, Part 4 ,is amended by
+adding the following new section:
+9-21-409.
+(a) As used in this section:
+(1) "Heightened risk debt" means any debt obligation containing:
+(A) A variable interest rate or rates;
+HB1338
+000710
+- 1 -
+
+(B) An interest rate reset provision, where the interest rate can be
+changed at certain intervals during the life of the debt; or
+(C) A put option, where the holder of the debt has the ability to
+force repayment before the final maturity date of the debt; and
+(2) "Local government" means any incorporated city or town;
+metropolitan government; county; water, wastewater, or energy authority; or
+utility district.
+(b) Prior to issuing any heightened risk debt, a local government shall submit a
+request to the comptroller of the treasury or the comptroller's designee for approval. The
+comptroller or the comptroller's designee may request any additional information as may
+be required to properly review the request. The comptroller or the comptroller's
+designee shall evaluate each request based on the local government's particular
+circumstances and shall approve the request only if a determination is made that the
+debt terms are in the public's interest.
+(c) The comptroller of the treasury or the comptroller's designee shall report the
+comptroller's approval or disapproval of the request to the governing body of the local
+government within fifteen (15) business days after receipt of the request and all
+requested supplemental documentation. After receiving the approval of the comptroller
+or the comptroller's designee of the request or after the expiration of fifteen (15)
+business days from the date the request and all supplemental documentation are
+received by the comptroller or the comptroller's designee and no disapproval having
+been reported by the comptroller or the comptroller's designee, whichever date is earlier,
+the local government may take such action with reference to the proposed request as it
+deems advisable in accordance with this section.
+- 2 - 000710
+
+(d) This section does not apply to loans or interim certificates with or purchased
+by either this state or a department or agency of the federal government.
+SECTION 5. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 000710
+
+[DELETED: S(S(S(S9(((]
+[DELETED:  -0(((((]
+[DELETED:  -0(S]

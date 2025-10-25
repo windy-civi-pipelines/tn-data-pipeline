@@ -1,0 +1,75 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 510
+By McNally
+A RESOLUTION to recognize and honor Fay Martin on the
+occasion of her ninetieth birthday.
+WHEREAS, it is fitting that we should pay tribute to those citizens who are celebrating
+special occasions in their estimable lives; and
+WHEREAS, Fay Martin celebrated her ninetieth birthday on April 19, 2025, a milestone
+that was commemorated as yet another precious souvenir of life's rich pageant; and
+WHEREAS, Ms. Martin has lived an amazing life and has experienced firsthand the
+breadth and span of American history; and
+WHEREAS, Fay Martin is a joy to be around and a blessing to all who have the good
+fortune of knowing her; and
+WHEREAS, as Ms. Martin marks her ninetieth birthday, she remains a beloved member
+of the Oak Ridge community, admired for her faith, integrity, and enthusiasm for life; and
+WHEREAS, we wish to grasp this golden opportunity to specially recognize one of
+Tennessee's most outstanding citizens on this very special occasion; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we recognize and honor Fay Martin on the
+celebration of her ninetieth birthday and extend to her our best wishes for many happy returns
+of the day.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+SJR0510
+008017
+- 1 -
+[DELETED: WWWWWWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 510
+By McNally
+A RESOLUTION to recognize and honor Fay Martin on the
+occasion of her ninetieth birthday.
+WHEREAS, it is fitting that we should pay tribute to those citizens who are celebrating
+special occasions in their estimable lives; and
+WHEREAS, Fay Martin celebrated her ninetieth birthday on April 19, 2025, a milestone
+that was commemorated as yet another precious souvenir of life's rich pageant; and
+WHEREAS, Ms. Martin has lived an amazing life and has experienced firsthand the
+breadth and span of American history; and
+WHEREAS, Fay Martin is a joy to be around and a blessing to all who have the good
+fortune of knowing her; and
+WHEREAS, as Ms. Martin marks her ninetieth birthday, she remains a beloved member
+of the Oak Ridge community, admired for her faith, integrity, and enthusiasm for life; and
+WHEREAS, we wish to grasp this golden opportunity to specially recognize one of
+Tennessee's most outstanding citizens on this very special occasion; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we recognize and honor Fay Martin on the
+celebration of her ninetieth birthday and extend to her our best wishes for many happy returns
+of the day.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+SJR0510
+008017
+- 1 -
+
+[DELETED: WWWWWWBB]

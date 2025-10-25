@@ -1,0 +1,90 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 37
+By Campbell
+AN ACT to amend Tennessee Code Annotated, Title 48,
+relative to annual report fees.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 48-11-303(a)(33), is amended by
+deleting "Annual report 20.00" and substituting "Annual report 300.00".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 48-51-303(a)(33), is amended by
+deleting "Annual report 20.00" and substituting "Annual report 300.00".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 48-249-1007, is amended by deleting
+subsection (d) and substituting:
+(d)
+(1) The secretary of state shall collect from each domestic LLC and each
+foreign LLC that is applying for a certificate of authority or is authorized to
+transact business in this state, as applicable, an initial filing fee in an amount
+equal to one hundred dollars ($100) and each year thereafter an annual filing fee
+in an amount equal to three hundred dollars ($300).
+(2) Notwithstanding subdivision (d)(1), if an LLC is prohibited by its
+articles from transacting business in this state, then the amount of the initial filing
+fee or the annual filing fee, as applicable, required under this subsection (d) is
+three hundred dollars ($300).
+(3) The secretary of state shall collect from each domestic and foreign
+LLC an additional filing fee of twenty dollars ($20.00), for any annual report that
+sets forth a change of the registered office or registered agent of the domestic or
+foreign LLC.
+SB0037
+000961
+- 1 -
+
+Section 5:
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 000961
+[DELETED: SSS]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 37
+By Campbell
+AN ACT to amend Tennessee Code Annotated, Title 48,
+relative to annual report fees.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 48-11-303(a)(33), is amended by
+deleting "Annual report 20.00" and substituting "Annual report 300.00".
+SECTION 2. Tennessee Code Annotated, Section 48-51-303(a)(33), is amended by
+deleting "Annual report 20.00" and substituting "Annual report 300.00".
+SECTION 3. Tennessee Code Annotated, Section 48-249-1007, is amended by deleting
+subsection (d) and substituting:
+(d)
+(1) The secretary of state shall collect from each domestic LLC and each
+foreign LLC that is applying for a certificate of authority or is authorized to
+transact business in this state, as applicable, an initial filing fee in an amount
+equal to one hundred dollars ($100) and each year thereafter an annual filing fee
+in an amount equal to three hundred dollars ($300).
+(2) Notwithstanding subdivision (d)(1), if an LLC is prohibited by its
+articles from transacting business in this state, then the amount of the initial filing
+fee or the annual filing fee, as applicable, required under this subsection (d) is
+three hundred dollars ($300).
+(3) The secretary of state shall collect from each domestic and foreign
+LLC an additional filing fee of twenty dollars ($20.00), for any annual report that
+sets forth a change of the registered office or registered agent of the domestic or
+foreign LLC.
+SB0037
+000961
+- 1 -
+
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 000961
+
+[DELETED: SSS]
+[DELETED:  -0S]

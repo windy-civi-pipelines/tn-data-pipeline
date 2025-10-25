@@ -1,0 +1,222 @@
+Title: HOUSE BILL 1212
+Official Title: HOUSE BILL 1212
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Johnson
+SENATE BILL 1122
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 33
+and Title 49, relative to the temporary youth
+mental health service program.
+WHEREAS, the General Assembly hereby finds, determines, and declares that this act
+is necessary for the immediate preservation of the public peace, health, and safety; now,
+therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 33, Chapter 8, is amended by adding
+the following as a new part:
+33-8-401.
+As used in this section, unless the context otherwise requires:
+(1) "Portal" means a website or web-based application that facilitates the
+program;
+(2) "Program" means the temporary youth mental health service program
+established in this part;
+(3) "Provider" has the same meaning as "qualified mental health
+professional," as defined in § 33-1-101;
+(4) "Telehealth" has the same meaning as defined in § 56-7-1002; and
+(5) "Youth" means a person who is younger than eighteen (18) years of
+age.
+33-8-402.
+(a) There is established within the department the temporary youth mental
+health service program to facilitate access to mental health services, including
+SB1122
+002048
+- 1 -
+substance use disorder services, for youth regarding mental health needs identified in
+mental health screenings through the portal, including needs that have resulted from the
+COVID-19 pandemic.
+(b) A provider shall maintain client confidentiality in accordance with the Patient's
+Privacy Protection Act, compiled in title 68, chapter 11, part 15.
+(c) The department shall reimburse a provider in the program for a maximum of
+three (3) sessions per youth client, conducted in person or by telehealth. The
+department may reimburse a provider for additional sessions. To be eligible for
+reimbursement from the program, a provider must be available to provide a minimum of
+three (3) mental health sessions to each youth.
+(d) The department shall use available funds from the kindergarten through
+grade twelve (K-12) mental health special reserve account, as described in § 49-3-502,
+to fund the program.
+33-8-403.
+(a) The department shall:
+(1) Develop a process consistent with the requirements of this part for
+providers to apply for and demonstrate eligibility to receive reimbursement from
+the program;
+(2) Determine a reasonable rate of reimbursement for each mental health
+session with a youth client in which the rate must be the same regardless of
+whether the appointment is conducted in-person or by telehealth; and
+(3) Implement a statewide public awareness and outreach campaign
+about the program. The general assembly encourages the department to involve
+schools, neighborhood youth organizations, healthcare providers, faith-based
+- 2 - 002048
+organizations, and any other community-based organizations that interact with
+youth on the local level in disseminating information about the program.
+(b) The department may promulgate rules to effectuate this part. The rules must
+be promulgated pursuant to the Uniform Administrative Procedures Act, compiled in title
+4, chapter 5.
+33-8-404.
+(a) No later than August 1, 2025, the department shall enter into an agreement
+with a vendor to create or use an existing website or web-based application as a portal
+available to youth and providers to facilitate the program.
+(b) The portal must:
+(1) Serve as a platform for age-appropriate mental health screenings to
+determine if a youth may benefit from mental health support;
+(2) Allow providers to register and share in-person or telehealth
+appointment availability;
+(3) Connect youth with providers who accept the youth's insurance or
+payment source that may cover the costs of ongoing mental health treatment, if
+the youth has insurance or a payment source; and
+(4) Allow a youth to schedule a telehealth appointment and allow for in-
+person appointments when available, regardless of whether the youth has
+insurance or another payment source.
+33-8-405.
+By July 1, 2026, the department shall report to the chair of the senate health and
+welfare committee and the chair of the committee with jurisdiction over health-related
+matters of the house of representatives regarding the number of youths who have
+received services under the program, excluding any personally identifiable information to
+- 3 - 002048
+retain confidentiality; information in the aggregate about the services provided to youth
+under the program; and other relevant information regarding the program.
+33-8-406.
+This part is deleted on July 1, 2026.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 49-3-502(11), is amended by
+deleting the language "for allocation and distribution, in consultation with the department of
+education, but such funds must be expended only" and substituting instead the following:
+to be expended for the temporary youth mental health service program established in
+title 33, chapter 8, part 4, and for allocation and distribution in consultation with the
+department of education, to be expended for
+
+Section 4:
+SECTION 3. For purposes of promulgating forms and rules, this act takes effect upon
+becoming a law, the public welfare requiring it. For all other purposes, this act takes effect July
+1, 2025, the public welfare requiring it.
+- 4 - 002048
+[DELETED: WS3A(((((3(]
+[DELETED:  -0(((3((((]
+[DELETED:  -0(3((((((3B]
+[DELETED:  -0TSS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1212
+By Johnson
+SENATE BILL 1122
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 33
+and Title 49, relative to the temporary youth
+mental health service program.
+WHEREAS, the General Assembly hereby finds, determines, and declares that this act
+is necessary for the immediate preservation of the public peace, health, and safety; now,
+therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 33, Chapter 8, is amended by adding
+the following as a new part:
+33-8-401.
+As used in this section, unless the context otherwise requires:
+(1) "Portal" means a website or web-based application that facilitates the
+program;
+(2) "Program" means the temporary youth mental health service program
+established in this part;
+(3) "Provider" has the same meaning as "qualified mental health
+professional," as defined in § 33-1-101;
+(4) "Telehealth" has the same meaning as defined in § 56-7-1002; and
+(5) "Youth" means a person who is younger than eighteen (18) years of
+age.
+33-8-402.
+(a) There is established within the department the temporary youth mental
+health service program to facilitate access to mental health services, including
+SB1122
+002048
+- 1 -
+
+substance use disorder services, for youth regarding mental health needs identified in
+mental health screenings through the portal, including needs that have resulted from the
+COVID-19 pandemic.
+(b) A provider shall maintain client confidentiality in accordance with the Patient's
+Privacy Protection Act, compiled in title 68, chapter 11, part 15.
+(c) The department shall reimburse a provider in the program for a maximum of
+three (3) sessions per youth client, conducted in person or by telehealth. The
+department may reimburse a provider for additional sessions. To be eligible for
+reimbursement from the program, a provider must be available to provide a minimum of
+three (3) mental health sessions to each youth.
+(d) The department shall use available funds from the kindergarten through
+grade twelve (K-12) mental health special reserve account, as described in § 49-3-502,
+to fund the program.
+33-8-403.
+(a) The department shall:
+(1) Develop a process consistent with the requirements of this part for
+providers to apply for and demonstrate eligibility to receive reimbursement from
+the program;
+(2) Determine a reasonable rate of reimbursement for each mental health
+session with a youth client in which the rate must be the same regardless of
+whether the appointment is conducted in-person or by telehealth; and
+(3) Implement a statewide public awareness and outreach campaign
+about the program. The general assembly encourages the department to involve
+schools, neighborhood youth organizations, healthcare providers, faith-based
+- 2 - 002048
+
+organizations, and any other community-based organizations that interact with
+youth on the local level in disseminating information about the program.
+(b) The department may promulgate rules to effectuate this part. The rules must
+be promulgated pursuant to the Uniform Administrative Procedures Act, compiled in title
+4, chapter 5.
+33-8-404.
+(a) No later than August 1, 2025, the department shall enter into an agreement
+with a vendor to create or use an existing website or web-based application as a portal
+available to youth and providers to facilitate the program.
+(b) The portal must:
+(1) Serve as a platform for age-appropriate mental health screenings to
+determine if a youth may benefit from mental health support;
+(2) Allow providers to register and share in-person or telehealth
+appointment availability;
+(3) Connect youth with providers who accept the youth's insurance or
+payment source that may cover the costs of ongoing mental health treatment, if
+the youth has insurance or a payment source; and
+(4) Allow a youth to schedule a telehealth appointment and allow for in-
+person appointments when available, regardless of whether the youth has
+insurance or another payment source.
+33-8-405.
+By July 1, 2026, the department shall report to the chair of the senate health and
+welfare committee and the chair of the committee with jurisdiction over health-related
+matters of the house of representatives regarding the number of youths who have
+received services under the program, excluding any personally identifiable information to
+- 3 - 002048
+
+retain confidentiality; information in the aggregate about the services provided to youth
+under the program; and other relevant information regarding the program.
+33-8-406.
+This part is deleted on July 1, 2026.
+SECTION 2. Tennessee Code Annotated, Section 49-3-502(11), is amended by
+deleting the language "for allocation and distribution, in consultation with the department of
+education, but such funds must be expended only" and substituting instead the following:
+to be expended for the temporary youth mental health service program established in
+title 33, chapter 8, part 4, and for allocation and distribution in consultation with the
+department of education, to be expended for
+SECTION 3. For purposes of promulgating forms and rules, this act takes effect upon
+becoming a law, the public welfare requiring it. For all other purposes, this act takes effect July
+1, 2025, the public welfare requiring it.
+- 4 - 002048
+
+[DELETED: WS3A(((((3(]
+[DELETED:  -0(((3((((]
+[DELETED:  -0(3((((((3B]
+[DELETED:  -0TSS]

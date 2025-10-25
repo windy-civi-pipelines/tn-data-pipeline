@@ -1,0 +1,153 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 7
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 122
+By Hawk
+A RESOLUTION relative to anesthesia workforce.
+WHEREAS, Tennessee faces increasing healthcare costs and workforce staffing issues,
+including for anesthesia services; and
+WHEREAS, anesthesia services are critical to facilities delivering care to patients across
+the State of Tennessee; and
+WHEREAS, facilities are experiencing a dramatic increase in requests for financial
+support of anesthesia service providers; and
+WHEREAS, while operating room and non-operating room anesthesia coverage
+requirements are typically under the purview of the hospital, the anesthesia provider group is
+responsible for determining how the locations will be staffed; and
+WHEREAS, there are many factors to be considered when evaluating anesthesia staffing
+needs and challenges; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that the Department of Health, in collaboration with the board of nursing and
+the board of medical examiners, is directed to conduct a comprehensive study to evaluate and
+make recommendations regarding anesthesia workforce and staffing across all facilities
+providing anesthesia services in Tennessee.
+BE IT FURTHER RESOLVED, that the study should give consideration to, but not be
+limited to:
+HJR0122
+002678
+- 1 -
+
+Section 2:
+1. Assessing the number and distribution of qualified anesthesia providers,
+including physician anesthesiologists and certified registered nurse anesthetists (CRNAs),
+across Tennessee;
+
+Section 3:
+2. Evaluating and assessing the existing education and training infrastructure for
+physician anesthesiologists and CRNAs in Tennessee;
+
+Section 4:
+3. Identifying barriers to recruitment, retention, and practice of physician
+anesthesiologists and CRNAs;
+
+Section 5:
+4. Identifying and assessing key factors involved in anesthesia staffing, including
+but not limited to, reimbursement, staffing models, resource allocation and outpatient
+trends, workforce pipeline retention/recruitment, burnout/fatigue, aging population of both
+patients and providers, barriers to practice, workplace environment, and location of facility;
+
+Section 6:
+5. Providing a comprehensive overview of anesthesia staffing in Tennessee and
+developing policy recommendations related to anesthesia staffing and optimizing the cost
+of providing anesthesia services; and
+
+Section 7:
+6. Assessing whether the existing anesthesia workforce is being utilized to its full
+potential under current state and federal requirements.
+BE IT FURTHER RESOLVED, that the Department of Health, in collaboration with the
+board of nursing and the board of medical examiners, will seek input from stakeholders, including,
+but not limited to, the Tennessee Society of Anesthesiologists, Tennessee Association of Nurse
+Anesthetists, Rural Health Association of Tennessee, Tennessee Hospital Association, and
+Tennessee Center for Health Workforce Development (TCWD).
+BE IT FURTHER RESOLVED, that the Department of Health, in collaboration with the
+board of nursing and the board of medical examiners, will review relevant literature that is
+published in a credible, peer-reviewed journal.
+- 2 - 002678
+BE IT FURTHER RESOLVED, that the Department of Health, in collaboration with the
+board of nursing and the board of medical examiners, will complete its study and report its
+findings and recommendations to the house and senate committees having jurisdiction over
+subject matter concerning the Department of Health on or before January 31, 2026.
+BE IT FURTHER RESOLVED, that a certified copy of this resolution be prepared and
+delivered to the Commissioner of the Department of Health, the board of medical examiners,
+and the board of nursing.
+- 3 - 002678
+[DELETED: WWWWWBB]
+[DELETED:  -012 .A.BB]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 122
+By Hawk
+A RESOLUTION relative to anesthesia workforce.
+WHEREAS, Tennessee faces increasing healthcare costs and workforce staffing issues,
+including for anesthesia services; and
+WHEREAS, anesthesia services are critical to facilities delivering care to patients across
+the State of Tennessee; and
+WHEREAS, facilities are experiencing a dramatic increase in requests for financial
+support of anesthesia service providers; and
+WHEREAS, while operating room and non-operating room anesthesia coverage
+requirements are typically under the purview of the hospital, the anesthesia provider group is
+responsible for determining how the locations will be staffed; and
+WHEREAS, there are many factors to be considered when evaluating anesthesia staffing
+needs and challenges; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that the Department of Health, in collaboration with the board of nursing and
+the board of medical examiners, is directed to conduct a comprehensive study to evaluate and
+make recommendations regarding anesthesia workforce and staffing across all facilities
+providing anesthesia services in Tennessee.
+BE IT FURTHER RESOLVED, that the study should give consideration to, but not be
+limited to:
+HJR0122
+002678
+- 1 -
+
+1. Assessing the number and distribution of qualified anesthesia providers,
+including physician anesthesiologists and certified registered nurse anesthetists (CRNAs),
+across Tennessee;
+2. Evaluating and assessing the existing education and training infrastructure for
+physician anesthesiologists and CRNAs in Tennessee;
+3. Identifying barriers to recruitment, retention, and practice of physician
+anesthesiologists and CRNAs;
+4. Identifying and assessing key factors involved in anesthesia staffing, including
+but not limited to, reimbursement, staffing models, resource allocation and outpatient
+trends, workforce pipeline retention/recruitment, burnout/fatigue, aging population of both
+patients and providers, barriers to practice, workplace environment, and location of facility;
+5. Providing a comprehensive overview of anesthesia staffing in Tennessee and
+developing policy recommendations related to anesthesia staffing and optimizing the cost
+of providing anesthesia services; and
+6. Assessing whether the existing anesthesia workforce is being utilized to its full
+potential under current state and federal requirements.
+BE IT FURTHER RESOLVED, that the Department of Health, in collaboration with the
+board of nursing and the board of medical examiners, will seek input from stakeholders, including,
+but not limited to, the Tennessee Society of Anesthesiologists, Tennessee Association of Nurse
+Anesthetists, Rural Health Association of Tennessee, Tennessee Hospital Association, and
+Tennessee Center for Health Workforce Development (TCWD).
+BE IT FURTHER RESOLVED, that the Department of Health, in collaboration with the
+board of nursing and the board of medical examiners, will review relevant literature that is
+published in a credible, peer-reviewed journal.
+- 2 - 002678
+
+BE IT FURTHER RESOLVED, that the Department of Health, in collaboration with the
+board of nursing and the board of medical examiners, will complete its study and report its
+findings and recommendations to the house and senate committees having jurisdiction over
+subject matter concerning the Department of Health on or before January 31, 2026.
+BE IT FURTHER RESOLVED, that a certified copy of this resolution be prepared and
+delivered to the Commissioner of the Department of Health, the board of medical examiners,
+and the board of nursing.
+- 3 - 002678
+
+[DELETED: WWWWWBB]
+[DELETED:  -012 .A.BB]
+[DELETED:  -0]

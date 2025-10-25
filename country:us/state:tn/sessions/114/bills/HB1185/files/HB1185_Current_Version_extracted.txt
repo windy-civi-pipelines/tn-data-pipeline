@@ -1,0 +1,55 @@
+Title: SENATE BILL 1337
+Official Title: SENATE BILL 1337
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Yarbro
+HOUSE BILL 1185
+By Glynn
+AN ACT to amend Tennessee Code Annotated, Title 8;
+Title 27; Title 29; Title 37; Title 38; Title 39; Title
+40; Title 41; Title 53, Chapter 11 and Title 55,
+relative to criminal justice.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 38-6-207, is amended by deleting
+"each year to the criminal justice committee of the house of representatives" and substituting
+"by March 1 of each year to the committee of the house of representatives with jurisdiction over
+criminal matters".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1185
+003120
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1337
+By Yarbro
+HOUSE BILL 1185
+By Glynn
+AN ACT to amend Tennessee Code Annotated, Title 8;
+Title 27; Title 29; Title 37; Title 38; Title 39; Title
+40; Title 41; Title 53, Chapter 11 and Title 55,
+relative to criminal justice.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 38-6-207, is amended by deleting
+"each year to the criminal justice committee of the house of representatives" and substituting
+"by March 1 of each year to the committee of the house of representatives with jurisdiction over
+criminal matters".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1185
+003120
+- 1 -
+
+[DELETED: SS]

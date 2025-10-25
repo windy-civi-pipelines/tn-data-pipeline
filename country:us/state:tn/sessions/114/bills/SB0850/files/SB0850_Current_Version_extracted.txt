@@ -1,0 +1,57 @@
+Title: HOUSE BILL 840
+Official Title: HOUSE BILL 840
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Miller
+SENATE BILL 850
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 3,
+Chapter 1, relative to members of the general
+assembly.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 3-1-106(f)(1), is amended by deleting
+the language "one thousand two hundred fifty dollars ($1,250)" and substituting instead "two
+thousand two hundred fifty dollars ($2,250)".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 3-1-106(f)(3), is amended by deleting
+the year "2024" and substituting instead "2026".
+
+Section 4:
+SECTION 3. This act takes effect November 3, 2026, the public welfare requiring it.
+SB0850
+003021
+- 1 -
+[DELETED: SSS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 840
+By Miller
+SENATE BILL 850
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 3,
+Chapter 1, relative to members of the general
+assembly.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 3-1-106(f)(1), is amended by deleting
+the language "one thousand two hundred fifty dollars ($1,250)" and substituting instead "two
+thousand two hundred fifty dollars ($2,250)".
+SECTION 2. Tennessee Code Annotated, Section 3-1-106(f)(3), is amended by deleting
+the year "2024" and substituting instead "2026".
+SECTION 3. This act takes effect November 3, 2026, the public welfare requiring it.
+SB0850
+003021
+- 1 -
+
+[DELETED: SSS]

@@ -1,0 +1,116 @@
+Title: HOUSE BILL 769
+Official Title: HOUSE BILL 769
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Littleton
+SENATE BILL 741
+By Yager
+AN ACT to amend Tennessee Code Annotated, Title 39,
+relative to criminal offenses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 39, Chapter 17, Part 10, is amended by
+adding the following new section:
+(a)
+(1) It is an offense for a person to knowingly possess, distribute, or
+produce technology, software, or digital tools designed for the purpose of
+creating material that includes a minor engaged in:
+(A) Sexual activity; or
+(B) Simulated sexual activity that is patently offensive.
+(2)
+(A) Possession of technology, software, or digital tools in violation
+of subdivision (a)(1) is a Class E felony.
+(B) Distribution of technology, software, or digital tools in violation
+of subdivision (a)(1) is a Class C felony.
+(C) Production of technology, software, or digital tools in violation
+of subdivision (a)(1) is a Class B felony.
+(b) In determining whether technology, software, or digital tools are designed for
+the purpose of creating material that includes a minor engaged in sexual activity or
+simulated sexual activity that is patently offensive, the court or other authority making
+SB0741
+001435
+- 1 -
+that determination shall, in addition to all other logically relevant factors, consider the
+following:
+(1) Statements by the defendant concerning its use;
+(2) The existence of material that includes a minor engaged in sexual
+activity or simulated sexual activity that is patently offensive in the defendant's
+possession;
+(3) Instructions, oral or written, provided with the technology, software, or
+digital tools concerning its use;
+(4) Descriptive materials accompanying the technology, software, or
+digital tools that explain or depict its use;
+(5) The manner in which the technology, software, or digital tools were
+advertised or offered when obtained by the defendant;
+(6) The existence and scope of legitimate uses for the technology,
+software, or digital tools in the community; and
+(7) Expert testimony concerning use of the technology, software, or
+digital tools.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 001435
+[DELETED: S]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 769
+By Littleton
+SENATE BILL 741
+By Yager
+AN ACT to amend Tennessee Code Annotated, Title 39,
+relative to criminal offenses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 39, Chapter 17, Part 10, is amended by
+adding the following new section:
+(a)
+(1) It is an offense for a person to knowingly possess, distribute, or
+produce technology, software, or digital tools designed for the purpose of
+creating material that includes a minor engaged in:
+(A) Sexual activity; or
+(B) Simulated sexual activity that is patently offensive.
+(2)
+(A) Possession of technology, software, or digital tools in violation
+of subdivision (a)(1) is a Class E felony.
+(B) Distribution of technology, software, or digital tools in violation
+of subdivision (a)(1) is a Class C felony.
+(C) Production of technology, software, or digital tools in violation
+of subdivision (a)(1) is a Class B felony.
+(b) In determining whether technology, software, or digital tools are designed for
+the purpose of creating material that includes a minor engaged in sexual activity or
+simulated sexual activity that is patently offensive, the court or other authority making
+SB0741
+001435
+- 1 -
+
+that determination shall, in addition to all other logically relevant factors, consider the
+following:
+(1) Statements by the defendant concerning its use;
+(2) The existence of material that includes a minor engaged in sexual
+activity or simulated sexual activity that is patently offensive in the defendant's
+possession;
+(3) Instructions, oral or written, provided with the technology, software, or
+digital tools concerning its use;
+(4) Descriptive materials accompanying the technology, software, or
+digital tools that explain or depict its use;
+(5) The manner in which the technology, software, or digital tools were
+advertised or offered when obtained by the defendant;
+(6) The existence and scope of legitimate uses for the technology,
+software, or digital tools in the community; and
+(7) Expert testimony concerning use of the technology, software, or
+digital tools.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 001435
+
+[DELETED: S]
+[DELETED:  -0S]

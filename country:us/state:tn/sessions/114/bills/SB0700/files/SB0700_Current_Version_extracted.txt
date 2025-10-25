@@ -1,0 +1,493 @@
+Title: HOUSE BILL 681
+Official Title: HOUSE BILL 681
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+By Jones J
+SENATE BILL 700
+By Kyle
+AN ACT to amend Tennessee Code Annotated, Title 4 and
+Title 43, Chapter 14, relative to soil.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 43, Chapter 14, is amended by adding
+the following as a new part:
+43-14-401. Short title.
+This part is known and may be cited as the "Healthy Soil Act."
+43-14-402. Part definitions.
+As used in this part:
+(1) "Champion" means a land manager that is declared a soil health
+champion due to the land manager's excellence in applying and promoting soil
+health principles, as modeled by the Soil Health Champion Program of the
+National Association of Conservation Districts;
+(2) "Commission" means the Tennessee soil and water conservation
+commission created in § 43-14-203;
+(3) "Department" means the department of agriculture;
+(4) "District" means a soil and water conservation district created
+pursuant to the Soil and Water Conservation Districts Law, compiled in part 2 of
+this chapter;
+(5) "Eligible entity" means a local governmental entity with proven land
+management capacity to support healthy soil;
+SB0700
+002135
+- 1 -
+(6) "Healthy soil" means soil that enhances its continuing capacity to
+function as a biological system, increases its organic matter and carbon content,
+and improves its structure and water- and nutrient-holding capacity, resulting in
+net, long-term greenhouse gas benefits;
+(7) "Program" means the healthy soil program created in § 43-14-403;
+(8) "Soil health principle" means a principle that promotes soil health and
+includes:
+(A) Keeping soil covered;
+(B) Minimizing soil disturbance on cropland and minimizing
+external inputs;
+(C) Maximizing biodiversity;
+(D) Maintaining a living root; and
+(E) Integrating animals into land management, including grazing
+animals, birds, beneficial insects, or keystone species, such as
+earthworms;
+(9) "Supported method":
+(A) Means a method that is based upon soil health principles and
+is scientifically supported to promote healthy soil; and
+(B) Includes:
+(i) Planting cover crops, perennials, hedgerows, native
+grasses and other native vegetation;
+(ii) Multi-cropping;
+(iii) Adopting no-till or conservation tillage;
+(iv) Planned grazing with appropriate graze and recovery
+periods and herd effect;
+- 2 - 002135
+(v) Integrated crop livestock systems;
+(vi) Mulching;
+(vii) Compost application;
+(viii) Soil microbial stimulation and inoculation; and
+(ix) On-site wetland and riparian restoration;
+(10) "Technical assistance":
+(A) Means assistance provided to a farmer or rancher to achieve
+the purposes of this part; and
+(B) Includes outreach, education, financial assistance, and
+assistance with project planning, project design, grant applications,
+project implementation, or project reporting; and
+(11) "Technical assistance provider":
+(A) Means a local, state, federal, educational, nonprofit, or
+nongovernmental entity with demonstrated technical expertise in
+designing and implementing agricultural management practices that
+contribute to healthy soils; and
+(B) Includes a district, the United States natural resources
+conservation service, the United States forest service, the United States
+bureau of land management, and the department of environment and
+conservation.
+43-14-403. Healthy soil program.
+(a) There is a program created within the department to be known as the
+"healthy soil program." The department, with support and advice from the commission,
+shall administer the program.
+- 3 - 002135
+(b) The purpose of the program is to promote and support farming and ranching
+systems and other forms of land management that increase soil organic matter, carbon
+content, aggregate stability, microbiology, and water retention to improve the health,
+yield, and profitability of the soils of this state.
+(c) The program must include:
+(1) A healthy soil assessment and education program;
+(2) A healthy soil grant program; and
+(3) Other programs established by the department to effectuate this part.
+(d) The department shall encourage producer, land manager, landowner, and
+interagency collaboration in the management of healthy soils and shall:
+(1) Work with technical assistance providers to advance soil health
+stewardship across private, state, and federal land jurisdictions by fostering
+collaboration among producers, land managers, and landowners; and
+(2) Conduct outreach to producers and land managers to promote the
+program and other federal, state, or local grant opportunities that support and
+promote healthy soils.
+(e) In administering the program, the department shall support local economic
+growth in this state and shall:
+(1) Identify ways to increase the generation and use of compost to build
+healthy soils;
+(2) To the extent permitted by law, prioritize in-state sourcing of the
+resources needed for the program, including testing resources, compost, seeds,
+fencing supplies, and equipment; and
+(3) Support the emerging market for food grown in this state under
+management for healthy soils.
+- 4 - 002135
+43-14-404. Administration of the healthy soil assessment and education program.
+In administering the healthy soil assessment and education program, the
+department shall:
+(1) Work through districts, technical assistance providers, or eligible
+entities to:
+(A) Encourage farmers, ranchers, and land managers to
+undertake voluntary soil health measurements;
+(B) Raise awareness about desirable soil health characteristics;
+(C) Facilitate on-site, producer-led workshops and training
+sessions to promote and engender soil health stewardship; and
+(D) Complete a baseline soil health assessment by testing the
+carbon content, water infiltration rate, microbiology, and aggregate
+stability of soils, in addition to monitoring soil cover or bare ground
+percentage;
+(2) Establish a statewide network of champions to promote soil health
+stewardship, offer guidance to producers and land managers, and encourage
+teamwork between persons involved in increasing soil health;
+(3) Create a program to provide ongoing training in soil health
+stewardship and workshop facilitation for champions, districts, and eligible
+entities;
+(4) In collaboration with technical assistance providers, sponsor soil
+health workshops and training sessions at research centers and learning sites
+throughout this state; and
+(5) Educate students and the general public about the importance of soil
+health stewardship.
+- 5 - 002135
+43-14-405. Creation and administration of the healthy soil grant program.
+(a)
+(1) There is created in the state treasury the healthy soil grant fund,
+which is separate and distinct from the general fund and all other reserve funds,
+to be administered by the department.
+(2) The fund consists of moneys appropriated by the general assembly.
+Funds appropriated to the fund must only be used to provide grants as described
+in this section.
+(3) Interest accrued by the fund must remain in the fund, and
+unexpended funds must be retained and carried forward to be used for the same
+purposes.
+(b) In administering the grant program, the department shall:
+(1) Award grants to districts and eligible entities to provide technical
+assistance to producers and land managers in advancing soil health principles
+and implementing supported methods;
+(2) Develop a user-friendly grant program application and application and
+reporting processes;
+(3) Develop criteria for the award of grants; provided, that grants must be
+awarded equitably and priority may be given to districts or eligible entities serving
+young producers, veterans, small farms, or ranches, or for projects that benefit
+economically or socially disadvantaged communities; and
+(4) Ensure that grant funds are only used to advance soil health and soil
+health stewardship.
+(c) The department shall develop eligibility criteria by rule.
+43-14-406. Healthy soil advisory group.
+- 6 - 002135
+(a) There is created a healthy soil advisory group. The advisory group is
+administratively attached to the department.
+(b)
+(1) The advisory board is composed of eight (8) members and must
+include:
+(A) One (1) individual from each grand division of this state, to be
+appointed by the governor;
+(B) Two (2) individuals who are qualified and knowledgeable
+regarding soil health, including soil health specialists, producers,
+champions, or representatives of nongovernmental organizations, to be
+appointed by the commissioner of agriculture;
+(C) One (1) individual from an emergent agriculture market, to be
+appointed by the speaker of the house of representatives;
+(D) One (1) individual from a socially disadvantaged group
+traditionally excluded from agricultural policy-making, to be appointed by
+the speaker of the senate; and
+(E) The commissioner of agriculture, or the commissioner's
+designee, as a nonvoting ex officio member.
+(2) In making appointments to the advisory group, the appointing
+authorities shall coordinate the appointments to ensure that the advisory group
+membership is inclusive and reflects the diversity of this state.
+(3) A vacancy on the advisory group must be filled for the unexpired term
+by the appointing authority and in such a manner to ensure that the requirements
+of this section are met.
+(4)
+- 7 - 002135
+(A) Members appointed pursuant to subdivision (b)(1)(A) are
+appointed for an initial term of two (2) years. Members appointed
+pursuant to subdivision (b)(1)(B)–(D) are appointed for an initial term of
+three (3) years. After the initial term, each member serves for a term of
+four (4) years.
+(B) Each member shall hold over after the expiration of the
+member's term until a successor has been dully appointed and qualified.
+(C) Members may be reappointed for additional terms.
+(5) Members serve without compensation, but members appointed
+pursuant to subdivisions (b)(1)(A)–(D) may receive travel expenses in
+accordance with the comprehensive travel regulations promulgated by the
+department of finance and administration.
+(c) The advisory group shall provide recommendations to the department for:
+(1) Preventative measures and training to prevent future environmental
+degradation from development within this state, including ways that existing
+environmental degradation may be reversed; and
+(2) Adaptation and mitigation of healthy soils to address the emergent
+climate crisis and effects that poor soil management and degradation have on
+carbon and other greenhouse gas emissions.
+43-14-407. Use of funding.
+Funds appropriated to the department to effectuate this part, or obtained by the
+department through state or federal grants, must be used for:
+(1) The healthy soil grant program;
+(2) The healthy soil assessment and education program;
+- 8 - 002135
+(3) Promotion and outreach for the program and its grant and
+assessment and education programs;
+(4) Department staffing support; and
+(5) Capacity building for the districts and other eligible entities.
+43-14-408. Rulemaking authority.
+The department shall promulgate rules to effectuate this part. The rules must be
+promulgated in accordance with the Uniform Administrative Procedures Act, compiled in
+title 4, chapter 5.
+
+Section 3:
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 4:
+SECTION 3. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2025, the
+public welfare requiring it.
+- 9 - 002135
+[DELETED: A]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0(]
+[DELETED:  -0]
+[DELETED:  -0(]
+[DELETED:  -0]
+[DELETED:  -0((((4F((]
+[DELETED:  -0(((4TS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 681
+By Jones J
+SENATE BILL 700
+By Kyle
+AN ACT to amend Tennessee Code Annotated, Title 4 and
+Title 43, Chapter 14, relative to soil.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 43, Chapter 14, is amended by adding
+the following as a new part:
+43-14-401. Short title.
+This part is known and may be cited as the "Healthy Soil Act."
+43-14-402. Part definitions.
+As used in this part:
+(1) "Champion" means a land manager that is declared a soil health
+champion due to the land manager's excellence in applying and promoting soil
+health principles, as modeled by the Soil Health Champion Program of the
+National Association of Conservation Districts;
+(2) "Commission" means the Tennessee soil and water conservation
+commission created in § 43-14-203;
+(3) "Department" means the department of agriculture;
+(4) "District" means a soil and water conservation district created
+pursuant to the Soil and Water Conservation Districts Law, compiled in part 2 of
+this chapter;
+(5) "Eligible entity" means a local governmental entity with proven land
+management capacity to support healthy soil;
+SB0700
+002135
+- 1 -
+
+(6) "Healthy soil" means soil that enhances its continuing capacity to
+function as a biological system, increases its organic matter and carbon content,
+and improves its structure and water- and nutrient-holding capacity, resulting in
+net, long-term greenhouse gas benefits;
+(7) "Program" means the healthy soil program created in § 43-14-403;
+(8) "Soil health principle" means a principle that promotes soil health and
+includes:
+(A) Keeping soil covered;
+(B) Minimizing soil disturbance on cropland and minimizing
+external inputs;
+(C) Maximizing biodiversity;
+(D) Maintaining a living root; and
+(E) Integrating animals into land management, including grazing
+animals, birds, beneficial insects, or keystone species, such as
+earthworms;
+(9) "Supported method":
+(A) Means a method that is based upon soil health principles and
+is scientifically supported to promote healthy soil; and
+(B) Includes:
+(i) Planting cover crops, perennials, hedgerows, native
+grasses and other native vegetation;
+(ii) Multi-cropping;
+(iii) Adopting no-till or conservation tillage;
+(iv) Planned grazing with appropriate graze and recovery
+periods and herd effect;
+- 2 - 002135
+
+(v) Integrated crop livestock systems;
+(vi) Mulching;
+(vii) Compost application;
+(viii) Soil microbial stimulation and inoculation; and
+(ix) On-site wetland and riparian restoration;
+(10) "Technical assistance":
+(A) Means assistance provided to a farmer or rancher to achieve
+the purposes of this part; and
+(B) Includes outreach, education, financial assistance, and
+assistance with project planning, project design, grant applications,
+project implementation, or project reporting; and
+(11) "Technical assistance provider":
+(A) Means a local, state, federal, educational, nonprofit, or
+nongovernmental entity with demonstrated technical expertise in
+designing and implementing agricultural management practices that
+contribute to healthy soils; and
+(B) Includes a district, the United States natural resources
+conservation service, the United States forest service, the United States
+bureau of land management, and the department of environment and
+conservation.
+43-14-403. Healthy soil program.
+(a) There is a program created within the department to be known as the
+"healthy soil program." The department, with support and advice from the commission,
+shall administer the program.
+- 3 - 002135
+
+(b) The purpose of the program is to promote and support farming and ranching
+systems and other forms of land management that increase soil organic matter, carbon
+content, aggregate stability, microbiology, and water retention to improve the health,
+yield, and profitability of the soils of this state.
+(c) The program must include:
+(1) A healthy soil assessment and education program;
+(2) A healthy soil grant program; and
+(3) Other programs established by the department to effectuate this part.
+(d) The department shall encourage producer, land manager, landowner, and
+interagency collaboration in the management of healthy soils and shall:
+(1) Work with technical assistance providers to advance soil health
+stewardship across private, state, and federal land jurisdictions by fostering
+collaboration among producers, land managers, and landowners; and
+(2) Conduct outreach to producers and land managers to promote the
+program and other federal, state, or local grant opportunities that support and
+promote healthy soils.
+(e) In administering the program, the department shall support local economic
+growth in this state and shall:
+(1) Identify ways to increase the generation and use of compost to build
+healthy soils;
+(2) To the extent permitted by law, prioritize in-state sourcing of the
+resources needed for the program, including testing resources, compost, seeds,
+fencing supplies, and equipment; and
+(3) Support the emerging market for food grown in this state under
+management for healthy soils.
+- 4 - 002135
+
+43-14-404. Administration of the healthy soil assessment and education program.
+In administering the healthy soil assessment and education program, the
+department shall:
+(1) Work through districts, technical assistance providers, or eligible
+entities to:
+(A) Encourage farmers, ranchers, and land managers to
+undertake voluntary soil health measurements;
+(B) Raise awareness about desirable soil health characteristics;
+(C) Facilitate on-site, producer-led workshops and training
+sessions to promote and engender soil health stewardship; and
+(D) Complete a baseline soil health assessment by testing the
+carbon content, water infiltration rate, microbiology, and aggregate
+stability of soils, in addition to monitoring soil cover or bare ground
+percentage;
+(2) Establish a statewide network of champions to promote soil health
+stewardship, offer guidance to producers and land managers, and encourage
+teamwork between persons involved in increasing soil health;
+(3) Create a program to provide ongoing training in soil health
+stewardship and workshop facilitation for champions, districts, and eligible
+entities;
+(4) In collaboration with technical assistance providers, sponsor soil
+health workshops and training sessions at research centers and learning sites
+throughout this state; and
+(5) Educate students and the general public about the importance of soil
+health stewardship.
+- 5 - 002135
+
+43-14-405. Creation and administration of the healthy soil grant program.
+(a)
+(1) There is created in the state treasury the healthy soil grant fund,
+which is separate and distinct from the general fund and all other reserve funds,
+to be administered by the department.
+(2) The fund consists of moneys appropriated by the general assembly.
+Funds appropriated to the fund must only be used to provide grants as described
+in this section.
+(3) Interest accrued by the fund must remain in the fund, and
+unexpended funds must be retained and carried forward to be used for the same
+purposes.
+(b) In administering the grant program, the department shall:
+(1) Award grants to districts and eligible entities to provide technical
+assistance to producers and land managers in advancing soil health principles
+and implementing supported methods;
+(2) Develop a user-friendly grant program application and application and
+reporting processes;
+(3) Develop criteria for the award of grants; provided, that grants must be
+awarded equitably and priority may be given to districts or eligible entities serving
+young producers, veterans, small farms, or ranches, or for projects that benefit
+economically or socially disadvantaged communities; and
+(4) Ensure that grant funds are only used to advance soil health and soil
+health stewardship.
+(c) The department shall develop eligibility criteria by rule.
+43-14-406. Healthy soil advisory group.
+- 6 - 002135
+
+(a) There is created a healthy soil advisory group. The advisory group is
+administratively attached to the department.
+(b)
+(1) The advisory board is composed of eight (8) members and must
+include:
+(A) One (1) individual from each grand division of this state, to be
+appointed by the governor;
+(B) Two (2) individuals who are qualified and knowledgeable
+regarding soil health, including soil health specialists, producers,
+champions, or representatives of nongovernmental organizations, to be
+appointed by the commissioner of agriculture;
+(C) One (1) individual from an emergent agriculture market, to be
+appointed by the speaker of the house of representatives;
+(D) One (1) individual from a socially disadvantaged group
+traditionally excluded from agricultural policy-making, to be appointed by
+the speaker of the senate; and
+(E) The commissioner of agriculture, or the commissioner's
+designee, as a nonvoting ex officio member.
+(2) In making appointments to the advisory group, the appointing
+authorities shall coordinate the appointments to ensure that the advisory group
+membership is inclusive and reflects the diversity of this state.
+(3) A vacancy on the advisory group must be filled for the unexpired term
+by the appointing authority and in such a manner to ensure that the requirements
+of this section are met.
+(4)
+- 7 - 002135
+
+(A) Members appointed pursuant to subdivision (b)(1)(A) are
+appointed for an initial term of two (2) years. Members appointed
+pursuant to subdivision (b)(1)(B)–(D) are appointed for an initial term of
+three (3) years. After the initial term, each member serves for a term of
+four (4) years.
+(B) Each member shall hold over after the expiration of the
+member's term until a successor has been dully appointed and qualified.
+(C) Members may be reappointed for additional terms.
+(5) Members serve without compensation, but members appointed
+pursuant to subdivisions (b)(1)(A)–(D) may receive travel expenses in
+accordance with the comprehensive travel regulations promulgated by the
+department of finance and administration.
+(c) The advisory group shall provide recommendations to the department for:
+(1) Preventative measures and training to prevent future environmental
+degradation from development within this state, including ways that existing
+environmental degradation may be reversed; and
+(2) Adaptation and mitigation of healthy soils to address the emergent
+climate crisis and effects that poor soil management and degradation have on
+carbon and other greenhouse gas emissions.
+43-14-407. Use of funding.
+Funds appropriated to the department to effectuate this part, or obtained by the
+department through state or federal grants, must be used for:
+(1) The healthy soil grant program;
+(2) The healthy soil assessment and education program;
+- 8 - 002135
+
+(3) Promotion and outreach for the program and its grant and
+assessment and education programs;
+(4) Department staffing support; and
+(5) Capacity building for the districts and other eligible entities.
+43-14-408. Rulemaking authority.
+The department shall promulgate rules to effectuate this part. The rules must be
+promulgated in accordance with the Uniform Administrative Procedures Act, compiled in
+title 4, chapter 5.
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 3. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2025, the
+public welfare requiring it.
+- 9 - 002135
+
+[DELETED: A]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0(]
+[DELETED:  -0]
+[DELETED:  -0(]
+[DELETED:  -0]
+[DELETED:  -0((((4F((]
+[DELETED:  -0(((4TS]

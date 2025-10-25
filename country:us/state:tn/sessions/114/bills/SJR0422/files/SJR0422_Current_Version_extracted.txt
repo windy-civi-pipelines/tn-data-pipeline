@@ -1,0 +1,238 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 422
+By Hensley
+A RESOLUTION urging implementation of a medical benefits
+overlay program to supplement the State of
+Tennessee's current benefit plans.
+WHEREAS, the State of Tennessee currently provides an expansive self-funded group
+healthcare program for employees and eligible dependents, retirees, and COBRA participants;
+and
+WHEREAS, the State's healthcare program includes several different service plans,
+wellness and disease management programs, telemedicine capability, and virtual physical care
+programs; and
+WHEREAS, the State also provides a Flexible Spending Account Plan in accordance
+with § 125 of the Internal Revenue Service Code (26 U.S.C. § 125), as well as integration of the
+aforementioned benefits; and
+WHEREAS, Champion Health, Inc., is a corporation that advertises a self-funded overlay
+program designed to provide supplemental medical coverage to employees otherwise covered
+through a primary provider; and
+WHEREAS, the CHAMP Plan, as described by Champion Health, Inc., operates by
+taking a pre-tax deduction from an enrolled employee's paycheck to help fund the plan, and
+then a post-tax benefit is received by the enrolled employee after participation in a monthly
+healthcare activity that triggers a CPT code and explanation of benefits; and
+WHEREAS, according to Champion Health, Inc., a lower adjusted gross income results
+in lower taxes, which raises an enrolled employee's take-home pay after the CHAMP Plan post-
+tax benefit is added to the employee's paycheck; and
+SJR0422
+007007
+- 1 -
+WHEREAS, according to Champion Health, Inc., enrollment in the CHAMP Plan is
+voluntary, and educational information regarding enrollment procedures will be provided at no
+cost to interested employees; and
+WHEREAS, according to Champion Health, Inc., the CHAMP Plan will provide great cost
+savings to the State of Tennessee by lowering FICA taxes, as well as redirecting claims that
+would otherwise be processed by the State's primary health plan provider; and
+WHEREAS, because the General Assembly is supportive of measures designed to
+enhance the livelihood of State employees, the Governor or Governor’s designee should
+evaluate the feasibility and prudency of implementing the CHAMP Plan or a similar medical
+benefits overlay program; and
+WHEREAS, the Governor is authorized to enter into pilot projects and product
+demonstration agreements with prospective State vendors for the purpose of testing and
+evaluating technology, products, and services; and
+WHEREAS, such agreements must:
+(1) Be for a period not to exceed twelve months from the initiation of the pilot project or
+demonstration;
+(2) Be provided at no cost to the State with the exception of any ordinary cost for State
+employees or consultants to review such technology;
+(3) Not contain any exclusive dealing, in-kind, or advertising commitments by the State;
+(4) Provide for indemnification of the State;
+(5) Provide for State ownership of any data generated during the testing and
+observation period; and
+(6) Be terminable at will by the State; and
+WHEREAS, the State of Tennessee is committed to better understanding, evaluating,
+and implementing innovative technology, emerging products, and efficient services; and
+- 2 - 007007
+WHEREAS, vendors frequently offer potentially innovative processes, products, and
+services at no charge to the State on a trial basis; and
+WHEREAS, the adoption of the CHAMP Plan or a similar medical benefits overlay
+program could be beneficial to the State and its employees; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that the Governor of Tennessee or the Governor's
+designee is directed to evaluate the feasibility of implementing a medical benefits overlay
+program to supplement the State's current benefit plan offerings.
+BE IT FURTHER RESOLVED, that such evaluation must specifically explore the
+CHAMP Plan offered by Champion Health, Inc., and any potential impacts of implementing such
+an overlay plan statewide on both a short-term basis as a pilot project and long-term basis
+through a competitive procurement.
+BE IT FURTHER RESOLVED, that such evaluation must also analyze whether the
+implementation of the CHAMP Plan as a pilot project comports with the aforementioned
+requirements for such agreements, including the requirements that the State must be
+indemnified and that the project be terminable at will by the State.
+BE IT FURTHER RESOLVED, that if the administration's evaluation determines that it is
+feasible to implement a medical benefits overlay program pursuant to the directive in the first
+resolving clause, the Governor or the Governor's designee is urged to negotiate and, if
+successful, is urged to execute an agreement with Champion Health, Inc., for a pilot project to
+implement the Champ Plan within ninety days of the effective date of this resolution.
+BE IT FURTHER RESOLVED, that the terms of such agreement, if executed, must be in
+accordance with the State's requirements for pilot projects and product demonstration
+agreements, as provided by State law. Accordingly, such agreement should not serve as a
+- 3 - 007007
+basis for any non-competitive purchase other than a bid waiver or sole source purchase and
+should not serve as the sole basis of the public interest justification of any bid waiver.
+BE IT FURTHER RESOLVED, that such agreement should include provisions that the
+Champ Plan be offered to State employees on a voluntary, opt-out basis, with educational
+information regarding enrollment and operation of the Champ Plan provided to interested
+employees at no cost.
+BE IT FURTHER RESOLVED, that such agreement should also seek to minimize the
+State's administrative implementation costs.
+BE IT FURTHER RESOLVED, that the Governor or the Governor's designee is urged,
+where necessary, to obtain the written consent of the applicable collective bargaining agents
+before providing such a benefit to bargaining unit employees.
+BE IT FURTHER RESOLVED, that as provided by State law, each pilot project or
+product demonstration agreement is subject to review and approval by the State Attorney
+General's Office for legal sufficiency prior to execution.
+BE IT FURTHER RESOLVED, that the Governor or the Governor's designee is directed
+to compile a written report detailing the results of the CHAMP Plan pilot program, if executed,
+including the number of employees that participated and any cost savings to the State as well
+as to employees, and to submit such report to the General Assembly within sixty days of the
+conclusion of the pilot program.
+BE IT FURTHER RESOLVED, that if a determination is made that it is not feasible to
+create the pilot program, the Governor or the Governor's designee is directed to detail the
+reasons for such finding in a written report and to submit such report to the General Assembly
+within 120 days of the effective date of this resolution.
+BE IT FURTHER RESOLVED, that a certified copy of this resolution be transmitted to
+the Honorable Bill Lee, Governor of Tennessee.
+- 4 - 007007
+[DELETED: WWWWWW]
+[DELETED:  -0WWWWWW]
+[DELETED:  -0WWBBBBB]
+[DELETED:  -0BBBBBBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 422
+By Hensley
+A RESOLUTION urging implementation of a medical benefits
+overlay program to supplement the State of
+Tennessee's current benefit plans.
+WHEREAS, the State of Tennessee currently provides an expansive self-funded group
+healthcare program for employees and eligible dependents, retirees, and COBRA participants;
+and
+WHEREAS, the State's healthcare program includes several different service plans,
+wellness and disease management programs, telemedicine capability, and virtual physical care
+programs; and
+WHEREAS, the State also provides a Flexible Spending Account Plan in accordance
+with § 125 of the Internal Revenue Service Code (26 U.S.C. § 125), as well as integration of the
+aforementioned benefits; and
+WHEREAS, Champion Health, Inc., is a corporation that advertises a self-funded overlay
+program designed to provide supplemental medical coverage to employees otherwise covered
+through a primary provider; and
+WHEREAS, the CHAMP Plan, as described by Champion Health, Inc., operates by
+taking a pre-tax deduction from an enrolled employee's paycheck to help fund the plan, and
+then a post-tax benefit is received by the enrolled employee after participation in a monthly
+healthcare activity that triggers a CPT code and explanation of benefits; and
+WHEREAS, according to Champion Health, Inc., a lower adjusted gross income results
+in lower taxes, which raises an enrolled employee's take-home pay after the CHAMP Plan post-
+tax benefit is added to the employee's paycheck; and
+SJR0422
+007007
+- 1 -
+
+WHEREAS, according to Champion Health, Inc., enrollment in the CHAMP Plan is
+voluntary, and educational information regarding enrollment procedures will be provided at no
+cost to interested employees; and
+WHEREAS, according to Champion Health, Inc., the CHAMP Plan will provide great cost
+savings to the State of Tennessee by lowering FICA taxes, as well as redirecting claims that
+would otherwise be processed by the State's primary health plan provider; and
+WHEREAS, because the General Assembly is supportive of measures designed to
+enhance the livelihood of State employees, the Governor or Governor’s designee should
+evaluate the feasibility and prudency of implementing the CHAMP Plan or a similar medical
+benefits overlay program; and
+WHEREAS, the Governor is authorized to enter into pilot projects and product
+demonstration agreements with prospective State vendors for the purpose of testing and
+evaluating technology, products, and services; and
+WHEREAS, such agreements must:
+(1) Be for a period not to exceed twelve months from the initiation of the pilot project or
+demonstration;
+(2) Be provided at no cost to the State with the exception of any ordinary cost for State
+employees or consultants to review such technology;
+(3) Not contain any exclusive dealing, in-kind, or advertising commitments by the State;
+(4) Provide for indemnification of the State;
+(5) Provide for State ownership of any data generated during the testing and
+observation period; and
+(6) Be terminable at will by the State; and
+WHEREAS, the State of Tennessee is committed to better understanding, evaluating,
+and implementing innovative technology, emerging products, and efficient services; and
+- 2 - 007007
+
+WHEREAS, vendors frequently offer potentially innovative processes, products, and
+services at no charge to the State on a trial basis; and
+WHEREAS, the adoption of the CHAMP Plan or a similar medical benefits overlay
+program could be beneficial to the State and its employees; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that the Governor of Tennessee or the Governor's
+designee is directed to evaluate the feasibility of implementing a medical benefits overlay
+program to supplement the State's current benefit plan offerings.
+BE IT FURTHER RESOLVED, that such evaluation must specifically explore the
+CHAMP Plan offered by Champion Health, Inc., and any potential impacts of implementing such
+an overlay plan statewide on both a short-term basis as a pilot project and long-term basis
+through a competitive procurement.
+BE IT FURTHER RESOLVED, that such evaluation must also analyze whether the
+implementation of the CHAMP Plan as a pilot project comports with the aforementioned
+requirements for such agreements, including the requirements that the State must be
+indemnified and that the project be terminable at will by the State.
+BE IT FURTHER RESOLVED, that if the administration's evaluation determines that it is
+feasible to implement a medical benefits overlay program pursuant to the directive in the first
+resolving clause, the Governor or the Governor's designee is urged to negotiate and, if
+successful, is urged to execute an agreement with Champion Health, Inc., for a pilot project to
+implement the Champ Plan within ninety days of the effective date of this resolution.
+BE IT FURTHER RESOLVED, that the terms of such agreement, if executed, must be in
+accordance with the State's requirements for pilot projects and product demonstration
+agreements, as provided by State law. Accordingly, such agreement should not serve as a
+- 3 - 007007
+
+basis for any non-competitive purchase other than a bid waiver or sole source purchase and
+should not serve as the sole basis of the public interest justification of any bid waiver.
+BE IT FURTHER RESOLVED, that such agreement should include provisions that the
+Champ Plan be offered to State employees on a voluntary, opt-out basis, with educational
+information regarding enrollment and operation of the Champ Plan provided to interested
+employees at no cost.
+BE IT FURTHER RESOLVED, that such agreement should also seek to minimize the
+State's administrative implementation costs.
+BE IT FURTHER RESOLVED, that the Governor or the Governor's designee is urged,
+where necessary, to obtain the written consent of the applicable collective bargaining agents
+before providing such a benefit to bargaining unit employees.
+BE IT FURTHER RESOLVED, that as provided by State law, each pilot project or
+product demonstration agreement is subject to review and approval by the State Attorney
+General's Office for legal sufficiency prior to execution.
+BE IT FURTHER RESOLVED, that the Governor or the Governor's designee is directed
+to compile a written report detailing the results of the CHAMP Plan pilot program, if executed,
+including the number of employees that participated and any cost savings to the State as well
+as to employees, and to submit such report to the General Assembly within sixty days of the
+conclusion of the pilot program.
+BE IT FURTHER RESOLVED, that if a determination is made that it is not feasible to
+create the pilot program, the Governor or the Governor's designee is directed to detail the
+reasons for such finding in a written report and to submit such report to the General Assembly
+within 120 days of the effective date of this resolution.
+BE IT FURTHER RESOLVED, that a certified copy of this resolution be transmitted to
+the Honorable Bill Lee, Governor of Tennessee.
+- 4 - 007007
+
+[DELETED: WWWWWW]
+[DELETED:  -0WWWWWW]
+[DELETED:  -0WWBBBBB]
+[DELETED:  -0BBBBBBB]

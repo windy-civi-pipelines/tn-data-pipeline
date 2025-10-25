@@ -1,0 +1,318 @@
+Title: HOUSE BILL 1157
+Official Title: HOUSE BILL 1157
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+By Lynn
+SENATE BILL 1031
+By Bowling
+AN ACT to amend Tennessee Code Annotated, Title 53
+and Title 68, relative to relative to drug labels.
+WHEREAS, the Food and Drug Administration (FDA) is the federal agency responsible
+for protecting public health by ensuring the safety, efficacy, and security of human and
+veterinary drugs, biological products, medical devices, our nation's food supply, cosmetics, and
+products that emit radiation; and
+WHEREAS, a 2024 Congressional Report titled "We Can Do This: An Assessment of the
+Department of Health and Human Services' COVID-19 Public Health Campaign" recommended
+that, in order to prevent a recurrence of communication failures that undermine public health,
+"HHS and its agencies should abide by the FDA's product labeling guidelines" and "HHS and its
+agencies should be barred from promoting information regarding an FDA-regulated product that
+does not reflect the FDA-approved label"; and
+WHEREAS, to restore and maintain trust in public health messaging, all communications
+from public health agencies about FDA-approved products must be grounded in verified data
+and scientific research, free from unproven claims or promotional language that could mislead
+consumers; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. This act is known and may be cited as the "Restore Trust in Public Health
+Messaging Act."
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 68, Chapter 1, is amended by adding
+the following as a new part:
+68-1-1701. Part definitions.
+SB1031
+002259
+- 1 -
+As used in this part:
+(1) "Commissioner" means the commissioner of health;
+(2) "Department" means the department of health;
+(3) "FDA" means the federal food and drug administration;
+(4) "FDA-approved" means the FDA has granted a product a license
+following a comprehensive pre-market clinical trial review process, determined
+that the product's benefits outweigh its risks for the intended use, and made the
+grant of such license contingent upon ongoing post-marketing surveillance to
+assess whether the product maintains its safety and efficacy under real-world
+conditions;
+(5) "FDA-authorized" means the use of a product is permitted through an
+emergency use authorization protocol which allows the use of medical products
+during public health emergencies based on available evidence, prior to full
+approval;
+(6) "Local health department" means a county or regional health
+department in this state; and
+(7) "State executive branch" means the governor, members of the
+governor's cabinet, the leadership of an executive branch agency or department
+of this state other than the commissioner of health, and an executive branch
+agency or department of this state other than the department.
+68-1-1702. Prohibition on messaging.
+(a) The department, commissioner, an employee or agent of the department, an
+employee or agent of a local health department, and the state executive branch shall not
+directly or indirectly promote, distribute, or endorse information regarding an FDA-
+- 2 - 002259
+regulated product in a manner that conflicts with or does not accurately reflect the FDA-
+approved or FDA-authorized label for such product.
+(b) Subsection (a) includes:
+(1) The use of any state grants or other funds, federal grants or funds
+distributed by this state, or other forms of inducements that may lead to the
+dissemination of such information; and
+(2) Information concerning general categories or types of FDA-regulated
+products where no specific product is referenced. Information that references a
+general category or type must:
+(A) Be universally true for all products within the general category
+or type under current FDA regulations; or
+(B) Provide qualifications or disclaimers that highlight the
+exceptions or limitations based on individual product labels.
+(c) If the commissioner, an employee or agent of the department, an employee
+or agent of a local health department, or the state executive branch refers a healthcare
+provider or the general public to information about FDA-regulated products from sources
+not covered by this part, then the referral must include a warning that the entity for which
+the employee or agent is providing such information is not regulated by this part.
+(d) This section does not prohibit the commissioner, the state executive branch,
+or another person subject to this part, from publicly expressing criticism of or
+disagreement with product authorization, approval, or labeling decisions by the FDA.
+68-1-1703.
+(a) The commissioner and the state executive branch shall:
+- 3 - 002259
+(1) No later than July 1, 2025, establish an internal review process to
+ensure compliance with FDA labeling standards in all communications,
+educational materials, and public health campaign; and
+(2) No later than January 15, 2026, and on or before January 15 of each
+subsequent year, submit an annual report to the comptroller of the treasury, the
+clerk of the senate, the clerk of the house of representatives, and the legislative
+librarian that details the efforts of the commissioner and the state executive
+branch to comply with this part. The report must include, but is not limited to, a
+description of any violations and corrective actions taken to address such
+violations.
+(b) An individual may report a violation or suspected violation of this part to the
+comptroller of the treasury.
+(c) The comptroller of the treasury shall:
+(1) On or before July 1, 2025, establish a process by which individuals
+may submit information concerning violations or suspected violations of this part;
+(2) Investigate complaints concerning alleged or suspected violations of
+this part and complaints of retaliation against an individual who reported an
+alleged or suspected violation of this part;
+(3) Upon finding that a violation occurred, notify in writing the violator and
+the director or chief executive of the entity for which the violator is an employee
+or agent; and
+(4) Assess penalties pursuant to § 68-1-1706(b).
+68-1-1704. Corrective action upon notice of violation.
+- 4 - 002259
+Within ten (10) days of receiving a notice from the comptroller of the treasury
+pursuant to § 68-1-1703(c)(3) that an entity or an employee or agent of an entity has
+violated this part, the director or chief executive of such entity shall:
+(1) Immediately cease the dissemination of any information deemed to
+be in violation of this part; and
+(2) Issue a correction notice that:
+(A) Clearly states the nature of the violation;
+(B) Explains how the entity or employee or agent is correcting the
+violation; and
+(C) Is disseminated in the same manner, to the same extent, and
+to the same recipients as the original information found to violate this part.
+68-1-1705. Removal of nonconforming materials.
+No later than July 1, 2025, the department; the commissioner; each local health
+department; the state executive branch; and each recipient of a federal grant, state
+grant, or other funds or inducements distributed by this state shall begin to remove from
+public distribution all existing informational materials, whether in printed or electronic
+format, that are not in compliance with this part. The removal of such materials must be
+completed on or before January 15, 2026.
+68-1-1706. Penalties.
+(a) An employee or agent of the department, a local health department, or the
+state executive branch who violates this part is subject to disciplinary action, which may
+include termination of employment or agency agreement.
+(b) A violation of this part by an entity that receives state grants or funds, federal
+grants or funds distributed by this state, or other forms of financial inducement:
+- 5 - 002259
+(1) Is subject to a civil penalty not to exceed three (3) times the amount
+of state resources misused in the commission of the violation of this part, or fifty
+thousand dollars ($50,000), whichever is greater; and
+(2) Is ineligible to receive grants, funds, or other inducements for a period
+of one (1) to ten (10) years, to be determined by the comptroller of the treasury,
+based on the severity of the violation.
+
+Section 4:
+SECTION 3. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+
+Section 5:
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+- 6 - 002259
+[DELETED: WWWSS6]
+[DELETED:  -0A(((((((6(]
+[DELETED:  -0(((((((6(]
+[DELETED:  -0((((((((6]
+[DELETED:  -0W(((((6N6((]
+[DELETED:  -0((SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1157
+By Lynn
+SENATE BILL 1031
+By Bowling
+AN ACT to amend Tennessee Code Annotated, Title 53
+and Title 68, relative to relative to drug labels.
+WHEREAS, the Food and Drug Administration (FDA) is the federal agency responsible
+for protecting public health by ensuring the safety, efficacy, and security of human and
+veterinary drugs, biological products, medical devices, our nation's food supply, cosmetics, and
+products that emit radiation; and
+WHEREAS, a 2024 Congressional Report titled "We Can Do This: An Assessment of the
+Department of Health and Human Services' COVID-19 Public Health Campaign" recommended
+that, in order to prevent a recurrence of communication failures that undermine public health,
+"HHS and its agencies should abide by the FDA's product labeling guidelines" and "HHS and its
+agencies should be barred from promoting information regarding an FDA-regulated product that
+does not reflect the FDA-approved label"; and
+WHEREAS, to restore and maintain trust in public health messaging, all communications
+from public health agencies about FDA-approved products must be grounded in verified data
+and scientific research, free from unproven claims or promotional language that could mislead
+consumers; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as the "Restore Trust in Public Health
+Messaging Act."
+SECTION 2. Tennessee Code Annotated, Title 68, Chapter 1, is amended by adding
+the following as a new part:
+68-1-1701. Part definitions.
+SB1031
+002259
+- 1 -
+
+As used in this part:
+(1) "Commissioner" means the commissioner of health;
+(2) "Department" means the department of health;
+(3) "FDA" means the federal food and drug administration;
+(4) "FDA-approved" means the FDA has granted a product a license
+following a comprehensive pre-market clinical trial review process, determined
+that the product's benefits outweigh its risks for the intended use, and made the
+grant of such license contingent upon ongoing post-marketing surveillance to
+assess whether the product maintains its safety and efficacy under real-world
+conditions;
+(5) "FDA-authorized" means the use of a product is permitted through an
+emergency use authorization protocol which allows the use of medical products
+during public health emergencies based on available evidence, prior to full
+approval;
+(6) "Local health department" means a county or regional health
+department in this state; and
+(7) "State executive branch" means the governor, members of the
+governor's cabinet, the leadership of an executive branch agency or department
+of this state other than the commissioner of health, and an executive branch
+agency or department of this state other than the department.
+68-1-1702. Prohibition on messaging.
+(a) The department, commissioner, an employee or agent of the department, an
+employee or agent of a local health department, and the state executive branch shall not
+directly or indirectly promote, distribute, or endorse information regarding an FDA-
+- 2 - 002259
+
+regulated product in a manner that conflicts with or does not accurately reflect the FDA-
+approved or FDA-authorized label for such product.
+(b) Subsection (a) includes:
+(1) The use of any state grants or other funds, federal grants or funds
+distributed by this state, or other forms of inducements that may lead to the
+dissemination of such information; and
+(2) Information concerning general categories or types of FDA-regulated
+products where no specific product is referenced. Information that references a
+general category or type must:
+(A) Be universally true for all products within the general category
+or type under current FDA regulations; or
+(B) Provide qualifications or disclaimers that highlight the
+exceptions or limitations based on individual product labels.
+(c) If the commissioner, an employee or agent of the department, an employee
+or agent of a local health department, or the state executive branch refers a healthcare
+provider or the general public to information about FDA-regulated products from sources
+not covered by this part, then the referral must include a warning that the entity for which
+the employee or agent is providing such information is not regulated by this part.
+(d) This section does not prohibit the commissioner, the state executive branch,
+or another person subject to this part, from publicly expressing criticism of or
+disagreement with product authorization, approval, or labeling decisions by the FDA.
+68-1-1703.
+(a) The commissioner and the state executive branch shall:
+- 3 - 002259
+
+(1) No later than July 1, 2025, establish an internal review process to
+ensure compliance with FDA labeling standards in all communications,
+educational materials, and public health campaign; and
+(2) No later than January 15, 2026, and on or before January 15 of each
+subsequent year, submit an annual report to the comptroller of the treasury, the
+clerk of the senate, the clerk of the house of representatives, and the legislative
+librarian that details the efforts of the commissioner and the state executive
+branch to comply with this part. The report must include, but is not limited to, a
+description of any violations and corrective actions taken to address such
+violations.
+(b) An individual may report a violation or suspected violation of this part to the
+comptroller of the treasury.
+(c) The comptroller of the treasury shall:
+(1) On or before July 1, 2025, establish a process by which individuals
+may submit information concerning violations or suspected violations of this part;
+(2) Investigate complaints concerning alleged or suspected violations of
+this part and complaints of retaliation against an individual who reported an
+alleged or suspected violation of this part;
+(3) Upon finding that a violation occurred, notify in writing the violator and
+the director or chief executive of the entity for which the violator is an employee
+or agent; and
+(4) Assess penalties pursuant to § 68-1-1706(b).
+68-1-1704. Corrective action upon notice of violation.
+- 4 - 002259
+
+Within ten (10) days of receiving a notice from the comptroller of the treasury
+pursuant to § 68-1-1703(c)(3) that an entity or an employee or agent of an entity has
+violated this part, the director or chief executive of such entity shall:
+(1) Immediately cease the dissemination of any information deemed to
+be in violation of this part; and
+(2) Issue a correction notice that:
+(A) Clearly states the nature of the violation;
+(B) Explains how the entity or employee or agent is correcting the
+violation; and
+(C) Is disseminated in the same manner, to the same extent, and
+to the same recipients as the original information found to violate this part.
+68-1-1705. Removal of nonconforming materials.
+No later than July 1, 2025, the department; the commissioner; each local health
+department; the state executive branch; and each recipient of a federal grant, state
+grant, or other funds or inducements distributed by this state shall begin to remove from
+public distribution all existing informational materials, whether in printed or electronic
+format, that are not in compliance with this part. The removal of such materials must be
+completed on or before January 15, 2026.
+68-1-1706. Penalties.
+(a) An employee or agent of the department, a local health department, or the
+state executive branch who violates this part is subject to disciplinary action, which may
+include termination of employment or agency agreement.
+(b) A violation of this part by an entity that receives state grants or funds, federal
+grants or funds distributed by this state, or other forms of financial inducement:
+- 5 - 002259
+
+(1) Is subject to a civil penalty not to exceed three (3) times the amount
+of state resources misused in the commission of the violation of this part, or fifty
+thousand dollars ($50,000), whichever is greater; and
+(2) Is ineligible to receive grants, funds, or other inducements for a period
+of one (1) to ten (10) years, to be determined by the comptroller of the treasury,
+based on the severity of the violation.
+SECTION 3. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+- 6 - 002259
+
+[DELETED: WWWSS6]
+[DELETED:  -0A(((((((6(]
+[DELETED:  -0(((((((6(]
+[DELETED:  -0((((((((6]
+[DELETED:  -0W(((((6N6((]
+[DELETED:  -0((SS]

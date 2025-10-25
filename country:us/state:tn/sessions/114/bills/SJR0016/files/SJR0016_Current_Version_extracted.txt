@@ -1,0 +1,55 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 16
+By Kyle
+A RESOLUTION to urge Tennesseans to contribute or donate
+feminine hygiene products to local schools.
+WHEREAS, in the United States, nearly one in four students lacks access to feminine
+hygiene products; and
+WHEREAS, without access to appropriate feminine hygiene products, students are more
+likely to miss school; increased student absenteeism leads to lower academic performance and
+increased vulnerability to dropping out of school; and
+WHEREAS, lower-income students and students of color are more impacted by lack of
+access to feminine hygiene products than white and middle-income students; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we encourage the good people of the State of
+Tennessee to contribute or donate feminine hygiene products to their local schools.
+SJR0016
+000098
+- 1 -
+[DELETED: WWWB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 16
+By Kyle
+A RESOLUTION to urge Tennesseans to contribute or donate
+feminine hygiene products to local schools.
+WHEREAS, in the United States, nearly one in four students lacks access to feminine
+hygiene products; and
+WHEREAS, without access to appropriate feminine hygiene products, students are more
+likely to miss school; increased student absenteeism leads to lower academic performance and
+increased vulnerability to dropping out of school; and
+WHEREAS, lower-income students and students of color are more impacted by lack of
+access to feminine hygiene products than white and middle-income students; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we encourage the good people of the State of
+Tennessee to contribute or donate feminine hygiene products to their local schools.
+SJR0016
+000098
+- 1 -
+
+[DELETED: WWWB]

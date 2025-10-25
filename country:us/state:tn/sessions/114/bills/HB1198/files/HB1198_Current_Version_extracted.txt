@@ -1,0 +1,100 @@
+Title: SENATE BILL 436
+Official Title: SENATE BILL 436
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Reeves
+HOUSE BILL 1198
+By Kumar
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 53; Title 56; Title 68 and Title 71, relative to
+biosimilar medicine.
+WHEREAS, the legislature finds that increasing access to biosimilar medicines has the
+potential to significantly reduce prescription drug costs; and
+WHEREAS, biosimilar medicines are approved according to the same federal food and
+drug administration (FDA) standards of pharmaceutical quality, safety, and efficacy as the FDA's
+reference medicines; and
+WHEREAS, it is the intent of the legislature to eliminate barriers impeding access to
+biosimilar medicines and the savings biosimilar medicines can provide; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 4-3-1013(e), is amended by adding
+the language "or biosimilars" at the end of the subsection.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 56-7-3502(f)(1), is amended by
+deleting the subdivision and substituting:
+(1) A health carrier, health benefit plan, or utilization review organization from
+requiring a patient to try an AB-rated generic equivalent product, interchangeable
+biological product, or biosimilar product prior to providing coverage for the equivalent
+branded prescription drug;
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 71-5-198(c), is amended by adding
+the language "or biosimilars" at the end of the subsection.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 71-5-2404(a), is amended by
+deleting the language "including, but not limited to, efficacy, the use of generic drugs and
+HB1198
+001713
+- 1 -
+therapeutic equivalent drugs, and cost information related to each drug" and substituting
+"including efficacy; the use of generic drugs, biosimilars, and therapeutic equivalent drugs; and
+cost information related to each drug".
+
+Section 6:
+SECTION 5. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 001713
+[DELETED: WSS(SS]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 436
+By Reeves
+HOUSE BILL 1198
+By Kumar
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 53; Title 56; Title 68 and Title 71, relative to
+biosimilar medicine.
+WHEREAS, the legislature finds that increasing access to biosimilar medicines has the
+potential to significantly reduce prescription drug costs; and
+WHEREAS, biosimilar medicines are approved according to the same federal food and
+drug administration (FDA) standards of pharmaceutical quality, safety, and efficacy as the FDA's
+reference medicines; and
+WHEREAS, it is the intent of the legislature to eliminate barriers impeding access to
+biosimilar medicines and the savings biosimilar medicines can provide; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 4-3-1013(e), is amended by adding
+the language "or biosimilars" at the end of the subsection.
+SECTION 2. Tennessee Code Annotated, Section 56-7-3502(f)(1), is amended by
+deleting the subdivision and substituting:
+(1) A health carrier, health benefit plan, or utilization review organization from
+requiring a patient to try an AB-rated generic equivalent product, interchangeable
+biological product, or biosimilar product prior to providing coverage for the equivalent
+branded prescription drug;
+SECTION 3. Tennessee Code Annotated, Section 71-5-198(c), is amended by adding
+the language "or biosimilars" at the end of the subsection.
+SECTION 4. Tennessee Code Annotated, Section 71-5-2404(a), is amended by
+deleting the language "including, but not limited to, efficacy, the use of generic drugs and
+HB1198
+001713
+- 1 -
+
+therapeutic equivalent drugs, and cost information related to each drug" and substituting
+"including efficacy; the use of generic drugs, biosimilars, and therapeutic equivalent drugs; and
+cost information related to each drug".
+SECTION 5. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 001713
+
+[DELETED: WSS(SS]
+[DELETED:  -0S]

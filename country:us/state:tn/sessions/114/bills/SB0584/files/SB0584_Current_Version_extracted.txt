@@ -1,0 +1,310 @@
+Title: HOUSE BILL 688
+Official Title: HOUSE BILL 688
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+By Camper
+SENATE BILL 584
+By Akbari
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 53; Title 58; Title 63; Title 68 and Title 71,
+relative to medicine.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 1, is amended by adding
+the following as a new part:
+68-1-1701.
+The general assembly finds that access to a statewide strategic buffer stock,
+essential medicine reserve, or strategic inventory of essential medicines in the event of
+an emergency or natural disaster is vital to this state's healthcare system, educational
+settings, and the general population who rely on the state's healthcare resources,
+especially those who reside in rural or medically underserved areas.
+68-1-1702.
+As used in this part:
+(1) "Commissioner" means the commissioner of health, or the
+commissioner's designee;
+(2) "Department" means the department of health;
+(3) "Designated recipients" includes healthcare providers, healthcare
+facilities, state disaster relief organizations, state-operated facilities, and other
+entities to which strategic reserve medical resources may be disbursed under
+this part;
+(4) "Essential buffer stock" means the essential emergency and chronic
+disease management medicines, vaccines, and medical supplies buffer stock,
+SB0584
+001089
+- 1 -
+essential medicine reserve, and strategic inventory stockpile of essential
+medicines created by this part;
+(5) "Natural disaster" means a hurricane, tornado, storm, flood, high
+water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption,
+landslide, mudslide, snowstorm, ice storm, drought, fire, explosion, civil
+disturbance, or other catastrophe that causes or may cause substantial damage
+or injury to property, and includes an area that has been declared by the
+governor to be a disaster area;
+(6) "Outbreak" means the widespread occurrence of an illness, disease,
+or other specific health condition; and
+(7) "Virtually sequestered buffer stock" means an inventory stockpile of
+medications managed by a distribution vendor to avoid expiration and ensure
+availability during an emergency or natural disaster.
+68-1-1703.
+(a) The commissioner, in consultation with the director of TEMA and the
+directors of such other state, local, and regional emergency management and public
+health resources as the commissioner deems necessary, shall establish a statewide
+strategic essential buffer stock for emergency preparedness and drug shortage
+prevention to be maintained by the department for use in the event of a public health
+emergency, including natural disasters, man-made disasters, and mass casualty events
+at the local and state levels.
+(b) The commissioner, in consultation with the director of TEMA, shall establish
+guidelines for the procurement, management, and distribution of medicines, vaccines,
+and medical supply items in an essential buffer stock, which may include a virtually
+sequestered buffer stock.
+- 2 - 001089
+(c) The department may contract with private entities for the procurement of
+strategic emergency readiness supplies for, and management and distribution of, the
+essential buffer stock, including a virtually sequestered buffer stock. The department
+may contract for the reservation of supplies stored by a private, vendor-managed entity
+for the essential buffer stock, and the distribution of such supplies to locations specified
+by the department consistent with this section and rules promulgated by the department.
+68-1-1704.
+(a) The commissioner, in consultation with the director of TEMA and the
+directors of such other state, local, and regional emergency management and public
+health resources as the commissioner deems necessary, shall conduct demand
+planning and essential buffer stock modeling for emergency readiness supplies to be
+included at the discretion of the commissioner. Such planning and essential buffer stock
+modeling must include:
+(1) Recommendations on the types of emergency supplies to be
+included, in particular those determined to be necessary for rural and medically
+underserved areas;
+(2) Anticipated demand for emergency supplies for various public health
+emergencies and natural disaster scenarios;
+(3) Recommended quantities to be held in the essential buffer stock for
+each supply type;
+(4) Guidelines for the supplies to be distributed to municipalities and
+healthcare settings in the event of a local or regional public health emergency;
+and
+- 3 - 001089
+(5) Possible logistical and operational strategies that could be used to
+reduce the costs of the supplies, including the use of a virtually sequestered
+buffer stock procured and managed by an external vendor.
+(b) Guidelines described in subdivision (a)(4) must include:
+(1) The various types of items that may be required during an outbreak or
+other public health emergency, including natural disasters, man-made disasters,
+and mass casualty events;
+(2) The amount of each type of item required for a sustained outbreak,
+public health emergency, natural disaster, man-made disaster, or mass casualty
+event;
+(3) An action plan establishing policies and standards for an essential
+buffer stock surge capacity, including a virtually sequestered buffer stock, to
+ensure that hospitals, emergency providers, and other designated recipients
+have access to an adequate supply of necessary items during an outbreak or
+other public health emergency;
+(4) Acknowledgement of any federal and state rules, policies, and
+funding that would be required to establish an essential buffer stock;
+(5) How distribution from procurement must be prioritized if there are
+insufficient resources to meet the identified needs of healthcare providers,
+healthcare facilities, and other designated recipients, including consideration of
+whether the healthcare provider, facility, or other recipient:
+(A) Is in a location with a high number of rural or underserved
+residents;
+- 4 - 001089
+(B) Is in a medically underserved area, as designated by the
+United States department of health and human services, health resources
+and services administration;
+(C) Disproportionately serves a medically underserved or rural
+population, as designated by the United States department of health and
+human services, health resources and services administration; and
+(D) Is in a county with a high infection rate or high hospitalization
+rate related to the declared emergency.
+(c) The commissioner, in consultation with the director of TEMA and the
+directors of such other state, local, and regional emergency management and public
+health resources as the commissioner deems necessary, shall define a list of entities to
+which essential buffer stock resources may be disbursed under the planning, modeling,
+and guidelines created pursuant to this section.
+(d) When maintaining and securing supplies pursuant to this part, the
+department shall seek to maximize available federal and state funding.
+68-1-1705.
+On or before January 15, 2026, and on or before January 15 of each year
+thereafter, the commissioner, in consultation with the director of TEMA and the
+commissioner of education, shall submit to the clerk of the senate, the clerk of the house
+of representatives, and the legislative librarian an annual report on the stockpile for the
+previous calendar year just ended. The report must include:
+(1) An inventory of items in the stockpile;
+(2) The number of items from the stockpile that were used during the
+previous calendar year;
+(3) The level of anticipated future usage;
+- 5 - 001089
+(4) The status of existing contracts with private entities that fulfill
+procurement contracts for the stockpile;
+(5) The types and number of items reserved through private entities; and
+(6) A description of plans to access and distribute items reserved by
+private entities for an emergency.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 6 - 001089
+[DELETED: S6T6A((((]
+[DELETED:  -0(((6((]
+[DELETED:  -0(6(((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((((6O(((]
+[DELETED:  -0(((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 688
+By Camper
+SENATE BILL 584
+By Akbari
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 53; Title 58; Title 63; Title 68 and Title 71,
+relative to medicine.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 1, is amended by adding
+the following as a new part:
+68-1-1701.
+The general assembly finds that access to a statewide strategic buffer stock,
+essential medicine reserve, or strategic inventory of essential medicines in the event of
+an emergency or natural disaster is vital to this state's healthcare system, educational
+settings, and the general population who rely on the state's healthcare resources,
+especially those who reside in rural or medically underserved areas.
+68-1-1702.
+As used in this part:
+(1) "Commissioner" means the commissioner of health, or the
+commissioner's designee;
+(2) "Department" means the department of health;
+(3) "Designated recipients" includes healthcare providers, healthcare
+facilities, state disaster relief organizations, state-operated facilities, and other
+entities to which strategic reserve medical resources may be disbursed under
+this part;
+(4) "Essential buffer stock" means the essential emergency and chronic
+disease management medicines, vaccines, and medical supplies buffer stock,
+SB0584
+001089
+- 1 -
+
+essential medicine reserve, and strategic inventory stockpile of essential
+medicines created by this part;
+(5) "Natural disaster" means a hurricane, tornado, storm, flood, high
+water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption,
+landslide, mudslide, snowstorm, ice storm, drought, fire, explosion, civil
+disturbance, or other catastrophe that causes or may cause substantial damage
+or injury to property, and includes an area that has been declared by the
+governor to be a disaster area;
+(6) "Outbreak" means the widespread occurrence of an illness, disease,
+or other specific health condition; and
+(7) "Virtually sequestered buffer stock" means an inventory stockpile of
+medications managed by a distribution vendor to avoid expiration and ensure
+availability during an emergency or natural disaster.
+68-1-1703.
+(a) The commissioner, in consultation with the director of TEMA and the
+directors of such other state, local, and regional emergency management and public
+health resources as the commissioner deems necessary, shall establish a statewide
+strategic essential buffer stock for emergency preparedness and drug shortage
+prevention to be maintained by the department for use in the event of a public health
+emergency, including natural disasters, man-made disasters, and mass casualty events
+at the local and state levels.
+(b) The commissioner, in consultation with the director of TEMA, shall establish
+guidelines for the procurement, management, and distribution of medicines, vaccines,
+and medical supply items in an essential buffer stock, which may include a virtually
+sequestered buffer stock.
+- 2 - 001089
+
+(c) The department may contract with private entities for the procurement of
+strategic emergency readiness supplies for, and management and distribution of, the
+essential buffer stock, including a virtually sequestered buffer stock. The department
+may contract for the reservation of supplies stored by a private, vendor-managed entity
+for the essential buffer stock, and the distribution of such supplies to locations specified
+by the department consistent with this section and rules promulgated by the department.
+68-1-1704.
+(a) The commissioner, in consultation with the director of TEMA and the
+directors of such other state, local, and regional emergency management and public
+health resources as the commissioner deems necessary, shall conduct demand
+planning and essential buffer stock modeling for emergency readiness supplies to be
+included at the discretion of the commissioner. Such planning and essential buffer stock
+modeling must include:
+(1) Recommendations on the types of emergency supplies to be
+included, in particular those determined to be necessary for rural and medically
+underserved areas;
+(2) Anticipated demand for emergency supplies for various public health
+emergencies and natural disaster scenarios;
+(3) Recommended quantities to be held in the essential buffer stock for
+each supply type;
+(4) Guidelines for the supplies to be distributed to municipalities and
+healthcare settings in the event of a local or regional public health emergency;
+and
+- 3 - 001089
+
+(5) Possible logistical and operational strategies that could be used to
+reduce the costs of the supplies, including the use of a virtually sequestered
+buffer stock procured and managed by an external vendor.
+(b) Guidelines described in subdivision (a)(4) must include:
+(1) The various types of items that may be required during an outbreak or
+other public health emergency, including natural disasters, man-made disasters,
+and mass casualty events;
+(2) The amount of each type of item required for a sustained outbreak,
+public health emergency, natural disaster, man-made disaster, or mass casualty
+event;
+(3) An action plan establishing policies and standards for an essential
+buffer stock surge capacity, including a virtually sequestered buffer stock, to
+ensure that hospitals, emergency providers, and other designated recipients
+have access to an adequate supply of necessary items during an outbreak or
+other public health emergency;
+(4) Acknowledgement of any federal and state rules, policies, and
+funding that would be required to establish an essential buffer stock;
+(5) How distribution from procurement must be prioritized if there are
+insufficient resources to meet the identified needs of healthcare providers,
+healthcare facilities, and other designated recipients, including consideration of
+whether the healthcare provider, facility, or other recipient:
+(A) Is in a location with a high number of rural or underserved
+residents;
+- 4 - 001089
+
+(B) Is in a medically underserved area, as designated by the
+United States department of health and human services, health resources
+and services administration;
+(C) Disproportionately serves a medically underserved or rural
+population, as designated by the United States department of health and
+human services, health resources and services administration; and
+(D) Is in a county with a high infection rate or high hospitalization
+rate related to the declared emergency.
+(c) The commissioner, in consultation with the director of TEMA and the
+directors of such other state, local, and regional emergency management and public
+health resources as the commissioner deems necessary, shall define a list of entities to
+which essential buffer stock resources may be disbursed under the planning, modeling,
+and guidelines created pursuant to this section.
+(d) When maintaining and securing supplies pursuant to this part, the
+department shall seek to maximize available federal and state funding.
+68-1-1705.
+On or before January 15, 2026, and on or before January 15 of each year
+thereafter, the commissioner, in consultation with the director of TEMA and the
+commissioner of education, shall submit to the clerk of the senate, the clerk of the house
+of representatives, and the legislative librarian an annual report on the stockpile for the
+previous calendar year just ended. The report must include:
+(1) An inventory of items in the stockpile;
+(2) The number of items from the stockpile that were used during the
+previous calendar year;
+(3) The level of anticipated future usage;
+- 5 - 001089
+
+(4) The status of existing contracts with private entities that fulfill
+procurement contracts for the stockpile;
+(5) The types and number of items reserved through private entities; and
+(6) A description of plans to access and distribute items reserved by
+private entities for an emergency.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 6 - 001089
+
+[DELETED: S6T6A((((]
+[DELETED:  -0(((6((]
+[DELETED:  -0(6(((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((((6O(((]
+[DELETED:  -0(((S]

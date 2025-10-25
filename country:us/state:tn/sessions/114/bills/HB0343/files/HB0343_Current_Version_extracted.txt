@@ -1,0 +1,110 @@
+Title: SENATE BILL 512
+Official Title: SENATE BILL 512
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Bailey
+HOUSE BILL 343
+By Capley
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 47, relative to lighters.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, Part 1, is amended by
+adding the following as a new section:
+47-18-136.
+(a) As used in this section:
+(1) "Counterfeit lighter" means a lighter that infringes on an intellectual
+property right of a citizen of the United States or a person who is protected by
+federal or state intellectual property law;
+(2) "Lighter" means any electrical or mechanical device that operates
+using any type of fuel and is intended for use in igniting cigarettes, cigars, pipes,
+charcoal or gas grills, or fireplaces; and
+(3) "Unsafe lighter" means any of the following:
+(A) A disposable or refillable cigarette, cigar, or pipe lighter that
+does not comply with American Society for Testing and Materials (ASTM)
+standard F400-20; or
+(B) A utility, grill, or fireplace lighter, or a lighting rod or gas
+match, that does not comply with ASTM standard F2201-20.
+(b) A person shall not offer for sale, sell, or offer a free sample of a counterfeit
+lighter or unsafe lighter.
+(c) Subsection (b) does not apply to:
+HB0343
+001977
+- 1 -
+(1) The interstate transportation of counterfeit lighters or unsafe lighters
+that pass through this state; or
+(2) The storage of counterfeit lighters or unsafe lighters in a warehouse
+or distribution center in this state if the warehouse or distribution center is not
+open to the public for the purposes of retail sale or distribution.
+(d) A violation of this section constitutes an unfair or deceptive act prohibited
+under § 47-18-104, and is punishable as provided in this part.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 47-18-104(b), is amended by adding
+the following as a new subdivision:
+( ) Violating § 47-18-136;
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 2 - 001977
+[DELETED: S4((((((((]
+[DELETED:  -0(((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 512
+By Bailey
+HOUSE BILL 343
+By Capley
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 47, relative to lighters.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, Part 1, is amended by
+adding the following as a new section:
+47-18-136.
+(a) As used in this section:
+(1) "Counterfeit lighter" means a lighter that infringes on an intellectual
+property right of a citizen of the United States or a person who is protected by
+federal or state intellectual property law;
+(2) "Lighter" means any electrical or mechanical device that operates
+using any type of fuel and is intended for use in igniting cigarettes, cigars, pipes,
+charcoal or gas grills, or fireplaces; and
+(3) "Unsafe lighter" means any of the following:
+(A) A disposable or refillable cigarette, cigar, or pipe lighter that
+does not comply with American Society for Testing and Materials (ASTM)
+standard F400-20; or
+(B) A utility, grill, or fireplace lighter, or a lighting rod or gas
+match, that does not comply with ASTM standard F2201-20.
+(b) A person shall not offer for sale, sell, or offer a free sample of a counterfeit
+lighter or unsafe lighter.
+(c) Subsection (b) does not apply to:
+HB0343
+001977
+- 1 -
+
+(1) The interstate transportation of counterfeit lighters or unsafe lighters
+that pass through this state; or
+(2) The storage of counterfeit lighters or unsafe lighters in a warehouse
+or distribution center in this state if the warehouse or distribution center is not
+open to the public for the purposes of retail sale or distribution.
+(d) A violation of this section constitutes an unfair or deceptive act prohibited
+under § 47-18-104, and is punishable as provided in this part.
+SECTION 2. Tennessee Code Annotated, Section 47-18-104(b), is amended by adding
+the following as a new subdivision:
+( ) Violating § 47-18-136;
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 2 - 001977
+
+[DELETED: S4((((((((]
+[DELETED:  -0(((S]

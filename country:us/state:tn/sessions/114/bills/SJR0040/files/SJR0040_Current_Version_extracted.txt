@@ -1,0 +1,122 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 40
+By Yarbro
+A RESOLUTION to propose an amendment to the Constitution of
+Tennessee, to provide for the people to propose
+laws by initiative.
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH GENERAL
+ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF REPRESENTATIVES
+CONCURRING, that a majority of all the members of each house concurring, as shown by the
+yeas and nays entered on their journals, that it is proposed that the Constitution of Tennessee
+be amended by adding the following new Article:
+Article XII.
+
+Section 2:
+Section 1. The people reserve power to propose laws by initiative, independent
+of the general assembly.
+
+Section 3:
+Section 2. Initiative petitions proposing laws shall be signed by a number of
+registered voters equal to or greater than five percent (5%) of votes cast in the state for
+the office of governor at the last preceding gubernatorial election. Every such petition
+shall be filed with the secretary of state not less than six (6) months before the election
+at which it is to be voted upon and shall contain the full text of the law. Petitions for laws
+shall contain not more than one (1) subject which shall be expressed clearly in the title.
+The secretary of state shall certify the validity of the petition within sixty (60) days of
+receipt.
+
+Section 4:
+Section 3. Initiatives may only be placed on the ballot in an election held on the
+first Tuesday after the first Monday in November in an even-numbered year.
+
+Section 5:
+Section 4. Any proposed law by initiative that receives approval from a majority
+of those voting on the proposed law shall be submitted to the general assembly. The
+general assembly shall, within ninety (90) days of convening in regular annual session
+after the initiative has received approval from a majority of those voting, either approve
+SJR0040
+000304
+- 1 -
+the law by a majority of those voting in each chamber, reject the proposed law by a
+majority of those voting in each chamber, or take no action. If the general assembly
+approves the law or takes no action, the proposed law shall be considered enacted and
+shall take effect the first day of July after the approval or inaction. If the general
+assembly rejects the law, it shall not take effect.
+
+Section 6:
+Section 5. Any law proposed by initiative that fails to receive approval from a
+majority of those voting shall not appear on the ballot as an initiative again for at least
+four (4) years. Any law proposed by initiative that is rejected by the general assembly
+shall not appear on the ballot as an initiative again for at least two (2) years.
+BE IT FURTHER RESOLVED, that the foregoing be referred to the One Hundred
+Fifteenth General Assembly and that this resolution proposing such amendment be published in
+accordance with Article XI, Section 3 of the Constitution of Tennessee.
+BE IT FURTHER RESOLVED, that the Clerk of the Senate is directed to deliver a copy
+of this resolution to the Secretary of State.
+- 2 - 000304
+[DELETED: ASSSS]
+[DELETED:  -0SBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 40
+By Yarbro
+A RESOLUTION to propose an amendment to the Constitution of
+Tennessee, to provide for the people to propose
+laws by initiative.
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH GENERAL
+ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF REPRESENTATIVES
+CONCURRING, that a majority of all the members of each house concurring, as shown by the
+yeas and nays entered on their journals, that it is proposed that the Constitution of Tennessee
+be amended by adding the following new Article:
+Article XII.
+Section 1. The people reserve power to propose laws by initiative, independent
+of the general assembly.
+Section 2. Initiative petitions proposing laws shall be signed by a number of
+registered voters equal to or greater than five percent (5%) of votes cast in the state for
+the office of governor at the last preceding gubernatorial election. Every such petition
+shall be filed with the secretary of state not less than six (6) months before the election
+at which it is to be voted upon and shall contain the full text of the law. Petitions for laws
+shall contain not more than one (1) subject which shall be expressed clearly in the title.
+The secretary of state shall certify the validity of the petition within sixty (60) days of
+receipt.
+Section 3. Initiatives may only be placed on the ballot in an election held on the
+first Tuesday after the first Monday in November in an even-numbered year.
+Section 4. Any proposed law by initiative that receives approval from a majority
+of those voting on the proposed law shall be submitted to the general assembly. The
+general assembly shall, within ninety (90) days of convening in regular annual session
+after the initiative has received approval from a majority of those voting, either approve
+SJR0040
+000304
+- 1 -
+
+the law by a majority of those voting in each chamber, reject the proposed law by a
+majority of those voting in each chamber, or take no action. If the general assembly
+approves the law or takes no action, the proposed law shall be considered enacted and
+shall take effect the first day of July after the approval or inaction. If the general
+assembly rejects the law, it shall not take effect.
+Section 5. Any law proposed by initiative that fails to receive approval from a
+majority of those voting shall not appear on the ballot as an initiative again for at least
+four (4) years. Any law proposed by initiative that is rejected by the general assembly
+shall not appear on the ballot as an initiative again for at least two (2) years.
+BE IT FURTHER RESOLVED, that the foregoing be referred to the One Hundred
+Fifteenth General Assembly and that this resolution proposing such amendment be published in
+accordance with Article XI, Section 3 of the Constitution of Tennessee.
+BE IT FURTHER RESOLVED, that the Clerk of the Senate is directed to deliver a copy
+of this resolution to the Secretary of State.
+- 2 - 000304
+
+[DELETED: ASSSS]
+[DELETED:  -0SBB]

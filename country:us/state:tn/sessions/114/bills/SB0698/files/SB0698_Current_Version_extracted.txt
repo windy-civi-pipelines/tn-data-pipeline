@@ -1,0 +1,609 @@
+Title: HOUSE BILL 680
+Official Title: HOUSE BILL 680
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+By Jones J
+SENATE BILL 698
+By Kyle
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 8; Title 43; Title 50 and Title 68, relative to
+employment of agricultural employees.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 50, is amended by adding the following
+as a new chapter:
+50-12-101.
+As used in this chapter:
+(1) "Adverse action" means a demotion, reassignment to a lower-ranked
+position or to a position with a lower level of compensation, decrease in
+compensation level, denial of a promotion, termination of employment, or other
+decision for employment purposes that adversely affects an agricultural
+employee;
+(2) "Agricultural employee" or "employee":
+(A) Means an individual who performs agricultural work for an
+agricultural employer for valuable consideration; and
+(B) Does not include a self-employed independent contractor;
+(3) "Agricultural employee's representative" means an individual or entity
+designated by an agricultural employee in a confidential, sealed filing with a
+court;
+(4) "Agricultural employer" or "employer":
+(A) Means an individual or entity that:
+SB0698
+002139
+- 1 -
+(i) Regularly engages the services of one (1) or more
+employees, or contracts with an individual or entity that recruits,
+solicits, hires, employs, furnishes, or transports employees; and
+(ii) Is engaged in agricultural work; and
+(B) Does not include this state or a county, municipality, or other
+political subdivision of this state, or an entity created by this state or a
+county, municipality, or other political subdivision of this state;
+(5) "Agricultural work" includes farming in all its branches, and, among
+other things, includes the cultivation and tillage of the soil; dairying; the
+production, cultivation, growing, and harvesting of an agricultural or horticultural
+commodity; the raising of livestock or poultry; and any practices performed by a
+farmer or on a farm that are incident to or in conjunction with the farming
+operation, including preparation for market, and delivery to storage, market, or
+carriers for transportation to market;
+(6) "Department" means the department of labor and workforce
+development;
+(7) "Key service provider" means a healthcare provider; a community
+health worker; an education provider; an attorney or other legal advocate; a
+government official, including a consular representative; a member of the clergy;
+or another service provider to which an agricultural employee may need access;
+and
+(8) "Whistleblower" means an agricultural employee, or an agricultural
+employee's representative, who has knowledge of an alleged violation of this
+chapter and asserts a claim related to the alleged violation.
+50-12-102.
+- 2 - 002139
+(a) An agricultural employer shall not retaliate against an agricultural employee:
+(1) Who asserts a right protected under this chapter, including
+complaining publicly or seeking or asserting the rights, remedies, or penalties
+provided under this chapter; or
+(2) Based on the agricultural employee's immigration status.
+(b) There is a rebuttable presumption that an agricultural employer that takes an
+adverse action against an agricultural employee within ninety (90) days after that
+agricultural employee has asserted or sought a right, remedy, or penalty provided under
+this chapter or by another law, or based on the agricultural employee's immigration
+status, has retaliated against the agricultural employee.
+50-12-103.
+(a)
+(1) An agricultural employee, an individual who has a familial or
+workplace relationship with the agricultural employee or with whom the
+agricultural employee exchanges care or support, a whistleblower, or key service
+provider may assert a claim in the chancery or circuit court having jurisdiction in
+the county where the alleged violation occurred.
+(2) The statute of limitations for filing a claim as described in subdivision
+(a)(1) is tolled from the date that an agricultural employee asserts a claim with
+the department until ninety (90) days after the department declines to investigate
+the claim.
+(b)
+(1) In addition to the right provided in subsection (a), an aggrieved
+individual may assert a claim with the department, in accordance with rules
+- 3 - 002139
+promulgated by the department. The department shall allow a claim to be
+submitted electronically on the department's website.
+(2)
+(A) The department may investigate a claim submitted for a
+violation of this chapter.
+(B) The department shall make a determination of whether to
+investigate a claim within ninety (90) days from the date the claim was
+received by the department. The department shall notify the complainant,
+in writing, of the department's decision, and, if the department chooses
+not to investigate the claim, notify the complainant of the complainant's
+right to assert a claim in the chancery or circuit court having jurisdiction in
+the county where the alleged violation occurred, along with the applicable
+statute of limitations.
+(C) If the department chooses to investigate and finds that an
+agricultural employer violated this chapter, then the department may bring
+an action in the chancery court of Davidson County on behalf of this state
+against the agricultural employer that retaliated against:
+(i) An agricultural employee;
+(ii) An individual who has a familial or workplace
+relationship with the agricultural employee; or
+(iii) An individual with whom the agricultural employee
+exchanges care or support.
+(c) A court that finds that an agricultural employer violated this chapter may:
+(1) Order injunctive relief to enjoin the continuance of the violation of this
+chapter;
+- 4 - 002139
+(2) Award the plaintiff actual damages or ten thousand dollars ($10,000),
+whichever is greater; or
+(3) Award court costs and reasonable attorneys' fees.
+(d) A party that asserts a claim in accordance with this section and recovers
+damages shall distribute the damages to the aggrieved individual or agricultural
+employee.
+50-12-104.
+An agricultural employer shall pay to an agricultural employee no less than the
+minimum wage required under 29 U.S.C. § 206.
+50-12-105.
+(a) An agricultural employer shall allow an agricultural employee to take an
+uninterrupted and duty-free meal period of at least thirty (30) minutes when the
+employee's shift exceeds five (5) consecutive hours.
+(b)
+(1) An employer shall, to the extent practicable, allow an employee to
+take the meal period described in subsection (a) no sooner than one (1) hour
+after the start of the employee's shift.
+(2) An employer shall allow an employee to consume:
+(A) An on-duty meal while performing the employee's duties, if the
+nature of the business activities or other circumstances of the work make
+provision of an uninterrupted meal period impractical; and
+(B) The entire on-duty meal, without loss of compensation or time
+for the period during which the agricultural employee consumed the on-
+duty meal.
+- 5 - 002139
+(c) In addition to subsections (a) and (b), an employer shall allow an employee
+to take an uninterrupted and duty-free rest period of at least ten (10) minutes within each
+four (4) hours of work. This subsection (c) does not apply to a truck driver whose sole
+and principal duty is to haul livestock or other farm products, including crops or silage, or
+to an employee operating a combine harvester.
+50-12-106.
+The department shall promulgate rules to set required minimum overtime pay for
+agricultural employees that is comparable to the overtime requirements applicable to
+other types of employees in this state.
+50-12-107.
+(a) An agricultural employer shall not interfere with an agricultural employee's
+reasonable access to:
+(1) A key service provider during the time when the employee is not
+performing compensable work, or during a paid or unpaid meal or rest period; or
+(2) Visitors at the employee's employer-provided housing when the
+employee is present at the housing.
+(b) Notwithstanding this section, an employer may require a visitor who
+accesses a work site to follow protocols that are applicable to third parties who may
+access the work site. The employer may require a visitor or third party to follow a
+protocol designed to:
+(1) Manage biohazards and other risks of contamination;
+(2) Promote food safety; or
+(3) Reduce the risk of injury to, or from, livestock on a farm or ranch,
+except an open range.
+- 6 - 002139
+(c) An individual, other than the employee who resides in the employer-provided
+housing, shall not prohibit, bar, or interfere with, or attempt to prohibit, bar, or interfere
+with, the access to or egress from the housing of an employee by another individual,
+either by the erection or maintenance of a physical barrier; physical force or violence, or
+threat of physical force or violence; or by an order or notice.
+50-12-108.
+(a)
+(1) Except as provided in subdivision (a)(2), an agricultural employer who
+provides employer-provided housing or transportation for an agricultural
+employee shall, at least once per week, provide transportation to an employee to
+a location where the employee can access basic necessities, conduct financial
+transactions, and meet with key service providers.
+(2) An employer who provides employer-provided housing or
+transportation for an agricultural employee who is actively engaged in the
+production of livestock on an open range shall provide the transportation
+described in subdivision (a)(1) not less than one (1) day per three (3) weeks.
+(b) Subsection (a) does not:
+(1) Limit or restrict an employee's right to travel using the employee's
+own means of transportation;
+(2) Require an employer to violate state or federal law; or
+(3) Require an employer to provide the transportation described in
+subsection (a) to an employee if the employee has access to the employee's own
+vehicle and the employee is permitted to park the vehicle on the employer's
+property.
+50-12-109.
+- 7 - 002139
+(a) An agricultural employer shall post written notice of the rights provided under
+this chapter:
+(1) In an easily accessible, conspicuous location on the agricultural
+employer's premises, including in the agricultural employee's employer-provided
+housing;
+(2) In a place where the employer customarily posts notices to the
+employer's employees; and
+(3) Electronically, including by email and on an intranet or internet
+website, if the employer customarily communicates with its employees
+electronically.
+(b) The notice required by subsection (a) must be written in the English
+language, and in a language spoken as the primary language by the majority of the
+employer's employees.
+50-12-110.
+(a) The department shall promulgate rules to require an agricultural employer to
+protect the employer's agricultural employees from heat- or cold-related stress, illnesses,
+or injuries when the employees work outside in a temperature of:
+(1) Thirty-two degrees Fahrenheit (32°F) or lower; or
+(2) Eighty degrees Fahrenheit (80°F) or higher.
+(b) The department shall set requirements to effectuate subsection (a) in rules
+based on environmental factors, exposure time, acclimatization, and metabolic demands
+of a job as set forth in the United States department of health and human services,
+centers for disease control and prevention national institute for occupational safety and
+health 2016 revised publication, or the most recent subsequent publication. The rules
+must, at a minimum, include:
+- 8 - 002139
+(1) An advisory work schedule based on the temperatures described in
+subdivisions (a)(1) and (2);
+(2) Required additional breaks that must be provided to agricultural
+employees based on the temperature;
+(3) Recommendations for shelters to warm or cool agricultural workers,
+depending on the temperature; and
+(4) Other requirements or recommendations that the department
+determines, in the department's discretion, are necessary for working in
+temperatures described in subdivisions (a)(1) and (2).
+50-12-111.
+(a) An agricultural employer commits the offense of wage theft who hires an
+agricultural employee and intentionally does not pay the agricultural employee for the
+services the employee provides, at the minimum wage rate required under the Fair
+Labor Standards Act (FLSA) (29 U.S.C. § 201 et seq.), title 50, chapter 2, or the
+employment agreement between the employer and employee, whichever is greater, and
+at the interval required under the FLSA, title 50, chapter 2, or the employment
+agreement between the employer and employee, whichever is more frequent.
+(b) The offense of wage theft must be graded as theft of services in accordance
+with § 39-14-105.
+50-12-112.
+(a) There is created the agricultural work advisory committee. The advisory
+committee is administratively attached to the department.
+(b)
+(1) The advisory committee is composed of eight (8) members and must
+include:
+- 9 - 002139
+(A) One (1) individual from each grand division of this state, to be
+appointed by the governor;
+(B) Two (2) individuals who are qualified and knowledgeable
+regarding agricultural work, to be appointed by the commissioner of labor
+and workforce development;
+(C) One (1) individual who is qualified and knowledgeable
+regarding wages for agricultural work, to be appointed by the speaker of
+the house of representatives;
+(D) One (1) individual who is qualified and knowledgeable
+regarding working conditions for agricultural work, to be appointed by the
+speaker of the senate; and
+(E) The commissioner of labor and workforce development, or the
+commissioner's designee, as a nonvoting ex officio member.
+(2) In making appointments to the advisory committee, the appointing
+authorities shall coordinate the appointments to ensure that the advisory
+committee membership is inclusive and reflects the diversity of this state.
+(3) A vacancy on the advisory committee must be filled for the unexpired
+term by the appointing authority and in such a manner to ensure that the
+requirements of this section are met.
+(4)
+(A) Members appointed pursuant to subdivision (b)(1)(A) are
+appointed for an initial term of two (2) years. Members appointed
+pursuant to subdivision (b)(1)(B)–(D) are appointed for an initial term of
+three (3) years. After the initial term, each member serves for a term of
+four (4) years.
+- 10 - 002139
+(B) Each member shall hold over after the expiration of the
+member's term until a successor has been duly appointed and qualified.
+(C) Members may be reappointed for additional terms.
+(5) Members serve without compensation, but members appointed
+pursuant to subdivisions (b)(1)(A)–(D) may receive travel expenses in
+accordance with the comprehensive travel regulations promulgated by the
+department of finance and administration.
+(c) The committee shall study and provide recommendations to the department
+for:
+(1) Appropriate wages for agricultural employees; and
+(2) Methods to improve working conditions for agricultural employees.
+
+Section 3:
+SECTION 2. The department of labor and workforce development shall promulgate
+rules to effectuate this act. The rules must be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+
+Section 4:
+SECTION 3. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect January 1, 2026,
+the public welfare requiring it, and applies to conduct occurring on or after that date.
+- 11 - 002139
+[DELETED: S5A(((]
+[DELETED:  -0(((((((5]
+[DELETED:  -0(((((]
+[DELETED:  -0(((]
+[DELETED:  -0((5A5((]
+[DELETED:  -0(5T5((]
+[DELETED:  -0(5(((]
+[DELETED:  -0((((]
+[DELETED:  -0((((5]
+[DELETED:  -0]
+[DELETED:  -0((((SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 680
+By Jones J
+SENATE BILL 698
+By Kyle
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 8; Title 43; Title 50 and Title 68, relative to
+employment of agricultural employees.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 50, is amended by adding the following
+as a new chapter:
+50-12-101.
+As used in this chapter:
+(1) "Adverse action" means a demotion, reassignment to a lower-ranked
+position or to a position with a lower level of compensation, decrease in
+compensation level, denial of a promotion, termination of employment, or other
+decision for employment purposes that adversely affects an agricultural
+employee;
+(2) "Agricultural employee" or "employee":
+(A) Means an individual who performs agricultural work for an
+agricultural employer for valuable consideration; and
+(B) Does not include a self-employed independent contractor;
+(3) "Agricultural employee's representative" means an individual or entity
+designated by an agricultural employee in a confidential, sealed filing with a
+court;
+(4) "Agricultural employer" or "employer":
+(A) Means an individual or entity that:
+SB0698
+002139
+- 1 -
+
+(i) Regularly engages the services of one (1) or more
+employees, or contracts with an individual or entity that recruits,
+solicits, hires, employs, furnishes, or transports employees; and
+(ii) Is engaged in agricultural work; and
+(B) Does not include this state or a county, municipality, or other
+political subdivision of this state, or an entity created by this state or a
+county, municipality, or other political subdivision of this state;
+(5) "Agricultural work" includes farming in all its branches, and, among
+other things, includes the cultivation and tillage of the soil; dairying; the
+production, cultivation, growing, and harvesting of an agricultural or horticultural
+commodity; the raising of livestock or poultry; and any practices performed by a
+farmer or on a farm that are incident to or in conjunction with the farming
+operation, including preparation for market, and delivery to storage, market, or
+carriers for transportation to market;
+(6) "Department" means the department of labor and workforce
+development;
+(7) "Key service provider" means a healthcare provider; a community
+health worker; an education provider; an attorney or other legal advocate; a
+government official, including a consular representative; a member of the clergy;
+or another service provider to which an agricultural employee may need access;
+and
+(8) "Whistleblower" means an agricultural employee, or an agricultural
+employee's representative, who has knowledge of an alleged violation of this
+chapter and asserts a claim related to the alleged violation.
+50-12-102.
+- 2 - 002139
+
+(a) An agricultural employer shall not retaliate against an agricultural employee:
+(1) Who asserts a right protected under this chapter, including
+complaining publicly or seeking or asserting the rights, remedies, or penalties
+provided under this chapter; or
+(2) Based on the agricultural employee's immigration status.
+(b) There is a rebuttable presumption that an agricultural employer that takes an
+adverse action against an agricultural employee within ninety (90) days after that
+agricultural employee has asserted or sought a right, remedy, or penalty provided under
+this chapter or by another law, or based on the agricultural employee's immigration
+status, has retaliated against the agricultural employee.
+50-12-103.
+(a)
+(1) An agricultural employee, an individual who has a familial or
+workplace relationship with the agricultural employee or with whom the
+agricultural employee exchanges care or support, a whistleblower, or key service
+provider may assert a claim in the chancery or circuit court having jurisdiction in
+the county where the alleged violation occurred.
+(2) The statute of limitations for filing a claim as described in subdivision
+(a)(1) is tolled from the date that an agricultural employee asserts a claim with
+the department until ninety (90) days after the department declines to investigate
+the claim.
+(b)
+(1) In addition to the right provided in subsection (a), an aggrieved
+individual may assert a claim with the department, in accordance with rules
+- 3 - 002139
+
+promulgated by the department. The department shall allow a claim to be
+submitted electronically on the department's website.
+(2)
+(A) The department may investigate a claim submitted for a
+violation of this chapter.
+(B) The department shall make a determination of whether to
+investigate a claim within ninety (90) days from the date the claim was
+received by the department. The department shall notify the complainant,
+in writing, of the department's decision, and, if the department chooses
+not to investigate the claim, notify the complainant of the complainant's
+right to assert a claim in the chancery or circuit court having jurisdiction in
+the county where the alleged violation occurred, along with the applicable
+statute of limitations.
+(C) If the department chooses to investigate and finds that an
+agricultural employer violated this chapter, then the department may bring
+an action in the chancery court of Davidson County on behalf of this state
+against the agricultural employer that retaliated against:
+(i) An agricultural employee;
+(ii) An individual who has a familial or workplace
+relationship with the agricultural employee; or
+(iii) An individual with whom the agricultural employee
+exchanges care or support.
+(c) A court that finds that an agricultural employer violated this chapter may:
+(1) Order injunctive relief to enjoin the continuance of the violation of this
+chapter;
+- 4 - 002139
+
+(2) Award the plaintiff actual damages or ten thousand dollars ($10,000),
+whichever is greater; or
+(3) Award court costs and reasonable attorneys' fees.
+(d) A party that asserts a claim in accordance with this section and recovers
+damages shall distribute the damages to the aggrieved individual or agricultural
+employee.
+50-12-104.
+An agricultural employer shall pay to an agricultural employee no less than the
+minimum wage required under 29 U.S.C. § 206.
+50-12-105.
+(a) An agricultural employer shall allow an agricultural employee to take an
+uninterrupted and duty-free meal period of at least thirty (30) minutes when the
+employee's shift exceeds five (5) consecutive hours.
+(b)
+(1) An employer shall, to the extent practicable, allow an employee to
+take the meal period described in subsection (a) no sooner than one (1) hour
+after the start of the employee's shift.
+(2) An employer shall allow an employee to consume:
+(A) An on-duty meal while performing the employee's duties, if the
+nature of the business activities or other circumstances of the work make
+provision of an uninterrupted meal period impractical; and
+(B) The entire on-duty meal, without loss of compensation or time
+for the period during which the agricultural employee consumed the on-
+duty meal.
+- 5 - 002139
+
+(c) In addition to subsections (a) and (b), an employer shall allow an employee
+to take an uninterrupted and duty-free rest period of at least ten (10) minutes within each
+four (4) hours of work. This subsection (c) does not apply to a truck driver whose sole
+and principal duty is to haul livestock or other farm products, including crops or silage, or
+to an employee operating a combine harvester.
+50-12-106.
+The department shall promulgate rules to set required minimum overtime pay for
+agricultural employees that is comparable to the overtime requirements applicable to
+other types of employees in this state.
+50-12-107.
+(a) An agricultural employer shall not interfere with an agricultural employee's
+reasonable access to:
+(1) A key service provider during the time when the employee is not
+performing compensable work, or during a paid or unpaid meal or rest period; or
+(2) Visitors at the employee's employer-provided housing when the
+employee is present at the housing.
+(b) Notwithstanding this section, an employer may require a visitor who
+accesses a work site to follow protocols that are applicable to third parties who may
+access the work site. The employer may require a visitor or third party to follow a
+protocol designed to:
+(1) Manage biohazards and other risks of contamination;
+(2) Promote food safety; or
+(3) Reduce the risk of injury to, or from, livestock on a farm or ranch,
+except an open range.
+- 6 - 002139
+
+(c) An individual, other than the employee who resides in the employer-provided
+housing, shall not prohibit, bar, or interfere with, or attempt to prohibit, bar, or interfere
+with, the access to or egress from the housing of an employee by another individual,
+either by the erection or maintenance of a physical barrier; physical force or violence, or
+threat of physical force or violence; or by an order or notice.
+50-12-108.
+(a)
+(1) Except as provided in subdivision (a)(2), an agricultural employer who
+provides employer-provided housing or transportation for an agricultural
+employee shall, at least once per week, provide transportation to an employee to
+a location where the employee can access basic necessities, conduct financial
+transactions, and meet with key service providers.
+(2) An employer who provides employer-provided housing or
+transportation for an agricultural employee who is actively engaged in the
+production of livestock on an open range shall provide the transportation
+described in subdivision (a)(1) not less than one (1) day per three (3) weeks.
+(b) Subsection (a) does not:
+(1) Limit or restrict an employee's right to travel using the employee's
+own means of transportation;
+(2) Require an employer to violate state or federal law; or
+(3) Require an employer to provide the transportation described in
+subsection (a) to an employee if the employee has access to the employee's own
+vehicle and the employee is permitted to park the vehicle on the employer's
+property.
+50-12-109.
+- 7 - 002139
+
+(a) An agricultural employer shall post written notice of the rights provided under
+this chapter:
+(1) In an easily accessible, conspicuous location on the agricultural
+employer's premises, including in the agricultural employee's employer-provided
+housing;
+(2) In a place where the employer customarily posts notices to the
+employer's employees; and
+(3) Electronically, including by email and on an intranet or internet
+website, if the employer customarily communicates with its employees
+electronically.
+(b) The notice required by subsection (a) must be written in the English
+language, and in a language spoken as the primary language by the majority of the
+employer's employees.
+50-12-110.
+(a) The department shall promulgate rules to require an agricultural employer to
+protect the employer's agricultural employees from heat- or cold-related stress, illnesses,
+or injuries when the employees work outside in a temperature of:
+(1) Thirty-two degrees Fahrenheit (32°F) or lower; or
+(2) Eighty degrees Fahrenheit (80°F) or higher.
+(b) The department shall set requirements to effectuate subsection (a) in rules
+based on environmental factors, exposure time, acclimatization, and metabolic demands
+of a job as set forth in the United States department of health and human services,
+centers for disease control and prevention national institute for occupational safety and
+health 2016 revised publication, or the most recent subsequent publication. The rules
+must, at a minimum, include:
+- 8 - 002139
+
+(1) An advisory work schedule based on the temperatures described in
+subdivisions (a)(1) and (2);
+(2) Required additional breaks that must be provided to agricultural
+employees based on the temperature;
+(3) Recommendations for shelters to warm or cool agricultural workers,
+depending on the temperature; and
+(4) Other requirements or recommendations that the department
+determines, in the department's discretion, are necessary for working in
+temperatures described in subdivisions (a)(1) and (2).
+50-12-111.
+(a) An agricultural employer commits the offense of wage theft who hires an
+agricultural employee and intentionally does not pay the agricultural employee for the
+services the employee provides, at the minimum wage rate required under the Fair
+Labor Standards Act (FLSA) (29 U.S.C. § 201 et seq.), title 50, chapter 2, or the
+employment agreement between the employer and employee, whichever is greater, and
+at the interval required under the FLSA, title 50, chapter 2, or the employment
+agreement between the employer and employee, whichever is more frequent.
+(b) The offense of wage theft must be graded as theft of services in accordance
+with § 39-14-105.
+50-12-112.
+(a) There is created the agricultural work advisory committee. The advisory
+committee is administratively attached to the department.
+(b)
+(1) The advisory committee is composed of eight (8) members and must
+include:
+- 9 - 002139
+
+(A) One (1) individual from each grand division of this state, to be
+appointed by the governor;
+(B) Two (2) individuals who are qualified and knowledgeable
+regarding agricultural work, to be appointed by the commissioner of labor
+and workforce development;
+(C) One (1) individual who is qualified and knowledgeable
+regarding wages for agricultural work, to be appointed by the speaker of
+the house of representatives;
+(D) One (1) individual who is qualified and knowledgeable
+regarding working conditions for agricultural work, to be appointed by the
+speaker of the senate; and
+(E) The commissioner of labor and workforce development, or the
+commissioner's designee, as a nonvoting ex officio member.
+(2) In making appointments to the advisory committee, the appointing
+authorities shall coordinate the appointments to ensure that the advisory
+committee membership is inclusive and reflects the diversity of this state.
+(3) A vacancy on the advisory committee must be filled for the unexpired
+term by the appointing authority and in such a manner to ensure that the
+requirements of this section are met.
+(4)
+(A) Members appointed pursuant to subdivision (b)(1)(A) are
+appointed for an initial term of two (2) years. Members appointed
+pursuant to subdivision (b)(1)(B)–(D) are appointed for an initial term of
+three (3) years. After the initial term, each member serves for a term of
+four (4) years.
+- 10 - 002139
+
+(B) Each member shall hold over after the expiration of the
+member's term until a successor has been duly appointed and qualified.
+(C) Members may be reappointed for additional terms.
+(5) Members serve without compensation, but members appointed
+pursuant to subdivisions (b)(1)(A)–(D) may receive travel expenses in
+accordance with the comprehensive travel regulations promulgated by the
+department of finance and administration.
+(c) The committee shall study and provide recommendations to the department
+for:
+(1) Appropriate wages for agricultural employees; and
+(2) Methods to improve working conditions for agricultural employees.
+SECTION 2. The department of labor and workforce development shall promulgate
+rules to effectuate this act. The rules must be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+SECTION 3. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect January 1, 2026,
+the public welfare requiring it, and applies to conduct occurring on or after that date.
+- 11 - 002139
+
+[DELETED: S5A(((]
+[DELETED:  -0(((((((5]
+[DELETED:  -0(((((]
+[DELETED:  -0(((]
+[DELETED:  -0((5A5((]
+[DELETED:  -0(5T5((]
+[DELETED:  -0(5(((]
+[DELETED:  -0((((]
+[DELETED:  -0((((5]
+[DELETED:  -0]
+[DELETED:  -0((((SS]

@@ -1,0 +1,126 @@
+Title: HOUSE BILL 207
+Official Title: HOUSE BILL 207
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Zachary
+SENATE BILL 240
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 39,
+Chapter 14, relative to organized retail crime.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 39-14-113(c)(1), is amended by
+deleting "aggregated over a ninety-day period" and substituting "aggregated over a one-
+hundred-eighty-day period".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 39-14-113(c), is amended by adding
+the following as new subdivisions:
+(3) Knowingly removes, destroys, deactivates, or evades any component of an
+anti-shoplifting or inventory control device to prevent the activation of that device or to
+facilitate the commission of an offense under this subsection (c);
+(4) Knowingly activates or interferes with a fire alarm system during the
+commission of an offense under this subsection (c) or to facilitate the commission of an
+offense under this subsection (c);
+(5) Knowingly uses an online marketplace or a social media platform to
+coordinate a meeting with one (1) or more individuals to sell, barter, or trade stolen
+merchandise for monetary or other gain;
+(6) Knowingly returns stolen merchandise or counterfeit merchandise to a retail
+merchant;
+(7) Receives, purchases, or possesses retail merchandise for the purpose of
+sale or resale knowing or believing the merchandise to be stolen from a merchant;
+SB0240
+001172
+- 1 -
+(8) Knowingly uses any artifice, instrument, container, device, or other article to
+facilitate the commission of an offense under this subsection (c);
+(9) Knowingly uses a device or apparatus, including, but not limited to, a device
+or apparatus that can be affixed to point-of-sale terminals, automated teller machines,
+fuel pumps, and other payment processing devices, unlawfully to capture, record, or
+transmit the electronic information contained on the magnetic strip or embedded chip of
+a credit card, debit card, or other payment device with the intent to defraud another; or
+(10) Knowingly possesses, controls, or has custody of ten (10) or more
+fraudulently obtained access devices, including gift cards, with the intent to defraud
+another. As used in this subdivision (c)(10), "access devices" means any card, plate,
+code, account number, electronic serial number, mobile identification number, personal
+identification number, or other means of account access that can be used, alone or in
+conjunction with another access device, to obtain money, goods, services, or other thing
+of value, whether the device is physical or digital.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 39-14-113(d), is amended by adding
+the following as a new subdivision:
+(3) A violation of subsection (c) is punished one (1) classification higher than
+provided in § 39-14-105 if the defendant engages in the destruction of property or uses a
+weapon during the commission of the offense.
+
+Section 5:
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 001172
+[DELETED: SS(((((]
+[DELETED:  -0(((S(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 207
+By Zachary
+SENATE BILL 240
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 39,
+Chapter 14, relative to organized retail crime.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 39-14-113(c)(1), is amended by
+deleting "aggregated over a ninety-day period" and substituting "aggregated over a one-
+hundred-eighty-day period".
+SECTION 2. Tennessee Code Annotated, Section 39-14-113(c), is amended by adding
+the following as new subdivisions:
+(3) Knowingly removes, destroys, deactivates, or evades any component of an
+anti-shoplifting or inventory control device to prevent the activation of that device or to
+facilitate the commission of an offense under this subsection (c);
+(4) Knowingly activates or interferes with a fire alarm system during the
+commission of an offense under this subsection (c) or to facilitate the commission of an
+offense under this subsection (c);
+(5) Knowingly uses an online marketplace or a social media platform to
+coordinate a meeting with one (1) or more individuals to sell, barter, or trade stolen
+merchandise for monetary or other gain;
+(6) Knowingly returns stolen merchandise or counterfeit merchandise to a retail
+merchant;
+(7) Receives, purchases, or possesses retail merchandise for the purpose of
+sale or resale knowing or believing the merchandise to be stolen from a merchant;
+SB0240
+001172
+- 1 -
+
+(8) Knowingly uses any artifice, instrument, container, device, or other article to
+facilitate the commission of an offense under this subsection (c);
+(9) Knowingly uses a device or apparatus, including, but not limited to, a device
+or apparatus that can be affixed to point-of-sale terminals, automated teller machines,
+fuel pumps, and other payment processing devices, unlawfully to capture, record, or
+transmit the electronic information contained on the magnetic strip or embedded chip of
+a credit card, debit card, or other payment device with the intent to defraud another; or
+(10) Knowingly possesses, controls, or has custody of ten (10) or more
+fraudulently obtained access devices, including gift cards, with the intent to defraud
+another. As used in this subdivision (c)(10), "access devices" means any card, plate,
+code, account number, electronic serial number, mobile identification number, personal
+identification number, or other means of account access that can be used, alone or in
+conjunction with another access device, to obtain money, goods, services, or other thing
+of value, whether the device is physical or digital.
+SECTION 3. Tennessee Code Annotated, Section 39-14-113(d), is amended by adding
+the following as a new subdivision:
+(3) A violation of subsection (c) is punished one (1) classification higher than
+provided in § 39-14-105 if the defendant engages in the destruction of property or uses a
+weapon during the commission of the offense.
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 001172
+
+[DELETED: SS(((((]
+[DELETED:  -0(((S(S]

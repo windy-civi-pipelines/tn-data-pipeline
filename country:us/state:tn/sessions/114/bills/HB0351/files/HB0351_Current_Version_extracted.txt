@@ -1,0 +1,63 @@
+Title: SENATE BILL 533
+Official Title: SENATE BILL 533
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Stevens
+HOUSE BILL 351
+By Hurt
+AN ACT to amend Tennessee Code Annotated, Title 41,
+relative to electronic monitoring for work release.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 41-2-152, is amended by deleting
+subsection (b) and substituting instead:
+(b) If a prisoner is released to perform unpaid work, then the entity utilizing the
+prisoner for work shall pay the costs of the electronic monitoring device required
+pursuant to subsection (a). If a prisoner is released for paid employment, then the
+prisoner shall pay the costs of the electronic monitoring device required pursuant to
+subsection (a).
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 41-2-152(a), is amended by deleting
+the language "beginning January 1, 2024,".
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0351
+001721
+- 1 -
+[DELETED: S(SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 533
+By Stevens
+HOUSE BILL 351
+By Hurt
+AN ACT to amend Tennessee Code Annotated, Title 41,
+relative to electronic monitoring for work release.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 41-2-152, is amended by deleting
+subsection (b) and substituting instead:
+(b) If a prisoner is released to perform unpaid work, then the entity utilizing the
+prisoner for work shall pay the costs of the electronic monitoring device required
+pursuant to subsection (a). If a prisoner is released for paid employment, then the
+prisoner shall pay the costs of the electronic monitoring device required pursuant to
+subsection (a).
+SECTION 2. Tennessee Code Annotated, Section 41-2-152(a), is amended by deleting
+the language "beginning January 1, 2024,".
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0351
+001721
+- 1 -
+
+[DELETED: S(SS]

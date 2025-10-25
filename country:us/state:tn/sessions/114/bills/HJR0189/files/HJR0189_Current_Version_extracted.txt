@@ -1,0 +1,84 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 189
+By Lamberth
+A RESOLUTION to confirm the appointment of Jake Almond to
+the state forestry commission.
+WHEREAS, Tennessee Code Annotated, Section 11-4-201, provides for the creation of
+a state forestry commission within the department of agriculture; and
+WHEREAS, Tennessee Code Annotated, Section 11-4-201, further provides that the
+governor shall appoint seven (7) members to the commission; and
+WHEREAS, Governor Bill Lee has appointed Jake Almond to the state forestry
+commission as an owner of not more than five hundred (500) acres of forests within the state for
+a term that expires on June 30, 2029; and
+WHEREAS, a forty-two-year veteran of the forest industry, Jake Almond spent most of
+his career working as a consultant for private, non-industrial landowners, serving as the vice
+president and part-owner of American Forest Management; and
+WHEREAS, Mr. Almond has served as president of the Tennessee Forestry Association
+and on numerous other forestry-related boards; and
+WHEREAS, he has retired from active forest management and works as a realtor for the
+American Forest Management real estate division; and
+WHEREAS, Mr. Almond earned his degree in forestry from North Carolina State
+University; and
+WHEREAS, Tennessee Code Annotated, Section 11-4-201, provides that each member
+appointed by the governor to the state forestry commission shall be confirmed by the general
+assembly; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+HJR0189
+003250
+- 1 -
+CONCURRING, that we confirm the appointment of Jake Almond to the state forestry
+commission for a term that expires on June 30, 2029.
+- 2 - 003250
+[DELETED: WWWWWB]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 189
+By Lamberth
+A RESOLUTION to confirm the appointment of Jake Almond to
+the state forestry commission.
+WHEREAS, Tennessee Code Annotated, Section 11-4-201, provides for the creation of
+a state forestry commission within the department of agriculture; and
+WHEREAS, Tennessee Code Annotated, Section 11-4-201, further provides that the
+governor shall appoint seven (7) members to the commission; and
+WHEREAS, Governor Bill Lee has appointed Jake Almond to the state forestry
+commission as an owner of not more than five hundred (500) acres of forests within the state for
+a term that expires on June 30, 2029; and
+WHEREAS, a forty-two-year veteran of the forest industry, Jake Almond spent most of
+his career working as a consultant for private, non-industrial landowners, serving as the vice
+president and part-owner of American Forest Management; and
+WHEREAS, Mr. Almond has served as president of the Tennessee Forestry Association
+and on numerous other forestry-related boards; and
+WHEREAS, he has retired from active forest management and works as a realtor for the
+American Forest Management real estate division; and
+WHEREAS, Mr. Almond earned his degree in forestry from North Carolina State
+University; and
+WHEREAS, Tennessee Code Annotated, Section 11-4-201, provides that each member
+appointed by the governor to the state forestry commission shall be confirmed by the general
+assembly; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+HJR0189
+003250
+- 1 -
+
+CONCURRING, that we confirm the appointment of Jake Almond to the state forestry
+commission for a term that expires on June 30, 2029.
+- 2 - 003250
+
+[DELETED: WWWWWB]
+[DELETED:  -0]

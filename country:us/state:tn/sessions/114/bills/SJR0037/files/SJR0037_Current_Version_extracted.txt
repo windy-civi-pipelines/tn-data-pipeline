@@ -1,0 +1,86 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 37
+By Lamar
+A RESOLUTION to designate October 17 as Maternal Health Day
+in Tennessee.
+WHEREAS, Maternal Health Day celebrates every person's right to respectful, quality,
+safe, and comprehensive maternal health care, including women of color, rural and urban
+women, and women living below the poverty line; and
+WHEREAS, a significant percentage of all pregnancies worldwide are affected by life-
+threatening but preventable complications; adolescents are at significant risk for maternal
+complications, with maternal deaths ranking as a leading cause of death for girls aged fifteen to
+nineteen; and
+WHEREAS, women need integrated, evidence-based, and cost-effective care before,
+during, and after pregnancy, as women die from complications in pregnancy or childbirth
+because their healthcare system lacks resources and/or its allocation of health resources
+overlooks women's needs; and
+WHEREAS, Tennessee's maternal mortality rate is significantly higher than the national
+average; and
+WHEREAS, Maternal Health Day seeks to raise awareness of the importance of
+maternal health and promote skilled and dignified care for all women; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we designate October 17 as Maternal Health Day in
+Tennessee in support of all women, including women of color, rural and urban women, and
+women living below the poverty line.
+SJR0037
+002227
+- 1 -
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 002227
+[DELETED: WB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 37
+By Lamar
+A RESOLUTION to designate October 17 as Maternal Health Day
+in Tennessee.
+WHEREAS, Maternal Health Day celebrates every person's right to respectful, quality,
+safe, and comprehensive maternal health care, including women of color, rural and urban
+women, and women living below the poverty line; and
+WHEREAS, a significant percentage of all pregnancies worldwide are affected by life-
+threatening but preventable complications; adolescents are at significant risk for maternal
+complications, with maternal deaths ranking as a leading cause of death for girls aged fifteen to
+nineteen; and
+WHEREAS, women need integrated, evidence-based, and cost-effective care before,
+during, and after pregnancy, as women die from complications in pregnancy or childbirth
+because their healthcare system lacks resources and/or its allocation of health resources
+overlooks women's needs; and
+WHEREAS, Tennessee's maternal mortality rate is significantly higher than the national
+average; and
+WHEREAS, Maternal Health Day seeks to raise awareness of the importance of
+maternal health and promote skilled and dignified care for all women; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we designate October 17 as Maternal Health Day in
+Tennessee in support of all women, including women of color, rural and urban women, and
+women living below the poverty line.
+SJR0037
+002227
+- 1 -
+
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 002227
+
+[DELETED: WB]
+[DELETED:  -0B]

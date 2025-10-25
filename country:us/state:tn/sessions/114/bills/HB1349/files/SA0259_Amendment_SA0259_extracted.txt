@@ -1,0 +1,163 @@
+Title: AMEND S e n ate Bill No. 1146* House Bill No. 1349
+Official Title: AMEND S e n ate Bill No. 1146* House Bill No. 1349
+Number of Sections: 3
+Source: versions - Amendment SA0259
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Senate Health and Welfare 1
+Amendment No. 1 to SB1146
+Crowe
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 38-7-109, is amended by adding the
+following as a new subsection:
+(c)
+(1)
+(A) If a county medical examiner's office or regional forensic
+center is conducting an autopsy on a decedent who is suspected to have
+committed a mass shooting that resulted in the deaths of four (4) or more
+individuals, then the county medical examiner or regional forensic center
+shall consult such decedent's treating mental health professional or
+primary care physician, if known and reasonably able to be identified
+through the decedent's next of kin, to obtain information regarding the
+decedent's psychotropic drug use.
+(B) The county medical examiner shall test the decedent for the
+presence of any drugs, including therapeutic levels of psychotropic drugs.
+(2)
+(A) The county medical examiner's office or regional forensic
+center shall disclose the drug use of the decedent to the health science
+center and to the department of health.
+(B) The county medical examiner's office or regional forensic
+center shall not disclose any identifying information including the
+SA0259
+006069
+- 1 -
+decedent's name or social security number when disclosing the drug use
+of the decedent to the health science center and to the department of
+health.
+(C) The county medical examiner shall send only a blood sample
+of the decedent to the health science center.
+(3) The health science center shall study the drug interactions between
+the psychotropic drugs and any other drugs that were present in the decedent's
+system as provided by the county medical examiner as described in subdivision
+(c)(2)(A).
+(4) The health science center shall submit quarterly reports of all data
+obtained pursuant to this section to the chief clerk of each house of the general
+assembly.
+(5) As used in this subsection (c):
+(1) "Health science center" means the University of Tennessee's
+health science center college of pharmacy; and
+(2) "Psychotropic drug" means a medication prescribed for the
+treatment of mental or behavioral health conditions or a drug prescribed
+for any condition that exercises a direct effect upon the central nervous
+system and that is capable of influencing and modifying mood,
+perceptions, and behavior, including:
+(A) Agents for control of mania and depression;
+(B) Antidepressants, including selective serotonin
+reuptake inhibitors;
+(C) Antipsychotics;
+(D) Anxiolytics;
+(E) Hypnotics;
+(F) Mood stabilizers;
+- 2 - 006069
+(G) Hormonal medication with the primary goal of altering
+a person's physical appearance and sexual characteristics
+existing at the person's birth;
+(H) Psychomotor stimulants;
+(I) Stimulants; and
+(J) Benzodiazepines.
+(6) The county medical examiner, regional forensic center, department of
+health, and the health science center must follow all relevant state and federal
+privacy laws related to the implementation of this section.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 006069
+[DELETED:  a HS(((((((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0(((((S]
+
+
+================================================================================
+
+Raw Text:
+Senate Health and Welfare 1
+Amendment No. 1 to SB1146
+Crowe
+Signature of Sponsor
+AMEND S e n ate Bill No. 1146* House Bill No. 1349
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 38-7-109, is amended by adding the
+following as a new subsection:
+(c)
+(1)
+(A) If a county medical examiner's office or regional forensic
+center is conducting an autopsy on a decedent who is suspected to have
+committed a mass shooting that resulted in the deaths of four (4) or more
+individuals, then the county medical examiner or regional forensic center
+shall consult such decedent's treating mental health professional or
+primary care physician, if known and reasonably able to be identified
+through the decedent's next of kin, to obtain information regarding the
+decedent's psychotropic drug use.
+(B) The county medical examiner shall test the decedent for the
+presence of any drugs, including therapeutic levels of psychotropic drugs.
+(2)
+(A) The county medical examiner's office or regional forensic
+center shall disclose the drug use of the decedent to the health science
+center and to the department of health.
+(B) The county medical examiner's office or regional forensic
+center shall not disclose any identifying information including the
+SA0259
+006069
+- 1 -
+
+decedent's name or social security number when disclosing the drug use
+of the decedent to the health science center and to the department of
+health.
+(C) The county medical examiner shall send only a blood sample
+of the decedent to the health science center.
+(3) The health science center shall study the drug interactions between
+the psychotropic drugs and any other drugs that were present in the decedent's
+system as provided by the county medical examiner as described in subdivision
+(c)(2)(A).
+(4) The health science center shall submit quarterly reports of all data
+obtained pursuant to this section to the chief clerk of each house of the general
+assembly.
+(5) As used in this subsection (c):
+(1) "Health science center" means the University of Tennessee's
+health science center college of pharmacy; and
+(2) "Psychotropic drug" means a medication prescribed for the
+treatment of mental or behavioral health conditions or a drug prescribed
+for any condition that exercises a direct effect upon the central nervous
+system and that is capable of influencing and modifying mood,
+perceptions, and behavior, including:
+(A) Agents for control of mania and depression;
+(B) Antidepressants, including selective serotonin
+reuptake inhibitors;
+(C) Antipsychotics;
+(D) Anxiolytics;
+(E) Hypnotics;
+(F) Mood stabilizers;
+- 2 - 006069
+
+(G) Hormonal medication with the primary goal of altering
+a person's physical appearance and sexual characteristics
+existing at the person's birth;
+(H) Psychomotor stimulants;
+(I) Stimulants; and
+(J) Benzodiazepines.
+(6) The county medical examiner, regional forensic center, department of
+health, and the health science center must follow all relevant state and federal
+privacy laws related to the implementation of this section.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 006069
+
+[DELETED:  a HS(((((((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0(((((S]

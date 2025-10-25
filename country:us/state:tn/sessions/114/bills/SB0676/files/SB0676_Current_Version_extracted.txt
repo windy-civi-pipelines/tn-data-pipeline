@@ -1,0 +1,356 @@
+Title: HOUSE BILL 754
+Official Title: HOUSE BILL 754
+Number of Sections: 7
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+By Faison
+SENATE BILL 676
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 1;
+Title 4; Title 33; Title 56; Title 63; Title 68 and Title
+71, relative to health care.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 1, is amended by adding
+the following as a new part:
+68-1-2501. Part definitions.
+As used in this part:
+(1) ''Department'' means the department of health;
+(2) ''Detransition procedure'' means treatment, including mental health
+treatment, medical interventions, and surgeries that stop, reverse, or help an
+individual cope with the effects of a gender transition procedure due to the
+resolution of any inconsistency between the individual's sex and the individual's
+perceived sex or perceived gender;
+(3) ''Gender'' means the psychological, behavioral, social, and cultural
+aspects of being male or female;
+(4) ''Gender clinic'' means a healthcare entity licensed under this title that
+provides or prescribes gender transition procedures or refers individuals for
+gender transition procedures;
+(5) ''Gender transition procedure'' means any pharmaceutical or surgical
+intervention to alter an individual's body to address an inconsistency between a
+minor's sex and minor's perceived gender or perceived sex;
+SB0676
+001799
+- 1 -
+(6) ''Healthcare professional'' means a healthcare provider,
+establishment, or facility licensed, registered, certified, or permitted pursuant to
+this title or title 63 and regulated under the authority of:
+(A) The department of health;
+(B) An agency, board, council, or committee attached to the
+department of health; or
+(C) The health facilities commission;
+(7) ''Minor'' means an individual under eighteen (18) years of age;
+(8) ''Perceived gender'' means an individual's internal sense of the
+individual's gender;
+(9) ''Perceived sex'' means an individual's internal sense of the
+individual's sex; and
+(10) ''Sex'' means a person's immutable characteristics of the
+reproductive system that define the individual as male or female, as determined
+by anatomy and genetics existing at the time of birth.
+68-1-2502. Right to effective care.
+(a) A county or municipality shall not prohibit the provision of mental health
+therapy to help a minor address an inconsistency between the minor's sex and the
+minor's perceived gender or perceived sex.
+(b) A county or municipality shall not prohibit a parent or legal guardian from
+consenting to, or withholding consent from, the provision of mental health therapy to help
+a minor address an inconsistency between the minor's sex and the minor's perceived
+gender or perceived sex.
+- 2 - 001799
+(c) A gender clinic that uses funds provided by this state to directly or indirectly
+provide or pay for gender transition procedures must, as a condition of receiving such
+funds, agree to provide or pay for the performance of detransition procedures.
+68-1-2503. Right to public transparency.
+(a) A gender clinic operating in this state shall report statistics regarding all
+gender transition procedures to the department on a form provided by the department.
+(b) The department shall develop a form for reporting under subsection (a) and
+determine the statistics to be reported, which must include:
+(1) The date on which the gender transition procedure was prescribed or
+the referral was made for the gender transition procedure;
+(2) The age and sex of the person for whom the gender transition
+procedure was prescribed or the gender transition procedure referral was made;
+(3) For a drug prescribed as part of a gender transition procedure:
+(A) The name of the drug;
+(B) The dosage of the drug;
+(C) The dosage frequency and duration; and
+(D) The method by which the drug will be administered;
+(4) For a surgical intervention provided or a referral made for a surgical
+intervention as part of a gender transition procedure, the type of surgical
+procedure identified by the current procedural terminology (CPT) code;
+(5) The state and county of residence of the person receiving the gender
+transition procedure;
+(6) The name, contact information, and medical specialty of the
+healthcare professional who prescribed the gender transition procedure or made
+the referral for the gender transition procedure; and
+- 3 - 001799
+(7) A list of any diagnoses that the person receiving or referred for a
+gender transition procedure has received of neurological, behavioral, or mental
+health conditions.
+(c) The form developed by the department must be:
+(1) Completed by each gender clinic at which a gender transition
+procedure is prescribed or a referral is made for a gender transition procedure;
+(2) Signed by the healthcare professional who prescribes the gender
+transition procedure or makes a referral for a gender transition procedure; and
+(3) Transmitted by the gender clinic to the department no later than
+fifteen (15) days after the end of the calendar month during which the gender
+transition procedure was prescribed or the referral was made.
+(d) Forms required under this section must not contain individually identifiable
+health information as defined in 45 CFR § 160.103.
+(e) The department shall submit a comprehensive annual statistical report by
+December 31, 2025, and by December 31 of each year thereafter, to the speaker of the
+senate, the speaker of the house of representatives, and the legislative librarian based
+on all data obtained from forms required by this section. The department shall make the
+statistical report available to the public on the department's public website in a
+downloadable format.
+(f) If a healthcare professional fails to comply with this section, then:
+(1) The healthcare professional has engaged in unprofessional conduct
+and is subject to discipline by the appropriate licensing entity or disciplinary
+review board with competent jurisdiction in this state. Disciplinary action must
+include suspension of the ability to administer health care or practice medicine
+for at least six (6) months; and
+- 4 - 001799
+(2) The gender clinic where the healthcare professional is employed shall
+pay a civil fine not to exceed one hundred fifty thousand dollars ($150,000).
+(g) The attorney general and reporter may investigate a potential violation of this
+part, seek production of documents or testimony through a civil investigative demand,
+and bring an action to enforce compliance with this section.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 56, Chapter 7, Part 23, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) ''Department'' means the department of health; and
+(2) ''Detransition procedure'', "gender", "gender clinic", "gender transition
+procedure", "health professional", "minor", "perceived gender", "perceived sex",
+and "sex" have the same meanings as defined in § 68-1-2501.
+(b) If an insurance policy issued, renewed, or amended in this state on or after
+the effective date of this act, includes coverage for gender transition procedures, then
+the policy must also include coverage for detransition procedures.
+(c) An entity providing insurance coverage for detransition procedures must
+provide statistics regarding insurance claims for detransition procedures in this state to
+the department on a form provided by the department.
+(d) The department shall develop a form for the reporting required by subsection
+(c) and determine the statistics to be reported, which must include:
+(1) The number of insurance claims made for detransition procedures;
+(2) The age and sex of an individual receiving a detransition procedure;
+(3) If known, the date that the individual initially began a gender transition
+procedure; and
+- 5 - 001799
+(4) The state and county of residence of the person receiving the gender
+transition procedure.
+(e) The entity providing insurance coverage shall transmit the form to the
+department no later than fifteen (15) days after the end of the calendar month during
+which a claim for the gender transition procedure was approved.
+(f) Reporting forms required under this section must not contain individually
+identifiable health information as defined in 45 CFR § 160.103.
+(g) The department shall submit a comprehensive annual statistical report by
+December 31, 2025, and by December 31 of each year thereafter, to the speaker of the
+senate, the speaker of the house of representatives, and the legislative librarian based
+on all data obtained from forms required by this section. The department shall make the
+statistical report available to the public on the department's public website in a
+downloadable format.
+(h) The attorney general and reporter may investigate a potential violation of this
+
+Section 4:
+section, seek production of documents or testimony through a civil investigative demand,
+and bring an action to enforce compliance with this section.
+
+Section 5:
+SECTION 3. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+
+Section 6:
+SECTION 4. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 7:
+SECTION 5. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to contracts for insurance entered into, amended, or renewed on or after that date.
+- 6 - 001799
+[DELETED: S6A]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 754
+By Faison
+SENATE BILL 676
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 1;
+Title 4; Title 33; Title 56; Title 63; Title 68 and Title
+71, relative to health care.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 1, is amended by adding
+the following as a new part:
+68-1-2501. Part definitions.
+As used in this part:
+(1) ''Department'' means the department of health;
+(2) ''Detransition procedure'' means treatment, including mental health
+treatment, medical interventions, and surgeries that stop, reverse, or help an
+individual cope with the effects of a gender transition procedure due to the
+resolution of any inconsistency between the individual's sex and the individual's
+perceived sex or perceived gender;
+(3) ''Gender'' means the psychological, behavioral, social, and cultural
+aspects of being male or female;
+(4) ''Gender clinic'' means a healthcare entity licensed under this title that
+provides or prescribes gender transition procedures or refers individuals for
+gender transition procedures;
+(5) ''Gender transition procedure'' means any pharmaceutical or surgical
+intervention to alter an individual's body to address an inconsistency between a
+minor's sex and minor's perceived gender or perceived sex;
+SB0676
+001799
+- 1 -
+
+(6) ''Healthcare professional'' means a healthcare provider,
+establishment, or facility licensed, registered, certified, or permitted pursuant to
+this title or title 63 and regulated under the authority of:
+(A) The department of health;
+(B) An agency, board, council, or committee attached to the
+department of health; or
+(C) The health facilities commission;
+(7) ''Minor'' means an individual under eighteen (18) years of age;
+(8) ''Perceived gender'' means an individual's internal sense of the
+individual's gender;
+(9) ''Perceived sex'' means an individual's internal sense of the
+individual's sex; and
+(10) ''Sex'' means a person's immutable characteristics of the
+reproductive system that define the individual as male or female, as determined
+by anatomy and genetics existing at the time of birth.
+68-1-2502. Right to effective care.
+(a) A county or municipality shall not prohibit the provision of mental health
+therapy to help a minor address an inconsistency between the minor's sex and the
+minor's perceived gender or perceived sex.
+(b) A county or municipality shall not prohibit a parent or legal guardian from
+consenting to, or withholding consent from, the provision of mental health therapy to help
+a minor address an inconsistency between the minor's sex and the minor's perceived
+gender or perceived sex.
+- 2 - 001799
+
+(c) A gender clinic that uses funds provided by this state to directly or indirectly
+provide or pay for gender transition procedures must, as a condition of receiving such
+funds, agree to provide or pay for the performance of detransition procedures.
+68-1-2503. Right to public transparency.
+(a) A gender clinic operating in this state shall report statistics regarding all
+gender transition procedures to the department on a form provided by the department.
+(b) The department shall develop a form for reporting under subsection (a) and
+determine the statistics to be reported, which must include:
+(1) The date on which the gender transition procedure was prescribed or
+the referral was made for the gender transition procedure;
+(2) The age and sex of the person for whom the gender transition
+procedure was prescribed or the gender transition procedure referral was made;
+(3) For a drug prescribed as part of a gender transition procedure:
+(A) The name of the drug;
+(B) The dosage of the drug;
+(C) The dosage frequency and duration; and
+(D) The method by which the drug will be administered;
+(4) For a surgical intervention provided or a referral made for a surgical
+intervention as part of a gender transition procedure, the type of surgical
+procedure identified by the current procedural terminology (CPT) code;
+(5) The state and county of residence of the person receiving the gender
+transition procedure;
+(6) The name, contact information, and medical specialty of the
+healthcare professional who prescribed the gender transition procedure or made
+the referral for the gender transition procedure; and
+- 3 - 001799
+
+(7) A list of any diagnoses that the person receiving or referred for a
+gender transition procedure has received of neurological, behavioral, or mental
+health conditions.
+(c) The form developed by the department must be:
+(1) Completed by each gender clinic at which a gender transition
+procedure is prescribed or a referral is made for a gender transition procedure;
+(2) Signed by the healthcare professional who prescribes the gender
+transition procedure or makes a referral for a gender transition procedure; and
+(3) Transmitted by the gender clinic to the department no later than
+fifteen (15) days after the end of the calendar month during which the gender
+transition procedure was prescribed or the referral was made.
+(d) Forms required under this section must not contain individually identifiable
+health information as defined in 45 CFR § 160.103.
+(e) The department shall submit a comprehensive annual statistical report by
+December 31, 2025, and by December 31 of each year thereafter, to the speaker of the
+senate, the speaker of the house of representatives, and the legislative librarian based
+on all data obtained from forms required by this section. The department shall make the
+statistical report available to the public on the department's public website in a
+downloadable format.
+(f) If a healthcare professional fails to comply with this section, then:
+(1) The healthcare professional has engaged in unprofessional conduct
+and is subject to discipline by the appropriate licensing entity or disciplinary
+review board with competent jurisdiction in this state. Disciplinary action must
+include suspension of the ability to administer health care or practice medicine
+for at least six (6) months; and
+- 4 - 001799
+
+(2) The gender clinic where the healthcare professional is employed shall
+pay a civil fine not to exceed one hundred fifty thousand dollars ($150,000).
+(g) The attorney general and reporter may investigate a potential violation of this
+part, seek production of documents or testimony through a civil investigative demand,
+and bring an action to enforce compliance with this section.
+SECTION 2. Tennessee Code Annotated, Title 56, Chapter 7, Part 23, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) ''Department'' means the department of health; and
+(2) ''Detransition procedure'', "gender", "gender clinic", "gender transition
+procedure", "health professional", "minor", "perceived gender", "perceived sex",
+and "sex" have the same meanings as defined in § 68-1-2501.
+(b) If an insurance policy issued, renewed, or amended in this state on or after
+the effective date of this act, includes coverage for gender transition procedures, then
+the policy must also include coverage for detransition procedures.
+(c) An entity providing insurance coverage for detransition procedures must
+provide statistics regarding insurance claims for detransition procedures in this state to
+the department on a form provided by the department.
+(d) The department shall develop a form for the reporting required by subsection
+(c) and determine the statistics to be reported, which must include:
+(1) The number of insurance claims made for detransition procedures;
+(2) The age and sex of an individual receiving a detransition procedure;
+(3) If known, the date that the individual initially began a gender transition
+procedure; and
+- 5 - 001799
+
+(4) The state and county of residence of the person receiving the gender
+transition procedure.
+(e) The entity providing insurance coverage shall transmit the form to the
+department no later than fifteen (15) days after the end of the calendar month during
+which a claim for the gender transition procedure was approved.
+(f) Reporting forms required under this section must not contain individually
+identifiable health information as defined in 45 CFR § 160.103.
+(g) The department shall submit a comprehensive annual statistical report by
+December 31, 2025, and by December 31 of each year thereafter, to the speaker of the
+senate, the speaker of the house of representatives, and the legislative librarian based
+on all data obtained from forms required by this section. The department shall make the
+statistical report available to the public on the department's public website in a
+downloadable format.
+(h) The attorney general and reporter may investigate a potential violation of this
+section, seek production of documents or testimony through a civil investigative demand,
+and bring an action to enforce compliance with this section.
+SECTION 3. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 4. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 5. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to contracts for insurance entered into, amended, or renewed on or after that date.
+- 6 - 001799
+
+[DELETED: S6A]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0S]

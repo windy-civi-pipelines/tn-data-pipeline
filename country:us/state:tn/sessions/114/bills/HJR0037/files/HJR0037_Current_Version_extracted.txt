@@ -1,0 +1,55 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 37
+By Lamberth
+A RESOLUTION to provide for the adjournment of the One
+Hundred Fourteenth General Assembly
+organizational session and to provide for the
+convening of the One Hundred Fourteenth
+General Assembly 2025 regular session.
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that the One Hundred Fourteenth General Assembly organizational session
+stand in adjournment at the close of business in both houses on Thursday, January 16, 2025.
+BE IT FURTHER RESOLVED, that pursuant to Article II, Section 8, of the Constitution of
+Tennessee, the One Hundred Fourteenth General Assembly convene in regular session on
+Thursday, January 16, 2025, immediately following adjournment of the One Hundred Fourteenth
+General Assembly organizational session.
+HJR0037
+001613
+- 1 -
+[DELETED: BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 37
+By Lamberth
+A RESOLUTION to provide for the adjournment of the One
+Hundred Fourteenth General Assembly
+organizational session and to provide for the
+convening of the One Hundred Fourteenth
+General Assembly 2025 regular session.
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that the One Hundred Fourteenth General Assembly organizational session
+stand in adjournment at the close of business in both houses on Thursday, January 16, 2025.
+BE IT FURTHER RESOLVED, that pursuant to Article II, Section 8, of the Constitution of
+Tennessee, the One Hundred Fourteenth General Assembly convene in regular session on
+Thursday, January 16, 2025, immediately following adjournment of the One Hundred Fourteenth
+General Assembly organizational session.
+HJR0037
+001613
+- 1 -
+
+[DELETED: BB]

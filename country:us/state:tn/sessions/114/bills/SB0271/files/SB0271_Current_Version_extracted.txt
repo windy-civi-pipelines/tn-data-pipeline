@@ -1,0 +1,61 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 271
+By Gardenhire
+AN ACT to amend Tennessee Code Annotated, Title 40,
+relative to bondsmen.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 40-11-313, is amended by deleting
+the section and substituting:
+(a) It is unlawful for a person to act as a professional bondsman, directly or
+indirectly, while:
+(1) Serving as a constitutionally elected peace officer, or as such officer's
+deputy, or any duly elected or appointed county official; or
+(2) Owning, operating, or being an employee of a qualified contract
+service provider, as defined in § 40-11-152(a).
+(b) Subdivision (a)(1) does not apply to any duly elected member of the county
+legislative body.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0271
+001785
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 271
+By Gardenhire
+AN ACT to amend Tennessee Code Annotated, Title 40,
+relative to bondsmen.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-11-313, is amended by deleting
+the section and substituting:
+(a) It is unlawful for a person to act as a professional bondsman, directly or
+indirectly, while:
+(1) Serving as a constitutionally elected peace officer, or as such officer's
+deputy, or any duly elected or appointed county official; or
+(2) Owning, operating, or being an employee of a qualified contract
+service provider, as defined in § 40-11-152(a).
+(b) Subdivision (a)(1) does not apply to any duly elected member of the county
+legislative body.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0271
+001785
+- 1 -
+
+[DELETED: SS]

@@ -1,0 +1,84 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 110
+By Johnson
+A RESOLUTION to confirm the appointment of Trey Watkins to
+the board of directors of the Tennessee
+education lottery corporation.
+WHEREAS, Tennessee Code Annotated, Section 4-51-101, provides for the creation of
+the Tennessee education lottery corporation; and
+WHEREAS, Tennessee Code Annotated, Section 4-51-103, provides that the governor
+shall appoint seven (7) members to the board of directors of the Tennessee education lottery
+corporation; and
+WHEREAS, Governor Bill Lee has appointed Trey Watkins of Memphis to serve as a
+member of the board of directors of the Tennessee education lottery corporation for a term that
+will expire on June 30, 2029; and
+WHEREAS, Trey Watkins is a partner at the accounting firm Watkins Uiberall, PLLC, in
+Memphis; he is an expert in audit preparation, compliance, and consulting services; and
+WHEREAS, while he focuses on the construction industry, he has experience in
+manufacturing, nonprofit, government, and brokerage industries; and
+WHEREAS, a native of Memphis, he graduated from the University of Memphis with a
+degree in business administration; and
+WHEREAS, Tennessee Code Annotated, Section 4-51-103(f), provides that each
+member appointed by the governor to the board of directors of the Tennessee education lottery
+corporation shall be confirmed by joint resolution of the general assembly; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we hereby confirm the appointment of Trey Watkins
+SJR0110
+003245
+- 1 -
+of Memphis to the board of directors of the Tennessee education lottery corporation for a term
+that will expire on June 30, 2029.
+- 2 - 003245
+[DELETED: WWB]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 110
+By Johnson
+A RESOLUTION to confirm the appointment of Trey Watkins to
+the board of directors of the Tennessee
+education lottery corporation.
+WHEREAS, Tennessee Code Annotated, Section 4-51-101, provides for the creation of
+the Tennessee education lottery corporation; and
+WHEREAS, Tennessee Code Annotated, Section 4-51-103, provides that the governor
+shall appoint seven (7) members to the board of directors of the Tennessee education lottery
+corporation; and
+WHEREAS, Governor Bill Lee has appointed Trey Watkins of Memphis to serve as a
+member of the board of directors of the Tennessee education lottery corporation for a term that
+will expire on June 30, 2029; and
+WHEREAS, Trey Watkins is a partner at the accounting firm Watkins Uiberall, PLLC, in
+Memphis; he is an expert in audit preparation, compliance, and consulting services; and
+WHEREAS, while he focuses on the construction industry, he has experience in
+manufacturing, nonprofit, government, and brokerage industries; and
+WHEREAS, a native of Memphis, he graduated from the University of Memphis with a
+degree in business administration; and
+WHEREAS, Tennessee Code Annotated, Section 4-51-103(f), provides that each
+member appointed by the governor to the board of directors of the Tennessee education lottery
+corporation shall be confirmed by joint resolution of the general assembly; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we hereby confirm the appointment of Trey Watkins
+SJR0110
+003245
+- 1 -
+
+of Memphis to the board of directors of the Tennessee education lottery corporation for a term
+that will expire on June 30, 2029.
+- 2 - 003245
+
+[DELETED: WWB]
+[DELETED:  -0]

@@ -1,0 +1,67 @@
+Title: HOUSE BILL 171
+Official Title: HOUSE BILL 171
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Reedy
+SENATE BILL 747
+By Yager
+AN ACT to amend Tennessee Code Annotated, Title 71,
+Chapter 5, Part 15, relative to ambulances.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 71-5-1503(a)(4), is amended by
+deleting the language "thirty (30) business days" and substituting instead the language "forty-
+five (45) business days".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 71-5-1506, is amended by adding
+the following new subsection:
+(c) The office of emergency services may provide the bureau with additional
+data, including reports containing protected health information, as needed to ensure the
+assessment program remains in compliance with state and federal laws.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 71-5-1509, is amended by deleting
+the language "June 30, 2025" and substituting instead the language "June 30, 2026".
+
+Section 5:
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0747
+001729
+- 1 -
+[DELETED: SS(SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 171
+By Reedy
+SENATE BILL 747
+By Yager
+AN ACT to amend Tennessee Code Annotated, Title 71,
+Chapter 5, Part 15, relative to ambulances.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 71-5-1503(a)(4), is amended by
+deleting the language "thirty (30) business days" and substituting instead the language "forty-
+five (45) business days".
+SECTION 2. Tennessee Code Annotated, Section 71-5-1506, is amended by adding
+the following new subsection:
+(c) The office of emergency services may provide the bureau with additional
+data, including reports containing protected health information, as needed to ensure the
+assessment program remains in compliance with state and federal laws.
+SECTION 3. Tennessee Code Annotated, Section 71-5-1509, is amended by deleting
+the language "June 30, 2025" and substituting instead the language "June 30, 2026".
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0747
+001729
+- 1 -
+
+[DELETED: SS(SS]

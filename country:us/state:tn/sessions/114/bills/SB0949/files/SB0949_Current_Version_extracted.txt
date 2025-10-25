@@ -1,0 +1,65 @@
+Title: HOUSE BILL 699
+Official Title: HOUSE BILL 699
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Burkhart
+SENATE BILL 949
+By Powers
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 5, relative to correction of property tax
+assessments.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-5-509(d), is amended by deleting
+the first sentence, which presently reads:
+Correction of assessments pursuant to this section must be requested by the
+taxpayer, or initiated by the assessor, prior to March 1, no more than the second year
+following the tax year for which the correction is to be made.
+and substituting instead:
+Correction of assessments pursuant to this section must be requested by the
+taxpayer, or initiated by the assessor, prior to March 1, no more than the tenth year
+following the tax year for which the correction is to be made.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to assessments for the 2016 and subsequent tax years.
+SB0949
+000702
+- 1 -
+[DELETED: SC]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 699
+By Burkhart
+SENATE BILL 949
+By Powers
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 5, relative to correction of property tax
+assessments.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-5-509(d), is amended by deleting
+the first sentence, which presently reads:
+Correction of assessments pursuant to this section must be requested by the
+taxpayer, or initiated by the assessor, prior to March 1, no more than the second year
+following the tax year for which the correction is to be made.
+and substituting instead:
+Correction of assessments pursuant to this section must be requested by the
+taxpayer, or initiated by the assessor, prior to March 1, no more than the tenth year
+following the tax year for which the correction is to be made.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to assessments for the 2016 and subsequent tax years.
+SB0949
+000702
+- 1 -
+
+[DELETED: SC]
