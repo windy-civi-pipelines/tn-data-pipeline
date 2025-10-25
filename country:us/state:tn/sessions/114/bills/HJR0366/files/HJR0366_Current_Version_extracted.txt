@@ -1,0 +1,69 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 366
+By Reedy
+A RESOLUTION to honor and congratulate Martha Powell on the
+celebration of her ninetieth birthday.
+WHEREAS, it is fitting that the members of this General Assembly pay tribute to those
+citizens who are celebrating special occasions in their distinguished lives; and
+WHEREAS, Martha Powell celebrated her ninetieth birthday on February 10, 2025, a
+milestone commemorated as yet another precious souvenir of life's rich pageant; and
+WHEREAS, Ms. Powell is a beloved resident of McKinnon, and her inimitable character
+and presence are an inestimable gift to her community and to our State; and
+WHEREAS, as she enters her ninetieth year, Ms. Powell remains a blessing to all who
+know her and is highly valued for her grace, compassion, and kindness; and
+WHEREAS, we wish to grasp this golden opportunity to specially recognize one of
+Tennessee's most outstanding citizens on this very special occasion; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby honor and congratulate Martha Powell on the celebration of her
+ninetieth birthday, extending our best wishes for many happy returns of the day.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+HJR0366
+005173
+- 1 -
+[DELETED: WWWWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 366
+By Reedy
+A RESOLUTION to honor and congratulate Martha Powell on the
+celebration of her ninetieth birthday.
+WHEREAS, it is fitting that the members of this General Assembly pay tribute to those
+citizens who are celebrating special occasions in their distinguished lives; and
+WHEREAS, Martha Powell celebrated her ninetieth birthday on February 10, 2025, a
+milestone commemorated as yet another precious souvenir of life's rich pageant; and
+WHEREAS, Ms. Powell is a beloved resident of McKinnon, and her inimitable character
+and presence are an inestimable gift to her community and to our State; and
+WHEREAS, as she enters her ninetieth year, Ms. Powell remains a blessing to all who
+know her and is highly valued for her grace, compassion, and kindness; and
+WHEREAS, we wish to grasp this golden opportunity to specially recognize one of
+Tennessee's most outstanding citizens on this very special occasion; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby honor and congratulate Martha Powell on the celebration of her
+ninetieth birthday, extending our best wishes for many happy returns of the day.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+HJR0366
+005173
+- 1 -
+
+[DELETED: WWWWBB]

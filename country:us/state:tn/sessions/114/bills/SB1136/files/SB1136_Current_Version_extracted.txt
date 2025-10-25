@@ -1,0 +1,65 @@
+Title: HOUSE BILL 788
+Official Title: HOUSE BILL 788
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Freeman
+SENATE BILL 1136
+By Oliver
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 8 and Title 55, Chapter 50, Part 3, relative to
+photo identification licenses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 55-50-336(g), is amended by
+deleting the subsection and substituting:
+(1) Notwithstanding § 55-50-323, a photo identification license issued pursuant
+to this section must be provided free of charge to a person if the person signs an
+affidavit stating the person does not have a valid government-issued photo identification.
+Such free photo identification licenses must be made available at each location in this
+state where the department issues a driver license or photo identification license.
+(2) Notwithstanding subsection (e), a photo identification license may be issued
+to a person who meets the criteria of subdivision (g)(1) even if the person has a valid
+non-photo-bearing driver license.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB1136
+002902
+- 1 -
+[DELETED: S((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 788
+By Freeman
+SENATE BILL 1136
+By Oliver
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 8 and Title 55, Chapter 50, Part 3, relative to
+photo identification licenses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 55-50-336(g), is amended by
+deleting the subsection and substituting:
+(1) Notwithstanding § 55-50-323, a photo identification license issued pursuant
+to this section must be provided free of charge to a person if the person signs an
+affidavit stating the person does not have a valid government-issued photo identification.
+Such free photo identification licenses must be made available at each location in this
+state where the department issues a driver license or photo identification license.
+(2) Notwithstanding subsection (e), a photo identification license may be issued
+to a person who meets the criteria of subdivision (g)(1) even if the person has a valid
+non-photo-bearing driver license.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB1136
+002902
+- 1 -
+
+[DELETED: S((S]

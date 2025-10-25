@@ -1,0 +1,92 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 155
+By Lamberth
+A RESOLUTION to confirm the appointment of Trevia Chatman to
+the state university board of Tennessee State
+University.
+WHEREAS, Tennessee Code Annotated, Section 49-8-101, provides for the governance
+of Tennessee State University by a state university board; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that the governor
+shall appoint eight members to the state university board of Tennessee State University; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, further provides that at least
+three of the gubernatorial appointees shall be alumni of the institution for which they are serving
+and that at least six of the nine voting members of the state university board shall be residents
+of the State of Tennessee; and
+WHEREAS, Governor Bill Lee has appointed Trevia Chatman to the state university
+board of Tennessee State University for a term that will expire on March 31, 2027; and
+WHEREAS, a proud graduate of Tennessee State University, Trevia Chatman earned a
+Master of Business Administration degree from the University of Memphis; and
+WHEREAS, she has served as president of the Bank of America, Memphis, for the past
+six years; and
+WHEREAS, Ms. Chatman is a member of the steering committee for the Memphis
+Brooks Museum of Art, the board for Shelby Farms Park Conservancy, and the executive board
+of the Women's Foundation for a Greater Memphis; and
+WHEREAS, she has been named to the Memphis Business Journal's "Top 40 Under 40"
+and honored with the Memphis Grizzlies' HBCU Empowerment Award; and
+HJR0155
+001562
+- 1 -
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that each member
+appointed by the governor to the state university board of Tennessee State University shall be
+subject to confirmation by the senate and the house of representatives; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we confirm the appointment of Trevia Chatman to the state university
+board of Tennessee State University for a term that will expire on March 31, 2027.
+- 2 - 001562
+[DELETED: WWWW ']
+[DELETED:  -0WB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 155
+By Lamberth
+A RESOLUTION to confirm the appointment of Trevia Chatman to
+the state university board of Tennessee State
+University.
+WHEREAS, Tennessee Code Annotated, Section 49-8-101, provides for the governance
+of Tennessee State University by a state university board; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that the governor
+shall appoint eight members to the state university board of Tennessee State University; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, further provides that at least
+three of the gubernatorial appointees shall be alumni of the institution for which they are serving
+and that at least six of the nine voting members of the state university board shall be residents
+of the State of Tennessee; and
+WHEREAS, Governor Bill Lee has appointed Trevia Chatman to the state university
+board of Tennessee State University for a term that will expire on March 31, 2027; and
+WHEREAS, a proud graduate of Tennessee State University, Trevia Chatman earned a
+Master of Business Administration degree from the University of Memphis; and
+WHEREAS, she has served as president of the Bank of America, Memphis, for the past
+six years; and
+WHEREAS, Ms. Chatman is a member of the steering committee for the Memphis
+Brooks Museum of Art, the board for Shelby Farms Park Conservancy, and the executive board
+of the Women's Foundation for a Greater Memphis; and
+WHEREAS, she has been named to the Memphis Business Journal's "Top 40 Under 40"
+and honored with the Memphis Grizzlies' HBCU Empowerment Award; and
+HJR0155
+001562
+- 1 -
+
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that each member
+appointed by the governor to the state university board of Tennessee State University shall be
+subject to confirmation by the senate and the house of representatives; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we confirm the appointment of Trevia Chatman to the state university
+board of Tennessee State University for a term that will expire on March 31, 2027.
+- 2 - 001562
+
+[DELETED: WWWW ']
+[DELETED:  -0WB]

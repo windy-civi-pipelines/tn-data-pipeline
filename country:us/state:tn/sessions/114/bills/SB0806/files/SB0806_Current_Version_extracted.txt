@@ -1,0 +1,110 @@
+Title: HOUSE BILL 452
+Official Title: HOUSE BILL 452
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Glynn
+SENATE BILL 806
+By Yarbro
+AN ACT to amend Tennessee Code Annotated, Title 29
+and Title 66, relative to eviction actions.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 29-18-117, is amended by deleting
+the section and substituting:
+The officer serving the warrant shall notify the defendant of the time and place of
+trial. The trial must be held not less than six (6) days from the date of service. For trials
+for unlawful detainer based solely on a complaint for nonpayment of rent, the trial must
+be held not more than fourteen (14) days from the date the plaintiff filed the unlawful
+detainer action.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 29, Chapter 18, is amended by adding
+the following as a new section:
+In a trial or hearing for unlawful detainer based solely on nonpayment of rent, the
+scope of the hearing must be limited to facts and issues related to nonpayment of rent,
+including the terms of the lease agreement and payment history of the defendant.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 29-18-126, is amended by deleting
+the section and substituting:
+(a) Except as provided in subsection (b), an execution or writ of possession must
+not be issued against the defendant upon any judgment issued under this chapter until
+after the lapse of ten (10) days from the rendition of the judgment.
+(b)
+SB0806
+002217
+- 1 -
+(1) If a court renders a judgment in favor of the plaintiff for an unlawful
+detainer action based on nonpayment of rent, then the writ of possession must:
+(A) Be issued against the defendant within twenty-four (24) hours
+from rendition of the judgment; and
+(B) Require the defendant to vacate the property and return
+possession of it to the plaintiff within seven (7) days from the defendant's
+receipt of the writ.
+(2) If the defendant fails to vacate the property and return possession of
+the property to the plaintiff within the seven-day timeframe described under
+subdivision (b)(1)(B), then the plaintiff may request from the sheriff of the county
+in which the property is located the immediate removal of the defendant.
+
+Section 5:
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 002217
+[DELETED: STSS((]
+[DELETED:  -0(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 452
+By Glynn
+SENATE BILL 806
+By Yarbro
+AN ACT to amend Tennessee Code Annotated, Title 29
+and Title 66, relative to eviction actions.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 29-18-117, is amended by deleting
+the section and substituting:
+The officer serving the warrant shall notify the defendant of the time and place of
+trial. The trial must be held not less than six (6) days from the date of service. For trials
+for unlawful detainer based solely on a complaint for nonpayment of rent, the trial must
+be held not more than fourteen (14) days from the date the plaintiff filed the unlawful
+detainer action.
+SECTION 2. Tennessee Code Annotated, Title 29, Chapter 18, is amended by adding
+the following as a new section:
+In a trial or hearing for unlawful detainer based solely on nonpayment of rent, the
+scope of the hearing must be limited to facts and issues related to nonpayment of rent,
+including the terms of the lease agreement and payment history of the defendant.
+SECTION 3. Tennessee Code Annotated, Section 29-18-126, is amended by deleting
+the section and substituting:
+(a) Except as provided in subsection (b), an execution or writ of possession must
+not be issued against the defendant upon any judgment issued under this chapter until
+after the lapse of ten (10) days from the rendition of the judgment.
+(b)
+SB0806
+002217
+- 1 -
+
+(1) If a court renders a judgment in favor of the plaintiff for an unlawful
+detainer action based on nonpayment of rent, then the writ of possession must:
+(A) Be issued against the defendant within twenty-four (24) hours
+from rendition of the judgment; and
+(B) Require the defendant to vacate the property and return
+possession of it to the plaintiff within seven (7) days from the defendant's
+receipt of the writ.
+(2) If the defendant fails to vacate the property and return possession of
+the property to the plaintiff within the seven-day timeframe described under
+subdivision (b)(1)(B), then the plaintiff may request from the sheriff of the county
+in which the property is located the immediate removal of the defendant.
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 002217
+
+[DELETED: STSS((]
+[DELETED:  -0(S]

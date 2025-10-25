@@ -1,0 +1,75 @@
+Title: HOUSE BILL 12
+Official Title: HOUSE BILL 12
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Clemmons
+SENATE BILL 142
+By Kyle
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to school meals.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-6-2302, is amended by deleting
+the section and substituting instead the following:
+(a) Each local school board shall establish a school lunch program and a school
+breakfast program that provide a free breakfast and lunch to each student enrolled in a
+school under the board's jurisdiction in accordance with rules promulgated under § 49-6-
+
+Section 3:
+2303.
+(b) The state shall reimburse each LEA the cost of providing a free breakfast
+and lunch to each student enrolled in the LEA after all federal funds available pursuant
+to the national school lunch program created by the National School Lunch Act (42
+U.S.C. §§ 1751-1769), the school breakfast program created by the Child Nutrition Act of
+1966 (42 U.S.C. §§ 1771-1789), or another federal program have been applied.
+
+Section 4:
+SECTION 2. Tennessee Code Annotated, Section 49-6-2303, is amended by deleting
+the language ", regardless of its participation" in subdivision (5) and by deleting subdivision (10).
+
+Section 5:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to the 2025-2026 school year and each school year thereafter.
+SB0142
+000375
+- 1 -
+[DELETED: S((SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 12
+By Clemmons
+SENATE BILL 142
+By Kyle
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to school meals.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-6-2302, is amended by deleting
+the section and substituting instead the following:
+(a) Each local school board shall establish a school lunch program and a school
+breakfast program that provide a free breakfast and lunch to each student enrolled in a
+school under the board's jurisdiction in accordance with rules promulgated under § 49-6-
+2303.
+(b) The state shall reimburse each LEA the cost of providing a free breakfast
+and lunch to each student enrolled in the LEA after all federal funds available pursuant
+to the national school lunch program created by the National School Lunch Act (42
+U.S.C. §§ 1751-1769), the school breakfast program created by the Child Nutrition Act of
+1966 (42 U.S.C. §§ 1771-1789), or another federal program have been applied.
+SECTION 2. Tennessee Code Annotated, Section 49-6-2303, is amended by deleting
+the language ", regardless of its participation" in subdivision (5) and by deleting subdivision (10).
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to the 2025-2026 school year and each school year thereafter.
+SB0142
+000375
+- 1 -
+
+[DELETED: S((SS]

@@ -1,0 +1,179 @@
+Title: HOUSE BILL 853
+Official Title: HOUSE BILL 853
+Number of Sections: 12
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Reneau
+SENATE BILL 259
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 33;
+Title 36; Title 37; Title 49; Title 63 and Title 68,
+relative to healthcare treatment of minors.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 33-8-202, is amended by deleting
+subdivision (c)(1) and substituting:
+(1) A child's parent, legal guardian, or legal custodian may access all mental
+health treatment, medical, rehabilitation, and prescription records resulting from
+treatment provided to an unemancipated minor pursuant to this section;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 33-8-202(c)(2), is amended by
+deleting "prescription records" wherever it appears and substituting "mental health treatment,
+medical, rehabilitation, or prescription records".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 68-11-304, is amended by deleting
+subsection (i) and substituting:
+(i) If an unemancipated minor receives medical treatment, then the minor's
+parent, legal guardian, legal custodian, or other person with medical decision-making
+authority for the unemancipated minor may access, and a healthcare provider or
+healthcare facility shall provide access to, all medical treatment and prescription records
+resulting from medical treatment of the minor, even if the treatment was provided to the
+unemancipated minor without parental consent, including, but not limited to, treatment
+provided pursuant to § 68-10-104(c), § 68-34-107, § 63-6-220, § 63-6-222, or § 63-6-
+
+Section 5:
+223.
+SB0259
+001454
+- 1 -
+
+Section 6:
+SECTION 4. Tennessee Code Annotated, Section 68-11-304(j), is amended by deleting
+"prescription records" wherever it appears and substituting "medical treatment or prescription
+records".
+
+Section 7:
+SECTION 5. Tennessee Code Annotated, Section 36-8-103, is amended by deleting
+subdivision (c)(4) and substituting:
+(4) To access and review all health and medical records of the child, including
+health and medical records related to treatments available to unemancipated minors
+without parental consent;
+
+Section 8:
+SECTION 6. Tennessee Code Annotated, Section 63-1-165(b), is amended by adding
+the following as new subdivisions:
+( ) "Medical procedure" means a course of action intended to achieve a result in
+the delivery of health care;
+( ) "Medical treatment":
+(A) Means any step taken to effect a cure of an injury or disease; and
+(B) Includes examination; diagnosis; the application of remedies; and the
+use of a medical procedure, regardless of whether the medical procedure is
+invasive or non-invasive;
+
+Section 9:
+SECTION 7. Tennessee Code Annotated, Section 63-1-165(c)(1), is amended by
+deleting the first sentence and substituting:
+A healthcare provider shall not provide a vaccination to or perform medical
+treatment on a minor unless the healthcare provider first receives informed consent from
+a parent or legal guardian of the minor.
+
+Section 10:
+SECTION 8. Tennessee Code Annotated, Section 63-1-165(c), is amended by adding
+the following as a new subdivision:
+- 2 - 001454
+(5) Notwithstanding subdivision (c)(1), a physician licensed pursuant to chapter
+6 or 9 of this title may perform emergency medical treatment on a minor in compliance
+with § 63-6-222, despite the absence of informed consent from a parent or guardian or a
+court order.
+
+Section 11:
+SECTION 9. Tennessee Code Annotated, Section 63-1-176, is amended by deleting
+subdivision (c)(6) and substituting:
+(6) An employee of a local education agency:
+(A) Acts to control bleeding using a bleeding control kit pursuant to § 49-
+2-137; or
+(B) Provides bandages, gauze, or ice packs for the treatment of minor
+cuts, scrapes, bumps, and bruises.
+
+Section 12:
+SECTION 10. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 001454
+[DELETED: SSS]
+[DELETED:  -0SS(S((((SAS]
+[DELETED:  -0(S(((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 853
+By Reneau
+SENATE BILL 259
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 33;
+Title 36; Title 37; Title 49; Title 63 and Title 68,
+relative to healthcare treatment of minors.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 33-8-202, is amended by deleting
+subdivision (c)(1) and substituting:
+(1) A child's parent, legal guardian, or legal custodian may access all mental
+health treatment, medical, rehabilitation, and prescription records resulting from
+treatment provided to an unemancipated minor pursuant to this section;
+SECTION 2. Tennessee Code Annotated, Section 33-8-202(c)(2), is amended by
+deleting "prescription records" wherever it appears and substituting "mental health treatment,
+medical, rehabilitation, or prescription records".
+SECTION 3. Tennessee Code Annotated, Section 68-11-304, is amended by deleting
+subsection (i) and substituting:
+(i) If an unemancipated minor receives medical treatment, then the minor's
+parent, legal guardian, legal custodian, or other person with medical decision-making
+authority for the unemancipated minor may access, and a healthcare provider or
+healthcare facility shall provide access to, all medical treatment and prescription records
+resulting from medical treatment of the minor, even if the treatment was provided to the
+unemancipated minor without parental consent, including, but not limited to, treatment
+provided pursuant to § 68-10-104(c), § 68-34-107, § 63-6-220, § 63-6-222, or § 63-6-
+223.
+SB0259
+001454
+- 1 -
+
+SECTION 4. Tennessee Code Annotated, Section 68-11-304(j), is amended by deleting
+"prescription records" wherever it appears and substituting "medical treatment or prescription
+records".
+SECTION 5. Tennessee Code Annotated, Section 36-8-103, is amended by deleting
+subdivision (c)(4) and substituting:
+(4) To access and review all health and medical records of the child, including
+health and medical records related to treatments available to unemancipated minors
+without parental consent;
+SECTION 6. Tennessee Code Annotated, Section 63-1-165(b), is amended by adding
+the following as new subdivisions:
+( ) "Medical procedure" means a course of action intended to achieve a result in
+the delivery of health care;
+( ) "Medical treatment":
+(A) Means any step taken to effect a cure of an injury or disease; and
+(B) Includes examination; diagnosis; the application of remedies; and the
+use of a medical procedure, regardless of whether the medical procedure is
+invasive or non-invasive;
+SECTION 7. Tennessee Code Annotated, Section 63-1-165(c)(1), is amended by
+deleting the first sentence and substituting:
+A healthcare provider shall not provide a vaccination to or perform medical
+treatment on a minor unless the healthcare provider first receives informed consent from
+a parent or legal guardian of the minor.
+SECTION 8. Tennessee Code Annotated, Section 63-1-165(c), is amended by adding
+the following as a new subdivision:
+- 2 - 001454
+
+(5) Notwithstanding subdivision (c)(1), a physician licensed pursuant to chapter
+6 or 9 of this title may perform emergency medical treatment on a minor in compliance
+with § 63-6-222, despite the absence of informed consent from a parent or guardian or a
+court order.
+SECTION 9. Tennessee Code Annotated, Section 63-1-176, is amended by deleting
+subdivision (c)(6) and substituting:
+(6) An employee of a local education agency:
+(A) Acts to control bleeding using a bleeding control kit pursuant to § 49-
+2-137; or
+(B) Provides bandages, gauze, or ice packs for the treatment of minor
+cuts, scrapes, bumps, and bruises.
+SECTION 10. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 001454
+
+[DELETED: SSS]
+[DELETED:  -0SS(S((((SAS]
+[DELETED:  -0(S(((S]

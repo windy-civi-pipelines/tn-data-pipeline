@@ -1,0 +1,53 @@
+Title: HOUSE BILL 1165
+Official Title: HOUSE BILL 1165
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Parkinson
+SENATE BILL 45
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 40, relative to criminal sentencing.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 40-35-114, is amended by adding
+the following as a new subdivision:
+( ) The defendant was an adult at the time of the offense and committed the
+offense with a minor, regardless of whether the minor was convicted of the offense;
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to offenses committed on or after that date.
+SB0045
+000071
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1165
+By Parkinson
+SENATE BILL 45
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 40, relative to criminal sentencing.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-35-114, is amended by adding
+the following as a new subdivision:
+( ) The defendant was an adult at the time of the offense and committed the
+offense with a minor, regardless of whether the minor was convicted of the offense;
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to offenses committed on or after that date.
+SB0045
+000071
+- 1 -
+
+[DELETED: SS]

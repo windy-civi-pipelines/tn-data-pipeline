@@ -1,0 +1,63 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 262
+By Hensley
+A RESOLUTION to commemorate "General Pulaski Memorial
+Day."
+WHEREAS, October 11, 1779, is the date in American history that marks the heroic
+death of Brigadier General Casimir Pulaski, who died from wounds received on October 8,
+1779, at the siege of Savannah, Georgia, during the Revolutionary War; and
+WHEREAS, often referred to as "The Father of American Cavalry" or "The Soldier of
+Liberty," General Casimir Pulaski raised Pulaski's Legion for the Continental Army and reformed
+the American cavalry as a whole; and
+WHEREAS, it is fitting that October 11 of each year be commemorated with suitable
+patriotic and public exercises to remember the sacrifice and memorialize the death of this great
+American hero of the Revolutionary War; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we join with the citizens of Pulaski in
+commemorating October 11 as "General Pulaski Memorial Day" to honor the life of Brigadier
+General Casimir Pulaski and his many contributions to freedom as a military commander for the
+Continental Army during the Revolutionary War.
+SJR0262
+005524
+- 1 -
+[DELETED: WWWB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 262
+By Hensley
+A RESOLUTION to commemorate "General Pulaski Memorial
+Day."
+WHEREAS, October 11, 1779, is the date in American history that marks the heroic
+death of Brigadier General Casimir Pulaski, who died from wounds received on October 8,
+1779, at the siege of Savannah, Georgia, during the Revolutionary War; and
+WHEREAS, often referred to as "The Father of American Cavalry" or "The Soldier of
+Liberty," General Casimir Pulaski raised Pulaski's Legion for the Continental Army and reformed
+the American cavalry as a whole; and
+WHEREAS, it is fitting that October 11 of each year be commemorated with suitable
+patriotic and public exercises to remember the sacrifice and memorialize the death of this great
+American hero of the Revolutionary War; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we join with the citizens of Pulaski in
+commemorating October 11 as "General Pulaski Memorial Day" to honor the life of Brigadier
+General Casimir Pulaski and his many contributions to freedom as a military commander for the
+Continental Army during the Revolutionary War.
+SJR0262
+005524
+- 1 -
+
+[DELETED: WWWB]

@@ -1,0 +1,57 @@
+Title: HOUSE BILL 121
+Official Title: HOUSE BILL 121
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Lamberth
+SENATE BILL 1298
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Section
+65-6-133, relative to the commissioning of railroad
+police officers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 65-6-133(a), is amended by deleting
+the language "governor" and substituting instead the language "commissioner of safety".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 65-6-133(b), is amended by deleting
+the language "governor" wherever it appears and substituting instead the language
+"commissioner".
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1298
+000185
+- 1 -
+[DELETED: SSS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 121
+By Lamberth
+SENATE BILL 1298
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Section
+65-6-133, relative to the commissioning of railroad
+police officers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 65-6-133(a), is amended by deleting
+the language "governor" and substituting instead the language "commissioner of safety".
+SECTION 2. Tennessee Code Annotated, Section 65-6-133(b), is amended by deleting
+the language "governor" wherever it appears and substituting instead the language
+"commissioner".
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1298
+000185
+- 1 -
+
+[DELETED: SSS]

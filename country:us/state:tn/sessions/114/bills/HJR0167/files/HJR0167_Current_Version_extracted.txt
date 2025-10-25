@@ -1,0 +1,73 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 167
+By Lamberth
+A RESOLUTION to confirm the appointment of David Watson to
+the board of trustees of the University of
+Tennessee.
+WHEREAS, Tennessee Code Annotated, Section 49-9-201, provides for the governance
+of the University of Tennessee by the board of trustees; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-202, provides that the governor
+shall appoint ten members to the board of trustees of the University of Tennessee; and
+WHEREAS, Governor Bill Lee has appointed David Watson to the board of trustees of
+the University of Tennessee for a term that expires on June 30, 2030; and
+WHEREAS, a third-generation Tennessean, David Watson is a co-founder and co-owner
+of Mountain View Auto Group, which operates seven dealerships in the Chattanooga area; and
+WHEREAS, Mr. Watson is a 1973 graduate of the University of Tennessee; he has
+previously served the State as a member of the Tennessee Fish and Wildlife Commission; and
+WHEREAS, Mr. Watson brings valuable experience and knowledge to the board of
+trustees; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-202, provides that each member
+appointed by the governor to the board of trustees of the University of Tennessee shall be
+confirmed by joint resolution of the General Assembly; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby confirm the appointment of David Watson to the board of
+trustees of the University of Tennessee for a term that expires on June 30, 2030.
+HJR0167
+001536
+- 1 -
+[DELETED: WWWWWWWB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 167
+By Lamberth
+A RESOLUTION to confirm the appointment of David Watson to
+the board of trustees of the University of
+Tennessee.
+WHEREAS, Tennessee Code Annotated, Section 49-9-201, provides for the governance
+of the University of Tennessee by the board of trustees; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-202, provides that the governor
+shall appoint ten members to the board of trustees of the University of Tennessee; and
+WHEREAS, Governor Bill Lee has appointed David Watson to the board of trustees of
+the University of Tennessee for a term that expires on June 30, 2030; and
+WHEREAS, a third-generation Tennessean, David Watson is a co-founder and co-owner
+of Mountain View Auto Group, which operates seven dealerships in the Chattanooga area; and
+WHEREAS, Mr. Watson is a 1973 graduate of the University of Tennessee; he has
+previously served the State as a member of the Tennessee Fish and Wildlife Commission; and
+WHEREAS, Mr. Watson brings valuable experience and knowledge to the board of
+trustees; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-202, provides that each member
+appointed by the governor to the board of trustees of the University of Tennessee shall be
+confirmed by joint resolution of the General Assembly; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby confirm the appointment of David Watson to the board of
+trustees of the University of Tennessee for a term that expires on June 30, 2030.
+HJR0167
+001536
+- 1 -
+
+[DELETED: WWWWWWWB]

@@ -1,0 +1,140 @@
+Title: HOUSE BILL 786
+Official Title: HOUSE BILL 786
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Howell
+SENATE BILL 704
+By Massey
+AN ACT to amend Tennessee Code Annotated, Title 7,
+Chapter 51; Title 39 and Title 65, Chapter 15,
+relative to vehicles for hire.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 65, Chapter 15, Part 3, is amended by
+adding the following as a new section:
+65-15-312. Criminal impersonation of a transportation network company driver.
+(a) It is an offense for a person to:
+(1) Impersonate a transportation network company driver by making a
+false statement, using a false display of distinctive signage or emblem known as
+a trade dress, trademark, branding, or logo of the transportation network
+company, or committing another act that falsely represents that the person has a
+current connection with a transportation network company; or
+(2) Falsely represent that the person is responding to a passenger ride
+request for a transportation network company.
+(b) A violation of subsection (a) is a Class B misdemeanor; provided, that if the
+violation occurs during the commission of a separate felony offense, then a violation of
+subsection (a) is a Class E felony.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 7, Chapter 51, Part 10, is amended by
+adding the following as a new section:
+7-51-1009. Criminal impersonation of a private passenger-for-hire vehicle driver.
+(a) As used in this section, a "passenger-for-hire vehicle":
+(1) Means a motor vehicle that:
+SB0704
+002658
+- 1 -
+(A) Is designed or constructed to accommodate and transport not
+more than fourteen (14) passengers for hire, exclusive of the driver;
+(B) Principally operates within the corporate limits of cities and
+suburban territory adjacent to the cities; and
+(C) That is not operated on a fixed route or schedule;
+(2) Includes a taxicab, limousine, or sedan, as defined in § 7-51-1007;
+and
+(3) Does not include a personal vehicle used in conjunction with a
+transportation network company under title 65, chapter 15, part 3.
+(b) It is an offense for a person to:
+(1) Impersonate a passenger-for-hire vehicle driver by making a false
+statement, using a false display of distinctive signage or emblem known as a
+trade dress, trademark, branding, or logo of a passenger-for-hire vehicle, or any
+other act that falsely represents that the person has a current connection with a
+passenger-for-hire vehicle service; or
+(2) Falsely represent that the person is responding to a passenger ride
+request for a passenger-for-hire vehicle.
+(c) A violation of subsection (b) is a Class B misdemeanor.
+(d) If theft of a passenger-for-hire vehicle has occurred as described in § 39-14-
+103, then this section does not apply to the owner of the passenger-for-hire vehicle.
+
+Section 4:
+SECTION 3. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 5:
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to acts committed on or after that date.
+- 2 - 002658
+[DELETED: S6((((S7((]
+[DELETED:  -0((((((((((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 786
+By Howell
+SENATE BILL 704
+By Massey
+AN ACT to amend Tennessee Code Annotated, Title 7,
+Chapter 51; Title 39 and Title 65, Chapter 15,
+relative to vehicles for hire.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 65, Chapter 15, Part 3, is amended by
+adding the following as a new section:
+65-15-312. Criminal impersonation of a transportation network company driver.
+(a) It is an offense for a person to:
+(1) Impersonate a transportation network company driver by making a
+false statement, using a false display of distinctive signage or emblem known as
+a trade dress, trademark, branding, or logo of the transportation network
+company, or committing another act that falsely represents that the person has a
+current connection with a transportation network company; or
+(2) Falsely represent that the person is responding to a passenger ride
+request for a transportation network company.
+(b) A violation of subsection (a) is a Class B misdemeanor; provided, that if the
+violation occurs during the commission of a separate felony offense, then a violation of
+subsection (a) is a Class E felony.
+SECTION 2. Tennessee Code Annotated, Title 7, Chapter 51, Part 10, is amended by
+adding the following as a new section:
+7-51-1009. Criminal impersonation of a private passenger-for-hire vehicle driver.
+(a) As used in this section, a "passenger-for-hire vehicle":
+(1) Means a motor vehicle that:
+SB0704
+002658
+- 1 -
+
+(A) Is designed or constructed to accommodate and transport not
+more than fourteen (14) passengers for hire, exclusive of the driver;
+(B) Principally operates within the corporate limits of cities and
+suburban territory adjacent to the cities; and
+(C) That is not operated on a fixed route or schedule;
+(2) Includes a taxicab, limousine, or sedan, as defined in § 7-51-1007;
+and
+(3) Does not include a personal vehicle used in conjunction with a
+transportation network company under title 65, chapter 15, part 3.
+(b) It is an offense for a person to:
+(1) Impersonate a passenger-for-hire vehicle driver by making a false
+statement, using a false display of distinctive signage or emblem known as a
+trade dress, trademark, branding, or logo of a passenger-for-hire vehicle, or any
+other act that falsely represents that the person has a current connection with a
+passenger-for-hire vehicle service; or
+(2) Falsely represent that the person is responding to a passenger ride
+request for a passenger-for-hire vehicle.
+(c) A violation of subsection (b) is a Class B misdemeanor.
+(d) If theft of a passenger-for-hire vehicle has occurred as described in § 39-14-
+103, then this section does not apply to the owner of the passenger-for-hire vehicle.
+SECTION 3. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to acts committed on or after that date.
+- 2 - 002658
+
+[DELETED: S6((((S7((]
+[DELETED:  -0((((((((((S]

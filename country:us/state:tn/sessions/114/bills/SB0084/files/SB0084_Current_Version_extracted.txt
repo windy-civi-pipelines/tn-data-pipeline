@@ -1,0 +1,57 @@
+Title: HOUSE BILL 262
+Official Title: HOUSE BILL 262
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Lafferty
+SENATE BILL 84
+By Jackson
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 29 and Title 68, Chapter 115, relative to
+the Tennessee athletic commission.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 4-29-246(a), is amended by deleting
+subdivision (38).
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 4-29-252(a), is amended by inserting
+the following as a new subdivision:
+( ) Tennessee athletic commission, created by § 68-115-103;
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0084
+000343
+- 1 -
+[DELETED: SS(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 262
+By Lafferty
+SENATE BILL 84
+By Jackson
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 29 and Title 68, Chapter 115, relative to
+the Tennessee athletic commission.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 4-29-246(a), is amended by deleting
+subdivision (38).
+SECTION 2. Tennessee Code Annotated, Section 4-29-252(a), is amended by inserting
+the following as a new subdivision:
+( ) Tennessee athletic commission, created by § 68-115-103;
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0084
+000343
+- 1 -
+
+[DELETED: SS(S]

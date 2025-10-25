@@ -1,0 +1,153 @@
+Title: HOUSE BILL 879
+Official Title: HOUSE BILL 879
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Bricken
+SENATE BILL 818
+By Hensley
+AN ACT to amend Tennessee Code Annotated, Title 55
+and Title 65, Chapter 15, Part 3, relative to
+transportation network companies.
+WHEREAS, Tennessee is the only state in the southeast that allows out-of-state ride hail
+drivers to operate within the state, while Tennessee ride hail drivers may not work in
+surrounding states; and
+WHEREAS, Tennesseans who live and work in our communities, contributing directly to
+our local economy, struggle to compete with an oversaturated market of out-of-state drivers;
+and
+WHEREAS, instead of bringing down prices for consumers, an oversaturated market of
+out-of-state drivers has worsened traffic congestion and diverted Tennessee tourism dollars to
+other states; and
+WHEREAS, a basic licensing regime is necessary to regulate this profession; now,
+therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 65, Chapter 15, Part 3, is amended by
+adding the following as a new section:
+(a) An individual seeking to work as a transportation network driver in this state
+shall first obtain a transportation network license from the department of commerce and
+insurance.
+(b)
+SB0818
+002376
+- 1 -
+(1) Except as provided in subdivision (b)(2), in order to be issued a
+transportation network license from the department, the individual must have a
+valid Tennessee driver license.
+(2) Notwithstanding subdivision (b)(1), a resident of Desoto County,
+Mississippi, or Crittenden County, Arkansas, may be issued a transportation
+network license from the department upon providing proof of residency of such
+county.
+(c) A driver's transportation network license is valid for a period of one (1) year.
+The department shall establish a means by which a driver may renew a license through
+the department's website. The department shall also promulgate rules, in accordance
+with the Uniform Administrative Procedures Act, compiled in title 4, chapter 5, by which
+the department may suspend or revoke a driver's transportation network license upon
+the driver committing a serious traffic violation or criminal offense or upon good cause
+shown.
+(d) An individual without a valid transportation network license is prohibited from
+accepting or transporting a prearranged ride originating in this state. This subsection (d)
+does not prohibit a prearranged ride originating in another state from ending in this state.
+(e) A transportation network company shall not authorize a driver without a valid
+transportation network license to accept or transport a prearranged ride originating in
+this state.
+(f) A transportation network company that violates subsection (e) is subject to a
+civil penalty of one thousand dollars ($1,000) per violation. If a transportation is found by
+the commissioner of commerce and insurance to have multiple violations of subsection
+(e) in a manner that is deemed to constitute willful or wanton disregard of the
+- 2 - 002376
+requirements of this section, then the commissioner shall take action to suspend or
+revoke the transportation network company's ability to operate in this state.
+
+Section 3:
+SECTION 2. The department of commerce and insurance is authorized to promulgate
+rules to effectuate this act. The rules must be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in Tennessee Code Annotated, Title 4, Chapter 5.
+
+Section 4:
+SECTION 3. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect January 1, 2026,
+the public welfare requiring it.
+- 3 - 002376
+[DELETED: WWWWS((]
+[DELETED:  -0((((((]
+[DELETED:  -0SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 879
+By Bricken
+SENATE BILL 818
+By Hensley
+AN ACT to amend Tennessee Code Annotated, Title 55
+and Title 65, Chapter 15, Part 3, relative to
+transportation network companies.
+WHEREAS, Tennessee is the only state in the southeast that allows out-of-state ride hail
+drivers to operate within the state, while Tennessee ride hail drivers may not work in
+surrounding states; and
+WHEREAS, Tennesseans who live and work in our communities, contributing directly to
+our local economy, struggle to compete with an oversaturated market of out-of-state drivers;
+and
+WHEREAS, instead of bringing down prices for consumers, an oversaturated market of
+out-of-state drivers has worsened traffic congestion and diverted Tennessee tourism dollars to
+other states; and
+WHEREAS, a basic licensing regime is necessary to regulate this profession; now,
+therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 65, Chapter 15, Part 3, is amended by
+adding the following as a new section:
+(a) An individual seeking to work as a transportation network driver in this state
+shall first obtain a transportation network license from the department of commerce and
+insurance.
+(b)
+SB0818
+002376
+- 1 -
+
+(1) Except as provided in subdivision (b)(2), in order to be issued a
+transportation network license from the department, the individual must have a
+valid Tennessee driver license.
+(2) Notwithstanding subdivision (b)(1), a resident of Desoto County,
+Mississippi, or Crittenden County, Arkansas, may be issued a transportation
+network license from the department upon providing proof of residency of such
+county.
+(c) A driver's transportation network license is valid for a period of one (1) year.
+The department shall establish a means by which a driver may renew a license through
+the department's website. The department shall also promulgate rules, in accordance
+with the Uniform Administrative Procedures Act, compiled in title 4, chapter 5, by which
+the department may suspend or revoke a driver's transportation network license upon
+the driver committing a serious traffic violation or criminal offense or upon good cause
+shown.
+(d) An individual without a valid transportation network license is prohibited from
+accepting or transporting a prearranged ride originating in this state. This subsection (d)
+does not prohibit a prearranged ride originating in another state from ending in this state.
+(e) A transportation network company shall not authorize a driver without a valid
+transportation network license to accept or transport a prearranged ride originating in
+this state.
+(f) A transportation network company that violates subsection (e) is subject to a
+civil penalty of one thousand dollars ($1,000) per violation. If a transportation is found by
+the commissioner of commerce and insurance to have multiple violations of subsection
+(e) in a manner that is deemed to constitute willful or wanton disregard of the
+- 2 - 002376
+
+requirements of this section, then the commissioner shall take action to suspend or
+revoke the transportation network company's ability to operate in this state.
+SECTION 2. The department of commerce and insurance is authorized to promulgate
+rules to effectuate this act. The rules must be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in Tennessee Code Annotated, Title 4, Chapter 5.
+SECTION 3. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect January 1, 2026,
+the public welfare requiring it.
+- 3 - 002376
+
+[DELETED: WWWWS((]
+[DELETED:  -0((((((]
+[DELETED:  -0SS]

@@ -1,0 +1,181 @@
+Title: HOUSE BILL 704
+Official Title: HOUSE BILL 704
+Number of Sections: 7
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By White
+SENATE BILL 719
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 49,
+Chapter 4, relative to financial aid.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-4-902(11), is amended by adding
+the following as a new subdivision:
+(D) For purposes of the Wilder-Naifeh technical skills grant and the Wilder-
+Naifeh reconnect grant, a private, nonprofit technical school that:
+(i) Has had its primary campus domiciled in this state for at least seventy-
+five (75) consecutive years;
+(ii) Is accredited by the Council on Occupational Education; and
+(iii) In addition to offering diploma, certificate, and associate degree
+programs, offers a baccalaureate degree through an articulation agreement with
+a regionally accredited postsecondary institution;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 49-4-902(46), is amended by
+deleting the subdivision and substituting:
+(46) "Wilder-Naifeh technical skills grant" means a grant funded from net
+proceeds of the state lottery and awarded under this part for coursework in an eligible
+program of study at a Tennessee college of applied technology operated by the board of
+regents of the state university and community college system or an eligible independent
+postsecondary institution as defined in subdivision (11)(D).
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 49-4-921, is amended by deleting
+subsection (a) and substituting:
+SB0719
+002544
+- 1 -
+(a) To be eligible for a Wilder-Naifeh technical skills grant, a student seeking a
+QNDC, diploma, or certificate at a Tennessee college of applied technology operated by
+the board of regents of the state university and community college system or an eligible
+independent postsecondary institution as defined in § 49-4-902(11)(D) shall:
+(1) Meet the requirements of §§ 49-4-904 and 49-4-905(a); and
+(2) Be admitted to the institution in a program of study leading to a
+certificate or diploma.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 49-4-923, is amended by deleting
+subsection (b) and substituting:
+(b) To be eligible for a Wilder-Naifeh reconnect grant, a student seeking a
+diploma or certificate at a Tennessee college of applied technology operated by the
+board of regents of the state university and community college system or an eligible
+independent postsecondary institution as defined in § 49-4-902(11)(D) shall:
+(1) Meet the requirements of §§ 49-4-904 and 49-4-905(a);
+(2) Be admitted to the institution in an eligible program of study;
+(3) Complete and file the FAFSA. Students must complete the FAFSA
+each academic year in which they seek to receive the Wilder-Naifeh reconnect
+grant; and
+(4) Be an independent student as determined by the FAFSA.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 49-4-923, is amended by deleting
+subsection (g) and substituting:
+(g)
+(1) Subject to the amounts appropriated by the general assembly and
+any law relating to a shortfall in funds available for postsecondary financial
+assistance from the net proceeds of the state lottery, a Wilder-Naifeh reconnect
+- 2 - 002544
+grant awarded under this section is for independent students as determined by
+the FAFSA. The amount of a Wilder-Naifeh reconnect grant:
+(A) For students enrolled in a Tennessee college of applied
+technology, is the cost of tuition and mandatory fees at the Tennessee
+college of applied technology attended less all other gift aid, which must
+be credited first to the student's tuition and mandatory fees; or
+(B) For students enrolled in an eligible independent
+postsecondary institution as defined in § 49-4-902(11)(D), is the average
+cost of tuition and mandatory fees at Tennessee colleges of applied
+technology less all other gift aid, which must be credited first to the
+student's tuition and mandatory fees.
+(2) Notwithstanding § 49-4-902, "gift aid" as used in this section is
+financial aid received from a federal Pell grant, a Tennessee student assistance
+award, and any scholarship or grant funded from net lottery proceeds under this
+part.
+
+Section 7:
+SECTION 6. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to students seeking postsecondary financial aid for the 2025-2026 academic year and
+each academic year thereafter.
+- 3 - 002544
+[DELETED:  -0]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 704
+By White
+SENATE BILL 719
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 49,
+Chapter 4, relative to financial aid.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-4-902(11), is amended by adding
+the following as a new subdivision:
+(D) For purposes of the Wilder-Naifeh technical skills grant and the Wilder-
+Naifeh reconnect grant, a private, nonprofit technical school that:
+(i) Has had its primary campus domiciled in this state for at least seventy-
+five (75) consecutive years;
+(ii) Is accredited by the Council on Occupational Education; and
+(iii) In addition to offering diploma, certificate, and associate degree
+programs, offers a baccalaureate degree through an articulation agreement with
+a regionally accredited postsecondary institution;
+SECTION 2. Tennessee Code Annotated, Section 49-4-902(46), is amended by
+deleting the subdivision and substituting:
+(46) "Wilder-Naifeh technical skills grant" means a grant funded from net
+proceeds of the state lottery and awarded under this part for coursework in an eligible
+program of study at a Tennessee college of applied technology operated by the board of
+regents of the state university and community college system or an eligible independent
+postsecondary institution as defined in subdivision (11)(D).
+SECTION 3. Tennessee Code Annotated, Section 49-4-921, is amended by deleting
+subsection (a) and substituting:
+SB0719
+002544
+- 1 -
+
+(a) To be eligible for a Wilder-Naifeh technical skills grant, a student seeking a
+QNDC, diploma, or certificate at a Tennessee college of applied technology operated by
+the board of regents of the state university and community college system or an eligible
+independent postsecondary institution as defined in § 49-4-902(11)(D) shall:
+(1) Meet the requirements of §§ 49-4-904 and 49-4-905(a); and
+(2) Be admitted to the institution in a program of study leading to a
+certificate or diploma.
+SECTION 4. Tennessee Code Annotated, Section 49-4-923, is amended by deleting
+subsection (b) and substituting:
+(b) To be eligible for a Wilder-Naifeh reconnect grant, a student seeking a
+diploma or certificate at a Tennessee college of applied technology operated by the
+board of regents of the state university and community college system or an eligible
+independent postsecondary institution as defined in § 49-4-902(11)(D) shall:
+(1) Meet the requirements of §§ 49-4-904 and 49-4-905(a);
+(2) Be admitted to the institution in an eligible program of study;
+(3) Complete and file the FAFSA. Students must complete the FAFSA
+each academic year in which they seek to receive the Wilder-Naifeh reconnect
+grant; and
+(4) Be an independent student as determined by the FAFSA.
+SECTION 5. Tennessee Code Annotated, Section 49-4-923, is amended by deleting
+subsection (g) and substituting:
+(g)
+(1) Subject to the amounts appropriated by the general assembly and
+any law relating to a shortfall in funds available for postsecondary financial
+assistance from the net proceeds of the state lottery, a Wilder-Naifeh reconnect
+- 2 - 002544
+
+grant awarded under this section is for independent students as determined by
+the FAFSA. The amount of a Wilder-Naifeh reconnect grant:
+(A) For students enrolled in a Tennessee college of applied
+technology, is the cost of tuition and mandatory fees at the Tennessee
+college of applied technology attended less all other gift aid, which must
+be credited first to the student's tuition and mandatory fees; or
+(B) For students enrolled in an eligible independent
+postsecondary institution as defined in § 49-4-902(11)(D), is the average
+cost of tuition and mandatory fees at Tennessee colleges of applied
+technology less all other gift aid, which must be credited first to the
+student's tuition and mandatory fees.
+(2) Notwithstanding § 49-4-902, "gift aid" as used in this section is
+financial aid received from a federal Pell grant, a Tennessee student assistance
+award, and any scholarship or grant funded from net lottery proceeds under this
+part.
+SECTION 6. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to students seeking postsecondary financial aid for the 2025-2026 academic year and
+each academic year thereafter.
+- 3 - 002544
+
+[DELETED:  -0]
+[DELETED:  -0]

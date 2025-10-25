@@ -1,0 +1,82 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE RESOLUTION 55
+By Bailey
+A RESOLUTION to honor and congratulate Debbie Hamby for fifty
+years of meritorious service to the Cumberland
+Medical Center.
+WHEREAS, it is fitting that the members of this legislative body should honor those
+individuals who have performed with uncommon devotion and enthusiasm throughout their
+years of service in the medical profession; and
+WHEREAS, one such person is Debbie Hamby, who, for fifty years, has faithfully served
+the Cumberland Medical Center in Crossville with dedication, ability, and integrity; and
+WHEREAS, in her position, Ms. Hamby has earned recognition for her hard work and
+distinguished herself as a public-spirited citizen of the highest order; and
+WHEREAS, through her unwavering dedication and commitment to service of hope,
+health, and healing, Ms. Hamby has made an immeasurable difference in the lives of countless
+patients and citizens of the Crossville and Cumberland County communities; and
+WHEREAS, Ms. Hamby has proven herself to be wholly committed to the noble precepts
+of public service that have earned Tennessee recognition as the Volunteer State, and she
+should be specially recognized for her many years of honorable and astute service to the
+citizens of this State; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby honor and
+congratulate Debbie Hamby upon fifty years of distinguished service with the Cumberland
+Medical Center, commend her selfless service to her fellow citizens, and extend to her our best
+wishes for continued success and happiness.
+SR0055
+005095
+- 1 -
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 005095
+[DELETED: WWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE RESOLUTION 55
+By Bailey
+A RESOLUTION to honor and congratulate Debbie Hamby for fifty
+years of meritorious service to the Cumberland
+Medical Center.
+WHEREAS, it is fitting that the members of this legislative body should honor those
+individuals who have performed with uncommon devotion and enthusiasm throughout their
+years of service in the medical profession; and
+WHEREAS, one such person is Debbie Hamby, who, for fifty years, has faithfully served
+the Cumberland Medical Center in Crossville with dedication, ability, and integrity; and
+WHEREAS, in her position, Ms. Hamby has earned recognition for her hard work and
+distinguished herself as a public-spirited citizen of the highest order; and
+WHEREAS, through her unwavering dedication and commitment to service of hope,
+health, and healing, Ms. Hamby has made an immeasurable difference in the lives of countless
+patients and citizens of the Crossville and Cumberland County communities; and
+WHEREAS, Ms. Hamby has proven herself to be wholly committed to the noble precepts
+of public service that have earned Tennessee recognition as the Volunteer State, and she
+should be specially recognized for her many years of honorable and astute service to the
+citizens of this State; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby honor and
+congratulate Debbie Hamby upon fifty years of distinguished service with the Cumberland
+Medical Center, commend her selfless service to her fellow citizens, and extend to her our best
+wishes for continued success and happiness.
+SR0055
+005095
+- 1 -
+
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 005095
+
+[DELETED: WWWWWB]
+[DELETED:  -0B]

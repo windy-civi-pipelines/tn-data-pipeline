@@ -1,0 +1,81 @@
+Title: HOUSE BILL 143
+Official Title: HOUSE BILL 143
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Zachary
+SENATE BILL 120
+By Lowe
+AN ACT to amend Tennessee Code Annotated, Title 39,
+relative to criminal offenses involving controlled
+substances.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 39-13-116, is amended by adding
+the following new subsection:
+(e)
+(1) A person commits aggravated assault against a first responder, who
+knowingly possesses fentanyl, carfentanil, remifentanil, alfentanil, thiafentanil, or
+a fentanyl analogue, in a manner that would be reasonably foreseen to expose a
+first responder to the substance while the first responder is discharging or
+attempting to discharge the first responder's official duties and the first responder
+is exposed to the substance resulting in:
+(A) Serious bodily injury to the first responder; or
+(B) The death of the first responder.
+(2) As used in this subsection (e), "expose" means to come into direct
+contact with a substance by touch, ingestion, or inhalation.
+(3) Aggravated assault under this subsection (e) is a Class C felony,
+punishable by a mandatory fine of fifteen thousand dollars ($15,000) and a
+mandatory minimum sentence of ninety (90) days incarceration. The defendant
+is not eligible for release from confinement until the defendant has served the
+entire ninety-day mandatory minimum sentence.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0120
+000541
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 143
+By Zachary
+SENATE BILL 120
+By Lowe
+AN ACT to amend Tennessee Code Annotated, Title 39,
+relative to criminal offenses involving controlled
+substances.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 39-13-116, is amended by adding
+the following new subsection:
+(e)
+(1) A person commits aggravated assault against a first responder, who
+knowingly possesses fentanyl, carfentanil, remifentanil, alfentanil, thiafentanil, or
+a fentanyl analogue, in a manner that would be reasonably foreseen to expose a
+first responder to the substance while the first responder is discharging or
+attempting to discharge the first responder's official duties and the first responder
+is exposed to the substance resulting in:
+(A) Serious bodily injury to the first responder; or
+(B) The death of the first responder.
+(2) As used in this subsection (e), "expose" means to come into direct
+contact with a substance by touch, ingestion, or inhalation.
+(3) Aggravated assault under this subsection (e) is a Class C felony,
+punishable by a mandatory fine of fifteen thousand dollars ($15,000) and a
+mandatory minimum sentence of ninety (90) days incarceration. The defendant
+is not eligible for release from confinement until the defendant has served the
+entire ninety-day mandatory minimum sentence.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0120
+000541
+- 1 -
+
+[DELETED: SS]

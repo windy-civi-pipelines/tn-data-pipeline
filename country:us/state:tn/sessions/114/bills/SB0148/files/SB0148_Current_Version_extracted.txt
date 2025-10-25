@@ -1,0 +1,232 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 10
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 148
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 40;
+Title 44; Title 47; Title 49 and Title 53, relative to
+cell-cultured food products.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 53-7-202, is amended by adding the
+following new subdivision:
+( ) "Cell-cultured food product":
+(A) Means a food product intended for use as human food that is
+produced without slaughter by growing, in a controlled environment, cells
+harvested from species amenable to the Federal Meat Inspection Act; the
+Federal Poultry Products Inspection Act; or cells harvested from shellfish species
+or big game, game birds, or fish, as those terms are defined in § 70-1-101; and
+(B) Includes food or a food additive produced in the manner described in
+subdivision ( )(A) and used as an ingredient or component in a food;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 53-7-202, is amended by deleting
+subdivision (15) and substituting:
+(15) "Meat":
+(A) Means the edible part of the muscle of cattle, deer, sheep, swine, or
+goats that is skeletal or that is found in the tongue, in the diaphragm, in the heart,
+or in the esophagus, with or without the accompanying and overlying fat, and the
+portions of bone, skin, sinew, nerve, and blood vessels that normally accompany
+the muscle tissue and that are not separated from it in the process of dressing;
+and
+SB0148
+001123
+- 1 -
+(B) Does not include:
+(i) The muscle found in the lips, snout, or ears; or
+(ii) A cell-cultured food product;
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 53-7-202, is amended by deleting
+subdivision (21) and substituting:
+(21) "Poultry":
+(A) Means a live or slaughtered domesticated bird; and
+(B) Does not include a cell-cultured food product;
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Title 49, Chapter 6, is amended by adding
+the following as a new part:
+49-6-4601. Part definition.
+As used in this part, "cell-cultured food product":
+(1) Means a food product intended for use as human food that is
+produced without slaughter by growing, in a controlled environment, cells
+harvested from species amenable to the Federal Meat Inspection Act (21 U.S.C.
+
+Section 6:
+§ 601 et seq.); the Federal Poultry Products Inspection Act (21 U.S.C. § 451 et
+seq.); or cells harvested from shellfish species or big game, game birds, or fish,
+as those terms are defined in § 70-1-101; and
+(2) Includes food or a food additive produced in the manner described in
+subdivision (1) and used as an ingredient or component in a food.
+49-6-4602. Prohibition on cell-cultured food products in school lunch programs.
+An LEA or public charter school shall not offer or distribute a cell-cultured food
+product through the LEA's or public charter school's school nutrition program or another
+source through which the LEA or public charter school provides food to students.
+49-6-4603. Remedy.
+- 2 - 001123
+A parent who is affected, or whose student is affected, by a violation of this part
+may bring a civil action against the LEA or public charter school in a court of competent
+jurisdiction. The court in such action:
+(1) May award compensatory damages, injunctive relief, or any other
+appropriate relief to a prevailing party who establishes a violation of this part; and
+(2) Shall award court costs, expenses, and reasonable attorney fees to a
+prevailing party who establishes a violation of this part.
+49-6-4604. Repeal.
+This part terminates on July 1, 2035.
+
+Section 7:
+SECTION 5. Tennessee Code Annotated, Title 49, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+49-7-190.
+(a) As used in this section, "cell-cultured food product":
+(1) Means a food product intended for use as human food that is
+produced without slaughter by growing, in a controlled environment, cells
+harvested from species amenable to the Federal Meat Inspection Act (21 U.S.C.
+
+Section 8:
+§ 601 et seq.); the Federal Poultry Products Inspection Act (21 U.S.C. § 451 et
+seq.); or cells harvested from shellfish species or big game, game birds, or fish,
+as those terms are defined in § 70-1-101; and
+(2) Includes food or a food additive produced in the manner described in
+subdivision (a)(1) and used as an ingredient or component in a food.
+(b) A public institution of higher education shall not offer or distribute a cell-
+cultured food product in the institution's food service center or another source through
+which the institution provides food to students.
+- 3 - 001123
+(c) A student who is affected by a violation of this section may bring a civil action
+against the public institution of higher education in a court of competent jurisdiction. The
+court in such action:
+(1) May award compensatory damages, injunctive relief, or any other
+appropriate relief to a prevailing party who establishes a violation of this section;
+and
+(2) Shall award court costs, expenses, and reasonable attorney fees to a
+prevailing party who establishes a violation of this section.
+(d) This section terminates on July 1, 2035.
+
+Section 9:
+SECTION 6. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 10:
+SECTION 7. This act takes effect July 1, 2025, the public welfare requiring it.
+- 4 - 001123
+[DELETED: S((]
+[DELETED:  -0((((((S4AA]
+[DELETED:  -0A4T(]
+[DELETED:  -0(S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 148
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 40;
+Title 44; Title 47; Title 49 and Title 53, relative to
+cell-cultured food products.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 53-7-202, is amended by adding the
+following new subdivision:
+( ) "Cell-cultured food product":
+(A) Means a food product intended for use as human food that is
+produced without slaughter by growing, in a controlled environment, cells
+harvested from species amenable to the Federal Meat Inspection Act; the
+Federal Poultry Products Inspection Act; or cells harvested from shellfish species
+or big game, game birds, or fish, as those terms are defined in § 70-1-101; and
+(B) Includes food or a food additive produced in the manner described in
+subdivision ( )(A) and used as an ingredient or component in a food;
+SECTION 2. Tennessee Code Annotated, Section 53-7-202, is amended by deleting
+subdivision (15) and substituting:
+(15) "Meat":
+(A) Means the edible part of the muscle of cattle, deer, sheep, swine, or
+goats that is skeletal or that is found in the tongue, in the diaphragm, in the heart,
+or in the esophagus, with or without the accompanying and overlying fat, and the
+portions of bone, skin, sinew, nerve, and blood vessels that normally accompany
+the muscle tissue and that are not separated from it in the process of dressing;
+and
+SB0148
+001123
+- 1 -
+
+(B) Does not include:
+(i) The muscle found in the lips, snout, or ears; or
+(ii) A cell-cultured food product;
+SECTION 3. Tennessee Code Annotated, Section 53-7-202, is amended by deleting
+subdivision (21) and substituting:
+(21) "Poultry":
+(A) Means a live or slaughtered domesticated bird; and
+(B) Does not include a cell-cultured food product;
+SECTION 4. Tennessee Code Annotated, Title 49, Chapter 6, is amended by adding
+the following as a new part:
+49-6-4601. Part definition.
+As used in this part, "cell-cultured food product":
+(1) Means a food product intended for use as human food that is
+produced without slaughter by growing, in a controlled environment, cells
+harvested from species amenable to the Federal Meat Inspection Act (21 U.S.C.
+§ 601 et seq.); the Federal Poultry Products Inspection Act (21 U.S.C. § 451 et
+seq.); or cells harvested from shellfish species or big game, game birds, or fish,
+as those terms are defined in § 70-1-101; and
+(2) Includes food or a food additive produced in the manner described in
+subdivision (1) and used as an ingredient or component in a food.
+49-6-4602. Prohibition on cell-cultured food products in school lunch programs.
+An LEA or public charter school shall not offer or distribute a cell-cultured food
+product through the LEA's or public charter school's school nutrition program or another
+source through which the LEA or public charter school provides food to students.
+49-6-4603. Remedy.
+- 2 - 001123
+
+A parent who is affected, or whose student is affected, by a violation of this part
+may bring a civil action against the LEA or public charter school in a court of competent
+jurisdiction. The court in such action:
+(1) May award compensatory damages, injunctive relief, or any other
+appropriate relief to a prevailing party who establishes a violation of this part; and
+(2) Shall award court costs, expenses, and reasonable attorney fees to a
+prevailing party who establishes a violation of this part.
+49-6-4604. Repeal.
+This part terminates on July 1, 2035.
+SECTION 5. Tennessee Code Annotated, Title 49, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+49-7-190.
+(a) As used in this section, "cell-cultured food product":
+(1) Means a food product intended for use as human food that is
+produced without slaughter by growing, in a controlled environment, cells
+harvested from species amenable to the Federal Meat Inspection Act (21 U.S.C.
+§ 601 et seq.); the Federal Poultry Products Inspection Act (21 U.S.C. § 451 et
+seq.); or cells harvested from shellfish species or big game, game birds, or fish,
+as those terms are defined in § 70-1-101; and
+(2) Includes food or a food additive produced in the manner described in
+subdivision (a)(1) and used as an ingredient or component in a food.
+(b) A public institution of higher education shall not offer or distribute a cell-
+cultured food product in the institution's food service center or another source through
+which the institution provides food to students.
+- 3 - 001123
+
+(c) A student who is affected by a violation of this section may bring a civil action
+against the public institution of higher education in a court of competent jurisdiction. The
+court in such action:
+(1) May award compensatory damages, injunctive relief, or any other
+appropriate relief to a prevailing party who establishes a violation of this section;
+and
+(2) Shall award court costs, expenses, and reasonable attorney fees to a
+prevailing party who establishes a violation of this section.
+(d) This section terminates on July 1, 2035.
+SECTION 6. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 7. This act takes effect July 1, 2025, the public welfare requiring it.
+- 4 - 001123
+
+[DELETED: S((]
+[DELETED:  -0((((((S4AA]
+[DELETED:  -0A4T(]
+[DELETED:  -0(S]

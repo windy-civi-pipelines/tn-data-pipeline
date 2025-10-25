@@ -1,0 +1,90 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 102
+By Johnson
+A RESOLUTION to confirm the appointment of Charles Traughber
+to the state university board of Tennessee State
+University.
+WHEREAS, Tennessee Code Annotated, Section 49-8-101, provides for the governance
+of Tennessee State University by a state university board; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that the governor
+shall appoint eight members to the state university board of Tennessee State University; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, further provides that at least
+three of the gubernatorial appointees shall be alumni of the institution for which they are serving
+and that at least six of the nine voting members of the state university board shall be residents
+of the State of Tennessee; and
+WHEREAS, Governor Bill Lee has appointed Charles Traughber to the state university
+board of Tennessee State University for a term that will expire on March 31, 2030; and
+WHEREAS, a 2003 graduate of Tennessee State University and a 2008 graduate of the
+University of Tennessee College of Law, Mr. Traughber has been with Bridgestone Americas for
+nearly seven years and currently serves as general counsel for the division of real estate, retail,
+and financial services; and
+WHEREAS, he has served on the boards of Preston Taylor Ministries, the Metro
+Nashville Human Relations Committee, and the Tennessee State University Foundation Board
+of Directors; and
+SJR0102
+001555
+- 1 -
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that each member
+appointed by the governor to the state university board of Tennessee State University shall be
+subject to confirmation by the senate and the house of representatives; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we hereby confirm the appointment of Charles
+Traughber to the state university board of Tennessee State University for a term that will expire
+on March 31, 2030.
+- 2 - 001555
+[DELETED: WWWW]
+[DELETED:  -0WB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 102
+By Johnson
+A RESOLUTION to confirm the appointment of Charles Traughber
+to the state university board of Tennessee State
+University.
+WHEREAS, Tennessee Code Annotated, Section 49-8-101, provides for the governance
+of Tennessee State University by a state university board; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that the governor
+shall appoint eight members to the state university board of Tennessee State University; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, further provides that at least
+three of the gubernatorial appointees shall be alumni of the institution for which they are serving
+and that at least six of the nine voting members of the state university board shall be residents
+of the State of Tennessee; and
+WHEREAS, Governor Bill Lee has appointed Charles Traughber to the state university
+board of Tennessee State University for a term that will expire on March 31, 2030; and
+WHEREAS, a 2003 graduate of Tennessee State University and a 2008 graduate of the
+University of Tennessee College of Law, Mr. Traughber has been with Bridgestone Americas for
+nearly seven years and currently serves as general counsel for the division of real estate, retail,
+and financial services; and
+WHEREAS, he has served on the boards of Preston Taylor Ministries, the Metro
+Nashville Human Relations Committee, and the Tennessee State University Foundation Board
+of Directors; and
+SJR0102
+001555
+- 1 -
+
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that each member
+appointed by the governor to the state university board of Tennessee State University shall be
+subject to confirmation by the senate and the house of representatives; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we hereby confirm the appointment of Charles
+Traughber to the state university board of Tennessee State University for a term that will expire
+on March 31, 2030.
+- 2 - 001555
+
+[DELETED: WWWW]
+[DELETED:  -0WB]

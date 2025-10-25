@@ -1,0 +1,82 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE RESOLUTION 97
+By Bulso
+A RESOLUTION to honor and congratulate Raya Whitlock on
+being named the 2024 WILLCO Awards Dance
+Athlete of the Year.
+WHEREAS, we are pleased to recognize and commend those successful high school
+athletes who, through their magnificent exploits, bring honor to Tennessee and serve as
+exceptional ambassadors of this State; and
+WHEREAS, one such estimable individual is Raya Whitlock of Centennial High School,
+an athlete of extraordinary talent, skill, and dedication, who has proven herself a formidable
+competitor in dance; and
+WHEREAS, in recognition of her success in athletic competition throughout the school
+year, Raya Whitlock was recognized as the Dance Athlete of the Year at the 2024 WILLCO
+Awards celebration; and
+WHEREAS, Ms. Whitlock led the Cougars as team captain; and
+WHEREAS, Raya Whitlock epitomizes all that is good in today's student athlete, as she
+has achieved a high level of success in sports while evincing great character; and
+WHEREAS, Ms. Whitlock's notable achievements are a source of great pride for her
+family, her community, and her school, and it is appropriate that we recognize this accomplished
+athlete; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and
+congratulate Raya Whitlock on being named the 2024 WILLCO Awards Dance Athlete of the
+Year, wishing her much success and happiness in her future endeavors.
+HR0097
+006629
+- 1 -
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 006629
+[DELETED: WWWWWW]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE RESOLUTION 97
+By Bulso
+A RESOLUTION to honor and congratulate Raya Whitlock on
+being named the 2024 WILLCO Awards Dance
+Athlete of the Year.
+WHEREAS, we are pleased to recognize and commend those successful high school
+athletes who, through their magnificent exploits, bring honor to Tennessee and serve as
+exceptional ambassadors of this State; and
+WHEREAS, one such estimable individual is Raya Whitlock of Centennial High School,
+an athlete of extraordinary talent, skill, and dedication, who has proven herself a formidable
+competitor in dance; and
+WHEREAS, in recognition of her success in athletic competition throughout the school
+year, Raya Whitlock was recognized as the Dance Athlete of the Year at the 2024 WILLCO
+Awards celebration; and
+WHEREAS, Ms. Whitlock led the Cougars as team captain; and
+WHEREAS, Raya Whitlock epitomizes all that is good in today's student athlete, as she
+has achieved a high level of success in sports while evincing great character; and
+WHEREAS, Ms. Whitlock's notable achievements are a source of great pride for her
+family, her community, and her school, and it is appropriate that we recognize this accomplished
+athlete; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and
+congratulate Raya Whitlock on being named the 2024 WILLCO Awards Dance Athlete of the
+Year, wishing her much success and happiness in her future endeavors.
+HR0097
+006629
+- 1 -
+
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 006629
+
+[DELETED: WWWWWW]
+[DELETED:  -0B]

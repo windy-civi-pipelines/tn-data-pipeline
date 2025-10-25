@@ -1,0 +1,71 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 1055
+By McKenzie
+AN ACT to amend Tennessee Code Annotated, Title 55,
+Chapter 8, relative to speed limits.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 55-8-152(c), is amended by deleting
+the language "seventy miles per hour (70 mph)" and substituting instead the language "seventy-
+five miles per hour (75 mph)" and by deleting the language "fifty-five miles per hour (55 mph)"
+and substituting instead the language "sixty miles per hour (60 mph)".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 55-8-152(f)(2), is amended by
+deleting the language "in excess of fifty-five miles per hour (55 mph) but less than seventy-five
+miles per hour (75 mph)" and substituting instead the language "in excess of sixty miles per
+hour (60 mph) but less than eighty miles per hour (80 mph)" and by deleting the language "This
+subsection (f) shall not apply to trucks as defined in subsection (b) when traveling in excess of
+sixty-five miles per hour (65 mph) on all highways of the interstate and defense highway system
+and four-laned controlled-access highways," and substituting instead the language "This
+subsection (f) does not apply to trucks as defined in subsection (b) when traveling in excess of
+seventy miles per hour (70 mph) on all highways of the interstate and defense highway system
+and four-laned controlled-access highways,".
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+HB1055
+001347
+- 1 -
+[DELETED: SSS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 1055
+By McKenzie
+AN ACT to amend Tennessee Code Annotated, Title 55,
+Chapter 8, relative to speed limits.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 55-8-152(c), is amended by deleting
+the language "seventy miles per hour (70 mph)" and substituting instead the language "seventy-
+five miles per hour (75 mph)" and by deleting the language "fifty-five miles per hour (55 mph)"
+and substituting instead the language "sixty miles per hour (60 mph)".
+SECTION 2. Tennessee Code Annotated, Section 55-8-152(f)(2), is amended by
+deleting the language "in excess of fifty-five miles per hour (55 mph) but less than seventy-five
+miles per hour (75 mph)" and substituting instead the language "in excess of sixty miles per
+hour (60 mph) but less than eighty miles per hour (80 mph)" and by deleting the language "This
+subsection (f) shall not apply to trucks as defined in subsection (b) when traveling in excess of
+sixty-five miles per hour (65 mph) on all highways of the interstate and defense highway system
+and four-laned controlled-access highways," and substituting instead the language "This
+subsection (f) does not apply to trucks as defined in subsection (b) when traveling in excess of
+seventy miles per hour (70 mph) on all highways of the interstate and defense highway system
+and four-laned controlled-access highways,".
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+HB1055
+001347
+- 1 -
+
+[DELETED: SSS]

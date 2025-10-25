@@ -1,0 +1,53 @@
+Title: HOUSE BILL 801
+Official Title: HOUSE BILL 801
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Grills
+SENATE BILL 1194
+By Jackson
+AN ACT to amend Tennessee Code Annotated, Title 68,
+Chapter 120, relative to standards for roofs.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 68-120-101, is amended by adding
+the following as a new subsection:
+(l) The roof solar reflectance and thermal emittance requirements of the
+International Energy Conservation Code, published by the International Code Council,
+for low-sloped roofs do not apply in this state.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1194
+002619
+- 1 -
+[DELETED: S()]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 801
+By Grills
+SENATE BILL 1194
+By Jackson
+AN ACT to amend Tennessee Code Annotated, Title 68,
+Chapter 120, relative to standards for roofs.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 68-120-101, is amended by adding
+the following as a new subsection:
+(l) The roof solar reflectance and thermal emittance requirements of the
+International Energy Conservation Code, published by the International Code Council,
+for low-sloped roofs do not apply in this state.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1194
+002619
+- 1 -
+
+[DELETED: S()]

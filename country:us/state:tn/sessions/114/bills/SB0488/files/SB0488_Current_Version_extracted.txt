@@ -1,0 +1,53 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 488
+By Bowling
+AN ACT to amend Tennessee Code Annotated, Title 13,
+Chapter 21, relative to buildings.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 13-21-314, is amended by deleting
+the section.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 13-21-103(3)(A), is amended by
+deleting the language "or to vacate and close the structure as a place of human occupation or
+use".
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0488
+000901
+- 1 -
+[DELETED: SSS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 488
+By Bowling
+AN ACT to amend Tennessee Code Annotated, Title 13,
+Chapter 21, relative to buildings.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 13-21-314, is amended by deleting
+the section.
+SECTION 2. Tennessee Code Annotated, Section 13-21-103(3)(A), is amended by
+deleting the language "or to vacate and close the structure as a place of human occupation or
+use".
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0488
+000901
+- 1 -
+
+[DELETED: SSS]

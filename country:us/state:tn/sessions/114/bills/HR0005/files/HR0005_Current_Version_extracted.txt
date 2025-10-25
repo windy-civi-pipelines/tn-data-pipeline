@@ -1,0 +1,59 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE RESOLUTION 5
+By Marsh
+A RESOLUTION to create an ad hoc committee to receive and
+review the complaint filed by Rueben Dockery
+with respect to the fifty-third representative
+district.
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that the Speaker
+appoint an ad hoc committee in accordance with Rule 81 to receive and review the complaint
+filed by Mr. Rueben Dockery against Representative Jason Powell.
+BE IT FURTHER RESOLVED, that the committee is authorized to exercise such powers
+and authorities granted in Tennessee Code Annotated, Title 3, Chapters 3 and 4, to operate
+under the rules of the House of Representatives, and to adopt such other procedures as may be
+necessary to complete its duties in a fair and responsible manner.
+BE IT FURTHER RESOLVED, that the committee timely report its findings and
+recommendations to the House of Representatives for consideration, and, upon filing its report,
+the committee shall cease to exist.
+HR0005
+001201
+- 1 -
+[DELETED: B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE RESOLUTION 5
+By Marsh
+A RESOLUTION to create an ad hoc committee to receive and
+review the complaint filed by Rueben Dockery
+with respect to the fifty-third representative
+district.
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that the Speaker
+appoint an ad hoc committee in accordance with Rule 81 to receive and review the complaint
+filed by Mr. Rueben Dockery against Representative Jason Powell.
+BE IT FURTHER RESOLVED, that the committee is authorized to exercise such powers
+and authorities granted in Tennessee Code Annotated, Title 3, Chapters 3 and 4, to operate
+under the rules of the House of Representatives, and to adopt such other procedures as may be
+necessary to complete its duties in a fair and responsible manner.
+BE IT FURTHER RESOLVED, that the committee timely report its findings and
+recommendations to the House of Representatives for consideration, and, upon filing its report,
+the committee shall cease to exist.
+HR0005
+001201
+- 1 -
+
+[DELETED: B]

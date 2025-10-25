@@ -1,0 +1,65 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 260
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 44;
+Title 47, Chapter 18 and Title 53, relative to meat.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 53-7-202, is amended by adding the
+following as a new subdivision:
+( ) "mRNA vaccine or vaccine material" means a substance to stimulate the
+production of antibodies and provide immunity against disease by introducing
+messenger ribonucleic acid (mRNA) that corresponds to a viral protein;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 53-7-205, is amended by adding the
+following as a new subsection:
+(d) This section or another law does not prohibit a person from labeling meat or
+a meat product as "mRNA free" or any similar designation, if the animals from which the
+meat or meat product was derived were not administered an mRNA vaccine or vaccine
+material.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0260
+000145
+- 1 -
+[DELETED: S(S(S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 260
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 44;
+Title 47, Chapter 18 and Title 53, relative to meat.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 53-7-202, is amended by adding the
+following as a new subdivision:
+( ) "mRNA vaccine or vaccine material" means a substance to stimulate the
+production of antibodies and provide immunity against disease by introducing
+messenger ribonucleic acid (mRNA) that corresponds to a viral protein;
+SECTION 2. Tennessee Code Annotated, Section 53-7-205, is amended by adding the
+following as a new subsection:
+(d) This section or another law does not prohibit a person from labeling meat or
+a meat product as "mRNA free" or any similar designation, if the animals from which the
+meat or meat product was derived were not administered an mRNA vaccine or vaccine
+material.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0260
+000145
+- 1 -
+
+[DELETED: S(S(S]

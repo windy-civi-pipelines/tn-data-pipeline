@@ -1,0 +1,124 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 1070
+By Zachary
+AN ACT to amend Tennessee Code Annotated, Title 71,
+relative to the food stamp program.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 5, Part 3, is amended by
+adding the following as a new section:
+(a) This section is known and may be cited as the "Tennessee Health SNAP
+Act."
+(b) The purpose of this section is to ensure the supplemental nutrition assistance
+program (SNAP) in this state aligns with its intended purpose of improving food security
+and nutrition by prohibiting the purchase of candy and soft drinks with SNAP benefits.
+(c) The department shall submit a request for a federal waiver to the United
+States department of agriculture's food and nutrition service to seek authorization to
+prohibit the use of SNAP benefits for the purchase of candy and soft drinks.
+(d) The waiver request must include:
+(1) A justification citing:
+(A) Public health concerns;
+(B) SNAP's statutory intent; and
+(C) Cost savings to taxpayers;
+(2) An implementation plan ensuring that existing point-of-sale systems
+used by retailers in this state have the ability to properly enforce the restriction;
+(3) A strategy for education and outreach informing SNAP recipients of
+alternative healthy food options; and
+HB1070
+003226
+- 1 -
+(4) A reporting mechanism to track the impact of the waiver, including
+spending patterns and health outcomes.
+(e) If the waiver is approved, then the department shall implement the restriction
+within six (6) months of receiving federal authorization.
+(f) The department shall submit an annual report to the governor and the chair of
+the health and welfare committee of the senate and chair of the committee of the house
+of representatives having jurisdiction over health-related matters on the following:
+(1) The status of the waiver request;
+(2) Data on SNAP spending patterns in this state; and
+(3) Any identified challenges or recommendations for further policy
+action.
+(g) As used in this section:
+(1) "Candy" means a preparation of sugar, honey, or other natural or
+artificial sweeteners in combination with chocolate, fruit, nuts, or other ingredients
+or flavorings in the form of bars, drops, or pieces, and does not require
+refrigeration; and
+(2) "Soft drinks" means any non-alcoholic beverages containing natural
+or artificial sweeteners, except beverages that contain milk, milk products, soy,
+rice, or other milk substitutes, or greater than fifty percent (50%) vegetable or fruit
+juice by volume.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 003226
+[DELETED: S((((((((((]
+[DELETED:  -0(((((((((S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 1070
+By Zachary
+AN ACT to amend Tennessee Code Annotated, Title 71,
+relative to the food stamp program.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 5, Part 3, is amended by
+adding the following as a new section:
+(a) This section is known and may be cited as the "Tennessee Health SNAP
+Act."
+(b) The purpose of this section is to ensure the supplemental nutrition assistance
+program (SNAP) in this state aligns with its intended purpose of improving food security
+and nutrition by prohibiting the purchase of candy and soft drinks with SNAP benefits.
+(c) The department shall submit a request for a federal waiver to the United
+States department of agriculture's food and nutrition service to seek authorization to
+prohibit the use of SNAP benefits for the purchase of candy and soft drinks.
+(d) The waiver request must include:
+(1) A justification citing:
+(A) Public health concerns;
+(B) SNAP's statutory intent; and
+(C) Cost savings to taxpayers;
+(2) An implementation plan ensuring that existing point-of-sale systems
+used by retailers in this state have the ability to properly enforce the restriction;
+(3) A strategy for education and outreach informing SNAP recipients of
+alternative healthy food options; and
+HB1070
+003226
+- 1 -
+
+(4) A reporting mechanism to track the impact of the waiver, including
+spending patterns and health outcomes.
+(e) If the waiver is approved, then the department shall implement the restriction
+within six (6) months of receiving federal authorization.
+(f) The department shall submit an annual report to the governor and the chair of
+the health and welfare committee of the senate and chair of the committee of the house
+of representatives having jurisdiction over health-related matters on the following:
+(1) The status of the waiver request;
+(2) Data on SNAP spending patterns in this state; and
+(3) Any identified challenges or recommendations for further policy
+action.
+(g) As used in this section:
+(1) "Candy" means a preparation of sugar, honey, or other natural or
+artificial sweeteners in combination with chocolate, fruit, nuts, or other ingredients
+or flavorings in the form of bars, drops, or pieces, and does not require
+refrigeration; and
+(2) "Soft drinks" means any non-alcoholic beverages containing natural
+or artificial sweeteners, except beverages that contain milk, milk products, soy,
+rice, or other milk substitutes, or greater than fifty percent (50%) vegetable or fruit
+juice by volume.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 003226
+
+[DELETED: S((((((((((]
+[DELETED:  -0(((((((((S]

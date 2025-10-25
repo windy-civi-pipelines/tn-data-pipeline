@@ -1,0 +1,57 @@
+Title: HOUSE BILL 929
+Official Title: HOUSE BILL 929
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Towns
+SENATE BILL 617
+By Kyle
+AN ACT to amend Tennessee Code Annotated, Title 2,
+Chapter 10, relative to campaign funds.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 2-10-114(a), is amended by adding
+the following as a new subdivision:
+(9) The funds may be used for the payment of any fines, fees, or penalties
+assessed pursuant to this chapter or title 3, chapter 6.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 2-10-114(b)(2)(J), is amended by
+deleting the subdivision.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0617
+002512
+- 1 -
+[DELETED: SSS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 929
+By Towns
+SENATE BILL 617
+By Kyle
+AN ACT to amend Tennessee Code Annotated, Title 2,
+Chapter 10, relative to campaign funds.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 2-10-114(a), is amended by adding
+the following as a new subdivision:
+(9) The funds may be used for the payment of any fines, fees, or penalties
+assessed pursuant to this chapter or title 3, chapter 6.
+SECTION 2. Tennessee Code Annotated, Section 2-10-114(b)(2)(J), is amended by
+deleting the subdivision.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0617
+002512
+- 1 -
+
+[DELETED: SSS]

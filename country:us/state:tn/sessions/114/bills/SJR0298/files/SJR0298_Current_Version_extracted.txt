@@ -1,0 +1,86 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 298
+By Bailey
+A RESOLUTION to recognize and commend Cumberland Medical
+Center on the occasion of its seventy-fifth
+anniversary.
+WHEREAS, it is our privilege to recognize those premier medical facilities that have
+compassionately and capably served the citizens of this State for generations; and
+WHEREAS, one such entity is Cumberland Medical Center in Crossville, which recently
+celebrated its seventy-fifth anniversary, marking seven and one-half decades of providing the
+highest-quality health care to all who cross its threshold; and
+WHEREAS, established in 1950, Cumberland Medical Center traces its beginnings back
+to the efforts of pioneering physician Dr. May Cravath Wharton; and
+WHEREAS, a member of Covenant Health, Cumberland Medical Center is an acute
+care hospital, offering state-of-the-art technology, private patient rooms, and specialized
+services not usually found in rural medical systems; and
+WHEREAS, for the last seventy-five years, Cumberland Medical Center has served the
+Cumberland Plateau area with compassionate care that has been essential to the region's
+growth and the well-being of its citizens; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and commend Cumberland Medical
+Center for seventy-five years of compassionate, dedicated service to the people of the
+Cumberland Plateau and this State, extending our best wishes for the institution's continued
+success in the future.
+SJR0298
+005950
+- 1 -
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 005950
+[DELETED: WWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 298
+By Bailey
+A RESOLUTION to recognize and commend Cumberland Medical
+Center on the occasion of its seventy-fifth
+anniversary.
+WHEREAS, it is our privilege to recognize those premier medical facilities that have
+compassionately and capably served the citizens of this State for generations; and
+WHEREAS, one such entity is Cumberland Medical Center in Crossville, which recently
+celebrated its seventy-fifth anniversary, marking seven and one-half decades of providing the
+highest-quality health care to all who cross its threshold; and
+WHEREAS, established in 1950, Cumberland Medical Center traces its beginnings back
+to the efforts of pioneering physician Dr. May Cravath Wharton; and
+WHEREAS, a member of Covenant Health, Cumberland Medical Center is an acute
+care hospital, offering state-of-the-art technology, private patient rooms, and specialized
+services not usually found in rural medical systems; and
+WHEREAS, for the last seventy-five years, Cumberland Medical Center has served the
+Cumberland Plateau area with compassionate care that has been essential to the region's
+growth and the well-being of its citizens; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and commend Cumberland Medical
+Center for seventy-five years of compassionate, dedicated service to the people of the
+Cumberland Plateau and this State, extending our best wishes for the institution's continued
+success in the future.
+SJR0298
+005950
+- 1 -
+
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 005950
+
+[DELETED: WWWWWB]
+[DELETED:  -0B]

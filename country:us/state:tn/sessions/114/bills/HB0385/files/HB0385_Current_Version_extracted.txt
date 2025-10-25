@@ -1,0 +1,157 @@
+Title: SENATE BILL 264
+Official Title: SENATE BILL 264
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Hensley
+HOUSE BILL 385
+By Butler
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 4, relative to tax relief.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 67, Chapter 4, is amended by adding
+the following as a new part:
+67-4-1301.
+As used in this part:
+(1) "Division" means the division of TennCare;
+(2) "Eligible healthcare provider" or "provider" means:
+(A) A healthcare provider who participates as a provider in the
+TennCare program or a successor medicaid program provided for in title
+71, chapter 5; or
+(B) A group practice that holds a contract with the division or a
+managed care organization participating in the TennCare program or a
+successor medicaid program provided for in title 71, chapter 5;
+(3) "Group practice":
+(A) Means two (2) or more healthcare providers who are
+associated together in a healthcare practice;
+(B) Includes a corporation, limited liability company, or
+partnership organized or owned by two (2) or more healthcare providers
+who are associated together in a healthcare practice; and
+HB0385
+001950
+- 1 -
+(C) Does not include a hospital, ambulatory surgical treatment
+center, assisted-care living facility, nursing home, outpatient diagnostic
+center, or home care organization as such terms are defined in § 68-11-
+201, or other healthcare institution or facility;
+(4) "Healthcare provider" means an individual who is licensed, certified,
+or authorized or permitted by the laws of this state to administer health care in
+the ordinary course of business or practice of a profession;
+(5) "TennCare recipient" means an individual eligible for and enrolled in
+the TennCare program or a successor medicaid program provided for in title 71,
+chapter 5; and
+(6) "Unreimbursed costs" means an amount equal to the difference
+between one hundred twenty-five percent (125%) of the average federal
+medicaid reimbursement rate and the TennCare reimbursement rate paid to an
+eligible healthcare provider by the division or a managed care organization for
+healthcare services provided by an eligible healthcare provider to a TennCare
+recipient.
+67-4-1302.
+(a) TennCare shall, upon payment of the fee prescribed under subsection (b),
+certify an eligible healthcare provider's unreimbursed costs in a calendar year as
+charitable contributions made exclusively for public purposes to TennCare pursuant to
+26 U.S.C. § 170. TennCare shall provide the eligible healthcare provider with a
+statement of the total amount of such charitable contributions provided by the eligible
+healthcare provider in a calendar year by January 31 of the following year.
+(b) An eligible healthcare provider shall pay TennCare twenty-five dollars
+($25.00) each year by January 15 to receive the certification produced under subsection
+- 2 - 001950
+(a). If an eligible healthcare provider is a group practice, then the eligible healthcare
+provider shall pay TennCare twenty-five dollars ($25.00) for each healthcare provider in
+the group practice by January 15 to receive the certification produced under subsection
+(a).
+(c) The division is authorized to promulgate rules to implement this part. All
+rules must be promulgated in accordance with the provisions of the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+
+Section 3:
+SECTION 2. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2025, the
+public welfare requiring it, and applies to charitable contributions made on or after that date.
+- 3 - 001950
+[DELETED: S6A]
+[DELETED:  -06]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 264
+By Hensley
+HOUSE BILL 385
+By Butler
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 4, relative to tax relief.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 67, Chapter 4, is amended by adding
+the following as a new part:
+67-4-1301.
+As used in this part:
+(1) "Division" means the division of TennCare;
+(2) "Eligible healthcare provider" or "provider" means:
+(A) A healthcare provider who participates as a provider in the
+TennCare program or a successor medicaid program provided for in title
+71, chapter 5; or
+(B) A group practice that holds a contract with the division or a
+managed care organization participating in the TennCare program or a
+successor medicaid program provided for in title 71, chapter 5;
+(3) "Group practice":
+(A) Means two (2) or more healthcare providers who are
+associated together in a healthcare practice;
+(B) Includes a corporation, limited liability company, or
+partnership organized or owned by two (2) or more healthcare providers
+who are associated together in a healthcare practice; and
+HB0385
+001950
+- 1 -
+
+(C) Does not include a hospital, ambulatory surgical treatment
+center, assisted-care living facility, nursing home, outpatient diagnostic
+center, or home care organization as such terms are defined in § 68-11-
+201, or other healthcare institution or facility;
+(4) "Healthcare provider" means an individual who is licensed, certified,
+or authorized or permitted by the laws of this state to administer health care in
+the ordinary course of business or practice of a profession;
+(5) "TennCare recipient" means an individual eligible for and enrolled in
+the TennCare program or a successor medicaid program provided for in title 71,
+chapter 5; and
+(6) "Unreimbursed costs" means an amount equal to the difference
+between one hundred twenty-five percent (125%) of the average federal
+medicaid reimbursement rate and the TennCare reimbursement rate paid to an
+eligible healthcare provider by the division or a managed care organization for
+healthcare services provided by an eligible healthcare provider to a TennCare
+recipient.
+67-4-1302.
+(a) TennCare shall, upon payment of the fee prescribed under subsection (b),
+certify an eligible healthcare provider's unreimbursed costs in a calendar year as
+charitable contributions made exclusively for public purposes to TennCare pursuant to
+26 U.S.C. § 170. TennCare shall provide the eligible healthcare provider with a
+statement of the total amount of such charitable contributions provided by the eligible
+healthcare provider in a calendar year by January 31 of the following year.
+(b) An eligible healthcare provider shall pay TennCare twenty-five dollars
+($25.00) each year by January 15 to receive the certification produced under subsection
+- 2 - 001950
+
+(a). If an eligible healthcare provider is a group practice, then the eligible healthcare
+provider shall pay TennCare twenty-five dollars ($25.00) for each healthcare provider in
+the group practice by January 15 to receive the certification produced under subsection
+(a).
+(c) The division is authorized to promulgate rules to implement this part. All
+rules must be promulgated in accordance with the provisions of the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+SECTION 2. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2025, the
+public welfare requiring it, and applies to charitable contributions made on or after that date.
+- 3 - 001950
+
+[DELETED: S6A]
+[DELETED:  -06]
+[DELETED:  -0S]

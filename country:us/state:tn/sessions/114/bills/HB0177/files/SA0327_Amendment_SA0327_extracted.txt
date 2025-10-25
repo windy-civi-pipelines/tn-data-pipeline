@@ -1,0 +1,199 @@
+Title: AMEND S e n ate Bill No. 1087 House Bill No. 177*
+Official Title: AMEND S e n ate Bill No. 1087 House Bill No. 177*
+Number of Sections: 5
+Source: versions - Amendment SA0327
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Senate State and Local Government 1
+Amendment No. 1 to SB1087
+Briggs
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 39, is amended by adding the following
+as a new chapter:
+39-7-101.
+(a) A person commits an offense if the person is not lawfully present in the
+United States and knowingly enters or attempts to enter this state, or knowingly entered
+this state prior to the effective date of this act, and remains in this state.
+(b) Except as provided in subsection (c), a first violation of subsection (a) is a
+Class B misdemeanor, and a second or subsequent violation of subsection (a) is a Class
+E felony.
+(c) A violation of subsection (a) is a Class E felony if the person was excluded
+pursuant to 8 U.S.C. § 1225(c) or removed pursuant to 8 U.S.C. chapter 12, subchapter
+V or 8 U.S.C. § 1231(a)(4)(B).
+(d) It is not a violation of subsection (a) for a person to remain in this state during
+the seventy-two-hour period authorized in an order issued pursuant to § 39-7-102
+requiring the person to leave this state.
+(e) It is an affirmative defense to prosecution under subsection (a) if:
+(1) The federal government has granted the defendant lawful presence in
+the United States or asylum under 8 U.S.C. § 1158;
+(2) The defendant's conduct does not constitute a violation of 8 U.S.C. §
+1325(a); or
+SA0327
+006262
+- 1 -
+(3) The defendant was approved for benefits under the federal Deferred
+Action for Childhood Arrivals program between June 15, 2012, and July 16,
+
+Section 3:
+2021.
+(f) As used in this section, "lawfully present in the United States" means, with
+respect to a person, the person is a United States citizen or a lawful permanent resident,
+or the person's presence in the United States has been authorized by the federal
+government for a specific purpose and for a specified period of authorized stay.
+39-7-102.
+(a) If, during the initial appearance of a person charged with a violation of § 39-
+7-101(a), the judge orders the person released from custody, then the judge shall issue
+a written order discharging the person and requiring the person to, within seventy-two
+(72) hours of the date of issuance, leave this state.
+(b) Upon a person's conviction of an offense under § 39-7-101(a), the judge shall
+enter an order requiring the person to, within seventy-two (72) hours of the order taking
+effect, leave this state. Such order takes effect on completion of the term of confinement
+or imprisonment imposed by the judgment.
+39-7-103.
+Notwithstanding title 40, chapter 35, part 5; title 41, chapter 1, part 5; or another
+law regarding release eligibility status and parole, a person who is convicted of an
+offense under § 39-7-101(a) is not eligible for release prior to service of the entire
+sentence imposed by the court.
+
+Section 4:
+SECTION 2. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+
+Section 5:
+SECTION 3.
+- 2 - 006262
+(a) Except as provided in subsection (b), Section 1 of this act takes effect on the
+nearest January 1 or July 1 after the date on which the earlier of the following
+circumstances occur, and applies to acts committed on or after that date, the public
+welfare requiring it:
+(1) Issuance of the judgment in a decision of the United States Supreme
+Court that overrules, in whole or in part, Arizona v. United States, 567 U.S. 387
+(2012);
+(2) Another state's illegal entry law is valid and enforceable for sixty (60)
+consecutive days; provided, that "another state's illegal entry law" means Iowa
+Code Ann. Chapter 718C; La. Stat. Ann. § 14:112.12; 21 Okl. St. Ann. § 1795; or
+Tex. Penal Code Ann. § 51.02, and "valid and enforceable" means the
+enforceability of the law is not subject to an injunction or other order issued by a
+court enjoining its enforcement; or
+(3) Publication in the Federal Register certifying the ratification of an
+amendment to the United States Constitution that, in whole or in part, grants the
+right of states to enforce or regulate immigration as described in Section 1.
+(b) If the nearest January 1 or July 1 in subsection (a) is less than one hundred
+twenty (120) days after the date of the decision, expiration of the sixty-day period, or
+publication, then Section 1 takes effect on the January 1 or July 1 furthest from the date
+of the decision, expiration of the sixty-day period, or publication.
+(c) The attorney general and reporter shall notify the executive secretary of the
+Tennessee Code Commission in writing of the date of the issuance of the decision, date
+of the expiration of the sixty-day period, or date of the publication described in
+subsection (a) and provide the executive secretary with a copy of the decision, another
+state's illegal entry law, or publication.
+(d) All remaining sections of this act take effect upon becoming a law, the public
+welfare requiring it.
+- 3 - 006262
+[DELETED:  a HS]
+[DELETED:  -0(33S]
+[DELETED:  -0 ,(]
+
+
+================================================================================
+
+Raw Text:
+Senate State and Local Government 1
+Amendment No. 1 to SB1087
+Briggs
+Signature of Sponsor
+AMEND S e n ate Bill No. 1087 House Bill No. 177*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 39, is amended by adding the following
+as a new chapter:
+39-7-101.
+(a) A person commits an offense if the person is not lawfully present in the
+United States and knowingly enters or attempts to enter this state, or knowingly entered
+this state prior to the effective date of this act, and remains in this state.
+(b) Except as provided in subsection (c), a first violation of subsection (a) is a
+Class B misdemeanor, and a second or subsequent violation of subsection (a) is a Class
+E felony.
+(c) A violation of subsection (a) is a Class E felony if the person was excluded
+pursuant to 8 U.S.C. § 1225(c) or removed pursuant to 8 U.S.C. chapter 12, subchapter
+V or 8 U.S.C. § 1231(a)(4)(B).
+(d) It is not a violation of subsection (a) for a person to remain in this state during
+the seventy-two-hour period authorized in an order issued pursuant to § 39-7-102
+requiring the person to leave this state.
+(e) It is an affirmative defense to prosecution under subsection (a) if:
+(1) The federal government has granted the defendant lawful presence in
+the United States or asylum under 8 U.S.C. § 1158;
+(2) The defendant's conduct does not constitute a violation of 8 U.S.C. §
+1325(a); or
+SA0327
+006262
+- 1 -
+
+(3) The defendant was approved for benefits under the federal Deferred
+Action for Childhood Arrivals program between June 15, 2012, and July 16,
+2021.
+(f) As used in this section, "lawfully present in the United States" means, with
+respect to a person, the person is a United States citizen or a lawful permanent resident,
+or the person's presence in the United States has been authorized by the federal
+government for a specific purpose and for a specified period of authorized stay.
+39-7-102.
+(a) If, during the initial appearance of a person charged with a violation of § 39-
+7-101(a), the judge orders the person released from custody, then the judge shall issue
+a written order discharging the person and requiring the person to, within seventy-two
+(72) hours of the date of issuance, leave this state.
+(b) Upon a person's conviction of an offense under § 39-7-101(a), the judge shall
+enter an order requiring the person to, within seventy-two (72) hours of the order taking
+effect, leave this state. Such order takes effect on completion of the term of confinement
+or imprisonment imposed by the judgment.
+39-7-103.
+Notwithstanding title 40, chapter 35, part 5; title 41, chapter 1, part 5; or another
+law regarding release eligibility status and parole, a person who is convicted of an
+offense under § 39-7-101(a) is not eligible for release prior to service of the entire
+sentence imposed by the court.
+SECTION 2. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 3.
+- 2 - 006262
+
+(a) Except as provided in subsection (b), Section 1 of this act takes effect on the
+nearest January 1 or July 1 after the date on which the earlier of the following
+circumstances occur, and applies to acts committed on or after that date, the public
+welfare requiring it:
+(1) Issuance of the judgment in a decision of the United States Supreme
+Court that overrules, in whole or in part, Arizona v. United States, 567 U.S. 387
+(2012);
+(2) Another state's illegal entry law is valid and enforceable for sixty (60)
+consecutive days; provided, that "another state's illegal entry law" means Iowa
+Code Ann. Chapter 718C; La. Stat. Ann. § 14:112.12; 21 Okl. St. Ann. § 1795; or
+Tex. Penal Code Ann. § 51.02, and "valid and enforceable" means the
+enforceability of the law is not subject to an injunction or other order issued by a
+court enjoining its enforcement; or
+(3) Publication in the Federal Register certifying the ratification of an
+amendment to the United States Constitution that, in whole or in part, grants the
+right of states to enforce or regulate immigration as described in Section 1.
+(b) If the nearest January 1 or July 1 in subsection (a) is less than one hundred
+twenty (120) days after the date of the decision, expiration of the sixty-day period, or
+publication, then Section 1 takes effect on the January 1 or July 1 furthest from the date
+of the decision, expiration of the sixty-day period, or publication.
+(c) The attorney general and reporter shall notify the executive secretary of the
+Tennessee Code Commission in writing of the date of the issuance of the decision, date
+of the expiration of the sixty-day period, or date of the publication described in
+subsection (a) and provide the executive secretary with a copy of the decision, another
+state's illegal entry law, or publication.
+(d) All remaining sections of this act take effect upon becoming a law, the public
+welfare requiring it.
+- 3 - 006262
+
+[DELETED:  a HS]
+[DELETED:  -0(33S]
+[DELETED:  -0 ,(]

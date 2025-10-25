@@ -1,0 +1,67 @@
+Title: SENATE BILL 1280
+Official Title: SENATE BILL 1280
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Johnson
+HOUSE BILL 109
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Title 45,
+relative to financial institutions.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 45-2-402, is amended by deleting
+subsection (c) and substituting instead the following:
+(c) All Tennessee state-chartered banks shall obtain an annual audit of their
+financial statements by an independent certified public accountant at least once in each
+calendar year at intervals of no more than fifteen (15) months, unless the bank's financial
+statements are included in the audit of its holding company's consolidated financial
+statements. The board shall review and discuss the audit and record such in the
+minutes. Each bank shall provide to the commissioner a copy of the independent
+external audit, including any management letters, within forty-five (45) days of receiving
+the external audit, and shall promptly notify the commissioner when any independent
+public accountant is initially engaged to perform external auditing work, or when a
+change in, or termination of, the bank's independent accountant occurs.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming law, the public welfare requiring it.
+HB0109
+000179
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1280
+By Johnson
+HOUSE BILL 109
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Title 45,
+relative to financial institutions.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 45-2-402, is amended by deleting
+subsection (c) and substituting instead the following:
+(c) All Tennessee state-chartered banks shall obtain an annual audit of their
+financial statements by an independent certified public accountant at least once in each
+calendar year at intervals of no more than fifteen (15) months, unless the bank's financial
+statements are included in the audit of its holding company's consolidated financial
+statements. The board shall review and discuss the audit and record such in the
+minutes. Each bank shall provide to the commissioner a copy of the independent
+external audit, including any management letters, within forty-five (45) days of receiving
+the external audit, and shall promptly notify the commissioner when any independent
+public accountant is initially engaged to perform external auditing work, or when a
+change in, or termination of, the bank's independent accountant occurs.
+SECTION 2. This act takes effect upon becoming law, the public welfare requiring it.
+HB0109
+000179
+- 1 -
+
+[DELETED: SS]

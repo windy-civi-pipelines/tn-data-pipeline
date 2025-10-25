@@ -1,0 +1,96 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 509
+By Stevens
+A RESOLUTION to commemorate the 250th anniversary of the
+Battles of Lexington and Concord.
+WHEREAS, it is fitting that the members of this General Assembly should commemorate
+those historic events that shaped the foundation of our nation and honor the courage and
+sacrifice of those who fought for the cause of American independence; and
+WHEREAS, April 19, 2025, marks the 250th anniversary of the Battles of Lexington and
+Concord, which were fought on April 19, 1775, and signaled the beginning of the American
+Revolutionary War; and
+WHEREAS, these pivotal engagements, which followed the legendary midnight ride of
+Paul Revere, saw the confrontation between colonial minutemen and British regulars and gave
+rise to the immortal phrase, "the shot heard round the world"; and
+WHEREAS, the minutemen, ordinary citizens trained and prepared to respond at a
+moment's notice, stood with extraordinary courage and resolve in defense of their homes, their
+rights, and the principles of self-government; and
+WHEREAS, the courageous patriots who lost their lives at Lexington Green and on the
+road to Concord paid the ultimate price in the earliest moments of a long and arduous struggle
+for American independence; and
+WHEREAS, their bravery and sacrifice helped ignite the flame of liberty that would
+eventually give birth to the United States of America, inspiring generations of Americans in their
+ongoing pursuit of freedom and justice; and
+WHEREAS, we hold deep reverence for the legacy of the American Revolution and the
+men and women whose actions forged the path to nationhood; now, therefore,
+HJR0509
+006457
+- 1 -
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we commemorate the 250th anniversary of the Battles of Lexington and
+Concord, honoring the patriot minutemen who stood ready to defend their liberties and those
+who gave their lives in the cause of American freedom.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 006457
+[DELETED: 0 WW0 WWWWW]
+[DELETED:  -0B0 B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 509
+By Stevens
+A RESOLUTION to commemorate the 250th anniversary of the
+Battles of Lexington and Concord.
+WHEREAS, it is fitting that the members of this General Assembly should commemorate
+those historic events that shaped the foundation of our nation and honor the courage and
+sacrifice of those who fought for the cause of American independence; and
+WHEREAS, April 19, 2025, marks the 250th anniversary of the Battles of Lexington and
+Concord, which were fought on April 19, 1775, and signaled the beginning of the American
+Revolutionary War; and
+WHEREAS, these pivotal engagements, which followed the legendary midnight ride of
+Paul Revere, saw the confrontation between colonial minutemen and British regulars and gave
+rise to the immortal phrase, "the shot heard round the world"; and
+WHEREAS, the minutemen, ordinary citizens trained and prepared to respond at a
+moment's notice, stood with extraordinary courage and resolve in defense of their homes, their
+rights, and the principles of self-government; and
+WHEREAS, the courageous patriots who lost their lives at Lexington Green and on the
+road to Concord paid the ultimate price in the earliest moments of a long and arduous struggle
+for American independence; and
+WHEREAS, their bravery and sacrifice helped ignite the flame of liberty that would
+eventually give birth to the United States of America, inspiring generations of Americans in their
+ongoing pursuit of freedom and justice; and
+WHEREAS, we hold deep reverence for the legacy of the American Revolution and the
+men and women whose actions forged the path to nationhood; now, therefore,
+HJR0509
+006457
+- 1 -
+
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we commemorate the 250th anniversary of the Battles of Lexington and
+Concord, honoring the patriot minutemen who stood ready to defend their liberties and those
+who gave their lives in the cause of American freedom.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 006457
+
+[DELETED: 0 WW0 WWWWW]
+[DELETED:  -0B0 B]

@@ -1,0 +1,49 @@
+Title: SENATE BILL 930
+Official Title: SENATE BILL 930
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Walley
+HOUSE BILL 1062
+By Vital
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 11; Title 66; Title 67, Chapter 4, Part 4; Title
+68 and Title 69, relative to water.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 69-3-303, is amended by deleting
+"three (3) business days" and substituting "five (5) business days".
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB1062
+003155
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 930
+By Walley
+HOUSE BILL 1062
+By Vital
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 11; Title 66; Title 67, Chapter 4, Part 4; Title
+68 and Title 69, relative to water.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 69-3-303, is amended by deleting
+"three (3) business days" and substituting "five (5) business days".
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB1062
+003155
+- 1 -
+
+[DELETED: SS]

@@ -1,0 +1,348 @@
+Title: SENATE BILL 1094
+Official Title: SENATE BILL 1094
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+By Hensley
+HOUSE BILL 1207
+By Kumar
+AN ACT to amend Tennessee Code Annotated, Title 39,
+Chapter 17, Part 13, relative to suicide prevention.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. This act is known and may be cited as the "Suicide Prevention Act of
+
+Section 3:
+2025."
+
+Section 4:
+SECTION 2. Tennessee Code Annotated, Title 39, Chapter 17, Part 13, is amended by
+adding the following as a new section:
+39-17-1367.
+(a)
+(1) In an effort to prevent violence, including suicide, homicide, or mass
+shooting by persons with mental illness using firearms, the Tennessee bureau of
+investigation (TBI) shall establish a program for revocable voluntary waiver of
+firearms rights so as to avoid purchase, possession, and transportation of
+firearms by and sale of firearms to:
+(A) A person who is voluntarily admitted to a public or private
+hospital or treatment resource for diagnosis, observation, and treatment
+of a mental illness or serious emotional disturbance in accordance with
+title 33, chapter 6, part 2. A person described in this subdivision (a)(1)(A)
+may submit the request form described in subdivision (a)(2) to a mental
+health counselor upon release from the hospital or treatment resource,
+who must then submit the form to the circuit court clerk in the county
+where the hospital or treatment resource is located; or
+HB1207
+002921
+- 1 -
+(B) A person who is concerned about the person's mental health
+and desires to enroll in the revocable voluntary waiver of firearms rights
+program. A person described in this subdivision (a)(1)(B) may submit the
+request form described in subdivision (a)(2) to the circuit court clerk in the
+county in which the person resides.
+(2) The TBI shall create a request form for revocable voluntary waiver of
+firearms rights. The form must include:
+(A) A statement at the top that the form is to be submitted to the
+clerk of the circuit court of the county in which the enrollee resides;
+(B) A space for the enrollee to designate up to two (2) persons as
+guardian angels, if the enrollee wishes to do so, provide contact
+information for the guardian angels, and have the guardian angels sign
+indicating consent to be the enrollee's guardian angel;
+(C) An explanation that:
+(i) Reasonable efforts will be made to inform a guardian
+angel if the enrollee revokes the enrollee's enrollment in the
+revocable voluntary waiver of firearms rights program; and
+(ii) A designated guardian angel has no obligation to
+remain available to receive or act upon the information received if
+the enrollee revokes enrollment in the revocable voluntary waiver
+of firearms rights program and that there is no civil or criminal
+liability for failure to receive or act upon the information;
+(D) A declaration of any firearms that are in the ownership of the
+enrollee and the planned disposition of each firearm;
+- 2 - 002921
+(E) An attestation that the enrollee does not currently possess or
+have access to any firearms at the time of enrolling in the revocable
+voluntary waiver of firearms rights program; and
+(F) An acknowledgement by the enrollee that it is an offense for a
+person who is enrolled in the revocable voluntary waiver of firearms rights
+program to possess, purchase, or transport a firearm and that a violation
+of subsection (f) is a Class C misdemeanor.
+(3) If the request form is submitted directly to the circuit court clerk, then
+the circuit court clerk must require the person to present a valid photo
+identification to verify the person's identity prior to accepting the form.
+(4) The circuit court clerk must:
+(A) Transmit the completed request form to the TBI within three
+(3) business days for entry into the revocable voluntary waiver of firearms
+rights program; and
+(B) Transmit a copy of the completed request form to the
+department of safety within three (3) business days.
+(5)
+(A) The TBI must maintain and update the revocable voluntary
+waiver of firearms rights request data to be used, in accordance with §
+39-17-1316, to advise a gun dealer if the TBI's records indicate a firearm
+buyer is prohibited from purchasing, possessing, or transporting a firearm.
+(B) Upon receipt of the form, the department of safety must
+revoke the person's handgun carry permit under § 39-17-1351 and § 39-
+17-1366.
+(6)
+- 3 - 002921
+(A) No sooner than fourteen (14) calendar days after filing a
+revocable voluntary waiver of firearms rights request form, an enrollee
+may file a revocation of the revocable voluntary waiver of firearms rights
+with the clerk of the circuit court of the county in which the enrollee
+resides. The circuit court clerk must require a valid photo identification to
+verify the person's identity prior to accepting the revocation form. The
+filing of a revocation form allows the person executing the form to
+purchase, possess, or transport a firearm after the TBI has completed
+processing the form unless the person is otherwise ineligible to purchase
+or possess a firearm under federal or state law. The circuit court clerk
+must transmit the completed revocation request form to the TBI within
+three (3) business days and transmit a copy of the completed revocation
+request form to the department of safety within three (3) business days.
+(B) By the end of the fourteenth business day following the date
+on which the request for revocation was received, the TBI must:
+(i) Notify the person that the person's name has been
+removed from the revocable voluntary waiver of firearms rights
+program;
+(ii) Make reasonable efforts to inform the person's
+guardian angel of the revocation if the person has designated a
+guardian angel;
+(iii) Destroy all records related to the person's enrollment
+in the revocable voluntary waiver of firearms rights program; and
+(iv) Remove the person from the national instant criminal
+background check system and other federal or state computer-
+- 4 - 002921
+based systems used by law enforcement to identify prohibited
+purchasers of firearms in which the person's enrollment in the
+revocable voluntary waiver of firearms rights program was
+entered, unless the person is otherwise ineligible to purchase or
+possess a firearm under federal or state law.
+(C) By the end of the fourteenth business day following the date
+on which the request for revocation was received, the department of
+safety must:
+(i) Reinstate the person's handgun carry permit under §
+39-17-1351 and § 39-17-1366, unless the person is otherwise
+ineligible to obtain a permit under state or federal law; and
+(ii) Destroy all records related to the person's enrollment in
+the revocable voluntary waiver of firearms rights program after
+reinstating the person's handgun carry permit.
+(b) A person who knowingly makes a false statement regarding the person's
+identity on an enrollment or revocation form for the revocable voluntary waiver of
+firearms rights commits perjury, as defined in § 39-16-702.
+(c) The TBI is authorized to promulgate rules to effectuate this section. The
+rules must be promulgated in accordance with the Uniform Administrative Procedures
+Act, compiled in title 4, chapter 5.
+(d) Notwithstanding another law to the contrary, the bureau and the department
+of safety shall withhold from public disclosure all information regarding a request to be
+enrolled into or removed from the revocable voluntary waiver of firearms rights program
+and any other personal identifying information contained in or related to a revocable
+voluntary waiver of firearms rights, except that such information may be disclosed to a
+- 5 - 002921
+law enforcement officer acting in the performance of official duties, a gun dealer as
+required by § 39-17-1316, the applicant with respect to the applicant's own information,
+or in the course of criminal prosecution for a violation of subsection (f) or § 39-16-702.
+Records obtained and produced pursuant to this section are confidential and are not an
+open record pursuant to title 10, chapter 7.
+(e) A request form used to enroll in or withdraw from the revocable voluntary
+waiver of firearms rights program must not be considered by a court in a legal
+proceeding in which the person executing the form is a party, except that such form may
+be used in a criminal prosecution for a violation of subsection (f), § 39-16-702, or § 39-
+17-1316.
+(f) It is an offense for a person who is enrolled in the revocable voluntary waiver
+of firearms rights program to purchase, possess, or transport a firearm. A violation of
+this subsection (f) is a Class C misdemeanor.
+
+Section 5:
+SECTION 3. Tennessee Code Annotated, Section 39-17-1316(a)(1)(A), is amended by
+adding the following new subdivision:
+(vi) Are enrolled in the revocable voluntary waiver of firearms rights program
+pursuant to § 39-17-1367.
+
+Section 6:
+SECTION 4. For the purpose of implementation, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect January 1, 2026,
+the public welfare requiring it.
+- 6 - 002921
+[DELETED: SS3(((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((]
+[DELETED:  -0(((((]
+[DELETED:  -0((((((]
+[DELETED:  -0((SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1094
+By Hensley
+HOUSE BILL 1207
+By Kumar
+AN ACT to amend Tennessee Code Annotated, Title 39,
+Chapter 17, Part 13, relative to suicide prevention.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as the "Suicide Prevention Act of
+2025."
+SECTION 2. Tennessee Code Annotated, Title 39, Chapter 17, Part 13, is amended by
+adding the following as a new section:
+39-17-1367.
+(a)
+(1) In an effort to prevent violence, including suicide, homicide, or mass
+shooting by persons with mental illness using firearms, the Tennessee bureau of
+investigation (TBI) shall establish a program for revocable voluntary waiver of
+firearms rights so as to avoid purchase, possession, and transportation of
+firearms by and sale of firearms to:
+(A) A person who is voluntarily admitted to a public or private
+hospital or treatment resource for diagnosis, observation, and treatment
+of a mental illness or serious emotional disturbance in accordance with
+title 33, chapter 6, part 2. A person described in this subdivision (a)(1)(A)
+may submit the request form described in subdivision (a)(2) to a mental
+health counselor upon release from the hospital or treatment resource,
+who must then submit the form to the circuit court clerk in the county
+where the hospital or treatment resource is located; or
+HB1207
+002921
+- 1 -
+
+(B) A person who is concerned about the person's mental health
+and desires to enroll in the revocable voluntary waiver of firearms rights
+program. A person described in this subdivision (a)(1)(B) may submit the
+request form described in subdivision (a)(2) to the circuit court clerk in the
+county in which the person resides.
+(2) The TBI shall create a request form for revocable voluntary waiver of
+firearms rights. The form must include:
+(A) A statement at the top that the form is to be submitted to the
+clerk of the circuit court of the county in which the enrollee resides;
+(B) A space for the enrollee to designate up to two (2) persons as
+guardian angels, if the enrollee wishes to do so, provide contact
+information for the guardian angels, and have the guardian angels sign
+indicating consent to be the enrollee's guardian angel;
+(C) An explanation that:
+(i) Reasonable efforts will be made to inform a guardian
+angel if the enrollee revokes the enrollee's enrollment in the
+revocable voluntary waiver of firearms rights program; and
+(ii) A designated guardian angel has no obligation to
+remain available to receive or act upon the information received if
+the enrollee revokes enrollment in the revocable voluntary waiver
+of firearms rights program and that there is no civil or criminal
+liability for failure to receive or act upon the information;
+(D) A declaration of any firearms that are in the ownership of the
+enrollee and the planned disposition of each firearm;
+- 2 - 002921
+
+(E) An attestation that the enrollee does not currently possess or
+have access to any firearms at the time of enrolling in the revocable
+voluntary waiver of firearms rights program; and
+(F) An acknowledgement by the enrollee that it is an offense for a
+person who is enrolled in the revocable voluntary waiver of firearms rights
+program to possess, purchase, or transport a firearm and that a violation
+of subsection (f) is a Class C misdemeanor.
+(3) If the request form is submitted directly to the circuit court clerk, then
+the circuit court clerk must require the person to present a valid photo
+identification to verify the person's identity prior to accepting the form.
+(4) The circuit court clerk must:
+(A) Transmit the completed request form to the TBI within three
+(3) business days for entry into the revocable voluntary waiver of firearms
+rights program; and
+(B) Transmit a copy of the completed request form to the
+department of safety within three (3) business days.
+(5)
+(A) The TBI must maintain and update the revocable voluntary
+waiver of firearms rights request data to be used, in accordance with §
+39-17-1316, to advise a gun dealer if the TBI's records indicate a firearm
+buyer is prohibited from purchasing, possessing, or transporting a firearm.
+(B) Upon receipt of the form, the department of safety must
+revoke the person's handgun carry permit under § 39-17-1351 and § 39-
+17-1366.
+(6)
+- 3 - 002921
+
+(A) No sooner than fourteen (14) calendar days after filing a
+revocable voluntary waiver of firearms rights request form, an enrollee
+may file a revocation of the revocable voluntary waiver of firearms rights
+with the clerk of the circuit court of the county in which the enrollee
+resides. The circuit court clerk must require a valid photo identification to
+verify the person's identity prior to accepting the revocation form. The
+filing of a revocation form allows the person executing the form to
+purchase, possess, or transport a firearm after the TBI has completed
+processing the form unless the person is otherwise ineligible to purchase
+or possess a firearm under federal or state law. The circuit court clerk
+must transmit the completed revocation request form to the TBI within
+three (3) business days and transmit a copy of the completed revocation
+request form to the department of safety within three (3) business days.
+(B) By the end of the fourteenth business day following the date
+on which the request for revocation was received, the TBI must:
+(i) Notify the person that the person's name has been
+removed from the revocable voluntary waiver of firearms rights
+program;
+(ii) Make reasonable efforts to inform the person's
+guardian angel of the revocation if the person has designated a
+guardian angel;
+(iii) Destroy all records related to the person's enrollment
+in the revocable voluntary waiver of firearms rights program; and
+(iv) Remove the person from the national instant criminal
+background check system and other federal or state computer-
+- 4 - 002921
+
+based systems used by law enforcement to identify prohibited
+purchasers of firearms in which the person's enrollment in the
+revocable voluntary waiver of firearms rights program was
+entered, unless the person is otherwise ineligible to purchase or
+possess a firearm under federal or state law.
+(C) By the end of the fourteenth business day following the date
+on which the request for revocation was received, the department of
+safety must:
+(i) Reinstate the person's handgun carry permit under §
+39-17-1351 and § 39-17-1366, unless the person is otherwise
+ineligible to obtain a permit under state or federal law; and
+(ii) Destroy all records related to the person's enrollment in
+the revocable voluntary waiver of firearms rights program after
+reinstating the person's handgun carry permit.
+(b) A person who knowingly makes a false statement regarding the person's
+identity on an enrollment or revocation form for the revocable voluntary waiver of
+firearms rights commits perjury, as defined in § 39-16-702.
+(c) The TBI is authorized to promulgate rules to effectuate this section. The
+rules must be promulgated in accordance with the Uniform Administrative Procedures
+Act, compiled in title 4, chapter 5.
+(d) Notwithstanding another law to the contrary, the bureau and the department
+of safety shall withhold from public disclosure all information regarding a request to be
+enrolled into or removed from the revocable voluntary waiver of firearms rights program
+and any other personal identifying information contained in or related to a revocable
+voluntary waiver of firearms rights, except that such information may be disclosed to a
+- 5 - 002921
+
+law enforcement officer acting in the performance of official duties, a gun dealer as
+required by § 39-17-1316, the applicant with respect to the applicant's own information,
+or in the course of criminal prosecution for a violation of subsection (f) or § 39-16-702.
+Records obtained and produced pursuant to this section are confidential and are not an
+open record pursuant to title 10, chapter 7.
+(e) A request form used to enroll in or withdraw from the revocable voluntary
+waiver of firearms rights program must not be considered by a court in a legal
+proceeding in which the person executing the form is a party, except that such form may
+be used in a criminal prosecution for a violation of subsection (f), § 39-16-702, or § 39-
+17-1316.
+(f) It is an offense for a person who is enrolled in the revocable voluntary waiver
+of firearms rights program to purchase, possess, or transport a firearm. A violation of
+this subsection (f) is a Class C misdemeanor.
+SECTION 3. Tennessee Code Annotated, Section 39-17-1316(a)(1)(A), is amended by
+adding the following new subdivision:
+(vi) Are enrolled in the revocable voluntary waiver of firearms rights program
+pursuant to § 39-17-1367.
+SECTION 4. For the purpose of implementation, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect January 1, 2026,
+the public welfare requiring it.
+- 6 - 002921
+
+[DELETED: SS3(((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((]
+[DELETED:  -0(((((]
+[DELETED:  -0((((((]
+[DELETED:  -0((SS]

@@ -1,0 +1,47 @@
+Title: HOUSE BILL 1080
+Official Title: HOUSE BILL 1080
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Kumar
+SENATE BILL 998
+By Bailey
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 56 and Title 71, relative to insurance.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 56-2-103(b), is amended by deleting
+"thirty (30) days" and substituting "thirty-five (35) days".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0998
+002867
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1080
+By Kumar
+SENATE BILL 998
+By Bailey
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 56 and Title 71, relative to insurance.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 56-2-103(b), is amended by deleting
+"thirty (30) days" and substituting "thirty-five (35) days".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0998
+002867
+- 1 -
+
+[DELETED: SS]

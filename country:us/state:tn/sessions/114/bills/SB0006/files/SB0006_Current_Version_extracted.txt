@@ -1,0 +1,136 @@
+Title: HOUSE BILL 10
+Official Title: HOUSE BILL 10
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Warner
+SENATE BILL 6
+By Hensley
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 7; Title 38; Title 39; Title 55 and Title 67,
+relative to illegal immigration.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. This act is known and may be cited as "The Tennessee Illegal Immigration
+Act."
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 7, Chapter 68, is amended by adding
+the following as a new section:
+(a) A law enforcement agency in custody of an individual known to be unlawfully
+present in the United States shall, as soon as practicable after taking custody of the
+individual, request an immigration detainer for the individual from the United States
+immigration and customs enforcement (ICE) division within the United States
+department of homeland security.
+(b) If a law enforcement agency:
+(1) Receives an immigration detainer for an individual requested under
+subsection (a), the agency shall maintain custody of the individual for the
+maximum period of time specified in the immigration detainer or until the
+individual is taken into custody by ICE, whichever occurs first; or
+(2) Does not receive an immigration detainer requested under subsection
+(a) before the agency is required to release the individual from custody, or the
+individual is not taken into federal custody before the expiration of the time period
+specified in an immigration detainer, the agency shall provide transportation to
+the individual to a city with a sanctuary policy of the individual's choice that is
+SB0006
+000199
+- 1 -
+located outside of this state and that is within seven hundred (700) miles of the
+law enforcement agency at which the individual is in custody. After transferring
+the individual, the law enforcement agency shall record the actual costs of
+maintaining custody of the individual and transporting the individual to a city with
+a sanctuary policy.
+(c) Each law enforcement agency shall report its actual costs recorded under
+subdivision (b)(2) for each calendar month to the department of revenue no later than
+the tenth day of each month. For each month subsequent to receiving such reported
+costs, the department of revenue shall:
+(1) Request from the United States department of the treasury
+reimbursement for such reported costs; and
+(2) If reimbursement is not received within thirty (30) days of the request,
+withhold from remittance to the federal highway administration on a month-to-
+month basis that portion of the federal motor fuel taxes collected in this state
+equal to the aggregate monthly actual costs reported by law enforcement
+agencies under this subsection (c). As used in this section, "federal motor fuel
+taxes" means the taxes on petroleum products imposed by title 26 of the United
+States Code and allocated by chapter 98 of that title to the federal highway trust
+fund (26 U.S.C. § 9503) and collected by this state pursuant to § 67-3-206.
+(d) The department shall remit monthly to each law enforcement agency that
+portion of the federal reimbursement or withheld federal motor fuel taxes, as applicable,
+equal to the agency's monthly reported actual costs for detaining and transporting
+individuals unlawfully present in the United States.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 000199
+[DELETED: S(]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 10
+By Warner
+SENATE BILL 6
+By Hensley
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 7; Title 38; Title 39; Title 55 and Title 67,
+relative to illegal immigration.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as "The Tennessee Illegal Immigration
+Act."
+SECTION 2. Tennessee Code Annotated, Title 7, Chapter 68, is amended by adding
+the following as a new section:
+(a) A law enforcement agency in custody of an individual known to be unlawfully
+present in the United States shall, as soon as practicable after taking custody of the
+individual, request an immigration detainer for the individual from the United States
+immigration and customs enforcement (ICE) division within the United States
+department of homeland security.
+(b) If a law enforcement agency:
+(1) Receives an immigration detainer for an individual requested under
+subsection (a), the agency shall maintain custody of the individual for the
+maximum period of time specified in the immigration detainer or until the
+individual is taken into custody by ICE, whichever occurs first; or
+(2) Does not receive an immigration detainer requested under subsection
+(a) before the agency is required to release the individual from custody, or the
+individual is not taken into federal custody before the expiration of the time period
+specified in an immigration detainer, the agency shall provide transportation to
+the individual to a city with a sanctuary policy of the individual's choice that is
+SB0006
+000199
+- 1 -
+
+located outside of this state and that is within seven hundred (700) miles of the
+law enforcement agency at which the individual is in custody. After transferring
+the individual, the law enforcement agency shall record the actual costs of
+maintaining custody of the individual and transporting the individual to a city with
+a sanctuary policy.
+(c) Each law enforcement agency shall report its actual costs recorded under
+subdivision (b)(2) for each calendar month to the department of revenue no later than
+the tenth day of each month. For each month subsequent to receiving such reported
+costs, the department of revenue shall:
+(1) Request from the United States department of the treasury
+reimbursement for such reported costs; and
+(2) If reimbursement is not received within thirty (30) days of the request,
+withhold from remittance to the federal highway administration on a month-to-
+month basis that portion of the federal motor fuel taxes collected in this state
+equal to the aggregate monthly actual costs reported by law enforcement
+agencies under this subsection (c). As used in this section, "federal motor fuel
+taxes" means the taxes on petroleum products imposed by title 26 of the United
+States Code and allocated by chapter 98 of that title to the federal highway trust
+fund (26 U.S.C. § 9503) and collected by this state pursuant to § 67-3-206.
+(d) The department shall remit monthly to each law enforcement agency that
+portion of the federal reimbursement or withheld federal motor fuel taxes, as applicable,
+equal to the agency's monthly reported actual costs for detaining and transporting
+individuals unlawfully present in the United States.
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 000199
+
+[DELETED: S(]
+[DELETED:  -0S]

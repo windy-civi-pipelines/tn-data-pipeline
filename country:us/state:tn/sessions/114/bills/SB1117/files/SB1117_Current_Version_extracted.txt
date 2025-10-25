@@ -1,0 +1,167 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 1117
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 16
+and Title 18, relative to reports related to the
+operation of courts.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 18, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+(a) The clerk of each court exercising criminal jurisdiction shall compile a
+monthly report of all fines and fees assessed by the court in the previous month. The
+clerk shall submit the report to the administrative office of the courts on or before the
+fifteenth day of each month for the period covering the preceding calendar month.
+(b) The report submitted pursuant to subsection (a) must include:
+(1) The court that assessed the fines and fees;
+(2) The case number;
+(3) The date the fines and fees were assessed;
+(4) The amount of the assessment;
+(5) Whether the assessment is a fine or fee, or both;
+(6) The code citation for the principal crime for which the defendant was
+convicted or found in violation;
+(7) The due date for an assessment that does not have a payment plan;
+(8) Whether the assessment, at the time of conviction, included a
+payment plan;
+(9) The total length of the payment plan in months, if a payment plan is
+included;
+SB1117
+002630
+- 1 -
+(10) Whether the assessment has been paid in full;
+(11) Whether the assessment has a remaining balance that is not due;
+(12) Whether the assessment has a past due balance and by how many
+days;
+(13) The amount of the interest or penalty for failure to pay as due;
+(14) Whether the initial assessment has been reduced, restructured, or
+forgiven completely; and
+(15) The demographic information of the defendant, including indigent
+status.
+(c) As used in this section:
+(1) "Fee":
+(A) Means financial obligations assessed by a court exercising
+criminal jurisdiction; and
+(B) Includes court costs and other charges used to fund the
+criminal justice system and other government services; and
+(2) "Fine":
+(A) Means punitive financial sanctions assessed by a court
+exercising criminal jurisdiction; and
+(B) Includes:
+(i) Financial penalties for traffic and other code violations,
+misdemeanors, and felonies; and
+(ii) Financial obligations assessed as condition of
+probation or parole.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 16, Chapter 3, Part 8, is amended by
+adding the following as a new section:
+- 2 - 002630
+(a) The administrative office of the courts shall create and maintain a statewide
+database and searchable public website that compiles the reports received by the office
+pursuant to SECTION 1.
+(b) The administrative director shall provide a summary of the reports received
+pursuant to SECTION 1 within thirty (30) days of the end of each fiscal year to the
+governor, the speaker of the senate, the speaker of the house of representatives, and
+the attorney general and reporter.
+(c) The administrative director may include in the summary submitted pursuant
+to subsection (b) recommendations to improve statutes, rules, and policies to better
+ensure the imposition, collection, and expenditure of criminal fines and fees are reported
+and done in a manner that is fair to citizens, particularly those who are economically
+disadvantaged and most vulnerable to excessive fines and fees.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 002630
+[DELETED: S]
+[DELETED:  -0S]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 1117
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 16
+and Title 18, relative to reports related to the
+operation of courts.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 18, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+(a) The clerk of each court exercising criminal jurisdiction shall compile a
+monthly report of all fines and fees assessed by the court in the previous month. The
+clerk shall submit the report to the administrative office of the courts on or before the
+fifteenth day of each month for the period covering the preceding calendar month.
+(b) The report submitted pursuant to subsection (a) must include:
+(1) The court that assessed the fines and fees;
+(2) The case number;
+(3) The date the fines and fees were assessed;
+(4) The amount of the assessment;
+(5) Whether the assessment is a fine or fee, or both;
+(6) The code citation for the principal crime for which the defendant was
+convicted or found in violation;
+(7) The due date for an assessment that does not have a payment plan;
+(8) Whether the assessment, at the time of conviction, included a
+payment plan;
+(9) The total length of the payment plan in months, if a payment plan is
+included;
+SB1117
+002630
+- 1 -
+
+(10) Whether the assessment has been paid in full;
+(11) Whether the assessment has a remaining balance that is not due;
+(12) Whether the assessment has a past due balance and by how many
+days;
+(13) The amount of the interest or penalty for failure to pay as due;
+(14) Whether the initial assessment has been reduced, restructured, or
+forgiven completely; and
+(15) The demographic information of the defendant, including indigent
+status.
+(c) As used in this section:
+(1) "Fee":
+(A) Means financial obligations assessed by a court exercising
+criminal jurisdiction; and
+(B) Includes court costs and other charges used to fund the
+criminal justice system and other government services; and
+(2) "Fine":
+(A) Means punitive financial sanctions assessed by a court
+exercising criminal jurisdiction; and
+(B) Includes:
+(i) Financial penalties for traffic and other code violations,
+misdemeanors, and felonies; and
+(ii) Financial obligations assessed as condition of
+probation or parole.
+SECTION 2. Tennessee Code Annotated, Title 16, Chapter 3, Part 8, is amended by
+adding the following as a new section:
+- 2 - 002630
+
+(a) The administrative office of the courts shall create and maintain a statewide
+database and searchable public website that compiles the reports received by the office
+pursuant to SECTION 1.
+(b) The administrative director shall provide a summary of the reports received
+pursuant to SECTION 1 within thirty (30) days of the end of each fiscal year to the
+governor, the speaker of the senate, the speaker of the house of representatives, and
+the attorney general and reporter.
+(c) The administrative director may include in the summary submitted pursuant
+to subsection (b) recommendations to improve statutes, rules, and policies to better
+ensure the imposition, collection, and expenditure of criminal fines and fees are reported
+and done in a manner that is fair to citizens, particularly those who are economically
+disadvantaged and most vulnerable to excessive fines and fees.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 002630
+
+[DELETED: S]
+[DELETED:  -0S]
+[DELETED:  -0S]

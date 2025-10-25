@@ -1,0 +1,287 @@
+Title: SENATE BILL 642
+Official Title: SENATE BILL 642
+Number of Sections: 8
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+By Campbell
+HOUSE BILL 596
+By Freeman
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 3; Section 10-7-504 and Title 39, Chapter
+17, Part 13, relative to the "Tennessee Voluntary
+Do Not Sell Firearms Act."
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 39, Chapter 17, Part 13, is amended by
+adding the following as a new section:
+39-17-1330.
+(a) This section is known and may be cited as the "Tennessee Voluntary Do Not
+Sell Firearms Act."
+(b) A person may file a voluntary waiver of firearm rights form, either in person or
+electronically, with the clerk of the circuit court in the county of the person's residence,
+which has the effect of prohibiting the person executing the form from possessing or
+receiving a firearm while the waiver is in effect. The clerk shall request a physical or
+scanned copy of valid government-issued photo identification to verify the person's
+identity prior to accepting the form. By the end of the business day on which the form
+was received, the clerk shall transmit the accepted form to the Tennessee bureau of
+investigation (TBI). The TBI shall provide the department of safety with a copy of the
+enrollment form within forty-eight (48) hours of receiving a form. If the person has a
+handgun carry permit issued pursuant to § 39-17-1351 or § 39-17-1366, then the
+department of safety shall suspend the person's permit.
+(c) The TBI shall enter the voluntary waiver of firearm rights form into the
+national instant criminal background check system and other federal or state computer-
+HB0596
+000985
+- 1 -
+based systems used by law enforcement agencies to identify prohibited purchasers of
+firearms within twenty-four (24) hours of receipt of the form.
+(d) No sooner than seven (7) calendar days after filing a voluntary waiver of
+firearm rights form, the person may file a revocation of the voluntary waiver of firearm
+rights form, either in writing or electronically, with the clerk of any circuit court, which has
+the effect of permitting the person executing the form to possess or receive a firearm
+after the TBI has completed processing the revocation form and twenty-one (21)
+calendar days have passed since the TBI's receipt of the revocation form, unless the
+person is otherwise ineligible to purchase or possess a firearm under federal or state
+law. The clerk shall request a physical or scanned copy of valid government-issued
+photo identification to verify the person's identity prior to accepting the revocation form.
+By the end of the business day on which the revocation form was received, the clerk
+shall transmit the revocation form to the TBI and destroy all records related to the
+person's voluntary waiver of firearm rights form and revocation of voluntary waiver of
+firearm rights form. Twenty-one (21) calendar days after receiving a revocation of
+voluntary waiver of firearm rights form, the TBI shall remove the person from the national
+instant criminal background check system and other federal or state computer-based
+systems used by law enforcement to identify prohibited purchasers of firearms in which
+the person's voluntary waiver of firearm rights form was entered, unless the person is
+otherwise ineligible to purchase or possess a firearm under federal or state law. The TBI
+shall destroy all records related to the person's voluntary waiver of firearm rights and
+revocation of voluntary waiver of firearm rights after removing the person from the
+national instant criminal background check system and other federal or state
+computer based systems. The TBI shall provide the department of safety with a copy of
+the revocation form within forty-eight (48) hours of receiving the revocation form. If the
+- 2 - 000985
+person is a handgun carry permit holder pursuant to § 39-17-1351 or § 39-17-1366, then
+the department of safety shall reinstate the person's permit to carry, unless the person is
+otherwise ineligible to obtain a permit under state law. The department of safety shall
+destroy all records related to the person's enrollment on the voluntary do not sell list after
+reinstating the person's permit to carry.
+(e) A person who knowingly makes a false statement regarding the person's
+identity on a voluntary waiver of firearm rights form or a revocation of voluntary waiver of
+firearm rights form commits the offense of perjury under § 39-16-702.
+(f) A voluntary waiver of firearm rights form and a revocation of voluntary waiver
+of firearm rights form must not be considered by a court in a legal proceeding in which
+the person executing the form is a party, except a criminal prosecution under subsection
+(e) or § 39-17-1316(q)(4).
+(g) Records obtained and produced under this section are confidential and are
+not an open record pursuant to title 10, chapter 7, except that such information may be
+disclosed to a law enforcement officer acting in the performance of the officer's official
+duties, in the course of a criminal prosecution, or to the applicant with respect to the
+applicant's own information.
+(h)
+(1) The TBI shall develop a voluntary waiver of firearm rights form and a
+revocation of voluntary waiver of firearm rights form.
+(2) The voluntary waiver of firearm rights form must:
+(A) Contain a signature line for the applicant and state that the
+form is signed under penalty of perjury;
+- 3 - 000985
+(B) Include all information necessary for identification and entry of
+the person into the national instant criminal background check system
+NICS indices to identify prohibited purchasers of firearms; and
+(C) Be made available to the public on the TBI website and the
+administrative office of the courts' website and must be distributed to all
+circuit court clerks and made available on the clerks' websites.
+(i) The TBI may promulgate rules necessary to effectuate this section pursuant
+to the Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 39-17-1316(d)(1), is amended by
+deleting the subdivision and substituting the following:
+(1) Determine, from criminal records and other information available to it,
+whether the purchaser:
+(A) Is disqualified under subdivision (a)(1) from completing the purchase;
+or
+(B) Has executed a voluntary waiver of firearm rights form pursuant to
+the Tennessee Voluntary Do Not Sell Firearms Act, compiled in § 39-17-1330;
+and
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 39-17-1316(q), is amended by
+adding the following as a new subdivision (q)(5) and redesignating the current subdivision (q)(5)
+appropriately:
+(5) It is an offense to sell or transfer a firearm to a person knowing that the
+person has executed a voluntary waiver of firearm rights form pursuant to § 39-17-1330,
+and the waiver has not been revoked.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 39-17-1316, is amended by adding
+the following new subsection:
+- 4 - 000985
+(s) If a person has executed a voluntary waiver of firearm rights form pursuant to
+
+Section 6:
+§ 39-17-1330 and the waiver has not been revoked, then the person shall not knowingly
+receive or possess a firearm. A person who violates this subsection (s) is subject to a
+civil fine not exceeding one hundred dollars ($100). The person may elect to complete
+four (4) hours of community service in lieu of paying the civil penalty.
+
+Section 7:
+SECTION 5. Tennessee Code Annotated, Section 10-7-504, is amended by adding the
+following new subsection:
+(gg) Records obtained and produced under the Tennessee Voluntary Do Not
+Sell Firearms Act, compiled in § 39-17-1330, are confidential and are not an open record
+pursuant to this chapter, except that such information may be disclosed to a law
+enforcement officer acting in the performance of the officer's official duties, in a criminal
+prosecution, or to the applicant with respect to the applicant's own information.
+
+Section 8:
+SECTION 6. For purposes of developing forms and promulgating rules, this act takes
+effect upon becoming a law, the public welfare requiring it. For all other purposes, this act takes
+effect January 1, 2026, the public welfare requiring it.
+- 5 - 000985
+[DELETED: S(((]
+[DELETED:  -0(]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((S(((S(]
+[DELETED:  -0S(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 642
+By Campbell
+HOUSE BILL 596
+By Freeman
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 3; Section 10-7-504 and Title 39, Chapter
+17, Part 13, relative to the "Tennessee Voluntary
+Do Not Sell Firearms Act."
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 39, Chapter 17, Part 13, is amended by
+adding the following as a new section:
+39-17-1330.
+(a) This section is known and may be cited as the "Tennessee Voluntary Do Not
+Sell Firearms Act."
+(b) A person may file a voluntary waiver of firearm rights form, either in person or
+electronically, with the clerk of the circuit court in the county of the person's residence,
+which has the effect of prohibiting the person executing the form from possessing or
+receiving a firearm while the waiver is in effect. The clerk shall request a physical or
+scanned copy of valid government-issued photo identification to verify the person's
+identity prior to accepting the form. By the end of the business day on which the form
+was received, the clerk shall transmit the accepted form to the Tennessee bureau of
+investigation (TBI). The TBI shall provide the department of safety with a copy of the
+enrollment form within forty-eight (48) hours of receiving a form. If the person has a
+handgun carry permit issued pursuant to § 39-17-1351 or § 39-17-1366, then the
+department of safety shall suspend the person's permit.
+(c) The TBI shall enter the voluntary waiver of firearm rights form into the
+national instant criminal background check system and other federal or state computer-
+HB0596
+000985
+- 1 -
+
+based systems used by law enforcement agencies to identify prohibited purchasers of
+firearms within twenty-four (24) hours of receipt of the form.
+(d) No sooner than seven (7) calendar days after filing a voluntary waiver of
+firearm rights form, the person may file a revocation of the voluntary waiver of firearm
+rights form, either in writing or electronically, with the clerk of any circuit court, which has
+the effect of permitting the person executing the form to possess or receive a firearm
+after the TBI has completed processing the revocation form and twenty-one (21)
+calendar days have passed since the TBI's receipt of the revocation form, unless the
+person is otherwise ineligible to purchase or possess a firearm under federal or state
+law. The clerk shall request a physical or scanned copy of valid government-issued
+photo identification to verify the person's identity prior to accepting the revocation form.
+By the end of the business day on which the revocation form was received, the clerk
+shall transmit the revocation form to the TBI and destroy all records related to the
+person's voluntary waiver of firearm rights form and revocation of voluntary waiver of
+firearm rights form. Twenty-one (21) calendar days after receiving a revocation of
+voluntary waiver of firearm rights form, the TBI shall remove the person from the national
+instant criminal background check system and other federal or state computer-based
+systems used by law enforcement to identify prohibited purchasers of firearms in which
+the person's voluntary waiver of firearm rights form was entered, unless the person is
+otherwise ineligible to purchase or possess a firearm under federal or state law. The TBI
+shall destroy all records related to the person's voluntary waiver of firearm rights and
+revocation of voluntary waiver of firearm rights after removing the person from the
+national instant criminal background check system and other federal or state
+computer based systems. The TBI shall provide the department of safety with a copy of
+the revocation form within forty-eight (48) hours of receiving the revocation form. If the
+- 2 - 000985
+
+person is a handgun carry permit holder pursuant to § 39-17-1351 or § 39-17-1366, then
+the department of safety shall reinstate the person's permit to carry, unless the person is
+otherwise ineligible to obtain a permit under state law. The department of safety shall
+destroy all records related to the person's enrollment on the voluntary do not sell list after
+reinstating the person's permit to carry.
+(e) A person who knowingly makes a false statement regarding the person's
+identity on a voluntary waiver of firearm rights form or a revocation of voluntary waiver of
+firearm rights form commits the offense of perjury under § 39-16-702.
+(f) A voluntary waiver of firearm rights form and a revocation of voluntary waiver
+of firearm rights form must not be considered by a court in a legal proceeding in which
+the person executing the form is a party, except a criminal prosecution under subsection
+(e) or § 39-17-1316(q)(4).
+(g) Records obtained and produced under this section are confidential and are
+not an open record pursuant to title 10, chapter 7, except that such information may be
+disclosed to a law enforcement officer acting in the performance of the officer's official
+duties, in the course of a criminal prosecution, or to the applicant with respect to the
+applicant's own information.
+(h)
+(1) The TBI shall develop a voluntary waiver of firearm rights form and a
+revocation of voluntary waiver of firearm rights form.
+(2) The voluntary waiver of firearm rights form must:
+(A) Contain a signature line for the applicant and state that the
+form is signed under penalty of perjury;
+- 3 - 000985
+
+(B) Include all information necessary for identification and entry of
+the person into the national instant criminal background check system
+NICS indices to identify prohibited purchasers of firearms; and
+(C) Be made available to the public on the TBI website and the
+administrative office of the courts' website and must be distributed to all
+circuit court clerks and made available on the clerks' websites.
+(i) The TBI may promulgate rules necessary to effectuate this section pursuant
+to the Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+SECTION 2. Tennessee Code Annotated, Section 39-17-1316(d)(1), is amended by
+deleting the subdivision and substituting the following:
+(1) Determine, from criminal records and other information available to it,
+whether the purchaser:
+(A) Is disqualified under subdivision (a)(1) from completing the purchase;
+or
+(B) Has executed a voluntary waiver of firearm rights form pursuant to
+the Tennessee Voluntary Do Not Sell Firearms Act, compiled in § 39-17-1330;
+and
+SECTION 3. Tennessee Code Annotated, Section 39-17-1316(q), is amended by
+adding the following as a new subdivision (q)(5) and redesignating the current subdivision (q)(5)
+appropriately:
+(5) It is an offense to sell or transfer a firearm to a person knowing that the
+person has executed a voluntary waiver of firearm rights form pursuant to § 39-17-1330,
+and the waiver has not been revoked.
+SECTION 4. Tennessee Code Annotated, Section 39-17-1316, is amended by adding
+the following new subsection:
+- 4 - 000985
+
+(s) If a person has executed a voluntary waiver of firearm rights form pursuant to
+§ 39-17-1330 and the waiver has not been revoked, then the person shall not knowingly
+receive or possess a firearm. A person who violates this subsection (s) is subject to a
+civil fine not exceeding one hundred dollars ($100). The person may elect to complete
+four (4) hours of community service in lieu of paying the civil penalty.
+SECTION 5. Tennessee Code Annotated, Section 10-7-504, is amended by adding the
+following new subsection:
+(gg) Records obtained and produced under the Tennessee Voluntary Do Not
+Sell Firearms Act, compiled in § 39-17-1330, are confidential and are not an open record
+pursuant to this chapter, except that such information may be disclosed to a law
+enforcement officer acting in the performance of the officer's official duties, in a criminal
+prosecution, or to the applicant with respect to the applicant's own information.
+SECTION 6. For purposes of developing forms and promulgating rules, this act takes
+effect upon becoming a law, the public welfare requiring it. For all other purposes, this act takes
+effect January 1, 2026, the public welfare requiring it.
+- 5 - 000985
+
+[DELETED: S(((]
+[DELETED:  -0(]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((S(((S(]
+[DELETED:  -0S(S]

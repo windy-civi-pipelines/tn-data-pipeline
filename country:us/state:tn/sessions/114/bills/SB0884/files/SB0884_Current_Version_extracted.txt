@@ -1,0 +1,199 @@
+Title: HOUSE BILL 1143
+Official Title: HOUSE BILL 1143
+Number of Sections: 10
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Boyd
+SENATE BILL 884
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 5; Title 6; Title 7; Title 13; Title 64; Title 65;
+Title 67 and Title 68, relative to energy.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 7-51-2401, is amended by deleting
+"Clean energy" in subdivision (1) and substituting "Clean or green energy".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 7-51-2401, is amended by deleting
+subdivision (3) and substituting:
+(3) "Public utility" means:
+(A) An entity subject to the jurisdiction of the Tennessee board of utility
+regulation, in accordance with § 7-82-702; or
+(B) A county-owned or municipal-owned utility that provides electric,
+broadband, natural gas, or propane services to the public; and
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 7-51-2403, is amended by deleting
+the section and substituting:
+7-51-2403. Permissible sources of clean or green energy or renewable energy.
+(a) A political subdivision that through ordinance, resolution, or other regulation
+imposes requirements or expectations related to the source of clean or green energy or
+renewable energy used by a public utility shall include the following as permissible
+sources:
+(1) Solar energy;
+(2) Photovoltaic cells and panels;
+(3) Hydropower;
+SB0884
+002365
+- 1 -
+(4) Wind power;
+(5) Hydrogen fuel;
+(6) Nuclear power;
+(7) Natural gas;
+(8) Fuel cells;
+(9) Energy from waste-to-energy facilities;
+(10) Energy storage systems or technologies;
+(11) Geothermal energy;
+(12) Dedicated crops grown for energy production;
+(13) Industrial byproduct technologies that use fuel or energy that is a
+byproduct of an industrial process;
+(14) Waste heat recovery from capturing and reusing the waste heat in
+an industrial process for heating or generating mechanical or electric work;
+(15) Combined heat and power systems;
+(16) Pumped storage hydropower;
+(17) Compressed air energy storage;
+(18) Biomass, including agricultural crops, wastes, or residues, wood or
+wood waste, animal waste or other animal byproducts, algae, or solid waste; and
+(19) Renewable natural gas, as defined in § 65-5-114.
+(b) A public utility required by a political subdivision to implement or comply with
+requirements or expectations related to the source of clean or green energy or
+renewable energy used by the public utility meets the requirement if the public utility
+uses one (1) or more of the sources listed in subdivisions (a)(1)-(19), regardless of
+whether the political subdivision classifies the requirements or expectations as relating
+solely to clean or green energy or solely to renewable energy.
+- 2 - 002365
+(c) An ordinance, resolution, or other regulation in violation of this section is
+against public policy and void.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 7-51-2404, is amended by deleting
+the section.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 5-6-119(a), is amended by deleting
+subdivision (2) and substituting:
+(2) "Energy project" means energy infrastructure improvements, whether
+composed of real or personal property, or both, for clean or green energy or renewable
+energy as those terms are defined in § 7-51-2401, including all sources listed in § 7-51-
+2403; and
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Section 6-54-148(a), is amended by deleting
+subdivision (1) and substituting:
+(1) "Energy project" means energy infrastructure improvements, whether
+composed of real or personal property, or both, for clean or green energy or renewable
+energy as those terms are defined in § 7-51-2401, including all sources listed in § 7-51-
+2403; and
+
+Section 8:
+SECTION 7. Tennessee Code Annotated, Section 7-51-2405, is amended by deleting
+the section.
+
+Section 9:
+SECTION 8. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the code commission is requested to
+include the headings in any compilation or publication containing this act.
+
+Section 10:
+SECTION 9. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 002365
+[DELETED: (((7]
+[DELETED:  -0]
+[DELETED:  -0(SSS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1143
+By Boyd
+SENATE BILL 884
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 5; Title 6; Title 7; Title 13; Title 64; Title 65;
+Title 67 and Title 68, relative to energy.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 7-51-2401, is amended by deleting
+"Clean energy" in subdivision (1) and substituting "Clean or green energy".
+SECTION 2. Tennessee Code Annotated, Section 7-51-2401, is amended by deleting
+subdivision (3) and substituting:
+(3) "Public utility" means:
+(A) An entity subject to the jurisdiction of the Tennessee board of utility
+regulation, in accordance with § 7-82-702; or
+(B) A county-owned or municipal-owned utility that provides electric,
+broadband, natural gas, or propane services to the public; and
+SECTION 3. Tennessee Code Annotated, Section 7-51-2403, is amended by deleting
+the section and substituting:
+7-51-2403. Permissible sources of clean or green energy or renewable energy.
+(a) A political subdivision that through ordinance, resolution, or other regulation
+imposes requirements or expectations related to the source of clean or green energy or
+renewable energy used by a public utility shall include the following as permissible
+sources:
+(1) Solar energy;
+(2) Photovoltaic cells and panels;
+(3) Hydropower;
+SB0884
+002365
+- 1 -
+
+(4) Wind power;
+(5) Hydrogen fuel;
+(6) Nuclear power;
+(7) Natural gas;
+(8) Fuel cells;
+(9) Energy from waste-to-energy facilities;
+(10) Energy storage systems or technologies;
+(11) Geothermal energy;
+(12) Dedicated crops grown for energy production;
+(13) Industrial byproduct technologies that use fuel or energy that is a
+byproduct of an industrial process;
+(14) Waste heat recovery from capturing and reusing the waste heat in
+an industrial process for heating or generating mechanical or electric work;
+(15) Combined heat and power systems;
+(16) Pumped storage hydropower;
+(17) Compressed air energy storage;
+(18) Biomass, including agricultural crops, wastes, or residues, wood or
+wood waste, animal waste or other animal byproducts, algae, or solid waste; and
+(19) Renewable natural gas, as defined in § 65-5-114.
+(b) A public utility required by a political subdivision to implement or comply with
+requirements or expectations related to the source of clean or green energy or
+renewable energy used by the public utility meets the requirement if the public utility
+uses one (1) or more of the sources listed in subdivisions (a)(1)-(19), regardless of
+whether the political subdivision classifies the requirements or expectations as relating
+solely to clean or green energy or solely to renewable energy.
+- 2 - 002365
+
+(c) An ordinance, resolution, or other regulation in violation of this section is
+against public policy and void.
+SECTION 4. Tennessee Code Annotated, Section 7-51-2404, is amended by deleting
+the section.
+SECTION 5. Tennessee Code Annotated, Section 5-6-119(a), is amended by deleting
+subdivision (2) and substituting:
+(2) "Energy project" means energy infrastructure improvements, whether
+composed of real or personal property, or both, for clean or green energy or renewable
+energy as those terms are defined in § 7-51-2401, including all sources listed in § 7-51-
+2403; and
+SECTION 6. Tennessee Code Annotated, Section 6-54-148(a), is amended by deleting
+subdivision (1) and substituting:
+(1) "Energy project" means energy infrastructure improvements, whether
+composed of real or personal property, or both, for clean or green energy or renewable
+energy as those terms are defined in § 7-51-2401, including all sources listed in § 7-51-
+2403; and
+SECTION 7. Tennessee Code Annotated, Section 7-51-2405, is amended by deleting
+the section.
+SECTION 8. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the code commission is requested to
+include the headings in any compilation or publication containing this act.
+SECTION 9. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 002365
+
+[DELETED: (((7]
+[DELETED:  -0]
+[DELETED:  -0(SSS]

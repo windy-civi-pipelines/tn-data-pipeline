@@ -1,0 +1,962 @@
+Title: SENATE BILL 640
+Official Title: SENATE BILL 640
+Number of Sections: 7
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+By Campbell
+HOUSE BILL 598
+By Freeman
+AN ACT to amend Tennessee Code Annotated, Title 32;
+Title 39; Title 56; Title 63 and Title 68, relative to
+vulnerable persons.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 11, is amended by adding
+the following language as a new part:
+68-11-2401. Part definitions.
+As used in this part:
+(1) ''Adult'' means an individual who is eighteen (18) years of age or
+older;
+(2) ''Attending physician'' means the physician who has primary
+responsibility for the care of the patient and treatment of the patient's terminal
+disease;
+(3) ''Capable'' means that in the opinion of a court or in the opinion of the
+patient's attending physician, consulting physician, psychiatrist, or psychologist, a
+patient has the ability to make and communicate healthcare decisions to
+healthcare providers, including communication through persons familiar with the
+patient's manner of communicating if those persons are available;
+(4) ''Consulting physician'' means a physician who is qualified by
+specialty or experience to make a professional diagnosis and prognosis
+regarding the patient's disease;
+(5) ''Counseling'' means one (1) or more consultations as necessary
+between a psychiatrist licensed pursuant to title 63, chapter 6, or psychologist
+HB0598
+000775
+- 1 -
+licensed pursuant to title 63, chapter 11, and a patient for the purpose of
+determining that the patient is capable and not suffering from a psychiatric or
+psychological disorder or depression causing impaired judgment;
+(6) ''Department'' means the department of health;
+(7) ''Healthcare facility'' means any institution, place, or building providing
+healthcare services that is required to be licensed under this chapter;
+(8) ''Healthcare provider'' means a person licensed, certified, or otherwise
+authorized or permitted by the law of this state to administer health care or
+dispense medication in the ordinary course of business or practice of a
+profession, and includes a healthcare facility;
+(9) ''Informed decision'' means a decision by a qualified patient to request
+and obtain a prescription to end the patient's life in a humane and dignified
+manner that is based on an appreciation of the relevant facts and after being fully
+informed by the attending physician of:
+(A) The patient's medical diagnosis;
+(B) The patient's prognosis;
+(C) The potential risks associated with taking the medication to be
+prescribed;
+(D) The probable result of taking the medication to be prescribed;
+and
+(E) The feasible alternatives, including comfort care, hospice
+care, and pain control;
+(10) ''Medically confirmed'' means the medical opinion of the attending
+physician has been confirmed by a consulting physician who has examined the
+patient and the patient's relevant medical records;
+- 2 - 000775
+(11) ''Patient'' means a person who is under the care of a physician;
+(12) ''Physician'' means a doctor of medicine licensed to practice
+medicine by the board of medical examiners pursuant to title 63, chapter 6, or
+doctor of osteopathy licensed to practice by the board of osteopathic examination
+pursuant to title 63, chapter 9;
+(13) ''Qualified patient'' means a capable adult who is a resident of this
+state and has satisfied the requirements of this part in order to obtain a
+prescription for medication to end the adult's life in a humane and dignified
+manner; and
+(14) ''Terminal disease'' means an incurable and irreversible disease that
+has been medically confirmed and will, within reasonable medical judgment,
+produce death within six (6) months.
+68-11-2402. Initiation of written request for medication.
+(a) An adult who is capable, is a resident of this state, and has been determined
+by an attending physician and a consulting physician to be suffering from a terminal
+disease, and who has voluntarily expressed the wish to die, may make a written request
+for medication for the purpose of ending the adult's life in a humane and dignified
+manner in accordance with this part.
+(b) A person does not qualify under this part solely because of age or disability.
+68-11-2403. Form of written request.
+(a) A valid request for medication under this part must be substantially in the
+form described in § 68-11-2421, signed and dated by the patient and witnessed by at
+least two (2) individuals who, in the presence of the patient, attest that to the best of their
+knowledge and belief the patient is capable, acting voluntarily, and is not being coerced
+to sign the request.
+- 3 - 000775
+(b) One (1) of the witnesses must be a person who is not:
+(1) A relative of the patient by blood, marriage, or adoption;
+(2) A person who at the time the request is signed would be entitled to
+any portion of the estate of the qualified patient upon death under a will, if known,
+or by operation of law; or
+(3) An owner, operator, or employee of a healthcare facility where the
+qualified patient is receiving medical treatment or is a resident.
+(c) The patient's attending physician at the time the request is signed must not
+be a witness.
+(d) If the patient is a patient in a long-term care facility at the time the written
+request is made, then one (1) of the witnesses must be an individual designated by the
+facility. The department shall promulgate rules governing the qualifications of an
+individual designated as a witness by a long-term care facility pursuant to this subsection
+(d). Rules must be promulgated in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5.
+68-11-2404. Attending physician responsibilities.
+(a) The attending physician shall:
+(1) Make the initial determination of whether a patient has a terminal
+disease, is capable, and has made the request voluntarily;
+(2) Ensure that the patient is making an informed decision by informing
+the patient of:
+(A) The patient's medical diagnosis;
+(B) The patient's prognosis;
+(C) The potential risks associated with taking the medication to be
+prescribed;
+- 4 - 000775
+(D) The probable result of taking the medication to be prescribed;
+and
+(E) The feasible alternatives, including comfort care, hospice
+care, and pain control;
+(3) Refer the patient to a consulting physician for medical confirmation of
+the diagnosis and for a determination that the patient is capable and acting
+voluntarily;
+(4) Refer the patient for counseling, if appropriate, pursuant to § 68-11-
+2406;
+(5) Recommend that the patient notify next of kin;
+(6) Counsel the patient about the importance of having another person
+present when the patient takes the medication prescribed pursuant to this part
+and of not taking the medication in a public place;
+(7) Inform the patient that the patient has an opportunity to rescind the
+request at any time and in any manner, and offer the patient an opportunity to
+rescind at the time the patient makes the patient's second oral request pursuant
+to § 68-11-2409;
+(8) Verify, immediately prior to writing the prescription for medication
+under this part, that the patient is making an informed decision;
+(9) Fulfill the medical record documentation requirements of § 68-11-
+2412;
+(10) Ensure that all appropriate steps are carried out in accordance with
+this part prior to writing a prescription for medication to enable a qualified patient
+to end the patient's life in a humane and dignified manner; and
+(11)
+- 5 - 000775
+(A) Dispense medications directly, including ancillary medications
+intended to facilitate the desired effect to minimize the patient's
+discomfort. The attending physician must be registered as a dispensing
+physician with the board of pharmacy and the board of medical examiners
+or the board of osteopathic examination, have a current drug enforcement
+administration certificate, and comply with any applicable rule; or
+(B) With the patient's written consent:
+(i) Contact a pharmacist and inform the pharmacist of the
+prescription; and
+(ii) Deliver the written prescription personally or by mail to
+the pharmacist, who will dispense the medications to the patient,
+the attending physician, or an expressly identified agent of the
+patient.
+(b) Notwithstanding any law to the contrary, the attending physician may sign the
+patient's death certificate.
+68-11-2405. Consulting physician confirmation.
+Before a patient is qualified under this part, a consulting physician shall examine
+the patient and the patient's relevant medical records. The consulting physician shall
+confirm, in writing, the attending physician's diagnosis that the patient is suffering from a
+terminal disease and verify that the patient is capable, is acting voluntarily, and has
+made an informed decision.
+68-11-2406. Counseling referral.
+If, in the opinion of the attending physician or the consulting physician, a patient
+may be suffering from a psychiatric or psychological disorder or depression causing
+impaired judgment, either physician must refer the patient for counseling. Medication to
+- 6 - 000775
+end a patient's life in a humane and dignified manner must not be prescribed until the
+person performing the counseling determines that the patient is not suffering from a
+psychiatric or psychological disorder or depression causing impaired judgment.
+68-11-2407. Informed decision.
+A person must not receive a prescription for medication to end the person's life in
+a humane and dignified manner unless the person has made an informed decision.
+Immediately prior to writing a prescription for medication under this part, the attending
+physician shall verify that the patient is making an informed decision.
+68-11-2408. Family notification.
+The attending physician shall recommend that the patient notify the next of kin of
+the patient's request for medication pursuant to this part. A patient who declines or is
+unable to notify next of kin must not have the patient's request denied for that reason.
+68-11-2409. Written and oral requests.
+(a) In order for a qualified patient to receive a prescription for medication to end
+the patient's life in a humane and dignified manner, a qualified patient must:
+(1) Make an initial oral request to the patient's attending physician;
+(2) Make a written request to the patient's attending physician; and
+(3) Make a second oral request to the patient's attending physician no
+less than fifteen (15) days after making the initial oral request.
+(b) Notwithstanding subsection (a), if the qualified patient's attending physician
+has medically confirmed that the qualified patient will, within reasonable medical
+judgment, die within fifteen (15) days after making the initial oral request under this
+
+Section 3:
+section, then the qualified patient may reiterate the oral request to the attending
+physician at any time after making the initial oral request.
+- 7 - 000775
+(c) At the time the qualified patient makes the second oral request, the attending
+physician shall offer the patient an opportunity to rescind the request.
+68-11-2410. Right to rescind request.
+A patient may rescind a request at any time and in any manner without regard to
+the patient's mental state. A prescription for medication under this part must not be
+written without the attending physician offering the qualified patient an opportunity to
+rescind the request.
+68-11-2411. Waiting periods.
+(a) No less than fifteen (15) days shall elapse between the patient's initial oral
+request pursuant to § 68-11-2409(a)(1) and the writing of a prescription under this part.
+(b) No less than forty-eight (48) hours shall elapse between the patient's written
+request pursuant to § 68-11-2409(a)(2) and the writing of a prescription under this part.
+(c) Notwithstanding subsections (a) and (b), if the qualified patient's attending
+physician has medically confirmed that the qualified patient will, within reasonable
+medical judgment, die before the expiration of at least one (1) of the waiting periods
+described in subsections (a) and (b), then the prescription for medication under this part
+may be written at any time following the latter of the qualified patient's written request or
+second oral request under § 68-11-2409.
+68-11-2412. Medical record documentation requirements.
+The following must be documented or filed in the patient's medical record:
+(1) All oral requests by a patient for medication to end the patient's life in
+a humane and dignified manner;
+(2) All written requests by a patient for medication to end the patient's life
+in a humane and dignified manner;
+- 8 - 000775
+(3) The attending physician's diagnosis, prognosis, and determination
+that the patient is capable, acting voluntarily, and has made an informed
+decision;
+(4) The consulting physician's diagnosis, prognosis, and verification that
+the patient is capable, acting voluntarily, and has made an informed decision;
+(5) A report of the outcome and determinations made during counseling,
+if performed;
+(6) Any medically confirmed certification of the imminence of the patient's
+death;
+(7) The attending physician's offer to the patient to rescind the patient's
+request at the time of the patient's second oral request pursuant to § 68-11-2409;
+and
+(8) A note by the attending physician indicating that all requirements of
+this part have been met and indicating the steps taken to carry out the request,
+including a notation of the medication prescribed.
+68-11-2413. Reporting requirements.
+(a) The department shall:
+(1) Annually review a sample of records maintained pursuant to this part;
+and
+(2) Require a healthcare provider, upon dispensing medication pursuant
+to this part, to file a copy of the dispensing record with the department.
+(b) The department shall make rules to facilitate the collection of information
+regarding compliance with this part. The information collected is not a public record for
+the purposes of title 10, chapter 7, and must not be made available for inspection by the
+public.
+- 9 - 000775
+(c) The department shall generate and make available to the public an annual
+statistical report of information collected under subsection (a).
+68-11-2414. Effect on construction of wills, contracts, and statutes.
+(a) A provision in a contract, life insurance policy, will, or other agreement,
+whether written or oral, to the extent the provision would affect whether a person may
+make or rescind a request for medication to end the person's life in a humane and
+dignified manner, is not valid.
+(b) An obligation owing under any currently existing contract must not be
+conditioned or affected by the making or rescinding of a request, by a person, for
+medication to end the person's life in a humane and dignified manner.
+(c) This section applies to contracts, policies, wills, or agreements entered into
+or renewed on or after the effective date of this act.
+68-11-2415. Insurance or annuity policies.
+The sale, procurement, or issuance of any life, health, or accident insurance or
+annuity policy, or the rate charged for any policy, is not conditioned upon or affected by
+the making or rescinding of a request, by a person, for medication to end the person's
+life in a humane and dignified manner. A qualified patient's act of ingesting medication
+to end the patient's life in a humane and dignified manner does not have an effect upon
+a life, health, or accident insurance or annuity policy.
+68-11-2416. Authorized actions.
+This part does not authorize a physician or another person to end a patient's life
+by lethal injection, mercy killing, or active euthanasia. Actions taken in accordance with
+this part do not, for any purpose, constitute suicide, assisted suicide under § 39-13-216,
+mercy killing, or criminal homicide under title 39, chapter 13, part 2.
+68-11-2417. Immunity.
+- 10 - 000775
+(a) A person is not subject to civil or criminal liability or professional disciplinary
+action for participating in good faith compliance with this part. This includes being
+present when a qualified patient takes the prescribed medication to end the patient's life
+in a humane and dignified manner.
+(b) A professional organization or association, or healthcare provider, shall not
+subject a person to censure, discipline, suspension, loss of license, loss of privileges,
+loss of membership, or other penalty for participating or refusing to participate in good
+faith compliance with this part.
+(c) A request by a patient for, or provision by an attending physician of,
+medication in good faith compliance with this part must not constitute neglect for any
+purpose of law or provide the sole basis for the appointment of a guardian or
+conservator.
+(d) A healthcare provider is not under any duty, whether by contract, statute, or
+another legal requirement, to participate in the provision to a qualified patient of
+medication to end the patient's life in a humane and dignified manner. If a healthcare
+provider is unable or unwilling to carry out a patient's request under this part, and the
+patient transfers the patient's care to a new healthcare provider, then the prior
+healthcare provider must transfer, upon request, a copy of the patient's relevant medical
+records to the new healthcare provider.
+(e)
+(1) Notwithstanding another law, a healthcare provider may prohibit
+another healthcare provider from participating in this part on the premises of the
+prohibiting provider if the prohibiting provider has notified the healthcare provider
+of the prohibiting provider's policy regarding participating in this part. This
+- 11 - 000775
+subdivision (e)(1) does not prohibit a healthcare provider from providing to a
+patient healthcare services that do not constitute participation in this part.
+(2) Notwithstanding subsections (a)-(d), a healthcare provider may
+subject another healthcare provider to the following sanctions if the sanctioning
+healthcare provider has notified the sanctioned provider prior to participation in
+this part that the sanctioning provider prohibits participation in this part:
+(A) Loss of privileges, loss of membership, or other sanctions
+provided pursuant to the medical staff bylaws, policies, and procedures of
+the sanctioning healthcare provider, if the sanctioned provider is a
+member of the sanctioning provider's medical staff and participates in this
+part while on the healthcare facility premises of the sanctioning
+healthcare provider, but not including the private medical office of a
+physician or other provider;
+(B) Termination of lease or other property contract or other
+nonmonetary remedies provided by lease contract, not including loss or
+restriction of medical staff privileges or exclusion from a provider panel, if
+the sanctioned provider participates in this part while on the premises of
+the sanctioning healthcare provider or on property that is owned by or
+under the direct control of the sanctioning healthcare provider; or
+(C) Termination of contract or other nonmonetary remedies
+provided by contract, if the sanctioned provider participates in this part
+while acting in the course and scope of the sanctioned provider's capacity
+as an employee or independent contractor of the sanctioning healthcare
+provider. This subdivision (e)(2)(C) does not prevent:
+- 12 - 000775
+(i) A healthcare provider from participating in this part
+while acting outside the course and scope of the provider's
+capacity as an employee or independent contractor; or
+(ii) A patient from contracting with the patient's attending
+physician and consulting physician to act outside the course and
+scope of the provider's capacity as an employee or independent
+contractor of the sanctioning healthcare provider.
+(3) A healthcare provider that imposes sanctions pursuant to subdivision
+(e)(2) shall afford the sanctioned healthcare provider all due process and follow
+all other procedures that are required of the sanctioning healthcare provider
+under law or rule that are related to the imposition of sanctions on another
+healthcare provider.
+(4) For purposes of this subsection (e):
+(A) ''Notify'' means a separate statement in writing to the
+healthcare provider specifically informing the healthcare provider prior to
+the provider's participation in this part of the sanctioning healthcare
+provider's policy about participation in activities covered by this part;
+(B) ''Participate in this part'':
+(i) Means to perform the duties of an attending physician
+pursuant to § 68-11-2404, the consulting physician function
+pursuant to § 68-11-2405, or the counseling function pursuant to §
+68-11-2406; and
+(ii) Does not include:
+- 13 - 000775
+(a) Making an initial determination that a patient
+has a terminal disease and informing the patient of the
+medical prognosis;
+(b) Providing information about this part to a
+patient upon the request of the patient;
+(c) Providing a patient, upon the request of the
+patient, with a referral to another physician; or
+(d) A patient contracting with the patient's
+attending physician and consulting physician to act outside
+of the course and scope of the provider's capacity as an
+employee or independent contractor of the sanctioning
+healthcare provider.
+(f) Suspension or termination of staff membership or privileges under subsection
+(e) is not reportable to the board of medical examiners or board of osteopathic
+examination for disciplinary purposes or by the applicable quality improvement
+committee to another quality improvement committee. Action taken pursuant to § 68-11-
+2403, § 68-11-2404, § 68-11-2405, or § 68-11-2406 must not be the sole basis for a
+report of immoral, unethical, unprofessional, or dishonorable conduct.
+(g) This part does not allow a lower standard of care for patients in the
+community where the patient is treated or a similar community.
+68-11-2418. Liability.
+(a) A person who, without authorization of the patient, willfully alters or forges a
+request for medication, or conceals or destroys a rescission of that request with the
+intent or effect of causing the patient's death, commits a Class A felony.
+- 14 - 000775
+(b) A person who coerces or exerts undue influence on a patient to request
+medication for the purpose of ending the patient's life, or to destroy a rescission of a
+request, commits a Class A felony.
+(c) This part does not limit further liability for civil damages resulting from other
+negligent conduct or intentional misconduct by any person.
+(d) The penalties in this part do not preclude criminal penalties applicable under
+other law for conduct which is inconsistent with this part.
+68-11-2419. Claims by a governmental entity for costs incurred.
+A governmental entity that incurs costs resulting from a person terminating the
+person's life pursuant to this part in a public place has a claim against the estate of the
+person to recover costs and reasonable attorney fees related to enforcing the claim.
+68-11-2420. Form of the request.
+A request for medication as authorized by this part must be substantially in the
+following form:
+REQUEST FOR MEDICATION
+TO END MY LIFE IN A HUMANE
+AND DIGNIFIED MANNER
+I, ________________, am an adult of sound mind.
+I am suffering from _______, which my attending physician has determined is a terminal
+disease and which has been medically confirmed by a consulting physician.
+- 15 - 000775
+I have been fully informed of my diagnosis, prognosis, the nature of medication to be prescribed
+and potential associated risks, the expected result, and the feasible alternatives, including
+comfort care, hospice care, and pain control.
+I request that my attending physician prescribe medication that will end my life in a humane and
+dignified manner.
+INITIAL ONE:
+_____ I have informed my family of my decision and taken their opinions into consideration.
+_____ I have decided not to inform my family of my decision.
+_____ I have no family to inform of my decision.
+I understand that I have the right to rescind this request at any time.
+I understand the full import of this request, and I expect to die when I take the medication to be
+prescribed. I further understand that although most deaths occur within three (3) hours, my
+death may take longer and my physician has counseled me about this possibility.
+I make this request voluntarily and without reservation, and I accept full moral responsibility for
+my actions.
+Signed: ___________
+Dated: ___________
+DECLARATION OF WITNESSES
+- 16 - 000775
+We declare that the person signing this request:
+(a) Is personally known to us or has provided proof of identity;
+(b) Signed this request in our presence;
+(c) Appears to be of sound mind and not under duress, fraud, or undue influence; and
+(d) Is not a patient for whom either of us is the attending physician.
+__________ Witness 1/Date
+__________ Witness 2/Date
+NOTE: One (1) witness must not be a relative (by blood, marriage, or adoption) of the person
+signing this request, is not entitled to any portion of the person's estate upon death, and must
+not own, operate, or be employed at a healthcare facility where the person is a patient or
+resident. If the patient is a patient in a long-term care facility at the time the written request is
+made, then one (1) of the witnesses must be an individual designated by the facility.
+68-11-2421. Penalties.
+(a) It is a Class A felony for a person without authorization of the principal to
+willfully alter, forge, conceal, or destroy an instrument, the reinstatement or revocation of
+an instrument, or any other evidence or document reflecting the principal's desires and
+interests, with the intent and effect of causing a withholding or withdrawal of life-
+sustaining procedures or of artificially administered nutrition and hydration which hastens
+the death of the principal.
+(b) Except as provided in subsection (a), it is a Class A misdemeanor for a
+person without authorization of the principal to willfully alter, forge, conceal, or destroy
+an instrument, the reinstatement or revocation of an instrument, or any other evidence or
+- 17 - 000775
+document reflecting the principal's desires and interests with the intent or effect of
+affecting a healthcare decision.
+
+Section 4:
+SECTION 2. Tennessee Code Annotated, Section 39-13-216(b), is amended by adding
+the following language as a new subdivision:
+(4) Provide medication to a qualified patient for the purpose of ending the
+patient's life in a humane and dignified manner pursuant to title 68, chapter 11, part 24.
+
+Section 5:
+SECTION 3. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity shall not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+
+Section 6:
+SECTION 4. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 7:
+SECTION 5. For purposes of rulemaking, this act takes effect upon becoming a law, the
+public welfare requiring it. For all other purposes, this act takes effect July 1, 2025, the public
+welfare requiring it.
+- 18 - 000775
+[DELETED: S6((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0((((6((6(]
+[DELETED:  -0((((((6(((((]
+[DELETED:  -0((((((( (]
+[DELETED:  -0 (66]
+[DELETED:  -0666((((]
+[DELETED:  -0(66((6((]
+[DELETED:  -0(((((6((((]
+[DELETED:  -0(6(((66T6]
+[DELETED:  -0((((((]
+[DELETED:  -0((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0    ((6(]
+[DELETED:  -0(((66]
+[DELETED:  -0]
+[DELETED:  -0((((6((]
+[DELETED:  -0S(SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 640
+By Campbell
+HOUSE BILL 598
+By Freeman
+AN ACT to amend Tennessee Code Annotated, Title 32;
+Title 39; Title 56; Title 63 and Title 68, relative to
+vulnerable persons.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 11, is amended by adding
+the following language as a new part:
+68-11-2401. Part definitions.
+As used in this part:
+(1) ''Adult'' means an individual who is eighteen (18) years of age or
+older;
+(2) ''Attending physician'' means the physician who has primary
+responsibility for the care of the patient and treatment of the patient's terminal
+disease;
+(3) ''Capable'' means that in the opinion of a court or in the opinion of the
+patient's attending physician, consulting physician, psychiatrist, or psychologist, a
+patient has the ability to make and communicate healthcare decisions to
+healthcare providers, including communication through persons familiar with the
+patient's manner of communicating if those persons are available;
+(4) ''Consulting physician'' means a physician who is qualified by
+specialty or experience to make a professional diagnosis and prognosis
+regarding the patient's disease;
+(5) ''Counseling'' means one (1) or more consultations as necessary
+between a psychiatrist licensed pursuant to title 63, chapter 6, or psychologist
+HB0598
+000775
+- 1 -
+
+licensed pursuant to title 63, chapter 11, and a patient for the purpose of
+determining that the patient is capable and not suffering from a psychiatric or
+psychological disorder or depression causing impaired judgment;
+(6) ''Department'' means the department of health;
+(7) ''Healthcare facility'' means any institution, place, or building providing
+healthcare services that is required to be licensed under this chapter;
+(8) ''Healthcare provider'' means a person licensed, certified, or otherwise
+authorized or permitted by the law of this state to administer health care or
+dispense medication in the ordinary course of business or practice of a
+profession, and includes a healthcare facility;
+(9) ''Informed decision'' means a decision by a qualified patient to request
+and obtain a prescription to end the patient's life in a humane and dignified
+manner that is based on an appreciation of the relevant facts and after being fully
+informed by the attending physician of:
+(A) The patient's medical diagnosis;
+(B) The patient's prognosis;
+(C) The potential risks associated with taking the medication to be
+prescribed;
+(D) The probable result of taking the medication to be prescribed;
+and
+(E) The feasible alternatives, including comfort care, hospice
+care, and pain control;
+(10) ''Medically confirmed'' means the medical opinion of the attending
+physician has been confirmed by a consulting physician who has examined the
+patient and the patient's relevant medical records;
+- 2 - 000775
+
+(11) ''Patient'' means a person who is under the care of a physician;
+(12) ''Physician'' means a doctor of medicine licensed to practice
+medicine by the board of medical examiners pursuant to title 63, chapter 6, or
+doctor of osteopathy licensed to practice by the board of osteopathic examination
+pursuant to title 63, chapter 9;
+(13) ''Qualified patient'' means a capable adult who is a resident of this
+state and has satisfied the requirements of this part in order to obtain a
+prescription for medication to end the adult's life in a humane and dignified
+manner; and
+(14) ''Terminal disease'' means an incurable and irreversible disease that
+has been medically confirmed and will, within reasonable medical judgment,
+produce death within six (6) months.
+68-11-2402. Initiation of written request for medication.
+(a) An adult who is capable, is a resident of this state, and has been determined
+by an attending physician and a consulting physician to be suffering from a terminal
+disease, and who has voluntarily expressed the wish to die, may make a written request
+for medication for the purpose of ending the adult's life in a humane and dignified
+manner in accordance with this part.
+(b) A person does not qualify under this part solely because of age or disability.
+68-11-2403. Form of written request.
+(a) A valid request for medication under this part must be substantially in the
+form described in § 68-11-2421, signed and dated by the patient and witnessed by at
+least two (2) individuals who, in the presence of the patient, attest that to the best of their
+knowledge and belief the patient is capable, acting voluntarily, and is not being coerced
+to sign the request.
+- 3 - 000775
+
+(b) One (1) of the witnesses must be a person who is not:
+(1) A relative of the patient by blood, marriage, or adoption;
+(2) A person who at the time the request is signed would be entitled to
+any portion of the estate of the qualified patient upon death under a will, if known,
+or by operation of law; or
+(3) An owner, operator, or employee of a healthcare facility where the
+qualified patient is receiving medical treatment or is a resident.
+(c) The patient's attending physician at the time the request is signed must not
+be a witness.
+(d) If the patient is a patient in a long-term care facility at the time the written
+request is made, then one (1) of the witnesses must be an individual designated by the
+facility. The department shall promulgate rules governing the qualifications of an
+individual designated as a witness by a long-term care facility pursuant to this subsection
+(d). Rules must be promulgated in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5.
+68-11-2404. Attending physician responsibilities.
+(a) The attending physician shall:
+(1) Make the initial determination of whether a patient has a terminal
+disease, is capable, and has made the request voluntarily;
+(2) Ensure that the patient is making an informed decision by informing
+the patient of:
+(A) The patient's medical diagnosis;
+(B) The patient's prognosis;
+(C) The potential risks associated with taking the medication to be
+prescribed;
+- 4 - 000775
+
+(D) The probable result of taking the medication to be prescribed;
+and
+(E) The feasible alternatives, including comfort care, hospice
+care, and pain control;
+(3) Refer the patient to a consulting physician for medical confirmation of
+the diagnosis and for a determination that the patient is capable and acting
+voluntarily;
+(4) Refer the patient for counseling, if appropriate, pursuant to § 68-11-
+2406;
+(5) Recommend that the patient notify next of kin;
+(6) Counsel the patient about the importance of having another person
+present when the patient takes the medication prescribed pursuant to this part
+and of not taking the medication in a public place;
+(7) Inform the patient that the patient has an opportunity to rescind the
+request at any time and in any manner, and offer the patient an opportunity to
+rescind at the time the patient makes the patient's second oral request pursuant
+to § 68-11-2409;
+(8) Verify, immediately prior to writing the prescription for medication
+under this part, that the patient is making an informed decision;
+(9) Fulfill the medical record documentation requirements of § 68-11-
+2412;
+(10) Ensure that all appropriate steps are carried out in accordance with
+this part prior to writing a prescription for medication to enable a qualified patient
+to end the patient's life in a humane and dignified manner; and
+(11)
+- 5 - 000775
+
+(A) Dispense medications directly, including ancillary medications
+intended to facilitate the desired effect to minimize the patient's
+discomfort. The attending physician must be registered as a dispensing
+physician with the board of pharmacy and the board of medical examiners
+or the board of osteopathic examination, have a current drug enforcement
+administration certificate, and comply with any applicable rule; or
+(B) With the patient's written consent:
+(i) Contact a pharmacist and inform the pharmacist of the
+prescription; and
+(ii) Deliver the written prescription personally or by mail to
+the pharmacist, who will dispense the medications to the patient,
+the attending physician, or an expressly identified agent of the
+patient.
+(b) Notwithstanding any law to the contrary, the attending physician may sign the
+patient's death certificate.
+68-11-2405. Consulting physician confirmation.
+Before a patient is qualified under this part, a consulting physician shall examine
+the patient and the patient's relevant medical records. The consulting physician shall
+confirm, in writing, the attending physician's diagnosis that the patient is suffering from a
+terminal disease and verify that the patient is capable, is acting voluntarily, and has
+made an informed decision.
+68-11-2406. Counseling referral.
+If, in the opinion of the attending physician or the consulting physician, a patient
+may be suffering from a psychiatric or psychological disorder or depression causing
+impaired judgment, either physician must refer the patient for counseling. Medication to
+- 6 - 000775
+
+end a patient's life in a humane and dignified manner must not be prescribed until the
+person performing the counseling determines that the patient is not suffering from a
+psychiatric or psychological disorder or depression causing impaired judgment.
+68-11-2407. Informed decision.
+A person must not receive a prescription for medication to end the person's life in
+a humane and dignified manner unless the person has made an informed decision.
+Immediately prior to writing a prescription for medication under this part, the attending
+physician shall verify that the patient is making an informed decision.
+68-11-2408. Family notification.
+The attending physician shall recommend that the patient notify the next of kin of
+the patient's request for medication pursuant to this part. A patient who declines or is
+unable to notify next of kin must not have the patient's request denied for that reason.
+68-11-2409. Written and oral requests.
+(a) In order for a qualified patient to receive a prescription for medication to end
+the patient's life in a humane and dignified manner, a qualified patient must:
+(1) Make an initial oral request to the patient's attending physician;
+(2) Make a written request to the patient's attending physician; and
+(3) Make a second oral request to the patient's attending physician no
+less than fifteen (15) days after making the initial oral request.
+(b) Notwithstanding subsection (a), if the qualified patient's attending physician
+has medically confirmed that the qualified patient will, within reasonable medical
+judgment, die within fifteen (15) days after making the initial oral request under this
+section, then the qualified patient may reiterate the oral request to the attending
+physician at any time after making the initial oral request.
+- 7 - 000775
+
+(c) At the time the qualified patient makes the second oral request, the attending
+physician shall offer the patient an opportunity to rescind the request.
+68-11-2410. Right to rescind request.
+A patient may rescind a request at any time and in any manner without regard to
+the patient's mental state. A prescription for medication under this part must not be
+written without the attending physician offering the qualified patient an opportunity to
+rescind the request.
+68-11-2411. Waiting periods.
+(a) No less than fifteen (15) days shall elapse between the patient's initial oral
+request pursuant to § 68-11-2409(a)(1) and the writing of a prescription under this part.
+(b) No less than forty-eight (48) hours shall elapse between the patient's written
+request pursuant to § 68-11-2409(a)(2) and the writing of a prescription under this part.
+(c) Notwithstanding subsections (a) and (b), if the qualified patient's attending
+physician has medically confirmed that the qualified patient will, within reasonable
+medical judgment, die before the expiration of at least one (1) of the waiting periods
+described in subsections (a) and (b), then the prescription for medication under this part
+may be written at any time following the latter of the qualified patient's written request or
+second oral request under § 68-11-2409.
+68-11-2412. Medical record documentation requirements.
+The following must be documented or filed in the patient's medical record:
+(1) All oral requests by a patient for medication to end the patient's life in
+a humane and dignified manner;
+(2) All written requests by a patient for medication to end the patient's life
+in a humane and dignified manner;
+- 8 - 000775
+
+(3) The attending physician's diagnosis, prognosis, and determination
+that the patient is capable, acting voluntarily, and has made an informed
+decision;
+(4) The consulting physician's diagnosis, prognosis, and verification that
+the patient is capable, acting voluntarily, and has made an informed decision;
+(5) A report of the outcome and determinations made during counseling,
+if performed;
+(6) Any medically confirmed certification of the imminence of the patient's
+death;
+(7) The attending physician's offer to the patient to rescind the patient's
+request at the time of the patient's second oral request pursuant to § 68-11-2409;
+and
+(8) A note by the attending physician indicating that all requirements of
+this part have been met and indicating the steps taken to carry out the request,
+including a notation of the medication prescribed.
+68-11-2413. Reporting requirements.
+(a) The department shall:
+(1) Annually review a sample of records maintained pursuant to this part;
+and
+(2) Require a healthcare provider, upon dispensing medication pursuant
+to this part, to file a copy of the dispensing record with the department.
+(b) The department shall make rules to facilitate the collection of information
+regarding compliance with this part. The information collected is not a public record for
+the purposes of title 10, chapter 7, and must not be made available for inspection by the
+public.
+- 9 - 000775
+
+(c) The department shall generate and make available to the public an annual
+statistical report of information collected under subsection (a).
+68-11-2414. Effect on construction of wills, contracts, and statutes.
+(a) A provision in a contract, life insurance policy, will, or other agreement,
+whether written or oral, to the extent the provision would affect whether a person may
+make or rescind a request for medication to end the person's life in a humane and
+dignified manner, is not valid.
+(b) An obligation owing under any currently existing contract must not be
+conditioned or affected by the making or rescinding of a request, by a person, for
+medication to end the person's life in a humane and dignified manner.
+(c) This section applies to contracts, policies, wills, or agreements entered into
+or renewed on or after the effective date of this act.
+68-11-2415. Insurance or annuity policies.
+The sale, procurement, or issuance of any life, health, or accident insurance or
+annuity policy, or the rate charged for any policy, is not conditioned upon or affected by
+the making or rescinding of a request, by a person, for medication to end the person's
+life in a humane and dignified manner. A qualified patient's act of ingesting medication
+to end the patient's life in a humane and dignified manner does not have an effect upon
+a life, health, or accident insurance or annuity policy.
+68-11-2416. Authorized actions.
+This part does not authorize a physician or another person to end a patient's life
+by lethal injection, mercy killing, or active euthanasia. Actions taken in accordance with
+this part do not, for any purpose, constitute suicide, assisted suicide under § 39-13-216,
+mercy killing, or criminal homicide under title 39, chapter 13, part 2.
+68-11-2417. Immunity.
+- 10 - 000775
+
+(a) A person is not subject to civil or criminal liability or professional disciplinary
+action for participating in good faith compliance with this part. This includes being
+present when a qualified patient takes the prescribed medication to end the patient's life
+in a humane and dignified manner.
+(b) A professional organization or association, or healthcare provider, shall not
+subject a person to censure, discipline, suspension, loss of license, loss of privileges,
+loss of membership, or other penalty for participating or refusing to participate in good
+faith compliance with this part.
+(c) A request by a patient for, or provision by an attending physician of,
+medication in good faith compliance with this part must not constitute neglect for any
+purpose of law or provide the sole basis for the appointment of a guardian or
+conservator.
+(d) A healthcare provider is not under any duty, whether by contract, statute, or
+another legal requirement, to participate in the provision to a qualified patient of
+medication to end the patient's life in a humane and dignified manner. If a healthcare
+provider is unable or unwilling to carry out a patient's request under this part, and the
+patient transfers the patient's care to a new healthcare provider, then the prior
+healthcare provider must transfer, upon request, a copy of the patient's relevant medical
+records to the new healthcare provider.
+(e)
+(1) Notwithstanding another law, a healthcare provider may prohibit
+another healthcare provider from participating in this part on the premises of the
+prohibiting provider if the prohibiting provider has notified the healthcare provider
+of the prohibiting provider's policy regarding participating in this part. This
+- 11 - 000775
+
+subdivision (e)(1) does not prohibit a healthcare provider from providing to a
+patient healthcare services that do not constitute participation in this part.
+(2) Notwithstanding subsections (a)-(d), a healthcare provider may
+subject another healthcare provider to the following sanctions if the sanctioning
+healthcare provider has notified the sanctioned provider prior to participation in
+this part that the sanctioning provider prohibits participation in this part:
+(A) Loss of privileges, loss of membership, or other sanctions
+provided pursuant to the medical staff bylaws, policies, and procedures of
+the sanctioning healthcare provider, if the sanctioned provider is a
+member of the sanctioning provider's medical staff and participates in this
+part while on the healthcare facility premises of the sanctioning
+healthcare provider, but not including the private medical office of a
+physician or other provider;
+(B) Termination of lease or other property contract or other
+nonmonetary remedies provided by lease contract, not including loss or
+restriction of medical staff privileges or exclusion from a provider panel, if
+the sanctioned provider participates in this part while on the premises of
+the sanctioning healthcare provider or on property that is owned by or
+under the direct control of the sanctioning healthcare provider; or
+(C) Termination of contract or other nonmonetary remedies
+provided by contract, if the sanctioned provider participates in this part
+while acting in the course and scope of the sanctioned provider's capacity
+as an employee or independent contractor of the sanctioning healthcare
+provider. This subdivision (e)(2)(C) does not prevent:
+- 12 - 000775
+
+(i) A healthcare provider from participating in this part
+while acting outside the course and scope of the provider's
+capacity as an employee or independent contractor; or
+(ii) A patient from contracting with the patient's attending
+physician and consulting physician to act outside the course and
+scope of the provider's capacity as an employee or independent
+contractor of the sanctioning healthcare provider.
+(3) A healthcare provider that imposes sanctions pursuant to subdivision
+(e)(2) shall afford the sanctioned healthcare provider all due process and follow
+all other procedures that are required of the sanctioning healthcare provider
+under law or rule that are related to the imposition of sanctions on another
+healthcare provider.
+(4) For purposes of this subsection (e):
+(A) ''Notify'' means a separate statement in writing to the
+healthcare provider specifically informing the healthcare provider prior to
+the provider's participation in this part of the sanctioning healthcare
+provider's policy about participation in activities covered by this part;
+(B) ''Participate in this part'':
+(i) Means to perform the duties of an attending physician
+pursuant to § 68-11-2404, the consulting physician function
+pursuant to § 68-11-2405, or the counseling function pursuant to §
+68-11-2406; and
+(ii) Does not include:
+- 13 - 000775
+
+(a) Making an initial determination that a patient
+has a terminal disease and informing the patient of the
+medical prognosis;
+(b) Providing information about this part to a
+patient upon the request of the patient;
+(c) Providing a patient, upon the request of the
+patient, with a referral to another physician; or
+(d) A patient contracting with the patient's
+attending physician and consulting physician to act outside
+of the course and scope of the provider's capacity as an
+employee or independent contractor of the sanctioning
+healthcare provider.
+(f) Suspension or termination of staff membership or privileges under subsection
+(e) is not reportable to the board of medical examiners or board of osteopathic
+examination for disciplinary purposes or by the applicable quality improvement
+committee to another quality improvement committee. Action taken pursuant to § 68-11-
+2403, § 68-11-2404, § 68-11-2405, or § 68-11-2406 must not be the sole basis for a
+report of immoral, unethical, unprofessional, or dishonorable conduct.
+(g) This part does not allow a lower standard of care for patients in the
+community where the patient is treated or a similar community.
+68-11-2418. Liability.
+(a) A person who, without authorization of the patient, willfully alters or forges a
+request for medication, or conceals or destroys a rescission of that request with the
+intent or effect of causing the patient's death, commits a Class A felony.
+- 14 - 000775
+
+(b) A person who coerces or exerts undue influence on a patient to request
+medication for the purpose of ending the patient's life, or to destroy a rescission of a
+request, commits a Class A felony.
+(c) This part does not limit further liability for civil damages resulting from other
+negligent conduct or intentional misconduct by any person.
+(d) The penalties in this part do not preclude criminal penalties applicable under
+other law for conduct which is inconsistent with this part.
+68-11-2419. Claims by a governmental entity for costs incurred.
+A governmental entity that incurs costs resulting from a person terminating the
+person's life pursuant to this part in a public place has a claim against the estate of the
+person to recover costs and reasonable attorney fees related to enforcing the claim.
+68-11-2420. Form of the request.
+A request for medication as authorized by this part must be substantially in the
+following form:
+REQUEST FOR MEDICATION
+TO END MY LIFE IN A HUMANE
+AND DIGNIFIED MANNER
+I, ________________, am an adult of sound mind.
+I am suffering from _______, which my attending physician has determined is a terminal
+disease and which has been medically confirmed by a consulting physician.
+- 15 - 000775
+
+I have been fully informed of my diagnosis, prognosis, the nature of medication to be prescribed
+and potential associated risks, the expected result, and the feasible alternatives, including
+comfort care, hospice care, and pain control.
+I request that my attending physician prescribe medication that will end my life in a humane and
+dignified manner.
+INITIAL ONE:
+_____ I have informed my family of my decision and taken their opinions into consideration.
+_____ I have decided not to inform my family of my decision.
+_____ I have no family to inform of my decision.
+I understand that I have the right to rescind this request at any time.
+I understand the full import of this request, and I expect to die when I take the medication to be
+prescribed. I further understand that although most deaths occur within three (3) hours, my
+death may take longer and my physician has counseled me about this possibility.
+I make this request voluntarily and without reservation, and I accept full moral responsibility for
+my actions.
+Signed: ___________
+Dated: ___________
+DECLARATION OF WITNESSES
+- 16 - 000775
+
+We declare that the person signing this request:
+(a) Is personally known to us or has provided proof of identity;
+(b) Signed this request in our presence;
+(c) Appears to be of sound mind and not under duress, fraud, or undue influence; and
+(d) Is not a patient for whom either of us is the attending physician.
+__________ Witness 1/Date
+__________ Witness 2/Date
+NOTE: One (1) witness must not be a relative (by blood, marriage, or adoption) of the person
+signing this request, is not entitled to any portion of the person's estate upon death, and must
+not own, operate, or be employed at a healthcare facility where the person is a patient or
+resident. If the patient is a patient in a long-term care facility at the time the written request is
+made, then one (1) of the witnesses must be an individual designated by the facility.
+68-11-2421. Penalties.
+(a) It is a Class A felony for a person without authorization of the principal to
+willfully alter, forge, conceal, or destroy an instrument, the reinstatement or revocation of
+an instrument, or any other evidence or document reflecting the principal's desires and
+interests, with the intent and effect of causing a withholding or withdrawal of life-
+sustaining procedures or of artificially administered nutrition and hydration which hastens
+the death of the principal.
+(b) Except as provided in subsection (a), it is a Class A misdemeanor for a
+person without authorization of the principal to willfully alter, forge, conceal, or destroy
+an instrument, the reinstatement or revocation of an instrument, or any other evidence or
+- 17 - 000775
+
+document reflecting the principal's desires and interests with the intent or effect of
+affecting a healthcare decision.
+SECTION 2. Tennessee Code Annotated, Section 39-13-216(b), is amended by adding
+the following language as a new subdivision:
+(4) Provide medication to a qualified patient for the purpose of ending the
+patient's life in a humane and dignified manner pursuant to title 68, chapter 11, part 24.
+SECTION 3. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity shall not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 4. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 5. For purposes of rulemaking, this act takes effect upon becoming a law, the
+public welfare requiring it. For all other purposes, this act takes effect July 1, 2025, the public
+welfare requiring it.
+- 18 - 000775
+
+[DELETED: S6((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0((((6((6(]
+[DELETED:  -0((((((6(((((]
+[DELETED:  -0((((((( (]
+[DELETED:  -0 (66]
+[DELETED:  -0666((((]
+[DELETED:  -0(66((6((]
+[DELETED:  -0(((((6((((]
+[DELETED:  -0(6(((66T6]
+[DELETED:  -0((((((]
+[DELETED:  -0((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0    ((6(]
+[DELETED:  -0(((66]
+[DELETED:  -0]
+[DELETED:  -0((((6((]
+[DELETED:  -0S(SS]

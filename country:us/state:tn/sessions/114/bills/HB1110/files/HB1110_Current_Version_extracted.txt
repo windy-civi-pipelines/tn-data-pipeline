@@ -1,0 +1,49 @@
+Title: SENATE BILL 1228
+Official Title: SENATE BILL 1228
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Oliver
+HOUSE BILL 1110
+By Salinas
+AN ACT to amend Tennessee Code Annotated, Title 2,
+relative to elections.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 2-6-103(c), is amended by deleting
+the language "not less than twenty-five (25) days prior to the day of election" and substituting
+instead "not less than thirty (30) days prior to the day of election".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1110
+003268
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1228
+By Oliver
+HOUSE BILL 1110
+By Salinas
+AN ACT to amend Tennessee Code Annotated, Title 2,
+relative to elections.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 2-6-103(c), is amended by deleting
+the language "not less than twenty-five (25) days prior to the day of election" and substituting
+instead "not less than thirty (30) days prior to the day of election".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1110
+003268
+- 1 -
+
+[DELETED: SS]

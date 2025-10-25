@@ -1,0 +1,112 @@
+Title: AMEND S e n ate Bill No. 940 House Bill No. 995*
+Official Title: AMEND S e n ate Bill No. 940 House Bill No. 995*
+Number of Sections: 6
+Source: versions - Amendment SA0142
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Senate Judiciary 1
+Amendment No. 1 to SB0940
+Gardenhire
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 63-1-156(a)(3), is amended by
+deleting the subdivision and substituting:
+(3) "Drug or alcohol violation" means a violation of:
+(A) Section 39-17-418;
+(B) Section 39-17-425;
+(C) Section 1-3-113;
+(D) Section 39-15-404;
+(E) Section 39-17-310;
+(F) Section 57-3-412(a)(3);
+(G) Section 57-3-412(a)(4);
+(H) Section 57-3-412(a)(5);
+(I) Section 57-3-412(c);
+(J) Section 57-4-203(b)(2);
+(K) Section 57-5-301(d);
+(L) Section 57-5-301(e); or
+(M) Section 57-5-303(a);
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 63-1-156, is amended by deleting
+"Drug overdose" in subdivision (a)(2) and substituting "Overdose"; by deleting "a drug overdose"
+wherever it appears in subdivisions (a)(5)(C) and (c)(1) and in subsection (b) and substituting
+SA0142
+004233
+- 1 -
+"an overdose"; by deleting "such drug overdose" in subsection (b) and substituting "such
+overdose"; and by deleting "drug overdoses" in subsection (b) and substituting "overdoses".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 63-1-156, is amended by deleting
+"drug violation" wherever it appears in subsection (b) and substituting "drug or alcohol violation".
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 63-1-156, is amended by adding the
+following as a new subsection:
+(d) Subsection (b) does not apply to violations listed in subdivisions (a)(3)(C)-(M)
+committed by a person licensed pursuant to title 57 while working in the scope of the
+person's employment or to an employee of a person licensed pursuant to title 57 while
+the employee is acting on behalf of such person.
+
+Section 6:
+SECTION 5. This act takes effect July 1, 2025, at 12:01 a.m., the public welfare
+requiring it.
+- 2 - 004233
+[DELETED:  a HS((((((((((((((S]
+[DELETED:  -0SS(S]
+
+
+================================================================================
+
+Raw Text:
+Senate Judiciary 1
+Amendment No. 1 to SB0940
+Gardenhire
+Signature of Sponsor
+AMEND S e n ate Bill No. 940 House Bill No. 995*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 63-1-156(a)(3), is amended by
+deleting the subdivision and substituting:
+(3) "Drug or alcohol violation" means a violation of:
+(A) Section 39-17-418;
+(B) Section 39-17-425;
+(C) Section 1-3-113;
+(D) Section 39-15-404;
+(E) Section 39-17-310;
+(F) Section 57-3-412(a)(3);
+(G) Section 57-3-412(a)(4);
+(H) Section 57-3-412(a)(5);
+(I) Section 57-3-412(c);
+(J) Section 57-4-203(b)(2);
+(K) Section 57-5-301(d);
+(L) Section 57-5-301(e); or
+(M) Section 57-5-303(a);
+SECTION 2. Tennessee Code Annotated, Section 63-1-156, is amended by deleting
+"Drug overdose" in subdivision (a)(2) and substituting "Overdose"; by deleting "a drug overdose"
+wherever it appears in subdivisions (a)(5)(C) and (c)(1) and in subsection (b) and substituting
+SA0142
+004233
+- 1 -
+
+"an overdose"; by deleting "such drug overdose" in subsection (b) and substituting "such
+overdose"; and by deleting "drug overdoses" in subsection (b) and substituting "overdoses".
+SECTION 3. Tennessee Code Annotated, Section 63-1-156, is amended by deleting
+"drug violation" wherever it appears in subsection (b) and substituting "drug or alcohol violation".
+SECTION 4. Tennessee Code Annotated, Section 63-1-156, is amended by adding the
+following as a new subsection:
+(d) Subsection (b) does not apply to violations listed in subdivisions (a)(3)(C)-(M)
+committed by a person licensed pursuant to title 57 while working in the scope of the
+person's employment or to an employee of a person licensed pursuant to title 57 while
+the employee is acting on behalf of such person.
+SECTION 5. This act takes effect July 1, 2025, at 12:01 a.m., the public welfare
+requiring it.
+- 2 - 004233
+
+[DELETED:  a HS((((((((((((((S]
+[DELETED:  -0SS(S]

@@ -1,0 +1,86 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 307
+By Warner
+A RESOLUTION to recognize Jackson Mark Smith on becoming
+an Eagle Scout.
+WHEREAS, at a time when this nation's youth face difficult challenges, the Boy Scouts
+of America is one of our finest assets, providing young men and women with an educational
+program that contributes significantly to their character development, citizenship training, and
+improved mental and physical fitness; and
+WHEREAS, the highest rank a Scout can attain in the Boy Scouts of America Scouts
+BSA program is that of Eagle Scout, and Jackson Mark Smith, after considerable effort and
+diligent preparation, will join the prestigious Eagle Court of Honor on April 12, 2025; and
+WHEREAS, his notable record of achievement as a member of Boy Scout Troop 273
+includes over fifty merit badges and distinguished volunteer service; and
+WHEREAS, Jackson Smith's Eagle project greatly contributed to the betterment of his
+community, reflected the true spirit of volunteerism, and proved to be a formidable, yet
+attainable, challenge; and
+WHEREAS, for his project, he renovated the press box and replaced the sound system
+and speakers at his high school's football field; and
+WHEREAS, it is appropriate that we should pause to recognize Jackson Mark Smith as
+one of the most outstanding young people in our State; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby honor and congratulate Jackson Mark Smith on becoming an
+Eagle Scout and extend to him our best wishes for every future success.
+HJR0307
+004238
+- 1 -
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 004238
+[DELETED: WWWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 307
+By Warner
+A RESOLUTION to recognize Jackson Mark Smith on becoming
+an Eagle Scout.
+WHEREAS, at a time when this nation's youth face difficult challenges, the Boy Scouts
+of America is one of our finest assets, providing young men and women with an educational
+program that contributes significantly to their character development, citizenship training, and
+improved mental and physical fitness; and
+WHEREAS, the highest rank a Scout can attain in the Boy Scouts of America Scouts
+BSA program is that of Eagle Scout, and Jackson Mark Smith, after considerable effort and
+diligent preparation, will join the prestigious Eagle Court of Honor on April 12, 2025; and
+WHEREAS, his notable record of achievement as a member of Boy Scout Troop 273
+includes over fifty merit badges and distinguished volunteer service; and
+WHEREAS, Jackson Smith's Eagle project greatly contributed to the betterment of his
+community, reflected the true spirit of volunteerism, and proved to be a formidable, yet
+attainable, challenge; and
+WHEREAS, for his project, he renovated the press box and replaced the sound system
+and speakers at his high school's football field; and
+WHEREAS, it is appropriate that we should pause to recognize Jackson Mark Smith as
+one of the most outstanding young people in our State; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby honor and congratulate Jackson Mark Smith on becoming an
+Eagle Scout and extend to him our best wishes for every future success.
+HJR0307
+004238
+- 1 -
+
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 004238
+
+[DELETED: WWWWWWB]
+[DELETED:  -0B]

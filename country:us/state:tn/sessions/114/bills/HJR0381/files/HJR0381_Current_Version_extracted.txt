@@ -1,0 +1,155 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 381
+By McCalmon
+A RESOLUTION to commemorate Vietnam Veterans Day.
+WHEREAS, on January 12, 1962, United States Army pilots lifted more than 1,000
+South Vietnamese service members over jungle and underbrush to capture a National
+Liberation Front stronghold near Saigon. Operation Chopper marked America's first combat
+mission against the Viet Cong and the beginning of one of our longest and most challenging
+wars; and
+WHEREAS, through more than a decade of conflict that tested the fabric of our nation,
+the service of our men and women in uniform stood true. More than sixty years after that fateful
+mission, we honor the Americans who served, pay tribute to those we have laid to rest, and
+reaffirm our dedication to showing a generation of veterans the respect and support of a grateful
+nation; and
+WHEREAS, the Vietnam War is a story of service members of different backgrounds,
+colors, and creeds who came together to complete a daunting mission; it is a story of patriots
+who braved the line of fire, who cast themselves into harm's way to save a friend, and who
+fought hour after hour, day after day, to preserve the liberties we hold dear while upholding the
+highest traditions of our Armed Forces; and
+WHEREAS, in 2008, Tennessee became the first state in the nation to pass legislation
+observing Vietnam Veterans Day; every year on March 29, we honor and recognize those who
+served during the Vietnam War; and
+WHEREAS, 9,087,000 personnel served from August 5, 1964, to May 7, 1975, and
+2,709,918 served on the ground in Vietnam; two-thirds of those who served were volunteers
+HJR0381
+005112
+- 1 -
+and not drafted, and 11,000 women served in Vietnam in various roles, including nursing, the
+Red Cross, and other military roles; and
+WHEREAS, more than 2.5 million personnel served in the Republic of South Vietnam,
+including 1,736,000 in the Army, 391,000 in the Marines, 174,000 in the Navy and Coast Guard,
+and 293,000 in the Air Force; and
+WHEREAS, as of 2020, there were approximately 6.3 million veterans of the United
+States military still alive who served during the period of the Vietnam War; of these veterans,
+155,261 were from Tennessee; and
+WHEREAS, 240 servicemembers have been awarded the Medal of Honor for their
+service in Vietnam; among those honored recipients from Tennessee are James Gardner of
+Dyersburg, Don Jenkins of Nashville, David Robert Ray of McMinnville, and Walter K. Singleton
+of Memphis; and
+WHEREAS, eleven years of combat left their imprint on a generation; some 150,000
+returned home bearing shrapnel and scars; 271,000 were burdened by the invisible wounds of
+post-traumatic stress, with 30 percent of all servicemembers experiencing some form of post-
+traumatic stress disorder in their lifetimes; 2.6 million were exposed to Agent Orange; and
+58,479 laid down their lives in service to our nation. Now and forever, their names are etched
+into two faces of black granite, a lasting memorial to those who bore conflict's greatest cost; and
+WHEREAS, the United States lists 2,500 Americans as prisoners of war or missing in
+action in Vietnam; of the 684 prisoners of war who returned home from Vietnam, the longest-
+held enlisted servicemember was Bill Robinson from East Tennessee; and
+WHEREAS, 1,200 Americans are reported to have been killed-in-action with no body
+recovered, and approximately 1,584 Americans are still missing; Tennessee has recovered
+twenty-one servicemembers to date, while twenty-six Tennesseans are still recorded as
+missing-in-action; and
+- 2 - 005112
+WHEREAS, over half a century after the last of our troops left Vietnam on March 29,
+1973, we pay tribute to the fallen, the missing, the wounded, the millions who served, and the
+millions more who awaited their return. Our nation stands stronger for their service, and on
+Vietnam Veterans Day, we honor their proud legacy with our deepest gratitude; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby commemorate Vietnam Veterans Day in Tennessee on March
+29, 2025.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 005112
+[DELETED: W]
+[DELETED:  -0W]
+[DELETED:  -0BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 381
+By McCalmon
+A RESOLUTION to commemorate Vietnam Veterans Day.
+WHEREAS, on January 12, 1962, United States Army pilots lifted more than 1,000
+South Vietnamese service members over jungle and underbrush to capture a National
+Liberation Front stronghold near Saigon. Operation Chopper marked America's first combat
+mission against the Viet Cong and the beginning of one of our longest and most challenging
+wars; and
+WHEREAS, through more than a decade of conflict that tested the fabric of our nation,
+the service of our men and women in uniform stood true. More than sixty years after that fateful
+mission, we honor the Americans who served, pay tribute to those we have laid to rest, and
+reaffirm our dedication to showing a generation of veterans the respect and support of a grateful
+nation; and
+WHEREAS, the Vietnam War is a story of service members of different backgrounds,
+colors, and creeds who came together to complete a daunting mission; it is a story of patriots
+who braved the line of fire, who cast themselves into harm's way to save a friend, and who
+fought hour after hour, day after day, to preserve the liberties we hold dear while upholding the
+highest traditions of our Armed Forces; and
+WHEREAS, in 2008, Tennessee became the first state in the nation to pass legislation
+observing Vietnam Veterans Day; every year on March 29, we honor and recognize those who
+served during the Vietnam War; and
+WHEREAS, 9,087,000 personnel served from August 5, 1964, to May 7, 1975, and
+2,709,918 served on the ground in Vietnam; two-thirds of those who served were volunteers
+HJR0381
+005112
+- 1 -
+
+and not drafted, and 11,000 women served in Vietnam in various roles, including nursing, the
+Red Cross, and other military roles; and
+WHEREAS, more than 2.5 million personnel served in the Republic of South Vietnam,
+including 1,736,000 in the Army, 391,000 in the Marines, 174,000 in the Navy and Coast Guard,
+and 293,000 in the Air Force; and
+WHEREAS, as of 2020, there were approximately 6.3 million veterans of the United
+States military still alive who served during the period of the Vietnam War; of these veterans,
+155,261 were from Tennessee; and
+WHEREAS, 240 servicemembers have been awarded the Medal of Honor for their
+service in Vietnam; among those honored recipients from Tennessee are James Gardner of
+Dyersburg, Don Jenkins of Nashville, David Robert Ray of McMinnville, and Walter K. Singleton
+of Memphis; and
+WHEREAS, eleven years of combat left their imprint on a generation; some 150,000
+returned home bearing shrapnel and scars; 271,000 were burdened by the invisible wounds of
+post-traumatic stress, with 30 percent of all servicemembers experiencing some form of post-
+traumatic stress disorder in their lifetimes; 2.6 million were exposed to Agent Orange; and
+58,479 laid down their lives in service to our nation. Now and forever, their names are etched
+into two faces of black granite, a lasting memorial to those who bore conflict's greatest cost; and
+WHEREAS, the United States lists 2,500 Americans as prisoners of war or missing in
+action in Vietnam; of the 684 prisoners of war who returned home from Vietnam, the longest-
+held enlisted servicemember was Bill Robinson from East Tennessee; and
+WHEREAS, 1,200 Americans are reported to have been killed-in-action with no body
+recovered, and approximately 1,584 Americans are still missing; Tennessee has recovered
+twenty-one servicemembers to date, while twenty-six Tennesseans are still recorded as
+missing-in-action; and
+- 2 - 005112
+
+WHEREAS, over half a century after the last of our troops left Vietnam on March 29,
+1973, we pay tribute to the fallen, the missing, the wounded, the millions who served, and the
+millions more who awaited their return. Our nation stands stronger for their service, and on
+Vietnam Veterans Day, we honor their proud legacy with our deepest gratitude; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby commemorate Vietnam Veterans Day in Tennessee on March
+29, 2025.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 005112
+
+[DELETED: W]
+[DELETED:  -0W]
+[DELETED:  -0BB]

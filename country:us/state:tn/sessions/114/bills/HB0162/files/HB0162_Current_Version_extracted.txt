@@ -1,0 +1,51 @@
+Title: SENATE BILL 198
+Official Title: SENATE BILL 198
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Haile
+HOUSE BILL 162
+By Gant
+AN ACT to amend Tennessee Code Annotated, Title 67,
+relative to taxes.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-1-202(a)(7), is amended by
+adding the following language after "deem appropriate":
+. The annual report may be sent in electronic format to the state board of
+equalization.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0162
+001696
+- 1 -
+[DELETED: S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 198
+By Haile
+HOUSE BILL 162
+By Gant
+AN ACT to amend Tennessee Code Annotated, Title 67,
+relative to taxes.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-1-202(a)(7), is amended by
+adding the following language after "deem appropriate":
+. The annual report may be sent in electronic format to the state board of
+equalization.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0162
+001696
+- 1 -
+
+[DELETED: S]

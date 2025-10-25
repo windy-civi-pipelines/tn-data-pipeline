@@ -1,0 +1,401 @@
+Title: SENATE BILL 499
+Official Title: SENATE BILL 499
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+By Kyle
+HOUSE BILL 432
+By Jones J
+AN ACT to amend Tennessee Code Annotated, Title 43
+and Title 47, Chapter 18, relative to agricultural
+equipment.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, is amended by adding
+the following as a new part:
+47-18-5801. Short title.
+This part is known and may be cited as the "Agricultural Right to Repair Act."
+47-18-5802. Part definitions.
+As used in this part:
+(1) "Agricultural equipment" or "equipment":
+(A) Means products used in agricultural, horticultural, viticultural,
+dairy products, livestock and the products thereof, the products of poultry
+and bee raising, products of forestry, products used in property
+maintenance, and any and all products raised or produced on farms and
+processed or manufactured products thereof, transported or intended to
+be transported in interstate or foreign commerce; and
+(B) Does not include:
+(i) A motor vehicle that is designed to transport individuals
+or property on a street or highway and is certified by a motor
+vehicle manufacturer under all requirements for the distribution
+and sale of motor vehicles in the United States; or
+HB0432
+002140
+- 1 -
+(ii) Industrial, construction, compact construction, mining,
+or road-building equipment;
+(2) "Authorized repair provider":
+(A) Means an individual or business who has an arrangement
+with the original equipment manufacturer (OEM) under which the OEM
+grants to the individual or business a license to use a trade name, service
+mark, or other proprietary identifiers for the purposes of offering the
+services of diagnosis, maintenance, or repair of agricultural equipment
+under the name of the OEM, or other arrangement with the OEM to offer
+such services on behalf of, or under contract to, the OEM; and
+(B) Includes an OEM who offers the services of diagnosis,
+maintenance, or repair of its own agricultural equipment with respect to
+such equipment;
+(3) "Documentation" means any manual, maintenance procedures,
+functional and wiring diagrams, reporting output, service code description, board
+view file or complete printed circuit board layout, printed circuit board schematic,
+security code, password, training material, troubleshooting information, full list of
+required tools, full parts list, and other guidance or information used in effecting
+the services of diagnosis, maintenance, or repair of agricultural equipment;
+(4) "Fair and reasonable terms" means:
+(A) With respect to parts made available by the OEM, either
+directly or through an authorized repair provider, in a manner that:
+(i) Is not conditioned on or imposing a substantial
+obligation or restriction that is not reasonably necessary for
+enabling the owner or independent repair provider to engage in
+- 2 - 002140
+the diagnosis, maintenance, or repair of agricultural equipment
+made by or on behalf of the OEM;
+(ii) Does not require a minimum or maximum quantity of
+parts that owners and independent repair providers can purchase;
+and
+(iii) Does not condition access to parts on any additional
+contract other than a purchase order;
+(B) With respect to documentation made available by the OEM,
+without requiring any contract agreement or account creation and at no
+charge; provided, that when the documentation is requested in physical
+printed form, a charge may be included for the reasonable actual costs of
+preparing and sending the copy; and
+(C) With respect to tools made available by the OEM:
+(i) At no charge; provided, that when a tool is requested in
+physical form, a charge may be included for the reasonable,
+actual costs of preparing and sending the tool;
+(ii) Without requiring authorization or internet access for
+the use or operation of the tools, or imposing impediments to
+access or use of the tools to diagnose, maintain, or repair and
+enable full functionality of agricultural equipment; and
+(iii) In a manner that does not impair the efficient and cost-
+effective performance of any such diagnosis, maintenance, or
+repair;
+(5) "Independent repair provider" means an individual or business
+operating in this state who is not an authorized repair provider with an OEM, and
+- 3 - 002140
+who is engaged in the services of diagnosis, maintenance, or repair of
+agricultural equipment;
+(6) "Original equipment manufacturer", "manufacturer", or "OEM" means
+a business engaged in the business of selling, leasing, or otherwise supplying
+new agricultural equipment manufactured by or on behalf of the manufacturer to
+any individual or business;
+(7) "Owner" means an individual or business who owns or leases
+agricultural equipment purchased or used in this state;
+(8) "Part" means any replacement part, either new or used, made
+available or used by an OEM or its authorized repair providers for purposes of
+effecting the services of maintenance or repair of agricultural equipment
+manufactured by or on behalf of, or sold or otherwise supplied by the OEM;
+(9) "Parts pairing" means the practice by manufacturers of using software
+to identify component parts through a unique identifier;
+(10) "Tool" means any software program, hardware implement, or other
+apparatus used for diagnosis, maintenance, or repair of agricultural equipment,
+including software or other mechanisms that provide, program, or pair a new
+part, calibrate functionality, or perform any other function required to bring the
+product back to fully functional condition, including any updates;
+(11) "Trade secret" has the same meaning as defined under 18 U.S.C. §
+1839; and
+(12) "Updates" means recommended corrections or adjustments to parts,
+tools, or information that are created and distributed by the OEM and used in
+offering the services of diagnosis, maintenance, or repair of agricultural
+equipment.
+- 4 - 002140
+47-18-5803. Requirements for original equipment manufacturers.
+(a) For agricultural equipment and parts for such equipment that are sold or
+used in this state, an original equipment manufacturer shall make available to any
+independent repair provider or owner of agricultural equipment manufactured by or on
+behalf of, or sold by such OEM, on fair and reasonable terms, any documentation, parts,
+and tools required for the diagnosis, maintenance, or repair of such agricultural
+equipment and parts for such equipment, inclusive of any updates. The documentation,
+parts, and tools must be made available either directly by such OEM or via an authorized
+repair provider or distributor.
+(b) An OEM shall not use parts pairing or any other mechanism to:
+(1) Prevent the installation or functioning of any otherwise functional part,
+including a nonmanufacturer approved replacement part or component;
+(2) Inhibit or reduce the functioning of any part or board-level component,
+such that replacement by an independent repair provider or the equipment owner
+would cause the equipment to operate with reduced functionality or performance;
+(3) Create false, misleading, deceptive, or nondismissable alerts or
+warnings about parts;
+(4) Charge additional fees or increased prices for future repairs; or
+(5) Limit who can purchase documentation, parts, and tools, or perform
+repair services.
+(c) For equipment that requires deactivating an electronic lock for purposes of
+repair, the OEM shall make available to any owner, or independent repair provider, with
+the express permission of the owner, on fair and reasonable terms, any special
+documentation, tools, and parts needed to access and reset the lock or function when
+disabled in the course of diagnosis, maintenance, or repair of such equipment. The
+- 5 - 002140
+documentation, tools, and parts may be made available through an appropriate secure
+release system.
+47-18-5804. Violations and enforcement.
+A violation of § 47-18-5803 constitutes a violation of the Tennessee Consumer
+Protection Act of 1977, compiled in part 1 of this chapter. A violation of § 47-18-5803
+constitutes an unfair or deceptive act or practice affecting trade or commerce and is
+subject to the penalties and remedies as provided in part 1 of this chapter.
+47-18-5805. Limitations.
+(a) This part does not:
+(1) Require an original equipment manufacturer to divulge any trade
+secret to an owner or independent service provider, except as necessary to
+perform diagnosis, maintenance, or repair on fair and reasonable terms;
+(2) Alter the terms of any arrangement in effect between an authorized
+repair provider and an OEM, including the performance or provision of warranty
+or recall repair work by an authorized repair provider on behalf of an OEM and
+pursuant to such arrangement; provided, that any provision in such terms that
+purports to waive, avoid, restrict, or limit the OEM's obligations to comply with
+this part is void and unenforceable;
+(3) Require an OEM to make available special documentation, tools, or
+parts that would disable or override antitheft security measures set by the owner
+of the product without the owner's authorization;
+(4) Require an OEM to sell a part if the part is no longer available to the
+manufacturer;
+(5) Require an OEM to sell any service materials that would be illegal to
+use under federal or state law; or
+- 6 - 002140
+(6) Prevent a parts dealer from marking up goods over the wholesale
+price.
+(b) An OEM or authorized repair provider is not liable for any damage or injury to
+any agricultural equipment caused by an independent repair provider or owner that
+occurs during the course of repair, diagnosis, or maintenance and is not attributable to
+the OEM or authorized repair provider other than if the failure is attributable to design or
+manufacturing defects.
+47-18-5806. Applicability.
+This part applies to equipment first manufactured and sold on or after July 1,
+
+Section 3:
+2015.
+
+Section 4:
+SECTION 2. Tennessee Code Annotated, Section 47-18-104(b), is amended by adding
+the following as a new subdivision:
+( ) Violating § 47-18-5803;
+
+Section 5:
+SECTION 3. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 6:
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 7 - 002140
+[DELETED: S4TA]
+[DELETED:  -0(]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -04A4]
+[DELETED:  -0SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 499
+By Kyle
+HOUSE BILL 432
+By Jones J
+AN ACT to amend Tennessee Code Annotated, Title 43
+and Title 47, Chapter 18, relative to agricultural
+equipment.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, is amended by adding
+the following as a new part:
+47-18-5801. Short title.
+This part is known and may be cited as the "Agricultural Right to Repair Act."
+47-18-5802. Part definitions.
+As used in this part:
+(1) "Agricultural equipment" or "equipment":
+(A) Means products used in agricultural, horticultural, viticultural,
+dairy products, livestock and the products thereof, the products of poultry
+and bee raising, products of forestry, products used in property
+maintenance, and any and all products raised or produced on farms and
+processed or manufactured products thereof, transported or intended to
+be transported in interstate or foreign commerce; and
+(B) Does not include:
+(i) A motor vehicle that is designed to transport individuals
+or property on a street or highway and is certified by a motor
+vehicle manufacturer under all requirements for the distribution
+and sale of motor vehicles in the United States; or
+HB0432
+002140
+- 1 -
+
+(ii) Industrial, construction, compact construction, mining,
+or road-building equipment;
+(2) "Authorized repair provider":
+(A) Means an individual or business who has an arrangement
+with the original equipment manufacturer (OEM) under which the OEM
+grants to the individual or business a license to use a trade name, service
+mark, or other proprietary identifiers for the purposes of offering the
+services of diagnosis, maintenance, or repair of agricultural equipment
+under the name of the OEM, or other arrangement with the OEM to offer
+such services on behalf of, or under contract to, the OEM; and
+(B) Includes an OEM who offers the services of diagnosis,
+maintenance, or repair of its own agricultural equipment with respect to
+such equipment;
+(3) "Documentation" means any manual, maintenance procedures,
+functional and wiring diagrams, reporting output, service code description, board
+view file or complete printed circuit board layout, printed circuit board schematic,
+security code, password, training material, troubleshooting information, full list of
+required tools, full parts list, and other guidance or information used in effecting
+the services of diagnosis, maintenance, or repair of agricultural equipment;
+(4) "Fair and reasonable terms" means:
+(A) With respect to parts made available by the OEM, either
+directly or through an authorized repair provider, in a manner that:
+(i) Is not conditioned on or imposing a substantial
+obligation or restriction that is not reasonably necessary for
+enabling the owner or independent repair provider to engage in
+- 2 - 002140
+
+the diagnosis, maintenance, or repair of agricultural equipment
+made by or on behalf of the OEM;
+(ii) Does not require a minimum or maximum quantity of
+parts that owners and independent repair providers can purchase;
+and
+(iii) Does not condition access to parts on any additional
+contract other than a purchase order;
+(B) With respect to documentation made available by the OEM,
+without requiring any contract agreement or account creation and at no
+charge; provided, that when the documentation is requested in physical
+printed form, a charge may be included for the reasonable actual costs of
+preparing and sending the copy; and
+(C) With respect to tools made available by the OEM:
+(i) At no charge; provided, that when a tool is requested in
+physical form, a charge may be included for the reasonable,
+actual costs of preparing and sending the tool;
+(ii) Without requiring authorization or internet access for
+the use or operation of the tools, or imposing impediments to
+access or use of the tools to diagnose, maintain, or repair and
+enable full functionality of agricultural equipment; and
+(iii) In a manner that does not impair the efficient and cost-
+effective performance of any such diagnosis, maintenance, or
+repair;
+(5) "Independent repair provider" means an individual or business
+operating in this state who is not an authorized repair provider with an OEM, and
+- 3 - 002140
+
+who is engaged in the services of diagnosis, maintenance, or repair of
+agricultural equipment;
+(6) "Original equipment manufacturer", "manufacturer", or "OEM" means
+a business engaged in the business of selling, leasing, or otherwise supplying
+new agricultural equipment manufactured by or on behalf of the manufacturer to
+any individual or business;
+(7) "Owner" means an individual or business who owns or leases
+agricultural equipment purchased or used in this state;
+(8) "Part" means any replacement part, either new or used, made
+available or used by an OEM or its authorized repair providers for purposes of
+effecting the services of maintenance or repair of agricultural equipment
+manufactured by or on behalf of, or sold or otherwise supplied by the OEM;
+(9) "Parts pairing" means the practice by manufacturers of using software
+to identify component parts through a unique identifier;
+(10) "Tool" means any software program, hardware implement, or other
+apparatus used for diagnosis, maintenance, or repair of agricultural equipment,
+including software or other mechanisms that provide, program, or pair a new
+part, calibrate functionality, or perform any other function required to bring the
+product back to fully functional condition, including any updates;
+(11) "Trade secret" has the same meaning as defined under 18 U.S.C. §
+1839; and
+(12) "Updates" means recommended corrections or adjustments to parts,
+tools, or information that are created and distributed by the OEM and used in
+offering the services of diagnosis, maintenance, or repair of agricultural
+equipment.
+- 4 - 002140
+
+47-18-5803. Requirements for original equipment manufacturers.
+(a) For agricultural equipment and parts for such equipment that are sold or
+used in this state, an original equipment manufacturer shall make available to any
+independent repair provider or owner of agricultural equipment manufactured by or on
+behalf of, or sold by such OEM, on fair and reasonable terms, any documentation, parts,
+and tools required for the diagnosis, maintenance, or repair of such agricultural
+equipment and parts for such equipment, inclusive of any updates. The documentation,
+parts, and tools must be made available either directly by such OEM or via an authorized
+repair provider or distributor.
+(b) An OEM shall not use parts pairing or any other mechanism to:
+(1) Prevent the installation or functioning of any otherwise functional part,
+including a nonmanufacturer approved replacement part or component;
+(2) Inhibit or reduce the functioning of any part or board-level component,
+such that replacement by an independent repair provider or the equipment owner
+would cause the equipment to operate with reduced functionality or performance;
+(3) Create false, misleading, deceptive, or nondismissable alerts or
+warnings about parts;
+(4) Charge additional fees or increased prices for future repairs; or
+(5) Limit who can purchase documentation, parts, and tools, or perform
+repair services.
+(c) For equipment that requires deactivating an electronic lock for purposes of
+repair, the OEM shall make available to any owner, or independent repair provider, with
+the express permission of the owner, on fair and reasonable terms, any special
+documentation, tools, and parts needed to access and reset the lock or function when
+disabled in the course of diagnosis, maintenance, or repair of such equipment. The
+- 5 - 002140
+
+documentation, tools, and parts may be made available through an appropriate secure
+release system.
+47-18-5804. Violations and enforcement.
+A violation of § 47-18-5803 constitutes a violation of the Tennessee Consumer
+Protection Act of 1977, compiled in part 1 of this chapter. A violation of § 47-18-5803
+constitutes an unfair or deceptive act or practice affecting trade or commerce and is
+subject to the penalties and remedies as provided in part 1 of this chapter.
+47-18-5805. Limitations.
+(a) This part does not:
+(1) Require an original equipment manufacturer to divulge any trade
+secret to an owner or independent service provider, except as necessary to
+perform diagnosis, maintenance, or repair on fair and reasonable terms;
+(2) Alter the terms of any arrangement in effect between an authorized
+repair provider and an OEM, including the performance or provision of warranty
+or recall repair work by an authorized repair provider on behalf of an OEM and
+pursuant to such arrangement; provided, that any provision in such terms that
+purports to waive, avoid, restrict, or limit the OEM's obligations to comply with
+this part is void and unenforceable;
+(3) Require an OEM to make available special documentation, tools, or
+parts that would disable or override antitheft security measures set by the owner
+of the product without the owner's authorization;
+(4) Require an OEM to sell a part if the part is no longer available to the
+manufacturer;
+(5) Require an OEM to sell any service materials that would be illegal to
+use under federal or state law; or
+- 6 - 002140
+
+(6) Prevent a parts dealer from marking up goods over the wholesale
+price.
+(b) An OEM or authorized repair provider is not liable for any damage or injury to
+any agricultural equipment caused by an independent repair provider or owner that
+occurs during the course of repair, diagnosis, or maintenance and is not attributable to
+the OEM or authorized repair provider other than if the failure is attributable to design or
+manufacturing defects.
+47-18-5806. Applicability.
+This part applies to equipment first manufactured and sold on or after July 1,
+2015.
+SECTION 2. Tennessee Code Annotated, Section 47-18-104(b), is amended by adding
+the following as a new subdivision:
+( ) Violating § 47-18-5803;
+SECTION 3. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 7 - 002140
+
+[DELETED: S4TA]
+[DELETED:  -0(]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -04A4]
+[DELETED:  -0SS]

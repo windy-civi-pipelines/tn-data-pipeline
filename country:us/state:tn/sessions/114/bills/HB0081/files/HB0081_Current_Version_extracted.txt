@@ -1,0 +1,47 @@
+Title: SENATE BILL 124
+Official Title: SENATE BILL 124
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Powers
+HOUSE BILL 81
+By Hemmer
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to the transfer of student records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-6-3001(c)(1), is amended by
+adding "within three (3) days of the transfer date" after "to which the student transfers".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0081
+000520
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 124
+By Powers
+HOUSE BILL 81
+By Hemmer
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to the transfer of student records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-6-3001(c)(1), is amended by
+adding "within three (3) days of the transfer date" after "to which the student transfers".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0081
+000520
+- 1 -
+
+[DELETED: SS]

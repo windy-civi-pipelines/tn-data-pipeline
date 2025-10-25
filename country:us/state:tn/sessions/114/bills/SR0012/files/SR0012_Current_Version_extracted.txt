@@ -1,0 +1,82 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE RESOLUTION 12
+By Johnson
+A RESOLUTION to confirm the appointment of Deanne Dewitt of
+Sumner County to the Tennessee board of
+regents.
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides for the creation of
+the Tennessee board of regents; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, further provides that the
+governor shall appoint twelve members to the Tennessee board of regents; and
+WHEREAS, Governor Bill Lee has appointed Deanne Dewitt of Sumner County to the
+Tennessee board of regents as a member representing the 6th Congressional District to a term
+that will expire on June 30, 2030; and
+WHEREAS, a highly successful businesswoman, Ms. Dewitt is a business consulting
+professional and serves as the president of the Preservation Foundation of Sumner County; she
+holds a Bachelor of Science degree in Industrial and Systems Engineering from the University
+of Illinois; and
+WHEREAS, Deanne Dewitt is a person of integrity and an active citizen whose
+benevolence, acumen, and strong commitment to public service have helped to enhance the
+well-being of this State and its citizens; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that each member
+appointed by the governor to the Tennessee board of regents shall be confirmed by the senate;
+now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that this body does hereby confirm
+SR0012
+001524
+- 1 -
+the appointment of Deanne Dewitt to the Tennessee board of regents for a term that will expire
+on June 30, 2030.
+- 2 - 001524
+[DELETED: WWW6 WWWB]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE RESOLUTION 12
+By Johnson
+A RESOLUTION to confirm the appointment of Deanne Dewitt of
+Sumner County to the Tennessee board of
+regents.
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides for the creation of
+the Tennessee board of regents; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, further provides that the
+governor shall appoint twelve members to the Tennessee board of regents; and
+WHEREAS, Governor Bill Lee has appointed Deanne Dewitt of Sumner County to the
+Tennessee board of regents as a member representing the 6th Congressional District to a term
+that will expire on June 30, 2030; and
+WHEREAS, a highly successful businesswoman, Ms. Dewitt is a business consulting
+professional and serves as the president of the Preservation Foundation of Sumner County; she
+holds a Bachelor of Science degree in Industrial and Systems Engineering from the University
+of Illinois; and
+WHEREAS, Deanne Dewitt is a person of integrity and an active citizen whose
+benevolence, acumen, and strong commitment to public service have helped to enhance the
+well-being of this State and its citizens; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that each member
+appointed by the governor to the Tennessee board of regents shall be confirmed by the senate;
+now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that this body does hereby confirm
+SR0012
+001524
+- 1 -
+
+the appointment of Deanne Dewitt to the Tennessee board of regents for a term that will expire
+on June 30, 2030.
+- 2 - 001524
+
+[DELETED: WWW6 WWWB]
+[DELETED:  -0]

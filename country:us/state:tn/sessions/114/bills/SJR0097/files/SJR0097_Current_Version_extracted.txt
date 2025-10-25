@@ -1,0 +1,78 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 97
+By Johnson
+A RESOLUTION to confirm the appointment of Todd Skelton to
+the advisory board for the University of
+Tennessee, Knoxville.
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, established advisory boards
+for the University of Tennessee, Knoxville; University of Tennessee at Martin; University of
+Tennessee at Chattanooga; and University of Tennessee Health Science Center; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, provides that the governor
+shall appoint five members to each advisory board; and
+WHEREAS, Governor Bill Lee has appointed Todd Skelton to serve as a member of the
+advisory board for the University of Tennessee, Knoxville, for a term that expires on June 30,
+2025; and
+WHEREAS, Mr. Skelton is the general counsel of HF Capital, the family office for the
+Haslam family, where he is responsible for legal matters related to investments; he previously
+served as deputy counsel to Governor Bill Haslam, a member of the governor's senior staff, and
+primary drafter of the bill that created the University of Tennessee advisory board system; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, provides that each member
+appointed by the governor to the advisory board for the University of Tennessee, Knoxville, shall
+be confirmed by the General Assembly; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we hereby confirm the appointment of Todd Skelton
+SJR0097
+001544
+- 1 -
+to the advisory board for the University of Tennessee, Knoxville, for a term that expires on June
+30, 2025.
+- 2 - 001544
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 97
+By Johnson
+A RESOLUTION to confirm the appointment of Todd Skelton to
+the advisory board for the University of
+Tennessee, Knoxville.
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, established advisory boards
+for the University of Tennessee, Knoxville; University of Tennessee at Martin; University of
+Tennessee at Chattanooga; and University of Tennessee Health Science Center; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, provides that the governor
+shall appoint five members to each advisory board; and
+WHEREAS, Governor Bill Lee has appointed Todd Skelton to serve as a member of the
+advisory board for the University of Tennessee, Knoxville, for a term that expires on June 30,
+2025; and
+WHEREAS, Mr. Skelton is the general counsel of HF Capital, the family office for the
+Haslam family, where he is responsible for legal matters related to investments; he previously
+served as deputy counsel to Governor Bill Haslam, a member of the governor's senior staff, and
+primary drafter of the bill that created the University of Tennessee advisory board system; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, provides that each member
+appointed by the governor to the advisory board for the University of Tennessee, Knoxville, shall
+be confirmed by the General Assembly; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we hereby confirm the appointment of Todd Skelton
+SJR0097
+001544
+- 1 -
+
+to the advisory board for the University of Tennessee, Knoxville, for a term that expires on June
+30, 2025.
+- 2 - 001544
+
+[DELETED:  -0]

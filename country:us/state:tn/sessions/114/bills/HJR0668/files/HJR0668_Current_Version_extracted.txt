@@ -1,0 +1,100 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 668
+By Camper
+A RESOLUTION to commend Derryus Shaw for exemplary
+service as a legislative intern.
+WHEREAS, each legislative session, this General Assembly is pleased to recognize
+certain persons who have committed themselves, through their adroit service, to the betterment
+of the legislative process; and
+WHEREAS, Derryus Shaw is one such individual, who has distinguished himself in his
+role as a legislative intern for Representative Karen Camper; Mr. Shaw's work has resulted in
+innumerable benefits for the legislators he assisted and the General Assembly as a whole; and
+WHEREAS, a student at Austin Peay State University, where he is highly regarded by
+his peers, Derryus Shaw has achieved remarkable academic success while majoring in political
+science and minoring in history; and
+WHEREAS, Mr. Shaw is a member of Phi Alpha Theta national honor society for history,
+Chi Alpha Christian University Ministry, Govs Programming Council, and History Club, which he
+served as vice president; he has received both the O.S. Uffelman Exemplary History Student
+Award Endowment and the Fred Seip, Jr. Memorial Scholarship; and
+WHEREAS, eager to familiarize himself with the myriad aspects and complexities of
+Tennessee State government and to further his studies, Mr. Shaw brought his many abilities
+and singular expertise to Capitol Hill for the 2025 session of the One Hundred Fourteenth
+General Assembly; and
+WHEREAS, throughout the 2025 legislative session, Mr. Shaw has been punctual,
+professional, and a joy to have in the office; he is a bright-shining star and a great sign of hope
+for future generations; and
+HJR0668
+007707
+- 1 -
+WHEREAS, Derryus Shaw has performed his many duties with extraordinary insight and
+rare decorum; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby commend Derryus Shaw for outstanding service as a legislative
+intern for Representative Karen Camper and extend to him our best wishes for every future
+success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 007707
+[DELETED: WWWWWW]
+[DELETED:  -0WBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 668
+By Camper
+A RESOLUTION to commend Derryus Shaw for exemplary
+service as a legislative intern.
+WHEREAS, each legislative session, this General Assembly is pleased to recognize
+certain persons who have committed themselves, through their adroit service, to the betterment
+of the legislative process; and
+WHEREAS, Derryus Shaw is one such individual, who has distinguished himself in his
+role as a legislative intern for Representative Karen Camper; Mr. Shaw's work has resulted in
+innumerable benefits for the legislators he assisted and the General Assembly as a whole; and
+WHEREAS, a student at Austin Peay State University, where he is highly regarded by
+his peers, Derryus Shaw has achieved remarkable academic success while majoring in political
+science and minoring in history; and
+WHEREAS, Mr. Shaw is a member of Phi Alpha Theta national honor society for history,
+Chi Alpha Christian University Ministry, Govs Programming Council, and History Club, which he
+served as vice president; he has received both the O.S. Uffelman Exemplary History Student
+Award Endowment and the Fred Seip, Jr. Memorial Scholarship; and
+WHEREAS, eager to familiarize himself with the myriad aspects and complexities of
+Tennessee State government and to further his studies, Mr. Shaw brought his many abilities
+and singular expertise to Capitol Hill for the 2025 session of the One Hundred Fourteenth
+General Assembly; and
+WHEREAS, throughout the 2025 legislative session, Mr. Shaw has been punctual,
+professional, and a joy to have in the office; he is a bright-shining star and a great sign of hope
+for future generations; and
+HJR0668
+007707
+- 1 -
+
+WHEREAS, Derryus Shaw has performed his many duties with extraordinary insight and
+rare decorum; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby commend Derryus Shaw for outstanding service as a legislative
+intern for Representative Karen Camper and extend to him our best wishes for every future
+success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 007707
+
+[DELETED: WWWWWW]
+[DELETED:  -0WBB]

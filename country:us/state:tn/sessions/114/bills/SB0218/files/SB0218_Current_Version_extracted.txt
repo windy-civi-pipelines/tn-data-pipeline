@@ -1,0 +1,67 @@
+Title: HOUSE BILL 33
+Official Title: HOUSE BILL 33
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Gillespie
+SENATE BILL 218
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 40,
+relative to pretrial release for certain offenses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 40-11-115, is amended by adding
+the following new subsection:
+(f)
+(1) There is a presumption that a defendant should not be released on
+the defendant's personal recognizance if the defendant is charged with an
+offense that involved the use or display of a firearm or resulted in the serious
+bodily injury or death of the victim. As used in this subsection (f), the terms
+"firearm" and "serious bodily injury" mean the same as defined in § 39-11-106.
+(2) If a magistrate or other official authorized to admit a defendant to bail
+determines that the presumption established by subdivision (f)(1) has been
+rebutted, then the magistrate or such official must include in the bail order written
+findings for each factor listed in subsection (b).
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0218
+000528
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 33
+By Gillespie
+SENATE BILL 218
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 40,
+relative to pretrial release for certain offenses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-11-115, is amended by adding
+the following new subsection:
+(f)
+(1) There is a presumption that a defendant should not be released on
+the defendant's personal recognizance if the defendant is charged with an
+offense that involved the use or display of a firearm or resulted in the serious
+bodily injury or death of the victim. As used in this subsection (f), the terms
+"firearm" and "serious bodily injury" mean the same as defined in § 39-11-106.
+(2) If a magistrate or other official authorized to admit a defendant to bail
+determines that the presumption established by subdivision (f)(1) has been
+rebutted, then the magistrate or such official must include in the bail order written
+findings for each factor listed in subsection (b).
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0218
+000528
+- 1 -
+
+[DELETED: SS]

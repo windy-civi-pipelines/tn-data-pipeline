@@ -1,0 +1,152 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 13
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 1402
+By Hensley
+AN ACT to amend Tennessee Code Annotated, Title 4,
+relative to the James K. Polk Home.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 4-13-201, is amended by deleting the
+
+Section 3:
+section and substituting:
+The Tennessee historical commission, with approval from the state building
+commission, shall enter into good faith negotiations for the purchase and transfer of a
+tract of land in the second ward of the city of Columbia, located on the corner of West
+Seventh Street and South High Street, known as the James K. Polk Home, originally
+conveyed to this state by George L. Reynolds and Bessie F. Reynolds by deed dated
+January 8, 1929, recorded in the registrar's office of Maury County, Tennessee, book
+177, page 71, and subsequently conveyed in trust to the James K. Polk Memorial
+Association for its general welfare and maintenance, such trust now being terminated by
+the general assembly in accordance with § 4-13-204, as that section existed on June 30,
+
+Section 4:
+2025.
+
+Section 5:
+SECTION 2. Tennessee Code Annotated, Section 4-13-202, is amended by deleting the
+
+Section 6:
+section and substituting:
+(a) The Tennessee historical commission may expend funds appropriated or
+available to it in the repair, renovation, and restoration of the James K. Polk Home, and
+the improvement of the premises for use by the general public.
+(b) The Tennessee historical commission will hold legal title to the property, but
+may assign actual custody and control of the property to a Tennessee nonprofit
+corporation organized for the express purpose of restoring, maintaining, and operating
+SB1402
+003356
+- 1 -
+the James K. Polk Home and its premises. Such corporation has the right to operate
+and manage the property on behalf of the Tennessee historical commission for the
+benefit of the general public, and to keep the property and improvements in a high state
+of improvement and repair, and to operate and maintain the grounds improved by the
+Tennessee historical commission in a manner consistent with such guidelines as may be
+promulgated by the Tennessee historical commission, or as the Tennessee historical
+commission may contract with the corporation.
+
+Section 7:
+SECTION 3. Tennessee Code Annotated, Section 4-13-203, is amended by deleting the
+
+Section 8:
+section and substituting:
+The Tennessee historical commission shall make an annual report to the
+governor and the speakers of the senate and house of representatives of the
+performance of its duties under this part.
+
+Section 9:
+SECTION 4. Tennessee Code Annotated, Section 4-13-204, is amended by deleting the
+
+Section 10:
+section and substituting:
+It is the intent of this part that the James K. Polk Home be operated as a
+museum house open to the general public and preserved for the citizens of Tennessee
+and future generations.
+
+Section 11:
+SECTION 5. Tennessee Code Annotated, Section 4-29-248(a)(28), is amended by
+deleting the subdivision, effective upon conveyance of the James K. Polk Home in accordance
+with § 4-13-201.
+
+Section 12:
+SECTION 6. This act is not an appropriation of funds, and funds must not be obligated
+or expended pursuant to this act unless the funds are specifically appropriated by the general
+appropriations act.
+
+Section 13:
+SECTION 7. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 003356
+[DELETED: STS(]
+[DELETED:  -0STSISSS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 1402
+By Hensley
+AN ACT to amend Tennessee Code Annotated, Title 4,
+relative to the James K. Polk Home.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 4-13-201, is amended by deleting the
+section and substituting:
+The Tennessee historical commission, with approval from the state building
+commission, shall enter into good faith negotiations for the purchase and transfer of a
+tract of land in the second ward of the city of Columbia, located on the corner of West
+Seventh Street and South High Street, known as the James K. Polk Home, originally
+conveyed to this state by George L. Reynolds and Bessie F. Reynolds by deed dated
+January 8, 1929, recorded in the registrar's office of Maury County, Tennessee, book
+177, page 71, and subsequently conveyed in trust to the James K. Polk Memorial
+Association for its general welfare and maintenance, such trust now being terminated by
+the general assembly in accordance with § 4-13-204, as that section existed on June 30,
+2025.
+SECTION 2. Tennessee Code Annotated, Section 4-13-202, is amended by deleting the
+section and substituting:
+(a) The Tennessee historical commission may expend funds appropriated or
+available to it in the repair, renovation, and restoration of the James K. Polk Home, and
+the improvement of the premises for use by the general public.
+(b) The Tennessee historical commission will hold legal title to the property, but
+may assign actual custody and control of the property to a Tennessee nonprofit
+corporation organized for the express purpose of restoring, maintaining, and operating
+SB1402
+003356
+- 1 -
+
+the James K. Polk Home and its premises. Such corporation has the right to operate
+and manage the property on behalf of the Tennessee historical commission for the
+benefit of the general public, and to keep the property and improvements in a high state
+of improvement and repair, and to operate and maintain the grounds improved by the
+Tennessee historical commission in a manner consistent with such guidelines as may be
+promulgated by the Tennessee historical commission, or as the Tennessee historical
+commission may contract with the corporation.
+SECTION 3. Tennessee Code Annotated, Section 4-13-203, is amended by deleting the
+section and substituting:
+The Tennessee historical commission shall make an annual report to the
+governor and the speakers of the senate and house of representatives of the
+performance of its duties under this part.
+SECTION 4. Tennessee Code Annotated, Section 4-13-204, is amended by deleting the
+section and substituting:
+It is the intent of this part that the James K. Polk Home be operated as a
+museum house open to the general public and preserved for the citizens of Tennessee
+and future generations.
+SECTION 5. Tennessee Code Annotated, Section 4-29-248(a)(28), is amended by
+deleting the subdivision, effective upon conveyance of the James K. Polk Home in accordance
+with § 4-13-201.
+SECTION 6. This act is not an appropriation of funds, and funds must not be obligated
+or expended pursuant to this act unless the funds are specifically appropriated by the general
+appropriations act.
+SECTION 7. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 003356
+
+[DELETED: STS(]
+[DELETED:  -0STSISSS]
