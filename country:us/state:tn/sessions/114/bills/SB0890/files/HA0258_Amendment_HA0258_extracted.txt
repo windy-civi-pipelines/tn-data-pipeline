@@ -1,0 +1,96 @@
+Title: AMEND S e n ate Bill No. 890 House Bill No. 869*
+Official Title: AMEND S e n ate Bill No. 890 House Bill No. 869*
+Number of Sections: 7
+Source: versions - Amendment HA0258
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House Health 1
+Amendment No. 1 to HB0869
+Terry
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 63-2-104(b), is amended by deleting
+the language ", except as provided in subsection (c)".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 63-2-104(c), is amended by deleting
+the subsection.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 56-7-128(b), is amended by deleting
+the subsection and substituting:
+(b) To facilitate patient and provider access to health information, a health
+insurance entity shall establish and maintain the following application programming
+interfaces (API) for the benefit of all insureds and contracted providers:
+(1) Patient access API, as described in 42 CFR § 422.119 (a)-(e);
+(2) Provider directory API, as described in 42 CFR § 422.120;
+(3) Payer-to-payer exchange API, as described in 42 CFR § 422.121(b);
+(4) Provider access API, as described in 42 CFR § 422.121(a); and
+(5) Prior authorization API, as described in 42 CFR § 422.122.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 56-7-128(d), is amended by deleting
+the subsection and substituting:
+(d) For the API required by this section, a health insurance entity shall establish
+and maintain each API for its insured and providers at the earliest date CMS requires
+any of its regulated plan or product types to establish and maintain the same API.
+HA0258
+003828
+- 1 -
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 56-7-128(c), is amended by deleting
+the subsection.
+
+Section 7:
+SECTION 6. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 003828
+[DELETED:  a HSSS((((((S(]
+[DELETED:  -0SS]
+
+
+================================================================================
+
+Raw Text:
+House Health 1
+Amendment No. 1 to HB0869
+Terry
+Signature of Sponsor
+AMEND S e n ate Bill No. 890 House Bill No. 869*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 63-2-104(b), is amended by deleting
+the language ", except as provided in subsection (c)".
+SECTION 2. Tennessee Code Annotated, Section 63-2-104(c), is amended by deleting
+the subsection.
+SECTION 3. Tennessee Code Annotated, Section 56-7-128(b), is amended by deleting
+the subsection and substituting:
+(b) To facilitate patient and provider access to health information, a health
+insurance entity shall establish and maintain the following application programming
+interfaces (API) for the benefit of all insureds and contracted providers:
+(1) Patient access API, as described in 42 CFR § 422.119 (a)-(e);
+(2) Provider directory API, as described in 42 CFR § 422.120;
+(3) Payer-to-payer exchange API, as described in 42 CFR § 422.121(b);
+(4) Provider access API, as described in 42 CFR § 422.121(a); and
+(5) Prior authorization API, as described in 42 CFR § 422.122.
+SECTION 4. Tennessee Code Annotated, Section 56-7-128(d), is amended by deleting
+the subsection and substituting:
+(d) For the API required by this section, a health insurance entity shall establish
+and maintain each API for its insured and providers at the earliest date CMS requires
+any of its regulated plan or product types to establish and maintain the same API.
+HA0258
+003828
+- 1 -
+
+SECTION 5. Tennessee Code Annotated, Section 56-7-128(c), is amended by deleting
+the subsection.
+SECTION 6. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 003828
+
+[DELETED:  a HSSS((((((S(]
+[DELETED:  -0SS]

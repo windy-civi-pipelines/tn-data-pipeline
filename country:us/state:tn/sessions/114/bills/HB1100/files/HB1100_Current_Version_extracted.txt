@@ -1,0 +1,71 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 1100
+By Towns
+AN ACT to amend Tennessee Code Annotated, Title 47,
+Chapter 18 and Title 53, relative to food.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 53-1-102(14), is amended by adding
+the following as a new subdivision:
+( ) "Drug" also means food that contains an antibiotic;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 53-1-103(a), is amended by adding
+the following as a new subdivision:
+( ) The manufacture, sale, or delivery, holding, or offering for sale of any food
+that contains an antibiotic, or a vaccine or vaccine material, unless the food labeling
+contains a conspicuous notification of the presence of the antibiotic, vaccine, or vaccine
+material in the food.
+
+Section 4:
+SECTION 3. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+
+Section 5:
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1100
+003142
+- 1 -
+[DELETED: S(S(SS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 1100
+By Towns
+AN ACT to amend Tennessee Code Annotated, Title 47,
+Chapter 18 and Title 53, relative to food.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 53-1-102(14), is amended by adding
+the following as a new subdivision:
+( ) "Drug" also means food that contains an antibiotic;
+SECTION 2. Tennessee Code Annotated, Section 53-1-103(a), is amended by adding
+the following as a new subdivision:
+( ) The manufacture, sale, or delivery, holding, or offering for sale of any food
+that contains an antibiotic, or a vaccine or vaccine material, unless the food labeling
+contains a conspicuous notification of the presence of the antibiotic, vaccine, or vaccine
+material in the food.
+SECTION 3. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1100
+003142
+- 1 -
+
+[DELETED: S(S(SS]

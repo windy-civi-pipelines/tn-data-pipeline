@@ -1,0 +1,232 @@
+Title: AMEND S e n ate Bill No. 845* House Bill No. 1097
+Official Title: AMEND S e n ate Bill No. 845* House Bill No. 1097
+Number of Sections: 3
+Source: versions - Amendment SA0401
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+Senate State and Local Government 3
+Amendment No. 3 to SB0845
+Briggs
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 4, Chapter 1, Part 4, is amended by
+adding the following as a new section:
+(a) The attorney general and reporter may review whether a local government
+action violates state law or the Constitution of Tennessee. If the attorney general and
+reporter concludes that a local government action reviewed pursuant to this subsection
+(a) violates state law or the Constitution of Tennessee, then the attorney general and
+reporter shall provide to the local government's chief executive officer, governing body,
+or other subdivision of the local government that adopted the local government action
+written notice identifying the specific statutory or constitutional provision that the local
+government action is deemed to violate.
+(b)
+(1) If a local government receives a notice pursuant to subsection (a), the
+local government may, within sixty (60) days from receipt of the notice:
+(A) Resolve the violation by repealing or otherwise adequately
+revising the local government action to eliminate the identified violation
+and provide the attorney general and reporter with a written statement
+that the violation has been resolved. The attorney general and reporter
+shall subsequently determine and acknowledge whether the local
+government has adequately resolved the violation for purposes of this
+subdivision (b)(1)(A); or
+SA0401
+007091
+- 1 -
+(B) Challenge the findings of the attorney general and reporter by
+filing a special action before a three-judge panel, in accordance with § 20-
+18-101, seeking a declaratory judgment that the local government action
+is consistent with and does not violate state law or the Constitution of
+Tennessee.
+(2) If the local government repeals or adequately revises the local
+government action to eliminate any violation of state law or the Constitution of
+Tennessee and provides the attorney general and reporter with a written
+statement that the violation has been resolved pursuant to subdivision (b)(1)(A),
+and the attorney general and reporter agrees that the violation has been
+resolved, then the attorney general and reporter shall take no further action.
+(3) If the local government challenges the findings of the attorney general
+and reporter pursuant to subdivision (b)(1)(B), then the attorney general and
+reporter shall defend the attorney general and reporter's findings in the special
+action.
+(c)
+(1) The attorney general and reporter shall proceed pursuant to
+subdivision (c)(2) if, after sixty (60) days from receipt of the notice sent pursuant
+to subsection (a), the attorney general and reporter determines that the local
+government has failed to resolve the violation pursuant to subdivision (b)(1)(A);
+and
+(A) The local government has not filed an action pursuant to
+subdivision (b)(1)(B); or
+(B) The local government filed an action pursuant to subdivision
+(b)(1)(B) and upon conclusion of the action, the final judgment of the
+court, and final resolution of any appeal of the final judgment, is that the
+- 2 - 007091
+local government action violates state law or the Constitution of
+Tennessee.
+(2) Pursuant to the requirements of subdivision (c)(1), the attorney
+general and reporter shall file a special action before a three-judge panel, in
+accordance with § 20-18-101, seeking a declaratory judgment that the local
+government action is inconsistent with and violates state law or the Constitution
+of Tennessee. If the three-judge panel finds that the local government action is
+inconsistent with and violates state law or the Constitution of Tennessee, the
+panel shall order the commissioner of finance and administration and the state
+treasurer to withhold all funds of the state allotted to the local government via
+grant, contract, or statute, including, but not limited to, state-shared taxes.
+(3) Upon receipt of sufficient documentation acceptable to the three-
+judge panel that the action is resolved so as to no longer violate state law or the
+Constitution of Tennessee, the three-judge panel shall notify:
+(A) The governor, the attorney general and reporter, the speaker
+of the senate, the speaker of the house of representatives, and the local
+government that the violation has been resolved; and
+(B) The commissioner of finance and administration and the state
+treasurer to resume funding the local government, which must include the
+distribution of state-shared revenues to the local government.
+(d) Upon receiving a judicial order pursuant to subsection (c), the commissioner
+of finance and administration shall withhold all funds of the state allotted to the local
+government via grant, contract, or statute, including, but not limited to, state-shared
+taxes, until the local government has resolved the violation, as determined by the
+attorney general and reporter. The amounts withheld pursuant to this subsection (d)
+must be held in reserve by the department and allocated to the local government once
+the violation has been resolved pursuant to this subsection (d).
+- 3 - 007091
+(e) Notwithstanding subsection (d), this section does not authorize the
+withholding of funds allocated to a local government that would violate contracts to which
+the state is a party, the requirements of federal law imposed on the state, judgments of a
+court binding on the state, or obligations of the state under the Constitution of
+Tennessee.
+(f) As used in this section:
+(1) "Local government" means a county, including a county with a
+metropolitan or charter form of government, and an incorporated city or town;
+and
+(2) "Local government action" means an ordinance, regulation, or order
+adopted or promulgated by the chief executive officer or governing body of a
+local government or a regulation, rule, written policy, or written guideline adopted
+by any agency, department, or other subdivision of the local government.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to local government actions taken on or after that date and funds allocated or
+appropriated during or after the 2026-2027 fiscal year.
+- 4 - 007091
+[DELETED:  a HS((]
+[DELETED:  -0(]
+[DELETED:  -0(((]
+[DELETED:  -0((]
+
+
+================================================================================
+
+Raw Text:
+Senate State and Local Government 3
+Amendment No. 3 to SB0845
+Briggs
+Signature of Sponsor
+AMEND S e n ate Bill No. 845* House Bill No. 1097
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 4, Chapter 1, Part 4, is amended by
+adding the following as a new section:
+(a) The attorney general and reporter may review whether a local government
+action violates state law or the Constitution of Tennessee. If the attorney general and
+reporter concludes that a local government action reviewed pursuant to this subsection
+(a) violates state law or the Constitution of Tennessee, then the attorney general and
+reporter shall provide to the local government's chief executive officer, governing body,
+or other subdivision of the local government that adopted the local government action
+written notice identifying the specific statutory or constitutional provision that the local
+government action is deemed to violate.
+(b)
+(1) If a local government receives a notice pursuant to subsection (a), the
+local government may, within sixty (60) days from receipt of the notice:
+(A) Resolve the violation by repealing or otherwise adequately
+revising the local government action to eliminate the identified violation
+and provide the attorney general and reporter with a written statement
+that the violation has been resolved. The attorney general and reporter
+shall subsequently determine and acknowledge whether the local
+government has adequately resolved the violation for purposes of this
+subdivision (b)(1)(A); or
+SA0401
+007091
+- 1 -
+
+(B) Challenge the findings of the attorney general and reporter by
+filing a special action before a three-judge panel, in accordance with § 20-
+18-101, seeking a declaratory judgment that the local government action
+is consistent with and does not violate state law or the Constitution of
+Tennessee.
+(2) If the local government repeals or adequately revises the local
+government action to eliminate any violation of state law or the Constitution of
+Tennessee and provides the attorney general and reporter with a written
+statement that the violation has been resolved pursuant to subdivision (b)(1)(A),
+and the attorney general and reporter agrees that the violation has been
+resolved, then the attorney general and reporter shall take no further action.
+(3) If the local government challenges the findings of the attorney general
+and reporter pursuant to subdivision (b)(1)(B), then the attorney general and
+reporter shall defend the attorney general and reporter's findings in the special
+action.
+(c)
+(1) The attorney general and reporter shall proceed pursuant to
+subdivision (c)(2) if, after sixty (60) days from receipt of the notice sent pursuant
+to subsection (a), the attorney general and reporter determines that the local
+government has failed to resolve the violation pursuant to subdivision (b)(1)(A);
+and
+(A) The local government has not filed an action pursuant to
+subdivision (b)(1)(B); or
+(B) The local government filed an action pursuant to subdivision
+(b)(1)(B) and upon conclusion of the action, the final judgment of the
+court, and final resolution of any appeal of the final judgment, is that the
+- 2 - 007091
+
+local government action violates state law or the Constitution of
+Tennessee.
+(2) Pursuant to the requirements of subdivision (c)(1), the attorney
+general and reporter shall file a special action before a three-judge panel, in
+accordance with § 20-18-101, seeking a declaratory judgment that the local
+government action is inconsistent with and violates state law or the Constitution
+of Tennessee. If the three-judge panel finds that the local government action is
+inconsistent with and violates state law or the Constitution of Tennessee, the
+panel shall order the commissioner of finance and administration and the state
+treasurer to withhold all funds of the state allotted to the local government via
+grant, contract, or statute, including, but not limited to, state-shared taxes.
+(3) Upon receipt of sufficient documentation acceptable to the three-
+judge panel that the action is resolved so as to no longer violate state law or the
+Constitution of Tennessee, the three-judge panel shall notify:
+(A) The governor, the attorney general and reporter, the speaker
+of the senate, the speaker of the house of representatives, and the local
+government that the violation has been resolved; and
+(B) The commissioner of finance and administration and the state
+treasurer to resume funding the local government, which must include the
+distribution of state-shared revenues to the local government.
+(d) Upon receiving a judicial order pursuant to subsection (c), the commissioner
+of finance and administration shall withhold all funds of the state allotted to the local
+government via grant, contract, or statute, including, but not limited to, state-shared
+taxes, until the local government has resolved the violation, as determined by the
+attorney general and reporter. The amounts withheld pursuant to this subsection (d)
+must be held in reserve by the department and allocated to the local government once
+the violation has been resolved pursuant to this subsection (d).
+- 3 - 007091
+
+(e) Notwithstanding subsection (d), this section does not authorize the
+withholding of funds allocated to a local government that would violate contracts to which
+the state is a party, the requirements of federal law imposed on the state, judgments of a
+court binding on the state, or obligations of the state under the Constitution of
+Tennessee.
+(f) As used in this section:
+(1) "Local government" means a county, including a county with a
+metropolitan or charter form of government, and an incorporated city or town;
+and
+(2) "Local government action" means an ordinance, regulation, or order
+adopted or promulgated by the chief executive officer or governing body of a
+local government or a regulation, rule, written policy, or written guideline adopted
+by any agency, department, or other subdivision of the local government.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to local government actions taken on or after that date and funds allocated or
+appropriated during or after the 2026-2027 fiscal year.
+- 4 - 007091
+
+[DELETED:  a HS((]
+[DELETED:  -0(]
+[DELETED:  -0(((]
+[DELETED:  -0((]

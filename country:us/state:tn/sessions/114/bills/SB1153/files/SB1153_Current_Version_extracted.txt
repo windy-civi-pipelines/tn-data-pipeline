@@ -1,0 +1,102 @@
+Title: HOUSE BILL 1205
+Official Title: HOUSE BILL 1205
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Kumar
+SENATE BILL 1153
+By Crowe
+AN ACT to amend Tennessee Code Annotated, Title 33;
+Title 39; Title 53; Title 63 and Title 68, relative to
+healthcare services.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 63, Chapter 6, Part 2, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) ''Immediate family'' means a physician's or podiatrist's spouse, parent,
+child, sibling, or another individual in relation to whom a physician's or podiatrist's
+personal or emotional involvement may render that physician or podiatrist unable
+to exercise detached professional judgment in reaching diagnostic or therapeutic
+decisions;
+(2) ''Physician'' means a physician licensed under this chapter or chapter
+9 of this title;
+(3) ''Podiatrist'' has the same meaning as defined in § 63-3-101; and
+(4) ''Scheduled drug'' means a drug, substance, or immediate precursor
+in Schedules I through V of the federal Controlled Substances Act (21 U.S.C. §
+812).
+(b) A physician or podiatrist shall maintain records of all treatment provided
+pursuant to this section.
+(c) A physician or podiatrist shall not prescribe, dispense, or administer
+medication for, or otherwise treat, the physician's or podiatrist's own self or immediate
+family, except in minor, self-limited, short-term, or urgent, emergency situations.
+SB1153
+003038
+- 1 -
+(d) Notwithstanding subsection (c) or (e), a physician or podiatrist shall not
+prescribe, dispense, or administer a scheduled drug to the physician's or podiatrist's own
+self or for immediate family.
+(e) Notwithstanding subsection (c), a physician may prescribe, dispense, or
+administer medication for, or otherwise treat, immediate family within the physician's
+regular scope of practice if there is no other physician offering healthcare services at a
+location within thirty (30) miles of the physician's primary practice site.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 003038
+[DELETED: S(((((((]
+[DELETED:  -0((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1205
+By Kumar
+SENATE BILL 1153
+By Crowe
+AN ACT to amend Tennessee Code Annotated, Title 33;
+Title 39; Title 53; Title 63 and Title 68, relative to
+healthcare services.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 63, Chapter 6, Part 2, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) ''Immediate family'' means a physician's or podiatrist's spouse, parent,
+child, sibling, or another individual in relation to whom a physician's or podiatrist's
+personal or emotional involvement may render that physician or podiatrist unable
+to exercise detached professional judgment in reaching diagnostic or therapeutic
+decisions;
+(2) ''Physician'' means a physician licensed under this chapter or chapter
+9 of this title;
+(3) ''Podiatrist'' has the same meaning as defined in § 63-3-101; and
+(4) ''Scheduled drug'' means a drug, substance, or immediate precursor
+in Schedules I through V of the federal Controlled Substances Act (21 U.S.C. §
+812).
+(b) A physician or podiatrist shall maintain records of all treatment provided
+pursuant to this section.
+(c) A physician or podiatrist shall not prescribe, dispense, or administer
+medication for, or otherwise treat, the physician's or podiatrist's own self or immediate
+family, except in minor, self-limited, short-term, or urgent, emergency situations.
+SB1153
+003038
+- 1 -
+
+(d) Notwithstanding subsection (c) or (e), a physician or podiatrist shall not
+prescribe, dispense, or administer a scheduled drug to the physician's or podiatrist's own
+self or for immediate family.
+(e) Notwithstanding subsection (c), a physician may prescribe, dispense, or
+administer medication for, or otherwise treat, immediate family within the physician's
+regular scope of practice if there is no other physician offering healthcare services at a
+location within thirty (30) miles of the physician's primary practice site.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 003038
+
+[DELETED: S(((((((]
+[DELETED:  -0((S]

@@ -1,0 +1,187 @@
+Title: SENATE BILL 1377
+Official Title: SENATE BILL 1377
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Watson
+HOUSE BILL 494
+By Baum
+AN ACT to amend Tennessee Code Annotated, Title 50
+and Title 65, Chapter 15, Part 3, relative to
+employer-employee relationships.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 50, Chapter 1, is amended by adding
+the following as a new part:
+50-1-1101.
+This part is known and may be cited as the "Voluntary Portable Benefit Plan Act."
+50-1-1102.
+As used in this part:
+(1) "Employee" means an individual who performs services for an
+employer for wages, and the services performed by the individual qualify as an
+employer-employee relationship with the employer based upon consideration of
+the twenty-factor test described in § 50-2-111;
+(2) "Hiring party" means a person who hires or enters into a contract with
+an independent contractor;
+(3) "Independent contractor" means an individual who performs services
+for a hiring party in exchange for compensation, and the relationship with the
+hiring party qualifies the individual as an independent contractor based upon
+consideration of the twenty-factor test described in § 50-2-111;
+(4) "Portable benefit plan":
+HB0494
+001825
+- 1 -
+(A) Means a benefit plan administered by a third-party portable
+benefit plan provider chosen by a self-employed worker and assigned to a
+beneficiary rather than an employer or hiring party; and
+(B) Includes:
+(i) Health insurance;
+(ii) Unemployment insurance;
+(iii) Disability insurance;
+(iv) Life insurance; and
+(v) Retirement benefits; and
+(5) "Portable benefit plan provider" means a bank, as defined in Section
+3(a)(1) of the Federal Deposit Insurance Act (12 U.S.C. § 1813(a)(1)); an
+investment management firm; a technology provider or program manager that
+offers services through a bank or investment management firm; or another
+person who demonstrates to the satisfaction of the commissioner of financial
+institutions that the manner in which such bank or person will administer the
+portable benefit account will be consistent with the portable benefit account
+requirements under this chapter.
+50-1-1103.
+(a) A public or private entity, including an internet or application-based company,
+may voluntarily contribute funds to a portable benefit plan as a form of compensation to
+an independent contractor.
+(b) Contributions to a portable benefit plan must not be used as a criterion for
+determining a worker's employment classification under chapter 1, 2, 6, 7, or 8 of this
+title, or title 65, chapter 15.
+- 2 - 001825
+(c) Contributions to a portable benefit plan may be made using the funds of a
+hiring party or a percentage of funds withheld from the compensation owed to an
+independent contractor, as long as:
+(1) Withholding such compensation is expressed in a written agreement;
+(2) Such written agreement is clear, unambiguous, and prominently
+displayed either in the work contract or a separate notice;
+(3) Such withholdings are voluntary and require the independent
+contractor to opt-in; and
+(4) The independent contractor may choose to opt-out of such
+withholdings at any time.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 50-8-101(1)(B), is amended by
+deleting the language "In return for compensation from the third-party or marketplace platform,
+offers" and substituting "In return for compensation from the third-party or marketplace platform,
+including compensation in the form of a contribution to a portable benefit account as described
+in § 50-1-1103, offers".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 50-8-102(a)(9), is amended by
+deleting the language "marketplace platform provides no medical or other insurance benefits to
+the marketplace contractor, and the".
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 65-15-301(4), is amended by
+deleting the language "control, direct, or manage the personal vehicles" and substituting
+"control, direct, or manage, as the applicability of such terms are understood pursuant to § 50-2-
+111, the personal vehicles".
+
+Section 6:
+SECTION 5. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 001825
+[DELETED: S5T5A((((]
+[DELETED:  -0((((((((5((]
+[DELETED:  -0(((((SSSS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1377
+By Watson
+HOUSE BILL 494
+By Baum
+AN ACT to amend Tennessee Code Annotated, Title 50
+and Title 65, Chapter 15, Part 3, relative to
+employer-employee relationships.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 50, Chapter 1, is amended by adding
+the following as a new part:
+50-1-1101.
+This part is known and may be cited as the "Voluntary Portable Benefit Plan Act."
+50-1-1102.
+As used in this part:
+(1) "Employee" means an individual who performs services for an
+employer for wages, and the services performed by the individual qualify as an
+employer-employee relationship with the employer based upon consideration of
+the twenty-factor test described in § 50-2-111;
+(2) "Hiring party" means a person who hires or enters into a contract with
+an independent contractor;
+(3) "Independent contractor" means an individual who performs services
+for a hiring party in exchange for compensation, and the relationship with the
+hiring party qualifies the individual as an independent contractor based upon
+consideration of the twenty-factor test described in § 50-2-111;
+(4) "Portable benefit plan":
+HB0494
+001825
+- 1 -
+
+(A) Means a benefit plan administered by a third-party portable
+benefit plan provider chosen by a self-employed worker and assigned to a
+beneficiary rather than an employer or hiring party; and
+(B) Includes:
+(i) Health insurance;
+(ii) Unemployment insurance;
+(iii) Disability insurance;
+(iv) Life insurance; and
+(v) Retirement benefits; and
+(5) "Portable benefit plan provider" means a bank, as defined in Section
+3(a)(1) of the Federal Deposit Insurance Act (12 U.S.C. § 1813(a)(1)); an
+investment management firm; a technology provider or program manager that
+offers services through a bank or investment management firm; or another
+person who demonstrates to the satisfaction of the commissioner of financial
+institutions that the manner in which such bank or person will administer the
+portable benefit account will be consistent with the portable benefit account
+requirements under this chapter.
+50-1-1103.
+(a) A public or private entity, including an internet or application-based company,
+may voluntarily contribute funds to a portable benefit plan as a form of compensation to
+an independent contractor.
+(b) Contributions to a portable benefit plan must not be used as a criterion for
+determining a worker's employment classification under chapter 1, 2, 6, 7, or 8 of this
+title, or title 65, chapter 15.
+- 2 - 001825
+
+(c) Contributions to a portable benefit plan may be made using the funds of a
+hiring party or a percentage of funds withheld from the compensation owed to an
+independent contractor, as long as:
+(1) Withholding such compensation is expressed in a written agreement;
+(2) Such written agreement is clear, unambiguous, and prominently
+displayed either in the work contract or a separate notice;
+(3) Such withholdings are voluntary and require the independent
+contractor to opt-in; and
+(4) The independent contractor may choose to opt-out of such
+withholdings at any time.
+SECTION 2. Tennessee Code Annotated, Section 50-8-101(1)(B), is amended by
+deleting the language "In return for compensation from the third-party or marketplace platform,
+offers" and substituting "In return for compensation from the third-party or marketplace platform,
+including compensation in the form of a contribution to a portable benefit account as described
+in § 50-1-1103, offers".
+SECTION 3. Tennessee Code Annotated, Section 50-8-102(a)(9), is amended by
+deleting the language "marketplace platform provides no medical or other insurance benefits to
+the marketplace contractor, and the".
+SECTION 4. Tennessee Code Annotated, Section 65-15-301(4), is amended by
+deleting the language "control, direct, or manage the personal vehicles" and substituting
+"control, direct, or manage, as the applicability of such terms are understood pursuant to § 50-2-
+111, the personal vehicles".
+SECTION 5. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 001825
+
+[DELETED: S5T5A((((]
+[DELETED:  -0((((((((5((]
+[DELETED:  -0(((((SSSS]

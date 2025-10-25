@@ -1,0 +1,88 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE RESOLUTION 100
+By Oliver
+A RESOLUTION to honor and congratulate Sancia Trotter on her
+selection as a Support Employee of the Year
+with Metro Nashville Public Schools.
+WHEREAS, it is fitting that we should pause to specially recognize those outstanding
+school employees who have devoted their careers to providing the highest quality education for
+Tennessee's students; and
+WHEREAS, Sancia Trotter is one such estimable school employee, who has
+distinguished herself as a professional of the greatest dedication, ability, and integrity; and
+WHEREAS, a paraprofessional at Ida B. Wells Elementary School, Ms. Trotter was
+recently named a Support Employee of the Year by Metro Nashville Public Schools, a most
+befitting honor that recognizes the positive influence she has on so many young lives; and
+WHEREAS, Sancia Trotter is an extremely talented and compassionate professional
+who works assiduously to motivate her students to reach their full potential, both as scholars
+and as citizens; and
+WHEREAS, Ms. Trotter serves as an inspiration to her colleagues and students alike,
+and her friendship and counsel are highly valued by those who are fortunate to know her; and
+WHEREAS, Sancia Trotter truly epitomizes the dedicated professional who is wholly
+committed to the highest ideals of public service and quality education for all, and she should be
+specially recognized; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby honor and
+congratulate Sancia Trotter on being named a Support Employee of the Year by Metro Nashville
+Public Schools, commend her exceptional service to the children of Tennessee, salute her
+professional expertise and personal excellence, and wish her all the best in her future
+endeavors.
+SR0100
+006281
+- 1 -
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 006281
+[DELETED: WWWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE RESOLUTION 100
+By Oliver
+A RESOLUTION to honor and congratulate Sancia Trotter on her
+selection as a Support Employee of the Year
+with Metro Nashville Public Schools.
+WHEREAS, it is fitting that we should pause to specially recognize those outstanding
+school employees who have devoted their careers to providing the highest quality education for
+Tennessee's students; and
+WHEREAS, Sancia Trotter is one such estimable school employee, who has
+distinguished herself as a professional of the greatest dedication, ability, and integrity; and
+WHEREAS, a paraprofessional at Ida B. Wells Elementary School, Ms. Trotter was
+recently named a Support Employee of the Year by Metro Nashville Public Schools, a most
+befitting honor that recognizes the positive influence she has on so many young lives; and
+WHEREAS, Sancia Trotter is an extremely talented and compassionate professional
+who works assiduously to motivate her students to reach their full potential, both as scholars
+and as citizens; and
+WHEREAS, Ms. Trotter serves as an inspiration to her colleagues and students alike,
+and her friendship and counsel are highly valued by those who are fortunate to know her; and
+WHEREAS, Sancia Trotter truly epitomizes the dedicated professional who is wholly
+committed to the highest ideals of public service and quality education for all, and she should be
+specially recognized; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby honor and
+congratulate Sancia Trotter on being named a Support Employee of the Year by Metro Nashville
+Public Schools, commend her exceptional service to the children of Tennessee, salute her
+professional expertise and personal excellence, and wish her all the best in her future
+endeavors.
+SR0100
+006281
+- 1 -
+
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 006281
+
+[DELETED: WWWWWWB]
+[DELETED:  -0B]

@@ -1,0 +1,116 @@
+Title: AMEND S e n ate Bill No. 437* House Bill No. 654
+Official Title: AMEND S e n ate Bill No. 437* House Bill No. 654
+Number of Sections: 4
+Source: versions - Amendment HA0080
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House Insurance 1
+Amendment No. 1 to HB0654
+Kumar
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 56, Chapter 7, Part 26, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Health benefit plan" means a plan of health insurance coverage as
+that term is defined in § 56-7-109;
+(2) "Mental health or substance abuse services" means care or services
+for the treatment of a mental health condition or substance use disorder that falls
+under a diagnostic category listed in the most recent version of the Diagnostic
+and Statistical Manual of Mental Disorders; and
+(3) "Psychiatric collaborative care model" or "PCCM" means an
+evidence-based, integrated behavioral healthcare model of treatment that:
+(A) Is provided by a primary care provider and a care manager
+who work in collaboration with a psychiatric consultant, such as a
+psychiatrist;
+HA0080
+004232
+- 1 -
+(B) Is overseen by the primary care provider and care manager
+and includes structured care management with regular assessments of a
+patient's clinical status using validated tools and modification of treatment
+as appropriate; and
+(C) Requires the psychiatric consultant to provide regular
+consultations to the primary care provider and care manager to review the
+clinical status and care of a patient and make appropriate
+recommendations.
+(b)
+(1) Except as provided in subdivisions (b)(2) and (3), a health benefit
+plan that is offered, delivered, or issued for delivery on or after January 1, 2026,
+and that provides mental health and substance abuse services must provide for
+coverage and reimbursement of such services through a PCCM.
+(2) A health benefit plan may deny coverage and reimbursement of
+services mandated under subdivision (b)(1) on the grounds of medical necessity.
+(3) A policy or contract for health insurance coverage provided under the
+TennCare medical assistance program, or a successor program established
+under title 71, chapter 5, or the CoverKids program, or a successor program
+established under title 71, chapter 3, may provide coverage pursuant to this
+
+Section 3:
+section when determined to be medically necessary pursuant to § 71-5-144.
+
+Section 4:
+SECTION 2. This act takes effect January 1, 2026, the public welfare requiring it.
+- 2 - 004232
+[DELETED:  a HS((((]
+[DELETED:  -0(((]
+
+
+================================================================================
+
+Raw Text:
+House Insurance 1
+Amendment No. 1 to HB0654
+Kumar
+Signature of Sponsor
+AMEND S e n ate Bill No. 437* House Bill No. 654
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 56, Chapter 7, Part 26, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Health benefit plan" means a plan of health insurance coverage as
+that term is defined in § 56-7-109;
+(2) "Mental health or substance abuse services" means care or services
+for the treatment of a mental health condition or substance use disorder that falls
+under a diagnostic category listed in the most recent version of the Diagnostic
+and Statistical Manual of Mental Disorders; and
+(3) "Psychiatric collaborative care model" or "PCCM" means an
+evidence-based, integrated behavioral healthcare model of treatment that:
+(A) Is provided by a primary care provider and a care manager
+who work in collaboration with a psychiatric consultant, such as a
+psychiatrist;
+HA0080
+004232
+- 1 -
+
+(B) Is overseen by the primary care provider and care manager
+and includes structured care management with regular assessments of a
+patient's clinical status using validated tools and modification of treatment
+as appropriate; and
+(C) Requires the psychiatric consultant to provide regular
+consultations to the primary care provider and care manager to review the
+clinical status and care of a patient and make appropriate
+recommendations.
+(b)
+(1) Except as provided in subdivisions (b)(2) and (3), a health benefit
+plan that is offered, delivered, or issued for delivery on or after January 1, 2026,
+and that provides mental health and substance abuse services must provide for
+coverage and reimbursement of such services through a PCCM.
+(2) A health benefit plan may deny coverage and reimbursement of
+services mandated under subdivision (b)(1) on the grounds of medical necessity.
+(3) A policy or contract for health insurance coverage provided under the
+TennCare medical assistance program, or a successor program established
+under title 71, chapter 5, or the CoverKids program, or a successor program
+established under title 71, chapter 3, may provide coverage pursuant to this
+section when determined to be medically necessary pursuant to § 71-5-144.
+SECTION 2. This act takes effect January 1, 2026, the public welfare requiring it.
+- 2 - 004232
+
+[DELETED:  a HS((((]
+[DELETED:  -0(((]

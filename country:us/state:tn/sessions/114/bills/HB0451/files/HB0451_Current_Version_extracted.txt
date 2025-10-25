@@ -1,0 +1,75 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 451
+By Glynn
+AN ACT to amend Tennessee Code Annotated, Section
+40-32-101, relative to expunction.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 40-32-101, is amended by deleting
+subdivision (g)(2)(B) and substituting:
+(B) At the time of the filing of the petition for expunction, at least one (1) year has
+elapsed since the completion of the sentence imposed for the offense the person is
+seeking to have expunged; and
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 40-32-101, is amended by deleting
+subdivision (k)(1)(C) and substituting:
+(C) At the time of the filing of the petition for expunction, at least one (1) year
+has elapsed since the completion of the sentence imposed for the offense the person is
+seeking to have expunged;
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 40-32-101, is amended by deleting
+subdivision (m)(1)(A) and substituting:
+(A) At the time of the filing of the petition for expunction, at least one (1) year has
+elapsed since the completion of the sentence imposed for the offense the person is
+seeking to have expunged;
+
+Section 5:
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0451
+001052
+- 1 -
+[DELETED: S(S(S(S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 451
+By Glynn
+AN ACT to amend Tennessee Code Annotated, Section
+40-32-101, relative to expunction.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-32-101, is amended by deleting
+subdivision (g)(2)(B) and substituting:
+(B) At the time of the filing of the petition for expunction, at least one (1) year has
+elapsed since the completion of the sentence imposed for the offense the person is
+seeking to have expunged; and
+SECTION 2. Tennessee Code Annotated, Section 40-32-101, is amended by deleting
+subdivision (k)(1)(C) and substituting:
+(C) At the time of the filing of the petition for expunction, at least one (1) year
+has elapsed since the completion of the sentence imposed for the offense the person is
+seeking to have expunged;
+SECTION 3. Tennessee Code Annotated, Section 40-32-101, is amended by deleting
+subdivision (m)(1)(A) and substituting:
+(A) At the time of the filing of the petition for expunction, at least one (1) year has
+elapsed since the completion of the sentence imposed for the offense the person is
+seeking to have expunged;
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0451
+001052
+- 1 -
+
+[DELETED: S(S(S(S]

@@ -1,0 +1,94 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 111
+By Miller
+A RESOLUTION relative to corporations that discontinue their
+Diversity, Equity, and Inclusion (DEI) programs.
+WHEREAS, while recent attacks on Diversity, Equity, and Inclusion (DEI) programs and
+initiatives have cynically branded such efforts as "radical and wasteful," nothing could be farther
+from the truth; and
+WHEREAS, DEI policies reflect the corrective legislative and legal actions taken across
+our nation's history to expand and guarantee access to the educational, economic, and civic
+obligations and capacities of our nation; and
+WHEREAS, DEI principles and policies promote equal access to opportunities, foster an
+environment of respect and belonging, and ensure that every individual, regardless of
+background, can fully participate in all aspects of society; and
+WHEREAS, DEI is essential to creating a society in which all individuals are valued,
+heard, and included; and
+WHEREAS, DEI is based on removing barriers to opportunity so that our merits can
+speak for themselves; and
+WHEREAS, DEI is committed to widening pathways for every community, so that all
+people can reap the benefits of shared prosperity in our nation; and
+WHEREAS, recent attacks upon DEI are harmful to the bottom line and the health of our
+economy, as companies that embrace DEI operate both more efficiently and more humanely;
+now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that it is the sense of this legislative body that American corporations
+HJR0111
+002499
+- 1 -
+discontinuing their Diversity, Equity, and Inclusion (DEI) programs will suffer a negative impact
+on their revenues, as American consumers will pursue other options to purchase goods and
+services from companies that are committed to DEI.
+BE IT FURTHER RESOLVED, that we strongly urge and encourage all American
+corporations and other American institutions to uphold DEI principles that promote inclusivity,
+protect freedom of expression, remove barriers, and provide equitable opportunities for all
+individuals to pursue their dreams.
+- 2 - 002499
+[DELETED: WWWWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 111
+By Miller
+A RESOLUTION relative to corporations that discontinue their
+Diversity, Equity, and Inclusion (DEI) programs.
+WHEREAS, while recent attacks on Diversity, Equity, and Inclusion (DEI) programs and
+initiatives have cynically branded such efforts as "radical and wasteful," nothing could be farther
+from the truth; and
+WHEREAS, DEI policies reflect the corrective legislative and legal actions taken across
+our nation's history to expand and guarantee access to the educational, economic, and civic
+obligations and capacities of our nation; and
+WHEREAS, DEI principles and policies promote equal access to opportunities, foster an
+environment of respect and belonging, and ensure that every individual, regardless of
+background, can fully participate in all aspects of society; and
+WHEREAS, DEI is essential to creating a society in which all individuals are valued,
+heard, and included; and
+WHEREAS, DEI is based on removing barriers to opportunity so that our merits can
+speak for themselves; and
+WHEREAS, DEI is committed to widening pathways for every community, so that all
+people can reap the benefits of shared prosperity in our nation; and
+WHEREAS, recent attacks upon DEI are harmful to the bottom line and the health of our
+economy, as companies that embrace DEI operate both more efficiently and more humanely;
+now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that it is the sense of this legislative body that American corporations
+HJR0111
+002499
+- 1 -
+
+discontinuing their Diversity, Equity, and Inclusion (DEI) programs will suffer a negative impact
+on their revenues, as American consumers will pursue other options to purchase goods and
+services from companies that are committed to DEI.
+BE IT FURTHER RESOLVED, that we strongly urge and encourage all American
+corporations and other American institutions to uphold DEI principles that promote inclusivity,
+protect freedom of expression, remove barriers, and provide equitable opportunities for all
+individuals to pursue their dreams.
+- 2 - 002499
+
+[DELETED: WWWWWWWB]
+[DELETED:  -0B]

@@ -1,0 +1,47 @@
+Title: HOUSE BILL 1029
+Official Title: HOUSE BILL 1029
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Dixie
+SENATE BILL 1217
+By Oliver
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 40, relative to criminal justice.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 40-35-505, is amended by deleting
+"education, employment" and substituting "education, housing, employment".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1217
+003022
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1029
+By Dixie
+SENATE BILL 1217
+By Oliver
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 40, relative to criminal justice.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-35-505, is amended by deleting
+"education, employment" and substituting "education, housing, employment".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1217
+003022
+- 1 -
+
+[DELETED: SS]

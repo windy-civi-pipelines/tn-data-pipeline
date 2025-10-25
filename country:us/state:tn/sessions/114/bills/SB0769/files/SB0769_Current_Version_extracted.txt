@@ -1,0 +1,49 @@
+Title: HOUSE BILL 1140
+Official Title: HOUSE BILL 1140
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Boyd
+SENATE BILL 769
+By Bailey
+AN ACT to amend Tennessee Code Annotated, Title 38;
+Title 39; Title 55 and Title 62, relative to catalytic
+converters.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 62-9-115(h)(2), is amended by
+deleting "Class A misdemeanor, punishable only by fine" and substituting "Class E felony".
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0769
+001419
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1140
+By Boyd
+SENATE BILL 769
+By Bailey
+AN ACT to amend Tennessee Code Annotated, Title 38;
+Title 39; Title 55 and Title 62, relative to catalytic
+converters.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 62-9-115(h)(2), is amended by
+deleting "Class A misdemeanor, punishable only by fine" and substituting "Class E felony".
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0769
+001419
+- 1 -
+
+[DELETED: SS]

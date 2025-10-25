@@ -1,0 +1,45 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 710
+By Cepicky
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-7-210(e), is amended by deleting
+"May 1" and substituting "June 1".
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0710
+001971
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 710
+By Cepicky
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-7-210(e), is amended by deleting
+"May 1" and substituting "June 1".
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0710
+001971
+- 1 -
+
+[DELETED: SS]

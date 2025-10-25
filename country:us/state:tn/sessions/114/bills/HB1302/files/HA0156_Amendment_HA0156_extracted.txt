@@ -1,0 +1,861 @@
+Title: AMEND S e n ate Bill No. 1265* House Bill No. 1302
+Official Title: AMEND S e n ate Bill No. 1265* House Bill No. 1302
+Number of Sections: 6
+Source: versions - Amendment HA0156
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+House Agriculture & Natural Resources 1
+Amendment No. 1 to HB1302
+Todd
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 53, Chapter 7, Part 2, is amended by
+deleting the part and substituting:
+53-7-201. Short title.
+This part is known and may be cited as the "Tennessee Meat Inspection Act."
+53-7-202. Part definitions.
+As used in this part:
+(1) "Adulterated" has the same meaning as defined in 21 U.S.C. § 601;
+(2) "Capable of use as human food" has the same meaning as defined in
+21 U.S.C. § 601;
+(3) "Carcass" means all parts of a slaughtered animal, including viscera
+prior to their preparation as meat or meat food products that may be capable of
+use as human food;
+(4) "Commissioner" means the commissioner of agriculture or the
+commissioner's designee;
+(5) "Container" means any box, tin, cloth, receptacle, or other material in
+which meat or meat food products are packed;
+(6) "Custom operation":
+(A) Means a facility in this state operated under the authority of
+this part to slaughter, dress, or prepare another's animal for that person's
+HA0156
+005116
+- 1 -
+use or consumption within the household or among nonpaying guests or
+employees; and
+(B) Includes application as to slaughter or processing of livestock
+or game animals;
+(7) "Establishment" means a facility in this state operated under the
+authority of this part to slaughter livestock or prepare livestock carcasses for
+meat or meat food products for use in intrastate commerce;
+(8) "Federal Meat Inspection Act" means 21 U.S.C. § 601 et seq., its
+subsequent amendments, and associated regulations;
+(9) "Immediate container" means the container in which meat or meat
+food products are packed as individual units;
+(10) "Intrastate commerce" means commerce within this state;
+(11) "Label" has the same meaning as defined in 21 U.S.C. § 601;
+(12) "Labeling" has the same meaning as defined in 21 U.S.C. § 601;
+(13) "Livestock":
+(A) Means cattle, sheep, swine, or goats; and
+(B) Does not include feral animals or animals slaughtered for
+sport or recreational purposes;
+(14) "Meat":
+(A) Means muscle or part of any muscle of an animal;
+(B) Is either skeletal or is found in the tongue, diaphragm, heart,
+or esophagus, and exists with or without the accompanying fat and
+portions of bone, skin, sinew, nerve, and blood vessels that normally
+accompany muscle tissue and that are not separated from it in the
+process of dressing; and
+(C) Does not include muscle found in the lips, snout, or ears;
+- 2 - 005116
+(15) "Meat food product" means any product capable of use as human
+food that is made wholly or in part from any meat or other portion of the carcass
+of an animal, excepting products:
+(A) That contain meat only in de minimis proportion or that are not
+reasonably understood by consumers to contain meat; and
+(B) That are exempted from the definition of a meat food product
+by the commissioner under such conditions as the commissioner may
+prescribe to assure that the meat or other portions of such carcasses
+contained in such product are not adulterated and that such products are
+not represented as meat food products;
+(16) "Misbranded" has the same meaning as defined in 21 U.S.C. § 601;
+(17) "Person" means any individual, partnership, firm, corporation,
+association, or another form of business entity;
+(18) "Prepared" means slaughtered, canned, salted, rendered, boned,
+cut up, packed, packaged, or otherwise manufactured or processed; and
+(19) "USDA" means the United States department of agriculture.
+53-7-203. Purpose – Scope.
+(a) The purpose of this part is to create a federally recognized state meat
+inspection program to increase production capacity in this state for unadulterated and
+properly branded meat and meat food products.
+(b) This part applies to:
+(1) A person operating an establishment in this state where livestock are
+slaughtered or prepared for use in intrastate commerce;
+(2) A person in this state dealing in intrastate commerce relative to
+livestock carcasses, meat, or meat food products of livestock; and
+(3) A custom operation in this state.
+(c) This part does not apply to:
+- 3 - 005116
+(1) Slaughter, processing, or transporting of carcasses, meat, or meat
+food products from a person's own animals for use or consumption by the person
+or the person's household or nonpaying guests and employees;
+(2) Preparation and sale of carcasses, meat, and meat food products
+incident to retail food store or restaurant operations; provided, the meat and meat
+food products were previously inspected and approved under either this part or
+the federal Meat Inspection Act;
+(3) Third-party carrier services for the transportation of carcasses, meat,
+and meat food products previously inspected and approved under either this part
+or the federal Meat Inspection Act; or
+(4) An establishment operating solely under a federal grant of inspection
+from the United States department of agriculture, food safety inspection service.
+(d) State jurisdiction within the scope of this part is exclusive to the department
+of agriculture. A political subdivision of the state shall not regulate or inspect the
+slaughtering of any livestock or the processing or transportation of the carcasses, meat,
+or meat food products of livestock. This subsection (d) does not preclude or restrict
+political subdivisions of the state from exercising police powers, including zoning and
+code enforcement, at any establishment or custom operation licensed under this part or
+from entering collaborative agreements with the department of agriculture for
+performance of inspection duties and enforcement under this part.
+(e) Compliance with this part does not relieve any person from compliance with
+the Tennessee Food, Drug and Cosmetic Act, compiled in chapter 1 of this title, and the
+Testing and Sealing – Use of Weights and Measures Act, compiled in title 47, chapter
+26, part 9.
+53-7-204. Adoption of federal law.
+(a) For purposes of implementing a federally recognized state meat inspection
+program, the state adopts the following provisions of federal law:
+- 4 - 005116
+(1) 7 U.S.C. § 1902, relative to humane slaughter and humane handling
+in connection with livestock;
+(2) 7 U.S.C. § 1906, relative to ritual slaughter of livestock;
+(3) 7 U.S.C. § 1907, relative to the humane treatment of nonambulatory
+livestock;
+(4) 21 U.S.C. § 603, relative to antemortem inspection, quarantine,
+segregation, and humane slaughter of livestock;
+(5) 21 U.S.C. § 604, relative to postmortem inspection, labeling,
+destruction, and reinspection of livestock carcasses;
+(6) 21 U.S.C. § 605, relative to the inspection of carcasses, meat, or
+meat food products of livestock brought into establishments;
+(7) 21 U.S.C. § 606, relative to inspection and labeling of meat food
+products of livestock;
+(8) 21 U.S.C. § 607, relative to labeling, marking, and container
+requirements for carcasses, meat, and meat food products of livestock; provided,
+that the commissioner may withhold any false or misleading mark, label, or
+container unless the marking, labeling, or container is modified in such manner
+as the commissioner may prescribe so that it will not be false or misleading;
+(9) 21 U.S.C. § 608, relative to sanitary conditions;
+(10) 21 U.S.C. § 610, relative to prohibited acts;
+(11) 21 U.S.C. § 611, relative to devices, marks, labels, and certificates;
+(12) 21 U.S.C. § 612, relative to notifying the commissioner of
+adulterated or misbranded meat or meat food products of livestock;
+(13) 21 U.S.C. § 613, relative to recall procedures and process control
+plans;
+(14) 21 U.S.C. § 619, relative to identification of livestock and separation
+of slaughtering and preparation activities;
+- 5 - 005116
+(15) 21 U.S.C. § 621, relative to appointment and duties of inspectors;
+(16) 21 U.S.C. § 623, relative to personal slaughter and custom
+slaughtering;
+(17) 21 U.S.C. § 641, relative to products not intended for use as human
+food and denaturation;
+(18) 21 U.S.C. § 642, relative to recordkeeping requirements;
+(19) 21 U.S.C. § 643, relative to registration of businesses dealing in
+carcasses, meat, or meat food products of livestock in intrastate commerce; and
+(20) 21 U.S.C. § 644, relative to transportation of or transactions
+involving dead, dying, disabled, or diseased animals.
+(b) For application to a state meat inspection program, the federal laws adopted
+under subsection (a) must be construed as follows, unless otherwise appropriate
+according to context:
+(1) References to secretary refer to the commissioner;
+(2) References to amenable species, lists of species, and species
+designated by regulations of the secretary refer to livestock and any additional
+species of animal that the commissioner defines as an amenable species by rule;
+(3) References to commerce refer to intrastate commerce;
+(4) References to the United States or any state, territory, or the District
+of Columbia refer to this state;
+(5) Whenever an official mark, form, certificate, or seal is designated or
+required, the mark, form, certificate, or seal established by the commissioner
+must be substituted; and
+(6) Except as provided in subdivisions (b)(1)-(5), for terms that are not
+otherwise defined in § 53-7-202, the state adopts the definitions in 21 U.S.C. §
+
+Section 3:
+601.
+53-7-205. License requirements – Fees.
+- 6 - 005116
+(a) A person operating an establishment or custom operation must first obtain a
+license from the commissioner. All licenses provided for in this part expire annually.
+(b) In order to obtain and maintain a license under this part, a person must:
+(1) Submit, on forms provided by the department of agriculture,
+information prescribed by rule as necessary for the efficient enforcement of this
+part;
+(2) Pay to the department of agriculture annual license fees, prescribed
+by rule under § 43-1-703;
+(3) Consent to reasonable inspection of the person's facilities,
+equipment, and inventory of carcasses, meat, and meat food products; and
+(4) Not have been convicted of a felony or convicted of more than one (1)
+of any other crime, either of which is based upon the acquiring, handling, or
+distributing of adulterated, misbranded, or deceptively packaged food, or upon
+fraud in connection with food transactions. This restriction applies to persons
+operating an establishment and persons responsibly connected to the
+establishment.
+(c) Prior to the approval of an application for licensure, the commissioner must
+inspect the sanitary condition of the establishment or custom operation. If the
+commissioner finds its condition conforms to the requirements of this part, the
+department of agriculture may issue the license.
+(d) Licenses issued under this part are for the location of the licensed
+establishment or custom operation and are not transferable from person to person or
+location to location.
+53-7-206. Powers of commissioner.
+(a) The commissioner is authorized to:
+(1) Carry out or cause to be carried out all provisions of this part;
+- 7 - 005116
+(2) Collect all fees established pursuant to this part and apply the fees to
+the necessary and incidental costs of the administration of this part in
+accordance with title 43, chapter 1, part 7;
+(3)
+(A) Promulgate rules, pursuant to the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5, as necessary to effectuate
+this part, including, but not limited to, rules that adopt required standards
+under the federal Meat Inspection Act or that otherwise establish:
+(i) Fees for licensure, registration, and inspection services
+of persons and facilities under this part;
+(ii) Standards for the sale or transportation of dead, dying,
+disabled, or diseased animals;
+(iii) Standards for the sanitary operation of establishments
+and custom operations;
+(iv) Applicant information required for licensure under this
+part;
+(v) Registration requirements for persons engaged in
+businesses set forth in Section 203 of the federal Meat Inspection
+Act (21 U.S.C. § 643);
+(vi) Inspection, humane handling, and sanitation
+requirements for animals other than livestock which can or may be
+used in and for the preparation of meat or meat food products;
+and
+(vii) Requirements for denaturing and identifying products
+as not intended for use as human food; and
+(B) Rules promulgated pursuant to this part must conform with
+requirements of the federal Meat Inspection Act as necessary to gain
+- 8 - 005116
+federal recognition and approval of a state-inspected meat program and
+incorporate regulations compiled at 9 CFR, chapter 3, subchapters A and
+E;
+(4) Cooperate with the USDA in developing and administering the meat
+inspection program of this state under this part to ensure that its requirements
+are at least equal to those imposed by the federal Meat Inspection Act;
+(5) Accept from the USDA advisory assistance; technical and laboratory
+assistance and training, including necessary curricular and instructional materials
+and equipment; and financial and other aid for administration of the program;
+(6) Spend state funds, subject to appropriation in the general
+appropriations act, for administration of this part;
+(7) Recommend to the USDA officials or employees for appointment to
+the advisory committee provided for in 21 U.S.C. § 661;
+(8) Cooperate with other state, county, or municipal agencies for
+administration of this part, including entering into agreements with county or
+municipal health departments to carry out duties and requirements of this part;
+(9) Conduct all inspections as provided in this part and designate any
+officer or employee of this state or any political subdivision of this state for such
+purpose;
+(10) Embargo articles found or suspected to be in violation of this part;
+(11) Seek injunctions from any court of competent jurisdiction to restrain
+persons from violating this part;
+(12) Determine requirements for and issue licenses under this part;
+(13) Deny, suspend, or revoke licenses and issue civil penalties for
+violations of this part;
+(14) Inspect and copy records of establishments and custom operations
+for purposes of determining their compliance with this part;
+- 9 - 005116
+(15) Hire or appoint qualified personnel sufficient to carry out the duties
+required by this part; and
+(16) Serve as the governor's representative for consultation with the
+USDA under the federal Meat Inspection Act unless the governor designates
+another representative.
+53-7-207. Inspections.
+(a) Establishments and persons are ineligible for inspection services under this
+part unless they have obtained a valid license from the commissioner.
+(b) The commissioner may provide voluntary inspection for animals other than
+livestock that can or may be used in and for the preparation of meat or meat food
+products for distribution in intrastate commerce. The commissioner may refuse to
+provide voluntary inspection services for good cause shown, including, but not limited to,
+limitation of staff resources or inspector expertise. In all instances, the commissioner
+shall give scheduling priority to inspection services that are mandated by the federal
+Meat Inspection Act for processing of livestock in intrastate commerce.
+(c) For the purpose of providing inspection required under this part,
+establishments shall provide the department of agriculture, upon showing of proper
+credentials, free access and opportunity to examine establishment facilities and
+equipment, to review and copy records, and to take reasonable samples of inventory or
+product as necessary to determine compliance with this part.
+(d)
+(1) The cost for inspection services is as follows:
+(A) For livestock, the cost of inspection required under this part is
+borne by the state; provided, that any extra cost of inspection from
+overtime or holiday operation is borne by the establishment, as set by rule
+under § 43-1-703; and
+- 10 - 005116
+(B) For voluntary inspection services, the cost of inspection
+required under this part is borne by the establishment, as set by rule
+under § 43-1-703.
+(2) The costs for inspection services under subdivision (d)(1) do not
+cover costs associated with devices and supplies used for marking and
+stamping, containers, and labels, which are borne by the establishment, as set
+by rule under § 43-1-703. However, all devices and supplies used for marking
+inspection approvals upon food products are under the exclusive control of the
+department of agriculture.
+53-7-208. Custom operations.
+(a) Custom operations are subject only to provisions of this part relating to
+licensing, registration, humane slaughter, humane handling, sanitation, misbranding, and
+adulteration.
+(b) The commissioner may exempt from state meat inspection any animals or
+their meat or meat food products that are processed for custom operations; provided,
+that:
+(1) The custom operations occur in a facility that is licensed under this
+part;
+(2) The facility separates at all times carcasses, meat, meat food
+products, and their containers prepared on a custom basis from inspected
+carcasses, meat, or meat food products, and their containers prepared for sale;
+(3) The facility plainly marks all articles and their containers prepared on
+a custom basis as "Not for Sale". The mark must be made immediately after
+being packaged and the article kept so identified until delivered to the owner; and
+(4) The facility is maintained and operated in a sanitary manner.
+(c) Notwithstanding subsection (a), custom operations shall provide the
+department of agriculture, upon showing of proper credentials, free access and
+- 11 - 005116
+opportunity to examine custom operation facilities and equipment, to review and copy
+records, and to take reasonable samples of inventory or product as necessary to
+determine whether the custom operation qualifies for exemption from regular inspections
+and is otherwise in compliance with this part.
+53-7-209. Prohibited acts.
+(a) It is a violation of this part for a person to:
+(1) Engage in an act prohibited under the federal Meat Inspection Act;
+(2) Slaughter livestock or process meat or meat food products in violation
+of this part;
+(3) Slaughter livestock in intrastate commerce, process meat or meat
+food products in intrastate commerce, or conduct a custom operation without a
+license required under this part;
+(4) Generate products from a custom operation unless individually
+labeled "Not for Sale";
+(5) Sell, offer for sale, distribute, or transport in commerce products
+generated from a custom operation;
+(6) Fail to denature or otherwise identify as required by rules any meat or
+meat food product that has been inspected and found to be adulterated;
+(7)
+(A) Interfere with the commissioner in the performance of official
+duties, including inspection of licensed establishments; and
+(B) As used in this subdivision (a)(7), "interfere" includes, but is
+not limited to, forcible assault or resistance, physical impediment,
+intimidation, or other conduct designed to interrupt performance of
+departmental duties under this part;
+(8) Remove, sell, or dispose of an embargoed article without permission
+of the commissioner or a court; or
+- 12 - 005116
+(9) Remove a tag or other marking affixed to an article giving notice that
+the article is embargoed.
+(b) A violation of this part is punishable as a Class C misdemeanor. This section
+does not require the department of agriculture to report violations of this part for criminal
+prosecution if the department of agriculture believes that the public interest will be
+adequately served and compliance with this part is obtained by a suitable written notice
+of warning or application of civil penalty.
+53-7-210. Violations – Suspension and revocation.
+(a) The commissioner may deny, suspend, or revoke a license issued pursuant
+to this part if the commissioner finds, after notice and opportunity for a hearing, that the
+applicant or licensee has violated this part.
+(b) Inspection services under this part must not be conducted at any
+establishment where the commissioner has denied, suspended, or revoked a license.
+(c) Upon demonstration that the conditions that led to denial, suspension, or
+revocation of a license have been cured, persons may submit a new application for a
+license.
+53-7-211. Embargo and condemnation.
+(a) Whenever the commissioner has probable cause to believe that a carcass,
+meat, or meat food product is adulterated, misbranded, or otherwise in violation of this
+part or that any mark, label, or container is false or misleading, the commissioner may
+mark the article as embargoed and conduct enforcement resolution procedures
+consistent with § 53-1-201.
+(b) In lieu of condemnation or destruction, articles that may comply with this part
+upon further reprocessing or relabeling may be ordered held, in the discretion of the
+commissioner, until such time as the articles are reprocessed or relabeled and found
+upon reinspection to comply with this part.
+53-7-212. Hearings and appeals.
+- 13 - 005116
+A hearing or appeal held pursuant to this part must be conducted substantially in
+accordance with the contested case provisions of the Uniform Administrative Procedures
+Act, compiled in title 4, chapter 5, part 3.
+
+Section 4:
+SECTION 2. Tennessee Code Annotated, Title 53, Chapter 7, is amended by addition
+of the following as a new part:
+53-7-401. Part definitions.
+As used in this part:
+(1) "Federal Poultry Products Act" means the act compiled at 21 U.S.C. §
+451 et seq. and its subsequent amendments; and
+(2) "USDA" means the United States department of agriculture.
+53-7-402. Poultry.
+Nothing in this chapter applies to any action subject to regulation under the
+Federal Poultry Products Act, which remains under the sole jurisdiction of the USDA,
+food safety inspection service; provided, that state inspectors are not excluded from
+making routine inspections and from taking samples at federally inspected plants when
+cooperating with federal authorities for purposes of enforcing federal regulation.
+
+Section 5:
+SECTION 3. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 6:
+SECTION 4.
+(a) For purposes of promulgating rules, hiring of personnel, and taking other
+administrative actions necessary to implement this act, this act takes effect upon
+becoming a law, the public welfare requiring it.
+(b) For all other purposes, this act takes effect immediately upon thirty (30) days
+following the commissioner of agriculture's receipt from the United States department of
+agriculture, food safety and inspection service, that the requirements of the federal Meat
+- 14 - 005116
+Inspection Act (21 U.S.C. § 601 et seq.) necessary to a cooperative agreement for a
+state meat inspection program have been met.
+(c) The commissioner of agriculture or the commissioner's designee shall notify
+the executive secretary of the Tennessee code commission upon receipt from the
+federal food safety and inspection service (FSIS) that Tennessee has met the
+requirements under the federal Meat Inspection Act (21 U.S.C. § 601 et seq.) to enter
+into a cooperative agreement with FSIS for a state meat inspection program.
+- 15 - 005116
+[DELETED:  a HSTA(((((((]
+[DELETED:  -0((((((((((((((]
+[DELETED:  -0(((((((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((((((((((]
+[DELETED:  -0(((((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0AS5A((5NSS((]
+[DELETED:  -0(]
+
+
+================================================================================
+
+Raw Text:
+House Agriculture & Natural Resources 1
+Amendment No. 1 to HB1302
+Todd
+Signature of Sponsor
+AMEND S e n ate Bill No. 1265* House Bill No. 1302
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 53, Chapter 7, Part 2, is amended by
+deleting the part and substituting:
+53-7-201. Short title.
+This part is known and may be cited as the "Tennessee Meat Inspection Act."
+53-7-202. Part definitions.
+As used in this part:
+(1) "Adulterated" has the same meaning as defined in 21 U.S.C. § 601;
+(2) "Capable of use as human food" has the same meaning as defined in
+21 U.S.C. § 601;
+(3) "Carcass" means all parts of a slaughtered animal, including viscera
+prior to their preparation as meat or meat food products that may be capable of
+use as human food;
+(4) "Commissioner" means the commissioner of agriculture or the
+commissioner's designee;
+(5) "Container" means any box, tin, cloth, receptacle, or other material in
+which meat or meat food products are packed;
+(6) "Custom operation":
+(A) Means a facility in this state operated under the authority of
+this part to slaughter, dress, or prepare another's animal for that person's
+HA0156
+005116
+- 1 -
+
+use or consumption within the household or among nonpaying guests or
+employees; and
+(B) Includes application as to slaughter or processing of livestock
+or game animals;
+(7) "Establishment" means a facility in this state operated under the
+authority of this part to slaughter livestock or prepare livestock carcasses for
+meat or meat food products for use in intrastate commerce;
+(8) "Federal Meat Inspection Act" means 21 U.S.C. § 601 et seq., its
+subsequent amendments, and associated regulations;
+(9) "Immediate container" means the container in which meat or meat
+food products are packed as individual units;
+(10) "Intrastate commerce" means commerce within this state;
+(11) "Label" has the same meaning as defined in 21 U.S.C. § 601;
+(12) "Labeling" has the same meaning as defined in 21 U.S.C. § 601;
+(13) "Livestock":
+(A) Means cattle, sheep, swine, or goats; and
+(B) Does not include feral animals or animals slaughtered for
+sport or recreational purposes;
+(14) "Meat":
+(A) Means muscle or part of any muscle of an animal;
+(B) Is either skeletal or is found in the tongue, diaphragm, heart,
+or esophagus, and exists with or without the accompanying fat and
+portions of bone, skin, sinew, nerve, and blood vessels that normally
+accompany muscle tissue and that are not separated from it in the
+process of dressing; and
+(C) Does not include muscle found in the lips, snout, or ears;
+- 2 - 005116
+
+(15) "Meat food product" means any product capable of use as human
+food that is made wholly or in part from any meat or other portion of the carcass
+of an animal, excepting products:
+(A) That contain meat only in de minimis proportion or that are not
+reasonably understood by consumers to contain meat; and
+(B) That are exempted from the definition of a meat food product
+by the commissioner under such conditions as the commissioner may
+prescribe to assure that the meat or other portions of such carcasses
+contained in such product are not adulterated and that such products are
+not represented as meat food products;
+(16) "Misbranded" has the same meaning as defined in 21 U.S.C. § 601;
+(17) "Person" means any individual, partnership, firm, corporation,
+association, or another form of business entity;
+(18) "Prepared" means slaughtered, canned, salted, rendered, boned,
+cut up, packed, packaged, or otherwise manufactured or processed; and
+(19) "USDA" means the United States department of agriculture.
+53-7-203. Purpose – Scope.
+(a) The purpose of this part is to create a federally recognized state meat
+inspection program to increase production capacity in this state for unadulterated and
+properly branded meat and meat food products.
+(b) This part applies to:
+(1) A person operating an establishment in this state where livestock are
+slaughtered or prepared for use in intrastate commerce;
+(2) A person in this state dealing in intrastate commerce relative to
+livestock carcasses, meat, or meat food products of livestock; and
+(3) A custom operation in this state.
+(c) This part does not apply to:
+- 3 - 005116
+
+(1) Slaughter, processing, or transporting of carcasses, meat, or meat
+food products from a person's own animals for use or consumption by the person
+or the person's household or nonpaying guests and employees;
+(2) Preparation and sale of carcasses, meat, and meat food products
+incident to retail food store or restaurant operations; provided, the meat and meat
+food products were previously inspected and approved under either this part or
+the federal Meat Inspection Act;
+(3) Third-party carrier services for the transportation of carcasses, meat,
+and meat food products previously inspected and approved under either this part
+or the federal Meat Inspection Act; or
+(4) An establishment operating solely under a federal grant of inspection
+from the United States department of agriculture, food safety inspection service.
+(d) State jurisdiction within the scope of this part is exclusive to the department
+of agriculture. A political subdivision of the state shall not regulate or inspect the
+slaughtering of any livestock or the processing or transportation of the carcasses, meat,
+or meat food products of livestock. This subsection (d) does not preclude or restrict
+political subdivisions of the state from exercising police powers, including zoning and
+code enforcement, at any establishment or custom operation licensed under this part or
+from entering collaborative agreements with the department of agriculture for
+performance of inspection duties and enforcement under this part.
+(e) Compliance with this part does not relieve any person from compliance with
+the Tennessee Food, Drug and Cosmetic Act, compiled in chapter 1 of this title, and the
+Testing and Sealing – Use of Weights and Measures Act, compiled in title 47, chapter
+26, part 9.
+53-7-204. Adoption of federal law.
+(a) For purposes of implementing a federally recognized state meat inspection
+program, the state adopts the following provisions of federal law:
+- 4 - 005116
+
+(1) 7 U.S.C. § 1902, relative to humane slaughter and humane handling
+in connection with livestock;
+(2) 7 U.S.C. § 1906, relative to ritual slaughter of livestock;
+(3) 7 U.S.C. § 1907, relative to the humane treatment of nonambulatory
+livestock;
+(4) 21 U.S.C. § 603, relative to antemortem inspection, quarantine,
+segregation, and humane slaughter of livestock;
+(5) 21 U.S.C. § 604, relative to postmortem inspection, labeling,
+destruction, and reinspection of livestock carcasses;
+(6) 21 U.S.C. § 605, relative to the inspection of carcasses, meat, or
+meat food products of livestock brought into establishments;
+(7) 21 U.S.C. § 606, relative to inspection and labeling of meat food
+products of livestock;
+(8) 21 U.S.C. § 607, relative to labeling, marking, and container
+requirements for carcasses, meat, and meat food products of livestock; provided,
+that the commissioner may withhold any false or misleading mark, label, or
+container unless the marking, labeling, or container is modified in such manner
+as the commissioner may prescribe so that it will not be false or misleading;
+(9) 21 U.S.C. § 608, relative to sanitary conditions;
+(10) 21 U.S.C. § 610, relative to prohibited acts;
+(11) 21 U.S.C. § 611, relative to devices, marks, labels, and certificates;
+(12) 21 U.S.C. § 612, relative to notifying the commissioner of
+adulterated or misbranded meat or meat food products of livestock;
+(13) 21 U.S.C. § 613, relative to recall procedures and process control
+plans;
+(14) 21 U.S.C. § 619, relative to identification of livestock and separation
+of slaughtering and preparation activities;
+- 5 - 005116
+
+(15) 21 U.S.C. § 621, relative to appointment and duties of inspectors;
+(16) 21 U.S.C. § 623, relative to personal slaughter and custom
+slaughtering;
+(17) 21 U.S.C. § 641, relative to products not intended for use as human
+food and denaturation;
+(18) 21 U.S.C. § 642, relative to recordkeeping requirements;
+(19) 21 U.S.C. § 643, relative to registration of businesses dealing in
+carcasses, meat, or meat food products of livestock in intrastate commerce; and
+(20) 21 U.S.C. § 644, relative to transportation of or transactions
+involving dead, dying, disabled, or diseased animals.
+(b) For application to a state meat inspection program, the federal laws adopted
+under subsection (a) must be construed as follows, unless otherwise appropriate
+according to context:
+(1) References to secretary refer to the commissioner;
+(2) References to amenable species, lists of species, and species
+designated by regulations of the secretary refer to livestock and any additional
+species of animal that the commissioner defines as an amenable species by rule;
+(3) References to commerce refer to intrastate commerce;
+(4) References to the United States or any state, territory, or the District
+of Columbia refer to this state;
+(5) Whenever an official mark, form, certificate, or seal is designated or
+required, the mark, form, certificate, or seal established by the commissioner
+must be substituted; and
+(6) Except as provided in subdivisions (b)(1)-(5), for terms that are not
+otherwise defined in § 53-7-202, the state adopts the definitions in 21 U.S.C. §
+601.
+53-7-205. License requirements – Fees.
+- 6 - 005116
+
+(a) A person operating an establishment or custom operation must first obtain a
+license from the commissioner. All licenses provided for in this part expire annually.
+(b) In order to obtain and maintain a license under this part, a person must:
+(1) Submit, on forms provided by the department of agriculture,
+information prescribed by rule as necessary for the efficient enforcement of this
+part;
+(2) Pay to the department of agriculture annual license fees, prescribed
+by rule under § 43-1-703;
+(3) Consent to reasonable inspection of the person's facilities,
+equipment, and inventory of carcasses, meat, and meat food products; and
+(4) Not have been convicted of a felony or convicted of more than one (1)
+of any other crime, either of which is based upon the acquiring, handling, or
+distributing of adulterated, misbranded, or deceptively packaged food, or upon
+fraud in connection with food transactions. This restriction applies to persons
+operating an establishment and persons responsibly connected to the
+establishment.
+(c) Prior to the approval of an application for licensure, the commissioner must
+inspect the sanitary condition of the establishment or custom operation. If the
+commissioner finds its condition conforms to the requirements of this part, the
+department of agriculture may issue the license.
+(d) Licenses issued under this part are for the location of the licensed
+establishment or custom operation and are not transferable from person to person or
+location to location.
+53-7-206. Powers of commissioner.
+(a) The commissioner is authorized to:
+(1) Carry out or cause to be carried out all provisions of this part;
+- 7 - 005116
+
+(2) Collect all fees established pursuant to this part and apply the fees to
+the necessary and incidental costs of the administration of this part in
+accordance with title 43, chapter 1, part 7;
+(3)
+(A) Promulgate rules, pursuant to the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5, as necessary to effectuate
+this part, including, but not limited to, rules that adopt required standards
+under the federal Meat Inspection Act or that otherwise establish:
+(i) Fees for licensure, registration, and inspection services
+of persons and facilities under this part;
+(ii) Standards for the sale or transportation of dead, dying,
+disabled, or diseased animals;
+(iii) Standards for the sanitary operation of establishments
+and custom operations;
+(iv) Applicant information required for licensure under this
+part;
+(v) Registration requirements for persons engaged in
+businesses set forth in Section 203 of the federal Meat Inspection
+Act (21 U.S.C. § 643);
+(vi) Inspection, humane handling, and sanitation
+requirements for animals other than livestock which can or may be
+used in and for the preparation of meat or meat food products;
+and
+(vii) Requirements for denaturing and identifying products
+as not intended for use as human food; and
+(B) Rules promulgated pursuant to this part must conform with
+requirements of the federal Meat Inspection Act as necessary to gain
+- 8 - 005116
+
+federal recognition and approval of a state-inspected meat program and
+incorporate regulations compiled at 9 CFR, chapter 3, subchapters A and
+E;
+(4) Cooperate with the USDA in developing and administering the meat
+inspection program of this state under this part to ensure that its requirements
+are at least equal to those imposed by the federal Meat Inspection Act;
+(5) Accept from the USDA advisory assistance; technical and laboratory
+assistance and training, including necessary curricular and instructional materials
+and equipment; and financial and other aid for administration of the program;
+(6) Spend state funds, subject to appropriation in the general
+appropriations act, for administration of this part;
+(7) Recommend to the USDA officials or employees for appointment to
+the advisory committee provided for in 21 U.S.C. § 661;
+(8) Cooperate with other state, county, or municipal agencies for
+administration of this part, including entering into agreements with county or
+municipal health departments to carry out duties and requirements of this part;
+(9) Conduct all inspections as provided in this part and designate any
+officer or employee of this state or any political subdivision of this state for such
+purpose;
+(10) Embargo articles found or suspected to be in violation of this part;
+(11) Seek injunctions from any court of competent jurisdiction to restrain
+persons from violating this part;
+(12) Determine requirements for and issue licenses under this part;
+(13) Deny, suspend, or revoke licenses and issue civil penalties for
+violations of this part;
+(14) Inspect and copy records of establishments and custom operations
+for purposes of determining their compliance with this part;
+- 9 - 005116
+
+(15) Hire or appoint qualified personnel sufficient to carry out the duties
+required by this part; and
+(16) Serve as the governor's representative for consultation with the
+USDA under the federal Meat Inspection Act unless the governor designates
+another representative.
+53-7-207. Inspections.
+(a) Establishments and persons are ineligible for inspection services under this
+part unless they have obtained a valid license from the commissioner.
+(b) The commissioner may provide voluntary inspection for animals other than
+livestock that can or may be used in and for the preparation of meat or meat food
+products for distribution in intrastate commerce. The commissioner may refuse to
+provide voluntary inspection services for good cause shown, including, but not limited to,
+limitation of staff resources or inspector expertise. In all instances, the commissioner
+shall give scheduling priority to inspection services that are mandated by the federal
+Meat Inspection Act for processing of livestock in intrastate commerce.
+(c) For the purpose of providing inspection required under this part,
+establishments shall provide the department of agriculture, upon showing of proper
+credentials, free access and opportunity to examine establishment facilities and
+equipment, to review and copy records, and to take reasonable samples of inventory or
+product as necessary to determine compliance with this part.
+(d)
+(1) The cost for inspection services is as follows:
+(A) For livestock, the cost of inspection required under this part is
+borne by the state; provided, that any extra cost of inspection from
+overtime or holiday operation is borne by the establishment, as set by rule
+under § 43-1-703; and
+- 10 - 005116
+
+(B) For voluntary inspection services, the cost of inspection
+required under this part is borne by the establishment, as set by rule
+under § 43-1-703.
+(2) The costs for inspection services under subdivision (d)(1) do not
+cover costs associated with devices and supplies used for marking and
+stamping, containers, and labels, which are borne by the establishment, as set
+by rule under § 43-1-703. However, all devices and supplies used for marking
+inspection approvals upon food products are under the exclusive control of the
+department of agriculture.
+53-7-208. Custom operations.
+(a) Custom operations are subject only to provisions of this part relating to
+licensing, registration, humane slaughter, humane handling, sanitation, misbranding, and
+adulteration.
+(b) The commissioner may exempt from state meat inspection any animals or
+their meat or meat food products that are processed for custom operations; provided,
+that:
+(1) The custom operations occur in a facility that is licensed under this
+part;
+(2) The facility separates at all times carcasses, meat, meat food
+products, and their containers prepared on a custom basis from inspected
+carcasses, meat, or meat food products, and their containers prepared for sale;
+(3) The facility plainly marks all articles and their containers prepared on
+a custom basis as "Not for Sale". The mark must be made immediately after
+being packaged and the article kept so identified until delivered to the owner; and
+(4) The facility is maintained and operated in a sanitary manner.
+(c) Notwithstanding subsection (a), custom operations shall provide the
+department of agriculture, upon showing of proper credentials, free access and
+- 11 - 005116
+
+opportunity to examine custom operation facilities and equipment, to review and copy
+records, and to take reasonable samples of inventory or product as necessary to
+determine whether the custom operation qualifies for exemption from regular inspections
+and is otherwise in compliance with this part.
+53-7-209. Prohibited acts.
+(a) It is a violation of this part for a person to:
+(1) Engage in an act prohibited under the federal Meat Inspection Act;
+(2) Slaughter livestock or process meat or meat food products in violation
+of this part;
+(3) Slaughter livestock in intrastate commerce, process meat or meat
+food products in intrastate commerce, or conduct a custom operation without a
+license required under this part;
+(4) Generate products from a custom operation unless individually
+labeled "Not for Sale";
+(5) Sell, offer for sale, distribute, or transport in commerce products
+generated from a custom operation;
+(6) Fail to denature or otherwise identify as required by rules any meat or
+meat food product that has been inspected and found to be adulterated;
+(7)
+(A) Interfere with the commissioner in the performance of official
+duties, including inspection of licensed establishments; and
+(B) As used in this subdivision (a)(7), "interfere" includes, but is
+not limited to, forcible assault or resistance, physical impediment,
+intimidation, or other conduct designed to interrupt performance of
+departmental duties under this part;
+(8) Remove, sell, or dispose of an embargoed article without permission
+of the commissioner or a court; or
+- 12 - 005116
+
+(9) Remove a tag or other marking affixed to an article giving notice that
+the article is embargoed.
+(b) A violation of this part is punishable as a Class C misdemeanor. This section
+does not require the department of agriculture to report violations of this part for criminal
+prosecution if the department of agriculture believes that the public interest will be
+adequately served and compliance with this part is obtained by a suitable written notice
+of warning or application of civil penalty.
+53-7-210. Violations – Suspension and revocation.
+(a) The commissioner may deny, suspend, or revoke a license issued pursuant
+to this part if the commissioner finds, after notice and opportunity for a hearing, that the
+applicant or licensee has violated this part.
+(b) Inspection services under this part must not be conducted at any
+establishment where the commissioner has denied, suspended, or revoked a license.
+(c) Upon demonstration that the conditions that led to denial, suspension, or
+revocation of a license have been cured, persons may submit a new application for a
+license.
+53-7-211. Embargo and condemnation.
+(a) Whenever the commissioner has probable cause to believe that a carcass,
+meat, or meat food product is adulterated, misbranded, or otherwise in violation of this
+part or that any mark, label, or container is false or misleading, the commissioner may
+mark the article as embargoed and conduct enforcement resolution procedures
+consistent with § 53-1-201.
+(b) In lieu of condemnation or destruction, articles that may comply with this part
+upon further reprocessing or relabeling may be ordered held, in the discretion of the
+commissioner, until such time as the articles are reprocessed or relabeled and found
+upon reinspection to comply with this part.
+53-7-212. Hearings and appeals.
+- 13 - 005116
+
+A hearing or appeal held pursuant to this part must be conducted substantially in
+accordance with the contested case provisions of the Uniform Administrative Procedures
+Act, compiled in title 4, chapter 5, part 3.
+SECTION 2. Tennessee Code Annotated, Title 53, Chapter 7, is amended by addition
+of the following as a new part:
+53-7-401. Part definitions.
+As used in this part:
+(1) "Federal Poultry Products Act" means the act compiled at 21 U.S.C. §
+451 et seq. and its subsequent amendments; and
+(2) "USDA" means the United States department of agriculture.
+53-7-402. Poultry.
+Nothing in this chapter applies to any action subject to regulation under the
+Federal Poultry Products Act, which remains under the sole jurisdiction of the USDA,
+food safety inspection service; provided, that state inspectors are not excluded from
+making routine inspections and from taking samples at federally inspected plants when
+cooperating with federal authorities for purposes of enforcing federal regulation.
+SECTION 3. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 4.
+(a) For purposes of promulgating rules, hiring of personnel, and taking other
+administrative actions necessary to implement this act, this act takes effect upon
+becoming a law, the public welfare requiring it.
+(b) For all other purposes, this act takes effect immediately upon thirty (30) days
+following the commissioner of agriculture's receipt from the United States department of
+agriculture, food safety and inspection service, that the requirements of the federal Meat
+- 14 - 005116
+
+Inspection Act (21 U.S.C. § 601 et seq.) necessary to a cooperative agreement for a
+state meat inspection program have been met.
+(c) The commissioner of agriculture or the commissioner's designee shall notify
+the executive secretary of the Tennessee code commission upon receipt from the
+federal food safety and inspection service (FSIS) that Tennessee has met the
+requirements under the federal Meat Inspection Act (21 U.S.C. § 601 et seq.) to enter
+into a cooperative agreement with FSIS for a state meat inspection program.
+- 15 - 005116
+
+[DELETED:  a HSTA(((((((]
+[DELETED:  -0((((((((((((((]
+[DELETED:  -0(((((((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((((((((((]
+[DELETED:  -0(((((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0AS5A((5NSS((]
+[DELETED:  -0(]

@@ -1,0 +1,200 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 289
+By Travis
+A RESOLUTION to commemorate the Centennial of the Scopes
+Trial in Dayton.
+WHEREAS, in July 1925, the Scopes Trial drew the world's attention to Dayton,
+Tennessee, where the subject of evolution would become forefront in the minds of every legal
+scholar and spectator; and
+WHEREAS, the Scopes Trial had an enduring impact on the nation's consciousness, as
+it sought to justify the coexistence of faith and science amid the advancing secularism of the
+early twentieth century; and
+WHEREAS, in March 1925, the Tennessee General Assembly overwhelmingly passed
+legislation sponsored by Representative John W. Butler that made it illegal to teach "any theory
+that denies the story of Divine Creation of man as taught in the Bible, and to teach instead that
+man has descended from a lower order of animals"; and
+WHEREAS, the American Civil Liberties Union (ACLU) viewed the act as
+unconstitutional and offered to represent a Tennessee educator in a test case of the statute;
+and
+WHEREAS, learning of this offer, civic leaders in Dayton decided to pursue such a case
+in an effort to draw publicity to their community, choosing as their alleged violator John T.
+Scopes, a science teacher at the local high school, who may have discussed evolution with his
+students during a biology review session held in April 1924; and
+WHEREAS, Mr. Scopes was quickly indicted for violating the so-called Butler Act by a
+special grand jury called by the local judge; and
+WHEREAS, when the Scopes Trial opened on July 10, 1925, the defense team included
+several lawyers, most notably the legendary trial attorney Clarence Darrow; the prosecution
+HJR0289
+004078
+- 1 -
+team included the Tennessee Attorney General and others, but its most famous member was
+the Great Commoner, orator, and politician William Jennings Bryan, who had been invited to
+serve as a special prosecutor; and
+WHEREAS, Judge John T. Raulston ruled out expert testimony concerning the scientific
+status of evolution, and the prosecution focused on Mr. Scopes's violation of the act; thus,
+important underlying issues were largely ignored; and
+WHEREAS, the dramatic climax of the Scopes Trial took place on July 20, 1925,when
+Clarence Darrow called William Jennings Bryan to the stand as an expert witness on the Bible;
+and
+WHEREAS, during the ninety-minute examination, Mr. Darrow tested Mr. Bryan's
+knowledge of the Bible, and Mr. Bryan eventually admitted that he did not believe that every
+passage in the Bible could be taken literally; and
+WHEREAS, court reconvened on July 21, 1925, and Mr. Darrow urged the jury to
+convict Mr. Scopes in anticipation of appealing the verdict; the jury returned a guilty verdict in
+less than ten minutes, and Judge Raulston levied the minimum fine of one hundred dollars
+against Mr. Scopes; and
+WHEREAS, the antievolution crusade actually gained strength from the Scopes Trial, as
+Mr. Scopes's conviction showed that an antievolution statute could be upheld in court; and
+WHEREAS, antievolution bills were subsequently passed in two additional states, and
+the place of evolution in the biology curriculum remained ambiguous nationwide, as schools and
+teachers shied away from teaching the concept and publishers deleted the topic from their
+biology textbooks; and
+WHEREAS, the ACLU appealed Mr. Scopes's conviction to the Tennessee Supreme
+Court, which ruled that nothing in the Butler Act violated either the Tennessee Constitution or
+- 2 - 004078
+the United States Constitution in regard to the establishment of religion by the government, as it
+did not require the teaching of anything; and
+WHEREAS, while upholding the act, the Supreme Court reversed the conviction, finding
+that any fine over fifty dollars must be levied by a jury pursuant to the Tennessee Constitution;
+by imposing a higher fine from the bench, Judge Raulston had violated the Constitution; and
+WHEREAS, the Butler Act remained in the Tennessee Code for the next forty years,
+until the General Assembly repealed the measure in 1967; even after repeal, the ghost of the
+Scopes trial continued to haunt the State; and
+WHEREAS, over the years, attempts to eliminate or compromise the teaching of
+evolution emerged in Tennessee and across the nation; such attempts attracted local, national,
+and international media attention to the State, always identified as the site of the Scopes trial
+decades earlier; and
+WHEREAS, today, schoolchildren and scholars still return to that courthouse on the
+square as the subject of the Scopes Trial becomes ever more relevant to contemporary public
+discourse; and
+WHEREAS, in their campaign to gain publicity, the Dayton boosters of 1925 succeeded
+to a far greater degree than they could possibly have anticipated; and
+WHEREAS, Tennessee's countless historical contributions have embedded the State's
+unique character into the consciousness of our beloved nation and should always be revered,
+for these are the events that have directed the course of history and will help determine our
+future; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we commemorate the Centennial of the Scopes Trial in Dayton as a
+fundamental moment in the history of Tennessee and the United States as mankind continues
+- 3 - 004078
+attempts to reconcile its faith in God while existing in a rapidly advancing technological
+landscape and secularist postmodern culture.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 4 - 004078
+[DELETED: WWWWWWW]
+[DELETED:  -0WWWWWWW]
+[DELETED:  -0WWWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 289
+By Travis
+A RESOLUTION to commemorate the Centennial of the Scopes
+Trial in Dayton.
+WHEREAS, in July 1925, the Scopes Trial drew the world's attention to Dayton,
+Tennessee, where the subject of evolution would become forefront in the minds of every legal
+scholar and spectator; and
+WHEREAS, the Scopes Trial had an enduring impact on the nation's consciousness, as
+it sought to justify the coexistence of faith and science amid the advancing secularism of the
+early twentieth century; and
+WHEREAS, in March 1925, the Tennessee General Assembly overwhelmingly passed
+legislation sponsored by Representative John W. Butler that made it illegal to teach "any theory
+that denies the story of Divine Creation of man as taught in the Bible, and to teach instead that
+man has descended from a lower order of animals"; and
+WHEREAS, the American Civil Liberties Union (ACLU) viewed the act as
+unconstitutional and offered to represent a Tennessee educator in a test case of the statute;
+and
+WHEREAS, learning of this offer, civic leaders in Dayton decided to pursue such a case
+in an effort to draw publicity to their community, choosing as their alleged violator John T.
+Scopes, a science teacher at the local high school, who may have discussed evolution with his
+students during a biology review session held in April 1924; and
+WHEREAS, Mr. Scopes was quickly indicted for violating the so-called Butler Act by a
+special grand jury called by the local judge; and
+WHEREAS, when the Scopes Trial opened on July 10, 1925, the defense team included
+several lawyers, most notably the legendary trial attorney Clarence Darrow; the prosecution
+HJR0289
+004078
+- 1 -
+
+team included the Tennessee Attorney General and others, but its most famous member was
+the Great Commoner, orator, and politician William Jennings Bryan, who had been invited to
+serve as a special prosecutor; and
+WHEREAS, Judge John T. Raulston ruled out expert testimony concerning the scientific
+status of evolution, and the prosecution focused on Mr. Scopes's violation of the act; thus,
+important underlying issues were largely ignored; and
+WHEREAS, the dramatic climax of the Scopes Trial took place on July 20, 1925,when
+Clarence Darrow called William Jennings Bryan to the stand as an expert witness on the Bible;
+and
+WHEREAS, during the ninety-minute examination, Mr. Darrow tested Mr. Bryan's
+knowledge of the Bible, and Mr. Bryan eventually admitted that he did not believe that every
+passage in the Bible could be taken literally; and
+WHEREAS, court reconvened on July 21, 1925, and Mr. Darrow urged the jury to
+convict Mr. Scopes in anticipation of appealing the verdict; the jury returned a guilty verdict in
+less than ten minutes, and Judge Raulston levied the minimum fine of one hundred dollars
+against Mr. Scopes; and
+WHEREAS, the antievolution crusade actually gained strength from the Scopes Trial, as
+Mr. Scopes's conviction showed that an antievolution statute could be upheld in court; and
+WHEREAS, antievolution bills were subsequently passed in two additional states, and
+the place of evolution in the biology curriculum remained ambiguous nationwide, as schools and
+teachers shied away from teaching the concept and publishers deleted the topic from their
+biology textbooks; and
+WHEREAS, the ACLU appealed Mr. Scopes's conviction to the Tennessee Supreme
+Court, which ruled that nothing in the Butler Act violated either the Tennessee Constitution or
+- 2 - 004078
+
+the United States Constitution in regard to the establishment of religion by the government, as it
+did not require the teaching of anything; and
+WHEREAS, while upholding the act, the Supreme Court reversed the conviction, finding
+that any fine over fifty dollars must be levied by a jury pursuant to the Tennessee Constitution;
+by imposing a higher fine from the bench, Judge Raulston had violated the Constitution; and
+WHEREAS, the Butler Act remained in the Tennessee Code for the next forty years,
+until the General Assembly repealed the measure in 1967; even after repeal, the ghost of the
+Scopes trial continued to haunt the State; and
+WHEREAS, over the years, attempts to eliminate or compromise the teaching of
+evolution emerged in Tennessee and across the nation; such attempts attracted local, national,
+and international media attention to the State, always identified as the site of the Scopes trial
+decades earlier; and
+WHEREAS, today, schoolchildren and scholars still return to that courthouse on the
+square as the subject of the Scopes Trial becomes ever more relevant to contemporary public
+discourse; and
+WHEREAS, in their campaign to gain publicity, the Dayton boosters of 1925 succeeded
+to a far greater degree than they could possibly have anticipated; and
+WHEREAS, Tennessee's countless historical contributions have embedded the State's
+unique character into the consciousness of our beloved nation and should always be revered,
+for these are the events that have directed the course of history and will help determine our
+future; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we commemorate the Centennial of the Scopes Trial in Dayton as a
+fundamental moment in the history of Tennessee and the United States as mankind continues
+- 3 - 004078
+
+attempts to reconcile its faith in God while existing in a rapidly advancing technological
+landscape and secularist postmodern culture.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 4 - 004078
+
+[DELETED: WWWWWWW]
+[DELETED:  -0WWWWWWW]
+[DELETED:  -0WWWWWWB]
+[DELETED:  -0B]

@@ -1,0 +1,102 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 76
+By Southerland
+A RESOLUTION to honor and commend EastView Elementary
+School upon its nomination as a National Blue
+Ribbon School.
+WHEREAS, it is fitting that we pay tribute to those educational institutions that, through
+the natural talents and unflagging commitment to academic excellence evidenced by their
+administration, faculty, staff, and students, have earned prestigious acclaim; and
+WHEREAS, EastView Elementary School is one such exemplary institution, which was
+recently nominated by the Tennessee Department of Education for the prestigious honor of
+being named a National Blue Ribbon School by the United States Department of Education; and
+WHEREAS, the National Blue Ribbon School program honors only those public and
+private schools that demonstrate exceptional academic achievement as "Exemplary High
+Performing" or that make great advances in closing subgroup achievement gaps as "Exemplary
+Achievement Gap Closing" award winners; and
+WHEREAS, if chosen, EastView Elementary will be among a select number of schools
+in the nation chosen to receive this coveted award, which would place it among the top schools
+in the United States; and
+WHEREAS, Principal Kelly Ford and the faculty and staff at EastView Elementary
+School have built an environment at their school that ensures students have the very best
+atmosphere for learning; and
+WHEREAS, EastView Elementary School's nomination is a tremendous source of pride
+for its administration, teachers, students, parents, and community; and
+SJR0076
+002803
+- 1 -
+WHEREAS, the dedication to academic excellence demonstrated by all the fine
+individuals affiliated with EastView Elementary School is clearly deserving of our respect,
+admiration, and commendation; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we congratulate EastView Elementary School upon
+its nomination for selection as a National Blue Ribbon School, salute the school's
+administration, faculty, staff, and students on this prestigious honor, and extend to them our
+best wishes for much continued success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 002803
+[DELETED: WWWWWW]
+[DELETED:  -0WB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 76
+By Southerland
+A RESOLUTION to honor and commend EastView Elementary
+School upon its nomination as a National Blue
+Ribbon School.
+WHEREAS, it is fitting that we pay tribute to those educational institutions that, through
+the natural talents and unflagging commitment to academic excellence evidenced by their
+administration, faculty, staff, and students, have earned prestigious acclaim; and
+WHEREAS, EastView Elementary School is one such exemplary institution, which was
+recently nominated by the Tennessee Department of Education for the prestigious honor of
+being named a National Blue Ribbon School by the United States Department of Education; and
+WHEREAS, the National Blue Ribbon School program honors only those public and
+private schools that demonstrate exceptional academic achievement as "Exemplary High
+Performing" or that make great advances in closing subgroup achievement gaps as "Exemplary
+Achievement Gap Closing" award winners; and
+WHEREAS, if chosen, EastView Elementary will be among a select number of schools
+in the nation chosen to receive this coveted award, which would place it among the top schools
+in the United States; and
+WHEREAS, Principal Kelly Ford and the faculty and staff at EastView Elementary
+School have built an environment at their school that ensures students have the very best
+atmosphere for learning; and
+WHEREAS, EastView Elementary School's nomination is a tremendous source of pride
+for its administration, teachers, students, parents, and community; and
+SJR0076
+002803
+- 1 -
+
+WHEREAS, the dedication to academic excellence demonstrated by all the fine
+individuals affiliated with EastView Elementary School is clearly deserving of our respect,
+admiration, and commendation; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we congratulate EastView Elementary School upon
+its nomination for selection as a National Blue Ribbon School, salute the school's
+administration, faculty, staff, and students on this prestigious honor, and extend to them our
+best wishes for much continued success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 002803
+
+[DELETED: WWWWWW]
+[DELETED:  -0WB]

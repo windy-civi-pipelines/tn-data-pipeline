@@ -1,0 +1,431 @@
+Title: AMEND S e n ate Bill No. 1139 House Bill No. 542*
+Official Title: AMEND S e n ate Bill No. 1139 House Bill No. 542*
+Number of Sections: 4
+Source: versions - Amendment SA0304
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+Senate State and Local Government 2
+Amendment No. 2 to SB1139
+Briggs
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 7, Chapter 51, is amended by adding
+the following as a new part:
+7-51-2601. Part definitions.
+As used in this part:
+(1) "Approved contractor" means a contractor that:
+(A) Is an appropriately licensed contractor in the state, with
+demonstrated experience in the construction or installation of the utility
+infrastructure that will be constructed or installed;
+(B) Agrees to comply with the utility's standard work rules and
+operational standards that apply to contractors that perform work for the
+utility;
+(C) Provides an agreement from the customer to convey utility
+infrastructure installed pursuant to this part to the utility at no cost to the
+utility and free and clear of all liens, claims, and encumbrances;
+(D) Provides a performance bond, warranties, and other
+assurances of performance that the utility requires of contractors that
+perform work for the utility;
+(E) Has liability insurance with limits of liability and other terms of
+coverage that the utility requires of contractors that perform work for the
+utility;
+SA0304
+006399
+- 1 -
+(F) Provides indemnification to the utility on terms that the utility
+requires of contractors that perform work for the utility; and
+(G) Is a current contractor for the utility that is in good standing, is
+listed on a utility's list of contractors that are approved for the construction
+or installation of utility infrastructure, or is otherwise approved by the utility
+in writing for construction or installation of the proposed utility
+infrastructure;
+(2) "Customer", in the case of a cooperative, means a member of the
+cooperative and, in the case of any other utility, means a customer of the utility;
+(3) "Third-party plans examiner" means an engineer who:
+(A) Is registered as a professional engineer in accordance with
+title 62, chapter 2, with expertise in the design and construction of the
+utility infrastructure that will be constructed or installed; and
+(B) Has appropriate liability insurance with limits of liability and
+other terms of coverage that the utility requires of its own third-party
+engineers;
+(4) "Utility" means:
+(A) An entity subject to the jurisdiction of the Tennessee board of
+utility regulation in accordance with § 7-82-701;
+(B) A cooperative, as defined in § 65-25-102; or
+(C) A county-owned, metropolitan government-owned, or
+municipal-owned utility that provides water, wastewater, electric, natural
+gas, or stormwater management and drainage to the public; and
+(5) "Utility infrastructure" means the water, wastewater, electric, natural
+gas, or storm water management and drainage facilities, as applicable, that are
+included in the proposed construction or installation plan and are necessary to
+- 2 - 006399
+provide the applicable utility service or services to customers within the proposed
+plan of development.
+7-51-2602. Installation of utility infrastructure by private contractors.
+(a) A utility in this state shall allow a customer of the utility or person submitting a
+plan of development to the utility the option to use an approved contractor or approved
+contractors of the customer's choosing for the installation of such utility infrastructure.
+Utilities shall produce a publicly available list of approved contractors and the process for
+becoming an approved contractor.
+(b) If a customer or customer representative engages an approved contractor
+pursuant to subsection (a), then, prior to the commencement of work, the customer or
+customer representative shall provide:
+(1) The name, intended address, and local jurisdiction of the planned
+development;
+(2) The approved contractor's name;
+(3) Evidence of the contractor's eligibility to operate as an approved
+contractor in accordance with the requirements under § 7-51-2601(1); and
+(4) Other information as the utility may reasonably require.
+(c) No later than ten (10) business days after submission of the documents
+required under subsection (b), the utility shall:
+(1) Confirm the contractor's status as an approved contractor and allow
+the contractor to proceed as an approved contractor in accordance with the
+requirements for an approved contractor under this part, if the customer or
+customer representative complies with the requirements of subsection (b);
+(2) Provide to the customer, or the customer's representative, a report of
+deficiencies; or
+(3) Request additional information necessary to determine the eligibility
+of the contractor's status as an approved contractor.
+- 3 - 006399
+(d) If ten (10) business days pass and the utility fails to take an action as
+required by subsection (c), then the contractor may proceed as an approved contractor
+and shall comply with the requirements for an approved contractor under this part.
+(e) The utility shall perform inspections of the installation and construction of the
+utility infrastructure installed by the approved contractor in the development, and the
+utility may also inspect materials and test the utility infrastructure as part of such
+inspections. The approved contractor is responsible for correcting any deficiencies
+associated with its installation or construction, and the utility is not required to accept or
+commission the utility infrastructure until it determines that the installation and
+construction complies with all applicable requirements under this part. The utility may
+charge a reasonable fee for such inspections and testing in accordance with a schedule
+of fees or charges adopted by the utility and made publicly available.
+(f) Notwithstanding subsection (a), a utility may require the direct installation or
+construction of specific utility infrastructure by the utility or by an approved contractor
+under the direct supervision of the utility where the requirement is necessary to ensure
+public safety or service reliability of the utility.
+7-51-2603. Utility infrastructure specifications.
+(a) A utility may provide reasonable construction and manufacturer's
+specifications for utility infrastructure to ensure that the infrastructure is constructed
+properly and with appropriate materials. A utility that chooses to provide such
+specifications shall provide persons with a schedule of all approved materials for utility
+infrastructure with specifications for such materials.
+(b) Notwithstanding subsection (a), a utility shall not require that materials or
+services for the construction of the utility infrastructure be provided by a specific vendor
+or manufacturer unless using the materials or services by a specific vendor or
+manufacturer is deemed necessary by the utility for the quality and integrity of the utility's
+system.
+- 4 - 006399
+7-51-2604. Utility infrastructure plans and designs.
+(a) Where a utility does not customarily prepare plans and designs for utility
+infrastructure within a plan of development and requires a customer or customer
+representative to prepare and submit such plans and designs, the utility shall:
+(1) Not charge a fee of more than the fee established in a schedule of
+fees and charges adopted by the utility for review of the plans and designs; and
+(2) Complete the review of the plans and designs within sixty (60)
+business days of the date the plans and designs are submitted to the utility and
+are determined by the utility to be complete. The sixty-business-day review time
+frame required under this subdivision (a)(2) does not include the time spent by a
+state or federal regulatory body to provide any approvals that are required under
+applicable state or federal regulatory requirements.
+(b) If the utility does not complete the review in accordance with subdivision
+(a)(2), then the customer or customer representative who submitted the plan or design
+may hire a third-party plans examiner to review the plans and designs for compliance
+with all applicable state and federal regulatory requirements, codes, and local
+requirements.
+(c) If a customer or customer representative engages a third-party plans
+examiner pursuant to subsection (b) in lieu of review by the utility, then the customer or
+customer representative shall submit the appropriate fee, if such fee was not already
+submitted, and a stamped and sealed copy of all plans that were examined to the utility
+and provide:
+(1) The name, intended address, and local jurisdiction of the planned
+development;
+(2) The third-party plans examiner's name;
+(3) A sworn statement under penalty of perjury by the third-party plans
+examiner, declaring that the plans comply with the applicable state and federal
+- 5 - 006399
+regulatory requirements, applicable codes, and local requirements, and that no
+deficiencies remain;
+(4) A statement of the state and federal regulatory requirements used to
+perform the plans examination;
+(5) A statement of the applicable codes of the local jurisdiction and the
+codes used to perform the plans examination;
+(6) A statement of the local requirements of the utility used to perform the
+plans examination;
+(7) The occupancy classification of the structure;
+(8) Evidence of the examiner's eligibility to serve as a third-party
+examiner, including all necessary proof of insurance; and
+(9) Other information as the utility may reasonably require.
+(d) No later than ten (10) business days after submission of the documents
+required under subsection (c), the utility shall:
+(1) Approve the plans, if the plans comply with state and federal
+regulatory requirements, local standards, and applicable codes;
+(2) Provide to the customer or customer representative a report of
+deficiencies; or
+(3) Request additional information necessary to ensure compliance with
+state and federal regulatory requirements, local standards, and applicable codes.
+(e) If ten (10) business days pass and the utility fails to take an action as
+required by subsection (d), then the utility must refund any associated plan review fees
+that were collected, and the plans are deemed approved by the utility.
+(f) If the plan of development is approved after review by a third-party plans
+examiner and the customer engages an approved contractor to install or construct utility
+infrastructure, the utility shall perform inspections of the installation and construction of
+the utility infrastructure in the development. The utility may also inspect materials and
+- 6 - 006399
+test the utility infrastructure as part of such inspections. The customer or its approved
+contractor is responsible for the costs of correcting any deficiencies in the installation
+and construction, and the utility is not required to accept or commission the utility
+infrastructure until the utility determines that the installation and construction complies
+with all applicable requirements under this part. The utility may charge a reasonable fee
+for such inspections and testing in accordance with a schedule of fees or charges
+adopted by the utility and made publicly available.
+(g) This section does not apply to the types of plans and designs of utility
+infrastructure that are customarily prepared by the utility for the customer in accordance
+with a standard practice that is in effect at the utility as of July 1, 2025, or a policy that is
+subsequently adopted by the utility.
+7-51-2605. Regulatory compliance.
+In the event that an obligation under this part conflicts with an applicable state or
+federal regulatory requirement, the applicable state or federal regulatory requirement
+controls and supersedes any obligation of the utility under this part to the extent
+necessary to resolve the conflict.
+7-51-2606. Excused delay.
+In the event that an act of God, fire, flood, storm, accident, or similar event
+constituting force majeure causes a utility to require more time to meet the review
+requirements of this part, then the timelines set forth in this part must be suspended for
+so long as the utility's operations are impacted by one (1) or more such events.
+
+Section 3:
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to plans of development submitted on or after that date.
+- 7 - 006399
+[DELETED:  a H]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -07I]
+
+
+================================================================================
+
+Raw Text:
+Senate State and Local Government 2
+Amendment No. 2 to SB1139
+Briggs
+Signature of Sponsor
+AMEND S e n ate Bill No. 1139 House Bill No. 542*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 7, Chapter 51, is amended by adding
+the following as a new part:
+7-51-2601. Part definitions.
+As used in this part:
+(1) "Approved contractor" means a contractor that:
+(A) Is an appropriately licensed contractor in the state, with
+demonstrated experience in the construction or installation of the utility
+infrastructure that will be constructed or installed;
+(B) Agrees to comply with the utility's standard work rules and
+operational standards that apply to contractors that perform work for the
+utility;
+(C) Provides an agreement from the customer to convey utility
+infrastructure installed pursuant to this part to the utility at no cost to the
+utility and free and clear of all liens, claims, and encumbrances;
+(D) Provides a performance bond, warranties, and other
+assurances of performance that the utility requires of contractors that
+perform work for the utility;
+(E) Has liability insurance with limits of liability and other terms of
+coverage that the utility requires of contractors that perform work for the
+utility;
+SA0304
+006399
+- 1 -
+
+(F) Provides indemnification to the utility on terms that the utility
+requires of contractors that perform work for the utility; and
+(G) Is a current contractor for the utility that is in good standing, is
+listed on a utility's list of contractors that are approved for the construction
+or installation of utility infrastructure, or is otherwise approved by the utility
+in writing for construction or installation of the proposed utility
+infrastructure;
+(2) "Customer", in the case of a cooperative, means a member of the
+cooperative and, in the case of any other utility, means a customer of the utility;
+(3) "Third-party plans examiner" means an engineer who:
+(A) Is registered as a professional engineer in accordance with
+title 62, chapter 2, with expertise in the design and construction of the
+utility infrastructure that will be constructed or installed; and
+(B) Has appropriate liability insurance with limits of liability and
+other terms of coverage that the utility requires of its own third-party
+engineers;
+(4) "Utility" means:
+(A) An entity subject to the jurisdiction of the Tennessee board of
+utility regulation in accordance with § 7-82-701;
+(B) A cooperative, as defined in § 65-25-102; or
+(C) A county-owned, metropolitan government-owned, or
+municipal-owned utility that provides water, wastewater, electric, natural
+gas, or stormwater management and drainage to the public; and
+(5) "Utility infrastructure" means the water, wastewater, electric, natural
+gas, or storm water management and drainage facilities, as applicable, that are
+included in the proposed construction or installation plan and are necessary to
+- 2 - 006399
+
+provide the applicable utility service or services to customers within the proposed
+plan of development.
+7-51-2602. Installation of utility infrastructure by private contractors.
+(a) A utility in this state shall allow a customer of the utility or person submitting a
+plan of development to the utility the option to use an approved contractor or approved
+contractors of the customer's choosing for the installation of such utility infrastructure.
+Utilities shall produce a publicly available list of approved contractors and the process for
+becoming an approved contractor.
+(b) If a customer or customer representative engages an approved contractor
+pursuant to subsection (a), then, prior to the commencement of work, the customer or
+customer representative shall provide:
+(1) The name, intended address, and local jurisdiction of the planned
+development;
+(2) The approved contractor's name;
+(3) Evidence of the contractor's eligibility to operate as an approved
+contractor in accordance with the requirements under § 7-51-2601(1); and
+(4) Other information as the utility may reasonably require.
+(c) No later than ten (10) business days after submission of the documents
+required under subsection (b), the utility shall:
+(1) Confirm the contractor's status as an approved contractor and allow
+the contractor to proceed as an approved contractor in accordance with the
+requirements for an approved contractor under this part, if the customer or
+customer representative complies with the requirements of subsection (b);
+(2) Provide to the customer, or the customer's representative, a report of
+deficiencies; or
+(3) Request additional information necessary to determine the eligibility
+of the contractor's status as an approved contractor.
+- 3 - 006399
+
+(d) If ten (10) business days pass and the utility fails to take an action as
+required by subsection (c), then the contractor may proceed as an approved contractor
+and shall comply with the requirements for an approved contractor under this part.
+(e) The utility shall perform inspections of the installation and construction of the
+utility infrastructure installed by the approved contractor in the development, and the
+utility may also inspect materials and test the utility infrastructure as part of such
+inspections. The approved contractor is responsible for correcting any deficiencies
+associated with its installation or construction, and the utility is not required to accept or
+commission the utility infrastructure until it determines that the installation and
+construction complies with all applicable requirements under this part. The utility may
+charge a reasonable fee for such inspections and testing in accordance with a schedule
+of fees or charges adopted by the utility and made publicly available.
+(f) Notwithstanding subsection (a), a utility may require the direct installation or
+construction of specific utility infrastructure by the utility or by an approved contractor
+under the direct supervision of the utility where the requirement is necessary to ensure
+public safety or service reliability of the utility.
+7-51-2603. Utility infrastructure specifications.
+(a) A utility may provide reasonable construction and manufacturer's
+specifications for utility infrastructure to ensure that the infrastructure is constructed
+properly and with appropriate materials. A utility that chooses to provide such
+specifications shall provide persons with a schedule of all approved materials for utility
+infrastructure with specifications for such materials.
+(b) Notwithstanding subsection (a), a utility shall not require that materials or
+services for the construction of the utility infrastructure be provided by a specific vendor
+or manufacturer unless using the materials or services by a specific vendor or
+manufacturer is deemed necessary by the utility for the quality and integrity of the utility's
+system.
+- 4 - 006399
+
+7-51-2604. Utility infrastructure plans and designs.
+(a) Where a utility does not customarily prepare plans and designs for utility
+infrastructure within a plan of development and requires a customer or customer
+representative to prepare and submit such plans and designs, the utility shall:
+(1) Not charge a fee of more than the fee established in a schedule of
+fees and charges adopted by the utility for review of the plans and designs; and
+(2) Complete the review of the plans and designs within sixty (60)
+business days of the date the plans and designs are submitted to the utility and
+are determined by the utility to be complete. The sixty-business-day review time
+frame required under this subdivision (a)(2) does not include the time spent by a
+state or federal regulatory body to provide any approvals that are required under
+applicable state or federal regulatory requirements.
+(b) If the utility does not complete the review in accordance with subdivision
+(a)(2), then the customer or customer representative who submitted the plan or design
+may hire a third-party plans examiner to review the plans and designs for compliance
+with all applicable state and federal regulatory requirements, codes, and local
+requirements.
+(c) If a customer or customer representative engages a third-party plans
+examiner pursuant to subsection (b) in lieu of review by the utility, then the customer or
+customer representative shall submit the appropriate fee, if such fee was not already
+submitted, and a stamped and sealed copy of all plans that were examined to the utility
+and provide:
+(1) The name, intended address, and local jurisdiction of the planned
+development;
+(2) The third-party plans examiner's name;
+(3) A sworn statement under penalty of perjury by the third-party plans
+examiner, declaring that the plans comply with the applicable state and federal
+- 5 - 006399
+
+regulatory requirements, applicable codes, and local requirements, and that no
+deficiencies remain;
+(4) A statement of the state and federal regulatory requirements used to
+perform the plans examination;
+(5) A statement of the applicable codes of the local jurisdiction and the
+codes used to perform the plans examination;
+(6) A statement of the local requirements of the utility used to perform the
+plans examination;
+(7) The occupancy classification of the structure;
+(8) Evidence of the examiner's eligibility to serve as a third-party
+examiner, including all necessary proof of insurance; and
+(9) Other information as the utility may reasonably require.
+(d) No later than ten (10) business days after submission of the documents
+required under subsection (c), the utility shall:
+(1) Approve the plans, if the plans comply with state and federal
+regulatory requirements, local standards, and applicable codes;
+(2) Provide to the customer or customer representative a report of
+deficiencies; or
+(3) Request additional information necessary to ensure compliance with
+state and federal regulatory requirements, local standards, and applicable codes.
+(e) If ten (10) business days pass and the utility fails to take an action as
+required by subsection (d), then the utility must refund any associated plan review fees
+that were collected, and the plans are deemed approved by the utility.
+(f) If the plan of development is approved after review by a third-party plans
+examiner and the customer engages an approved contractor to install or construct utility
+infrastructure, the utility shall perform inspections of the installation and construction of
+the utility infrastructure in the development. The utility may also inspect materials and
+- 6 - 006399
+
+test the utility infrastructure as part of such inspections. The customer or its approved
+contractor is responsible for the costs of correcting any deficiencies in the installation
+and construction, and the utility is not required to accept or commission the utility
+infrastructure until the utility determines that the installation and construction complies
+with all applicable requirements under this part. The utility may charge a reasonable fee
+for such inspections and testing in accordance with a schedule of fees or charges
+adopted by the utility and made publicly available.
+(g) This section does not apply to the types of plans and designs of utility
+infrastructure that are customarily prepared by the utility for the customer in accordance
+with a standard practice that is in effect at the utility as of July 1, 2025, or a policy that is
+subsequently adopted by the utility.
+7-51-2605. Regulatory compliance.
+In the event that an obligation under this part conflicts with an applicable state or
+federal regulatory requirement, the applicable state or federal regulatory requirement
+controls and supersedes any obligation of the utility under this part to the extent
+necessary to resolve the conflict.
+7-51-2606. Excused delay.
+In the event that an act of God, fire, flood, storm, accident, or similar event
+constituting force majeure causes a utility to require more time to meet the review
+requirements of this part, then the timelines set forth in this part must be suspended for
+so long as the utility's operations are impacted by one (1) or more such events.
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to plans of development submitted on or after that date.
+- 7 - 006399
+
+[DELETED:  a H]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -07I]

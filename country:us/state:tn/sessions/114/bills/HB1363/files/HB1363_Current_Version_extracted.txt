@@ -1,0 +1,240 @@
+Title: SENATE BILL 959
+Official Title: SENATE BILL 959
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Lamar
+HOUSE BILL 1363
+By Chism
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 40, relative to criminal law.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 40, Chapter 35, is amended by adding
+the following as a new part:
+40-35-601.
+(a) Notwithstanding another law to the contrary, any person serving a sentence
+of incarceration of eight (8) years or more for an offense committed prior to January 1,
+2026, and who is a victim of domestic abuse subjected to substantial physical, sexual, or
+psychological abuse inflicted by a member of the same family or household as the
+person may, on or after January 1, 2026, submit to the sentencing court, a request to
+apply for resentencing in accordance with this part. The person must include in the
+request documentation proving that the person is serving a sentence of incarceration of
+eight (8) years or more for an offense committed prior to January 1, 2026, and that the
+person is serving such sentence for any offense eligible for an alternative sentence
+pursuant to this part.
+(b) If the court finds that the person has met the requirements to apply for
+resentencing in subsection (a), the court shall notify such person that the person may
+submit an application for resentencing. Upon such notification, the person may request
+that the court appoint an attorney for the preparation of and proceedings on the
+application for resentencing pursuant to this part.
+HB1363
+003087
+- 1 -
+(c) If the court finds that the person has not met the requirements to apply for
+resentencing in subsection (a), then the court shall notify such person and dismiss the
+request without prejudice.
+(d) As used in this part, "domestic abuse" means the same as defined in § 36-3-
+
+Section 3:
+601.
+40-35-602.
+(a) Upon the court's receipt of an application for resentencing, the court shall
+promptly notify the district attorney general for the judicial district in which in the offense
+occurred and provide such district attorney general with a copy of the application.
+(b) An application for resentencing pursuant to this part must include at least two
+(2) pieces of evidence corroborating the applicant's claim that, at the time of the offense,
+the applicant was a victim of domestic abuse subjected to substantial physical, sexual,
+or psychological abuse inflicted by a member of the same family or household as the
+applicant. At least one (1) piece of evidence must be either a court record, presentence
+report, social services record, hospital record, sworn statement from a witness to the
+domestic violence, law enforcement record, domestic incident report, or order of
+protection. Other evidence may include, but is not limited to, department of corrections
+records, jail records, a showing based in part on documentation prepared at or near the
+time of the commission of the offense or the prosecution of the offense tending to
+support the person's claim, or verification of consultation with a licensed healthcare
+provider or mental healthcare provider, employee of a court acting within the scope of
+his or her employment, member of the clergy, attorney, social worker, rape crisis
+counselor, or other advocate acting on behalf of an agency that assists victims of
+domestic violence for the purpose of assisting such person with domestic violence victim
+counseling or support.
+- 2 - 003087
+(c) If the court finds that the applicant has not submitted corroborating evidence
+as required by subsection (b), then the court shall dismiss the application without
+prejudice.
+(d) If the court finds that the applicant has complied with subsection (b), then the
+court shall conduct a hearing to determine whether the applicant should be resentenced
+in accordance with this part. At such hearing the court shall determine any controverted
+issue of fact relevant to the issue of sentencing. Reliable hearsay is admissible at such
+hearings.
+(e) The court may consider any fact or circumstances relevant to the imposition
+of a new sentence which are submitted by the applicant or the district attorney general
+and may, in addition, consider the institutional record of confinement of the applicant, but
+shall not order a new presentence report or entertain any matter challenging the
+underlying basis of the subject conviction. The court's consideration of the institutional
+record of confinement of such applicant must include, but not be limited to, such
+applicant's participation in or willingness to participate in programming such as domestic
+violence, parenting, and substance abuse treatment while incarcerated and such
+applicant's disciplinary history. The fact that the applicant was unable to participate in
+treatment or other programming while incarcerated despite the applicant's willingness to
+do so shall not be considered a negative factor in determining an application pursuant to
+this section.
+(f) If the court determines that the applicant should not be resentenced in
+accordance with this part, the court shall inform the applicant of its decision and enter an
+order to that effect. Any order issued pursuant to this section must include written
+findings of fact and the reasons for the order.
+- 3 - 003087
+(g) If the court determines that the applicant should be resentenced in
+accordance with this part, the court shall notify the applicant that, unless the applicant
+withdraws the application, the court will enter an order vacating the sentence originally
+imposed and impose a new sentence. An order issued pursuant to this part must
+include written findings of fact and the reasons for the order.
+40-35-603.
+(a) An appeal of a determination under § 40-35-602 may be taken as of right:
+(1) From an order denying resentencing; or
+(2) From a new sentence imposed under this part, based on the grounds
+that:
+(A) The term of the new sentence is harsh or excessive; or
+(B) The term of the new sentence is unauthorized as a matter of
+law.
+(b) Upon remand to the sentencing court following an appeal, the applicant shall
+be given an opportunity to withdraw an application for resentencing before any
+resentence is imposed.
+(c) The applicant may request that the court appoint the applicant an attorney for
+the preparation of and proceedings on any appeals regarding the application for
+resentencing pursuant to this part.
+40-35-604.
+In calculating the new term to be served by an applicant pursuant to § 40-35-
+602(g), the applicant must be credited for any jail time or period of incarceration credited
+toward the sentence originally imposed.
+
+Section 4:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 003087
+[DELETED: S4]
+[DELETED:  -04]
+[DELETED:  -0]
+[DELETED:  -044S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 959
+By Lamar
+HOUSE BILL 1363
+By Chism
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 40, relative to criminal law.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 40, Chapter 35, is amended by adding
+the following as a new part:
+40-35-601.
+(a) Notwithstanding another law to the contrary, any person serving a sentence
+of incarceration of eight (8) years or more for an offense committed prior to January 1,
+2026, and who is a victim of domestic abuse subjected to substantial physical, sexual, or
+psychological abuse inflicted by a member of the same family or household as the
+person may, on or after January 1, 2026, submit to the sentencing court, a request to
+apply for resentencing in accordance with this part. The person must include in the
+request documentation proving that the person is serving a sentence of incarceration of
+eight (8) years or more for an offense committed prior to January 1, 2026, and that the
+person is serving such sentence for any offense eligible for an alternative sentence
+pursuant to this part.
+(b) If the court finds that the person has met the requirements to apply for
+resentencing in subsection (a), the court shall notify such person that the person may
+submit an application for resentencing. Upon such notification, the person may request
+that the court appoint an attorney for the preparation of and proceedings on the
+application for resentencing pursuant to this part.
+HB1363
+003087
+- 1 -
+
+(c) If the court finds that the person has not met the requirements to apply for
+resentencing in subsection (a), then the court shall notify such person and dismiss the
+request without prejudice.
+(d) As used in this part, "domestic abuse" means the same as defined in § 36-3-
+601.
+40-35-602.
+(a) Upon the court's receipt of an application for resentencing, the court shall
+promptly notify the district attorney general for the judicial district in which in the offense
+occurred and provide such district attorney general with a copy of the application.
+(b) An application for resentencing pursuant to this part must include at least two
+(2) pieces of evidence corroborating the applicant's claim that, at the time of the offense,
+the applicant was a victim of domestic abuse subjected to substantial physical, sexual,
+or psychological abuse inflicted by a member of the same family or household as the
+applicant. At least one (1) piece of evidence must be either a court record, presentence
+report, social services record, hospital record, sworn statement from a witness to the
+domestic violence, law enforcement record, domestic incident report, or order of
+protection. Other evidence may include, but is not limited to, department of corrections
+records, jail records, a showing based in part on documentation prepared at or near the
+time of the commission of the offense or the prosecution of the offense tending to
+support the person's claim, or verification of consultation with a licensed healthcare
+provider or mental healthcare provider, employee of a court acting within the scope of
+his or her employment, member of the clergy, attorney, social worker, rape crisis
+counselor, or other advocate acting on behalf of an agency that assists victims of
+domestic violence for the purpose of assisting such person with domestic violence victim
+counseling or support.
+- 2 - 003087
+
+(c) If the court finds that the applicant has not submitted corroborating evidence
+as required by subsection (b), then the court shall dismiss the application without
+prejudice.
+(d) If the court finds that the applicant has complied with subsection (b), then the
+court shall conduct a hearing to determine whether the applicant should be resentenced
+in accordance with this part. At such hearing the court shall determine any controverted
+issue of fact relevant to the issue of sentencing. Reliable hearsay is admissible at such
+hearings.
+(e) The court may consider any fact or circumstances relevant to the imposition
+of a new sentence which are submitted by the applicant or the district attorney general
+and may, in addition, consider the institutional record of confinement of the applicant, but
+shall not order a new presentence report or entertain any matter challenging the
+underlying basis of the subject conviction. The court's consideration of the institutional
+record of confinement of such applicant must include, but not be limited to, such
+applicant's participation in or willingness to participate in programming such as domestic
+violence, parenting, and substance abuse treatment while incarcerated and such
+applicant's disciplinary history. The fact that the applicant was unable to participate in
+treatment or other programming while incarcerated despite the applicant's willingness to
+do so shall not be considered a negative factor in determining an application pursuant to
+this section.
+(f) If the court determines that the applicant should not be resentenced in
+accordance with this part, the court shall inform the applicant of its decision and enter an
+order to that effect. Any order issued pursuant to this section must include written
+findings of fact and the reasons for the order.
+- 3 - 003087
+
+(g) If the court determines that the applicant should be resentenced in
+accordance with this part, the court shall notify the applicant that, unless the applicant
+withdraws the application, the court will enter an order vacating the sentence originally
+imposed and impose a new sentence. An order issued pursuant to this part must
+include written findings of fact and the reasons for the order.
+40-35-603.
+(a) An appeal of a determination under § 40-35-602 may be taken as of right:
+(1) From an order denying resentencing; or
+(2) From a new sentence imposed under this part, based on the grounds
+that:
+(A) The term of the new sentence is harsh or excessive; or
+(B) The term of the new sentence is unauthorized as a matter of
+law.
+(b) Upon remand to the sentencing court following an appeal, the applicant shall
+be given an opportunity to withdraw an application for resentencing before any
+resentence is imposed.
+(c) The applicant may request that the court appoint the applicant an attorney for
+the preparation of and proceedings on any appeals regarding the application for
+resentencing pursuant to this part.
+40-35-604.
+In calculating the new term to be served by an applicant pursuant to § 40-35-
+602(g), the applicant must be credited for any jail time or period of incarceration credited
+toward the sentence originally imposed.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 003087
+
+[DELETED: S4]
+[DELETED:  -04]
+[DELETED:  -0]
+[DELETED:  -044S]

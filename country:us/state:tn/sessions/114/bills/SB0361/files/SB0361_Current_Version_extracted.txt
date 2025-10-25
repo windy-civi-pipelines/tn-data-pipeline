@@ -1,0 +1,79 @@
+Title: HOUSE BILL 532
+Official Title: HOUSE BILL 532
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Rudder
+SENATE BILL 361
+By Briggs
+AN ACT to amend Tennessee Code Annotated, Title 37
+and Title 50, relative to employment of minors.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 50, Chapter 5, Part 1, is amended by
+adding the following new section:
+(a) A person who employs a minor and who knows or has reasonable cause to
+suspect that the minor has been subjected to child sexual abuse or attempted child
+sexual abuse in the course of the minor's employment or on the premises of the
+employer must report such knowledge or suspicion to the minor's parent within twenty-
+four (24) hours of discovering the abuse or attempted abuse. The employer must also
+note the specific circumstances warranting the report in the minor's employment file.
+(b) A report required by subsection (a) is in addition to any report required by §
+37-1-403 or § 37-1-605, if applicable.
+(c) Notwithstanding § 50-5-107, this section applies to all persons who employ
+unemancipated minors.
+(d) Any person who violates subsection (a) shall be subject to a penalty of one
+thousand dollars ($1,000) for the first violation or two thousand dollars ($2,000) for a
+second or subsequent violation. All penalties owed under this section shall be paid to
+the commissioner of labor and workforce development.
+(e) As used in this section, "child sexual abuse" means the same as defined in §
+37-1-602.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0361
+000086
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 532
+By Rudder
+SENATE BILL 361
+By Briggs
+AN ACT to amend Tennessee Code Annotated, Title 37
+and Title 50, relative to employment of minors.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 50, Chapter 5, Part 1, is amended by
+adding the following new section:
+(a) A person who employs a minor and who knows or has reasonable cause to
+suspect that the minor has been subjected to child sexual abuse or attempted child
+sexual abuse in the course of the minor's employment or on the premises of the
+employer must report such knowledge or suspicion to the minor's parent within twenty-
+four (24) hours of discovering the abuse or attempted abuse. The employer must also
+note the specific circumstances warranting the report in the minor's employment file.
+(b) A report required by subsection (a) is in addition to any report required by §
+37-1-403 or § 37-1-605, if applicable.
+(c) Notwithstanding § 50-5-107, this section applies to all persons who employ
+unemancipated minors.
+(d) Any person who violates subsection (a) shall be subject to a penalty of one
+thousand dollars ($1,000) for the first violation or two thousand dollars ($2,000) for a
+second or subsequent violation. All penalties owed under this section shall be paid to
+the commissioner of labor and workforce development.
+(e) As used in this section, "child sexual abuse" means the same as defined in §
+37-1-602.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0361
+000086
+- 1 -
+
+[DELETED: SS]

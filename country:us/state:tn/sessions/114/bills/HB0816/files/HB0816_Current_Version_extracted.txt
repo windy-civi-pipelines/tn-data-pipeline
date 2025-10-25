@@ -1,0 +1,63 @@
+Title: SENATE BILL 778
+Official Title: SENATE BILL 778
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Lowe
+HOUSE BILL 816
+By Travis
+AN ACT to amend Tennessee Code Annotated, Title 55,
+Chapter 50, relative to driving while privilege
+cancelled, suspended, or revoked.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 55-50-504(a)(1), is amended by
+inserting the following sentence immediately after the language "Class B misdemeanor.":
+A traffic citation that is based solely upon a violation of this subdivision (a)(1) is
+considered a nonmoving traffic violation.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 55-50-504(a)(2), is amended by
+inserting the following sentence immediately after the language "Class A misdemeanor.":
+A traffic citation that is based solely upon a violation of this subdivision (a)(2) is
+considered a nonmoving traffic violation.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0816
+003045
+- 1 -
+[DELETED: SSS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 778
+By Lowe
+HOUSE BILL 816
+By Travis
+AN ACT to amend Tennessee Code Annotated, Title 55,
+Chapter 50, relative to driving while privilege
+cancelled, suspended, or revoked.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 55-50-504(a)(1), is amended by
+inserting the following sentence immediately after the language "Class B misdemeanor.":
+A traffic citation that is based solely upon a violation of this subdivision (a)(1) is
+considered a nonmoving traffic violation.
+SECTION 2. Tennessee Code Annotated, Section 55-50-504(a)(2), is amended by
+inserting the following sentence immediately after the language "Class A misdemeanor.":
+A traffic citation that is based solely upon a violation of this subdivision (a)(2) is
+considered a nonmoving traffic violation.
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0816
+003045
+- 1 -
+
+[DELETED: SSS]

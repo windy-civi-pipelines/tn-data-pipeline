@@ -1,0 +1,61 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 59
+By Hakeem
+AN ACT to amend Tennessee Code Annotated, Title 56,
+relative to insurance.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 56, Chapter 7, Part 3, is amended by
+adding the following as a new section:
+(a) As used in this section, "life insurance" has the same meaning as defined in
+
+Section 3:
+§ 56-2-201.
+(b) For policies of or contracts for life insurance issued, amended, or renewed on
+or after July 1, 2025, once the policy holder has made premium payments, in the
+aggregate, equal to the amount of coverage under the life insurance policy, the issuer of
+the life insurance policy is not entitled to further premium payments and shall not request
+additional premium payments from the policy holder.
+
+Section 4:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0059
+000741
+- 1 -
+[DELETED: S((S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 59
+By Hakeem
+AN ACT to amend Tennessee Code Annotated, Title 56,
+relative to insurance.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 56, Chapter 7, Part 3, is amended by
+adding the following as a new section:
+(a) As used in this section, "life insurance" has the same meaning as defined in
+§ 56-2-201.
+(b) For policies of or contracts for life insurance issued, amended, or renewed on
+or after July 1, 2025, once the policy holder has made premium payments, in the
+aggregate, equal to the amount of coverage under the life insurance policy, the issuer of
+the life insurance policy is not entitled to further premium payments and shall not request
+additional premium payments from the policy holder.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0059
+000741
+- 1 -
+
+[DELETED: S((S]

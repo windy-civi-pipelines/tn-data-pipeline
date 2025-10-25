@@ -1,0 +1,51 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 837
+By Miller
+AN ACT to amend Tennessee Code Annotated, Title 55,
+Chapter 17; Title 55, Chapter 3 and Title 55,
+Chapter 4, relative to temporary plates.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 55-4-226(c)(4), is amended by
+deleting the language "sixty (60) days" wherever it appears and substituting instead the
+language "ninety (90) days".
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to temporary plates issued on or after that date.
+HB0837
+002693
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 837
+By Miller
+AN ACT to amend Tennessee Code Annotated, Title 55,
+Chapter 17; Title 55, Chapter 3 and Title 55,
+Chapter 4, relative to temporary plates.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 55-4-226(c)(4), is amended by
+deleting the language "sixty (60) days" wherever it appears and substituting instead the
+language "ninety (90) days".
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to temporary plates issued on or after that date.
+HB0837
+002693
+- 1 -
+
+[DELETED: SS]

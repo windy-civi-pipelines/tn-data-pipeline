@@ -1,0 +1,139 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 150
+By Doggett
+A RESOLUTION urging the University of Tennessee Institute of
+Agriculture to complete a comprehensive
+economic study about the effect of Bradford pear
+trees on agriculture and forestry in the State.
+WHEREAS, the Bradford pear, also known as Callery pear (Pyrus calleryana), is a tree
+native to Asia that was introduced to the United States in the early 1900s for hybridization
+efforts aimed at improving disease resistance, particularly against fire blight, which was affecting
+native pear trees in commercial orchards; and
+WHEREAS, in the 1950s, the Bradford pear became a popular ornamental choice due to
+its uniform growth, consistent flowering, and attractive form; today, the Bradford pear has been
+reported in more than half of the counties within Tennessee; and
+WHEREAS, while individual cultivars are self-sterile and do not produce fruit or seeds,
+when different cultivars are planted nearby, they can cross-pollinate and produce fruit; the
+widespread planting of Bradford pear initially overlooked this risk, unintentionally facilitating
+cross-pollination with other pear cultivars; and
+WHEREAS, the development of new cultivars inadvertently increased the likelihood of
+cross-pollination and fruit production; many cultivars are grafted onto rootstocks with diverse
+genetic traits, which frequently produce vigorous sprouts, further enhancing genetic viability and
+fruiting potential; thus, the resulting spread is not composed of uniform cultivars but rather
+sexually reproducing populations with diverse genotypes that recombine with each generation;
+and
+WHEREAS, cross-pollinated trees produce abundant fruit, which is consumed by birds
+and dispersed over long distances; additionally, Bradford pear spreads vegetatively through
+HJR0150
+003352
+- 1 -
+sprouting, often forming dense thickets within a few years and outcompeting native plants for
+light, water, and nutrients; and
+WHEREAS, the volunteer, cross-pollinated Bradford pear trees often develop sharp,
+three-inch-long thorns capable of puncturing tractor tires during mowing or brush clearing,
+posing a hazard to equipment and workers involved in land management efforts or in clearing
+pastures; and
+WHEREAS, additionally, the Bradford pear has a weak branching structure, leading to
+frequent breakage in storms and the potential for significant property damage; the tree's flowers
+emit a foul-smelling odor, and the tree itself provides little to no food for insects, resulting in a
+damaged ecosystem; and
+WHEREAS, chemical controls are required for treatment, yet incomplete control may
+lead to resprouting, requiring repeated treatments; over time, frequent use of herbicides can
+contribute to herbicide resistance in the population; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we urge the University of Tennessee Institute of Agriculture to complete a
+comprehensive economic study about the effect of Bradford pear trees on agriculture and
+forestry in the State of Tennessee in consultation with the Department of Agriculture, the
+Department of Environment and Conservation, the Department of Transportation, and the
+Tennessee Wildlife Resources Agency.
+BE IT FURTHER RESOLVED, that the University of Tennessee Institute of Agriculture
+submit a report of its findings to the General Assembly by April 30, 2026.
+BE IT FURTHER RESOLVED, that a certified copy of this resolution be transmitted to
+the Senior Vice Chancellor and Senior Vice President of the University of Tennessee Institute of
+Agriculture, the Commissioner of Agriculture, the Commissioner of Environment and
+- 2 - 003352
+Conservation, the Commissioner of Transportation, and the Executive Director of the
+Tennessee Wildlife Resources Agency.
+- 3 - 003352
+[DELETED: W()WWWW]
+[DELETED:  -0WWWBBB]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 150
+By Doggett
+A RESOLUTION urging the University of Tennessee Institute of
+Agriculture to complete a comprehensive
+economic study about the effect of Bradford pear
+trees on agriculture and forestry in the State.
+WHEREAS, the Bradford pear, also known as Callery pear (Pyrus calleryana), is a tree
+native to Asia that was introduced to the United States in the early 1900s for hybridization
+efforts aimed at improving disease resistance, particularly against fire blight, which was affecting
+native pear trees in commercial orchards; and
+WHEREAS, in the 1950s, the Bradford pear became a popular ornamental choice due to
+its uniform growth, consistent flowering, and attractive form; today, the Bradford pear has been
+reported in more than half of the counties within Tennessee; and
+WHEREAS, while individual cultivars are self-sterile and do not produce fruit or seeds,
+when different cultivars are planted nearby, they can cross-pollinate and produce fruit; the
+widespread planting of Bradford pear initially overlooked this risk, unintentionally facilitating
+cross-pollination with other pear cultivars; and
+WHEREAS, the development of new cultivars inadvertently increased the likelihood of
+cross-pollination and fruit production; many cultivars are grafted onto rootstocks with diverse
+genetic traits, which frequently produce vigorous sprouts, further enhancing genetic viability and
+fruiting potential; thus, the resulting spread is not composed of uniform cultivars but rather
+sexually reproducing populations with diverse genotypes that recombine with each generation;
+and
+WHEREAS, cross-pollinated trees produce abundant fruit, which is consumed by birds
+and dispersed over long distances; additionally, Bradford pear spreads vegetatively through
+HJR0150
+003352
+- 1 -
+
+sprouting, often forming dense thickets within a few years and outcompeting native plants for
+light, water, and nutrients; and
+WHEREAS, the volunteer, cross-pollinated Bradford pear trees often develop sharp,
+three-inch-long thorns capable of puncturing tractor tires during mowing or brush clearing,
+posing a hazard to equipment and workers involved in land management efforts or in clearing
+pastures; and
+WHEREAS, additionally, the Bradford pear has a weak branching structure, leading to
+frequent breakage in storms and the potential for significant property damage; the tree's flowers
+emit a foul-smelling odor, and the tree itself provides little to no food for insects, resulting in a
+damaged ecosystem; and
+WHEREAS, chemical controls are required for treatment, yet incomplete control may
+lead to resprouting, requiring repeated treatments; over time, frequent use of herbicides can
+contribute to herbicide resistance in the population; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we urge the University of Tennessee Institute of Agriculture to complete a
+comprehensive economic study about the effect of Bradford pear trees on agriculture and
+forestry in the State of Tennessee in consultation with the Department of Agriculture, the
+Department of Environment and Conservation, the Department of Transportation, and the
+Tennessee Wildlife Resources Agency.
+BE IT FURTHER RESOLVED, that the University of Tennessee Institute of Agriculture
+submit a report of its findings to the General Assembly by April 30, 2026.
+BE IT FURTHER RESOLVED, that a certified copy of this resolution be transmitted to
+the Senior Vice Chancellor and Senior Vice President of the University of Tennessee Institute of
+Agriculture, the Commissioner of Agriculture, the Commissioner of Environment and
+- 2 - 003352
+
+Conservation, the Commissioner of Transportation, and the Executive Director of the
+Tennessee Wildlife Resources Agency.
+- 3 - 003352
+
+[DELETED: W()WWWW]
+[DELETED:  -0WWWBBB]
+[DELETED:  -0]

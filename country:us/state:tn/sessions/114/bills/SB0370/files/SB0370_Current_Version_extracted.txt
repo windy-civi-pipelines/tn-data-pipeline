@@ -1,0 +1,177 @@
+Title: HOUSE BILL 967
+Official Title: HOUSE BILL 967
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Hawk
+SENATE BILL 370
+By Briggs
+AN ACT to amend Tennessee Code Annotated, Title 67,
+relative to taxes and fees collected by merchants
+and sellers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 67, Chapter 1, is amended by adding
+the following as a new part:
+67-1-1901. As used in this part:
+(1) "Credit card" means a card, plate, coupon book, or other credit device
+existing for the purpose of obtaining money, property, labor, or services on credit;
+(2) "Debit card":
+(A) Means a card, or other payment code or device, issued or approved
+for use through a payment card network to debit an asset account, regardless of
+the purpose for which the account is established, whether authorization is based
+on signature, personal identification number, or other means;
+(B) Includes a general-use prepaid card, as defined in 15 U.S.C. § 1693l-
+1; and
+(C) Does not include paper checks;
+(3) "Electronic payment transaction" means a transaction in which a person uses
+a debit card, credit card, or other payment code or device, issued or approved through a
+payment card network to debit a deposit account or use a line of credit, whether
+authorization is based on a signature, personal identification number, or other means;
+SB0370
+001774
+- 1 -
+(4) "Interchange fee" means a fee established, charged, or received by a
+payment card network for the purpose of compensating the issuer for its involvement in
+an electronic payment transaction;
+(5) "Issuer" means a person issuing a debit card or credit card, or the issuer's
+agent;
+(6) "Payment card network" means an entity that:
+(A) Directly, or through licensed members, processors, or agents
+provides the proprietary services, infrastructure, and software that routes
+information and data to conduct debit card or credit card transaction
+authorization, clearance, and settlement; and
+(B) A merchant or seller uses in order to accept as a form of payment a
+brand of debit card, credit card, or other device that may be used to carry out
+debit or credit transactions; and
+(7) "Settlement" means the transfer of funds from a customer's account to a
+seller or merchant upon electronic submission of finalized sales transactions to the
+payment card network.
+67-1-1902. The amount of a state or local tax or fee that is calculated as a percentage
+of an electronic payment transaction amount and listed separately on the payment invoice or
+other demand for payment, or the amount of a tax imposed under chapter 3 of this title, must be
+excluded from the amount on which an interchange fee is charged for that electronic payment
+transaction. Such taxes and fees include, but are not limited to:
+(1) Sales and use taxes under chapter 6 of this title;
+(2) Hotel occupancy taxes under § 67-4-1402; an applicable private act; title 7,
+chapter 4; or chapter 4, part 15 of this title;
+(3) Alcoholic beverage taxes under § 57-4-301(c); and
+- 2 - 001774
+(4) Rental vehicle surcharge taxes under chapter 4, part 19 of this title.
+67-1-1903.
+(a) A payment card network shall either:
+(1) Deduct the amount of a tax imposed from the calculation of
+interchange fees specific to each form or type of electronic payment transaction
+at the time of settlement; or
+(2) Rebate an amount of interchange fee proportionate to the amount
+attributable to the tax or fee.
+(b) A deduction or rebate must occur at the time of settlement when the
+merchant or seller is able to capture and transmit tax or fee amounts relevant to the sale
+at the time of sale as part of the transaction finalization.
+(c) If a merchant or seller is unable to capture and transmit tax or fee amounts
+relevant to the sale at the time of sale, then the payment card network shall accept proof
+of tax or fee amounts collected on sales subject to an interchange fee upon the
+submission of sales data by the merchant or seller and promptly credit the merchant or
+seller's settlement account.
+67-1-1904. A payment card network that violates this part is subject to a civil penalty of
+not more than one thousand dollars ($1,000) per violation, payable to the plaintiff, and shall
+refund the surcharge to each merchant or seller.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 001774
+[DELETED: S6((((((]
+[DELETED:  -0((((((6(((]
+[DELETED:  -0(6(((((6S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 967
+By Hawk
+SENATE BILL 370
+By Briggs
+AN ACT to amend Tennessee Code Annotated, Title 67,
+relative to taxes and fees collected by merchants
+and sellers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 67, Chapter 1, is amended by adding
+the following as a new part:
+67-1-1901. As used in this part:
+(1) "Credit card" means a card, plate, coupon book, or other credit device
+existing for the purpose of obtaining money, property, labor, or services on credit;
+(2) "Debit card":
+(A) Means a card, or other payment code or device, issued or approved
+for use through a payment card network to debit an asset account, regardless of
+the purpose for which the account is established, whether authorization is based
+on signature, personal identification number, or other means;
+(B) Includes a general-use prepaid card, as defined in 15 U.S.C. § 1693l-
+1; and
+(C) Does not include paper checks;
+(3) "Electronic payment transaction" means a transaction in which a person uses
+a debit card, credit card, or other payment code or device, issued or approved through a
+payment card network to debit a deposit account or use a line of credit, whether
+authorization is based on a signature, personal identification number, or other means;
+SB0370
+001774
+- 1 -
+
+(4) "Interchange fee" means a fee established, charged, or received by a
+payment card network for the purpose of compensating the issuer for its involvement in
+an electronic payment transaction;
+(5) "Issuer" means a person issuing a debit card or credit card, or the issuer's
+agent;
+(6) "Payment card network" means an entity that:
+(A) Directly, or through licensed members, processors, or agents
+provides the proprietary services, infrastructure, and software that routes
+information and data to conduct debit card or credit card transaction
+authorization, clearance, and settlement; and
+(B) A merchant or seller uses in order to accept as a form of payment a
+brand of debit card, credit card, or other device that may be used to carry out
+debit or credit transactions; and
+(7) "Settlement" means the transfer of funds from a customer's account to a
+seller or merchant upon electronic submission of finalized sales transactions to the
+payment card network.
+67-1-1902. The amount of a state or local tax or fee that is calculated as a percentage
+of an electronic payment transaction amount and listed separately on the payment invoice or
+other demand for payment, or the amount of a tax imposed under chapter 3 of this title, must be
+excluded from the amount on which an interchange fee is charged for that electronic payment
+transaction. Such taxes and fees include, but are not limited to:
+(1) Sales and use taxes under chapter 6 of this title;
+(2) Hotel occupancy taxes under § 67-4-1402; an applicable private act; title 7,
+chapter 4; or chapter 4, part 15 of this title;
+(3) Alcoholic beverage taxes under § 57-4-301(c); and
+- 2 - 001774
+
+(4) Rental vehicle surcharge taxes under chapter 4, part 19 of this title.
+67-1-1903.
+(a) A payment card network shall either:
+(1) Deduct the amount of a tax imposed from the calculation of
+interchange fees specific to each form or type of electronic payment transaction
+at the time of settlement; or
+(2) Rebate an amount of interchange fee proportionate to the amount
+attributable to the tax or fee.
+(b) A deduction or rebate must occur at the time of settlement when the
+merchant or seller is able to capture and transmit tax or fee amounts relevant to the sale
+at the time of sale as part of the transaction finalization.
+(c) If a merchant or seller is unable to capture and transmit tax or fee amounts
+relevant to the sale at the time of sale, then the payment card network shall accept proof
+of tax or fee amounts collected on sales subject to an interchange fee upon the
+submission of sales data by the merchant or seller and promptly credit the merchant or
+seller's settlement account.
+67-1-1904. A payment card network that violates this part is subject to a civil penalty of
+not more than one thousand dollars ($1,000) per violation, payable to the plaintiff, and shall
+refund the surcharge to each merchant or seller.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 001774
+
+[DELETED: S6((((((]
+[DELETED:  -0((((((6(((]
+[DELETED:  -0(6(((((6S]

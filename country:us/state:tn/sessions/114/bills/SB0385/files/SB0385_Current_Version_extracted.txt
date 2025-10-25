@@ -1,0 +1,104 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 385
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 71,
+relative to public assistance.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 71-5-314, is amended by adding the
+following new subsection:
+(k) No less than once per month, the department shall utilize electronic benefit
+card data to identify any recipients who have used food assistance benefits to make
+purchases exclusively outside of this state for a period of ninety (90) consecutive days or
+more. Within thirty (30) days of identification, the department shall send written notice to
+each recipient so identified and request that the recipient provide proof of residency in
+this state in order to continue to receive food assistance. If, within thirty (30) days of the
+date of receipt of notice from the department, a recipient is unable to provide proof of
+residency in this state or fails to respond to such notice, then the department shall
+remove the recipient from enrollment in the food stamp program. Within fifteen (15)
+days of removing a recipient from enrollment in the food stamp program pursuant to this
+subsection (k), the department shall send notification of and reasons for a recipient's
+removal to the United States attorney for the federal district where the former recipient is
+believed to reside.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 71-5-317, is amended by adding the
+following new subsection:
+(c) The department shall not provide an exception under 7 U.S.C. §
+2015(o)(3)(F) from work requirements unless the department has determined that the
+individual is a homeless individual. For purposes of this subsection (c), an individual
+SB0385
+002179
+- 1 -
+must not be considered a homeless individual unless the department is able to verify
+that:
+(1) The individual has resided in a public shelter for a period of at least
+thirty (30) days, based upon notarized documentation from the public shelter of
+such fact; or
+(2) A public shelter is not available and notarized documentation from the
+applicable public housing authority attests that such individual is on a waiting list
+to be admitted to an available shelter.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 002179
+[DELETED: S(S(]
+[DELETED:  -0((S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 385
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 71,
+relative to public assistance.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 71-5-314, is amended by adding the
+following new subsection:
+(k) No less than once per month, the department shall utilize electronic benefit
+card data to identify any recipients who have used food assistance benefits to make
+purchases exclusively outside of this state for a period of ninety (90) consecutive days or
+more. Within thirty (30) days of identification, the department shall send written notice to
+each recipient so identified and request that the recipient provide proof of residency in
+this state in order to continue to receive food assistance. If, within thirty (30) days of the
+date of receipt of notice from the department, a recipient is unable to provide proof of
+residency in this state or fails to respond to such notice, then the department shall
+remove the recipient from enrollment in the food stamp program. Within fifteen (15)
+days of removing a recipient from enrollment in the food stamp program pursuant to this
+subsection (k), the department shall send notification of and reasons for a recipient's
+removal to the United States attorney for the federal district where the former recipient is
+believed to reside.
+SECTION 2. Tennessee Code Annotated, Section 71-5-317, is amended by adding the
+following new subsection:
+(c) The department shall not provide an exception under 7 U.S.C. §
+2015(o)(3)(F) from work requirements unless the department has determined that the
+individual is a homeless individual. For purposes of this subsection (c), an individual
+SB0385
+002179
+- 1 -
+
+must not be considered a homeless individual unless the department is able to verify
+that:
+(1) The individual has resided in a public shelter for a period of at least
+thirty (30) days, based upon notarized documentation from the public shelter of
+such fact; or
+(2) A public shelter is not available and notarized documentation from the
+applicable public housing authority attests that such individual is on a waiting list
+to be admitted to an available shelter.
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 002179
+
+[DELETED: S(S(]
+[DELETED:  -0((S]

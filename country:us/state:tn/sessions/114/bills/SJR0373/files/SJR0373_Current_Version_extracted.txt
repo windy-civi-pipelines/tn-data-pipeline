@@ -1,0 +1,153 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 373
+By Pody
+A RESOLUTION to recognize Hurricane Baptist Church on the
+occasion of its 210th anniversary.
+WHEREAS, the churches of our nation have been an integral part of our history as a
+people and have had an unparalleled impact in forming and maintaining a stable and just
+society; and
+WHEREAS, it is appropriate that we should recognize those venerable religious
+institutions and their congregations who, through their unflagging capacity for love, dedication of
+spirit, and faith in God, strive to enrich the lives of people in their communities; and
+WHEREAS, one such dynamic community of faith is Hurricane Baptist Church in Wilson
+County, whose members are celebrating the church's 210th anniversary this year; and
+WHEREAS, the origins of Hurricane Baptist Church trace back to August 1815, when
+the church was constituted as Union Church with twenty-six founding members living in what is
+now known as the Hurricane community; and
+WHEREAS, the church's first pastor, Joshua Lester, was born in Virginia on September
+6, 1781, and became an ordained minister at the age of twenty; after settling in Wilson County
+in 1805, he played a crucial role in the establishment of Union Church, which he served as
+pastor from 1815 to 1822; and
+WHEREAS, the second pastor, John Bond, moved with his family from South Carolina to
+Middle Tennessee in 1806 at the age of nineteen; an assistant to Joshua Lester, he was
+ordained to preach at Union Church in 1822; and
+WHEREAS, Pastor Bond donated eleven acres of land to the church and helped
+construct a meeting house; he faithfully served the congregation for thirty-nine years until his
+passing on March 2, 1861; and
+SJR0373
+006825
+- 1 -
+WHEREAS, the third pastor, Nathaniel Morgan Green, was born in Wilson County and
+raised in the Hurricane community; ordained in 1843, Elder Green began preaching at Union
+Church after the death of John Bond and continued to serve for nineteen years, until his own
+passing in 1880; and
+WHEREAS, the church's name change from Union Church to Hurricane Baptist Church
+in October 1923 reflects a deep connection to the history of the community, as a powerful
+storm—likely a tornado, but referred to as a hurricane—once devastated the area a century
+earlier; and
+WHEREAS, the congregation has worshiped in three different buildings since its
+founding: the original log meeting house of 1815, a two-story structure built in collaboration with
+the Masons, and the current building, which was constructed in 1907; and
+WHEREAS, Hurricane Baptist Church is currently under the faithful and capable
+leadership of Pastor Kenneth M. Tramel; born in DeKalb County, he became an ordained
+minister in 1963 and served from 1984 to 2011 as campus minister for Cumberland University,
+where the Kenneth M. Tramel Baptist Student Center was named in his honor. Pastor Tramel
+began preaching at Hurricane Baptist Church in March 2010 and continues to serve the
+congregation to this day; and
+WHEREAS, throughout its 210-year history, Hurricane Baptist Church has remained
+steadfast in its mission of faith, service, and fellowship, making an indelible impact on its
+members and the surrounding community; and
+WHEREAS, Hurricane Baptist Church is truly one of the great religious institutions and
+catalysts for positive spiritual change in our State and nation, and the members of this
+exceptional congregation should be appropriately honored for their exemplary service to their
+fellow Christians and the good people of Tennessee; now, therefore,
+- 2 - 006825
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we join in the celebration of the 210th anniversary of
+Hurricane Baptist Church, thank the good people of this historic congregation and their ministers
+for their notable service to their Lord and the State of Tennessee, and wish them much
+continued success and happiness.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 006825
+[DELETED: 0 WWW0 WWWW]
+[DELETED:  -0WWWWWW]
+[DELETED:  -0B0 B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 373
+By Pody
+A RESOLUTION to recognize Hurricane Baptist Church on the
+occasion of its 210th anniversary.
+WHEREAS, the churches of our nation have been an integral part of our history as a
+people and have had an unparalleled impact in forming and maintaining a stable and just
+society; and
+WHEREAS, it is appropriate that we should recognize those venerable religious
+institutions and their congregations who, through their unflagging capacity for love, dedication of
+spirit, and faith in God, strive to enrich the lives of people in their communities; and
+WHEREAS, one such dynamic community of faith is Hurricane Baptist Church in Wilson
+County, whose members are celebrating the church's 210th anniversary this year; and
+WHEREAS, the origins of Hurricane Baptist Church trace back to August 1815, when
+the church was constituted as Union Church with twenty-six founding members living in what is
+now known as the Hurricane community; and
+WHEREAS, the church's first pastor, Joshua Lester, was born in Virginia on September
+6, 1781, and became an ordained minister at the age of twenty; after settling in Wilson County
+in 1805, he played a crucial role in the establishment of Union Church, which he served as
+pastor from 1815 to 1822; and
+WHEREAS, the second pastor, John Bond, moved with his family from South Carolina to
+Middle Tennessee in 1806 at the age of nineteen; an assistant to Joshua Lester, he was
+ordained to preach at Union Church in 1822; and
+WHEREAS, Pastor Bond donated eleven acres of land to the church and helped
+construct a meeting house; he faithfully served the congregation for thirty-nine years until his
+passing on March 2, 1861; and
+SJR0373
+006825
+- 1 -
+
+WHEREAS, the third pastor, Nathaniel Morgan Green, was born in Wilson County and
+raised in the Hurricane community; ordained in 1843, Elder Green began preaching at Union
+Church after the death of John Bond and continued to serve for nineteen years, until his own
+passing in 1880; and
+WHEREAS, the church's name change from Union Church to Hurricane Baptist Church
+in October 1923 reflects a deep connection to the history of the community, as a powerful
+storm—likely a tornado, but referred to as a hurricane—once devastated the area a century
+earlier; and
+WHEREAS, the congregation has worshiped in three different buildings since its
+founding: the original log meeting house of 1815, a two-story structure built in collaboration with
+the Masons, and the current building, which was constructed in 1907; and
+WHEREAS, Hurricane Baptist Church is currently under the faithful and capable
+leadership of Pastor Kenneth M. Tramel; born in DeKalb County, he became an ordained
+minister in 1963 and served from 1984 to 2011 as campus minister for Cumberland University,
+where the Kenneth M. Tramel Baptist Student Center was named in his honor. Pastor Tramel
+began preaching at Hurricane Baptist Church in March 2010 and continues to serve the
+congregation to this day; and
+WHEREAS, throughout its 210-year history, Hurricane Baptist Church has remained
+steadfast in its mission of faith, service, and fellowship, making an indelible impact on its
+members and the surrounding community; and
+WHEREAS, Hurricane Baptist Church is truly one of the great religious institutions and
+catalysts for positive spiritual change in our State and nation, and the members of this
+exceptional congregation should be appropriately honored for their exemplary service to their
+fellow Christians and the good people of Tennessee; now, therefore,
+- 2 - 006825
+
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we join in the celebration of the 210th anniversary of
+Hurricane Baptist Church, thank the good people of this historic congregation and their ministers
+for their notable service to their Lord and the State of Tennessee, and wish them much
+continued success and happiness.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 006825
+
+[DELETED: 0 WWW0 WWWW]
+[DELETED:  -0WWWWWW]
+[DELETED:  -0B0 B]

@@ -1,0 +1,214 @@
+Title: HOUSE BILL 124
+Official Title: HOUSE BILL 124
+Number of Sections: 11
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Lamberth
+SENATE BILL 1274
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 68,
+Chapter 203, Part 1 and Title 68, Chapter 211,
+Part 1, relative to environmental regulatory
+programs.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 68-203-103(b), is amended by
+deleting subdivision (1) and substituting:
+(1) The fees under the Tennessee Safe Drinking Water Act of 1983, compiled in
+chapter 221, part 7 of this title, and the Water Quality Control Act of 1977, compiled in
+title 69, chapter 3, and fees for the production of oil and gas set under title 60, chapter 1,
+part 1, shall be set by the Tennessee board of water quality, oil and gas;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 68-203-103(b), is amended by
+adding the following as a new subdivision:
+( ) The fees under the Mineral Test Hole Regulatory Act, compiled in title 60,
+chapter 1, part 5, shall be set by the supervisor in accordance with § 60-1-505;
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 68-203-103(h)(7), is amended by
+deleting "eighteen dollars and seventy-five cents ($18.75)" and substituting "thirty-eight dollars
+($38.00)".
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 68-211-103, is amended by adding
+the following as new subdivisions:
+( ) "Coal combustion residuals" means fly ash, bottom ash, boiler slag, and flue
+gas desulfurization materials generated from burning coal for the purpose of generating
+electricity by electric utilities and independent power producers;
+SB1274
+000177
+- 1 -
+( ) "Coal combustion residuals disposal unit" means landfills, lateral expansions
+of landfills, surface impoundments, and locations used for the disposal, storage,
+processing, or treatment of coal combustion residuals and minor quantities of other
+associated industrial wastes, such as nonputrescible nonhazardous wastes resulting
+from operations ancillary to power generation, surface impoundment closure, and landfill
+construction;
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 68-203-103(h), is amended by
+deleting subdivision (9) and substituting:
+(9) Filing and processing fees for solid waste landfill permits, except those
+issued to a coal combustion residuals disposal unit, as that term is defined in § 68-211-
+103: ten thousand dollars ($10,000);
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Section 68-203-103(h), is amended by
+deleting subdivision (11) and substituting:
+(11) Annual maintenance fee for a solid waste landfill, except a coal combustion
+residuals disposal unit, as that term is defined in § 68-211-103: fifteen thousand dollars
+($15,000);
+
+Section 8:
+SECTION 7. Tennessee Code Annotated, Section 68-203-104(d), is amended by
+adding the following as a new subdivision:
+( ) For the division of mineral and geologic resources: environmental protection
+fees, fifty-eight percent (58%); state appropriations, forty-two percent (42%);
+
+Section 9:
+SECTION 8. Tennessee Code Annotated, Section 68-211-106, is amended by deleting
+subsection (j) and substituting:
+(j)
+- 2 - 000177
+(1) The commissioner shall not issue a permit under this section for the
+disposal of coal ash, or for the expansion of an existing coal ash disposal facility,
+unless the plans for the disposal facility include a liner and a final cap.
+(2) This subsection (j) does not apply to:
+(A) The use of coal ash for fill;
+(B) An agricultural use;
+(C) An engineered use as a feedstock to produce a product;
+(D) A wastewater treatment unit; or
+(E) The disposal of coal ash in connection with a use described in
+this subdivision (j)(2) and as authorized by the department pursuant to
+this part.
+(3) This subsection (j) does not prevent the commissioner from issuing a
+permit for the disposal of coal combustion residuals in a coal combustion
+residuals disposal unit in accordance with rules adopted by the board.
+
+Section 10:
+SECTION 9. Tennessee Code Annotated, Title 68, Chapter 211, Part 1, is amended by
+adding the following as a new section:
+(a) The department may recover against a person the department's direct and
+indirect costs, including administrative costs, incurred through the regulation of coal
+combustion residuals disposal units as provided by rules adopted by the board pursuant
+to this part.
+(b) Board rules providing for cost recovery under this section must establish an
+annual cap and may include costs associated with permitting, oversight, supervision,
+investigation, regulation, and remediation activities relative to coal combustion residuals
+disposal units.
+- 3 - 000177
+(c) The department shall not assess fees for coal combustion residuals disposal
+units under title 68, chapter 203, if the department seeks recovery of its costs pursuant
+to this section.
+
+Section 11:
+SECTION 10. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 000177
+[DELETED: S]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 124
+By Lamberth
+SENATE BILL 1274
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 68,
+Chapter 203, Part 1 and Title 68, Chapter 211,
+Part 1, relative to environmental regulatory
+programs.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 68-203-103(b), is amended by
+deleting subdivision (1) and substituting:
+(1) The fees under the Tennessee Safe Drinking Water Act of 1983, compiled in
+chapter 221, part 7 of this title, and the Water Quality Control Act of 1977, compiled in
+title 69, chapter 3, and fees for the production of oil and gas set under title 60, chapter 1,
+part 1, shall be set by the Tennessee board of water quality, oil and gas;
+SECTION 2. Tennessee Code Annotated, Section 68-203-103(b), is amended by
+adding the following as a new subdivision:
+( ) The fees under the Mineral Test Hole Regulatory Act, compiled in title 60,
+chapter 1, part 5, shall be set by the supervisor in accordance with § 60-1-505;
+SECTION 3. Tennessee Code Annotated, Section 68-203-103(h)(7), is amended by
+deleting "eighteen dollars and seventy-five cents ($18.75)" and substituting "thirty-eight dollars
+($38.00)".
+SECTION 4. Tennessee Code Annotated, Section 68-211-103, is amended by adding
+the following as new subdivisions:
+( ) "Coal combustion residuals" means fly ash, bottom ash, boiler slag, and flue
+gas desulfurization materials generated from burning coal for the purpose of generating
+electricity by electric utilities and independent power producers;
+SB1274
+000177
+- 1 -
+
+( ) "Coal combustion residuals disposal unit" means landfills, lateral expansions
+of landfills, surface impoundments, and locations used for the disposal, storage,
+processing, or treatment of coal combustion residuals and minor quantities of other
+associated industrial wastes, such as nonputrescible nonhazardous wastes resulting
+from operations ancillary to power generation, surface impoundment closure, and landfill
+construction;
+SECTION 5. Tennessee Code Annotated, Section 68-203-103(h), is amended by
+deleting subdivision (9) and substituting:
+(9) Filing and processing fees for solid waste landfill permits, except those
+issued to a coal combustion residuals disposal unit, as that term is defined in § 68-211-
+103: ten thousand dollars ($10,000);
+SECTION 6. Tennessee Code Annotated, Section 68-203-103(h), is amended by
+deleting subdivision (11) and substituting:
+(11) Annual maintenance fee for a solid waste landfill, except a coal combustion
+residuals disposal unit, as that term is defined in § 68-211-103: fifteen thousand dollars
+($15,000);
+SECTION 7. Tennessee Code Annotated, Section 68-203-104(d), is amended by
+adding the following as a new subdivision:
+( ) For the division of mineral and geologic resources: environmental protection
+fees, fifty-eight percent (58%); state appropriations, forty-two percent (42%);
+SECTION 8. Tennessee Code Annotated, Section 68-211-106, is amended by deleting
+subsection (j) and substituting:
+(j)
+- 2 - 000177
+
+(1) The commissioner shall not issue a permit under this section for the
+disposal of coal ash, or for the expansion of an existing coal ash disposal facility,
+unless the plans for the disposal facility include a liner and a final cap.
+(2) This subsection (j) does not apply to:
+(A) The use of coal ash for fill;
+(B) An agricultural use;
+(C) An engineered use as a feedstock to produce a product;
+(D) A wastewater treatment unit; or
+(E) The disposal of coal ash in connection with a use described in
+this subdivision (j)(2) and as authorized by the department pursuant to
+this part.
+(3) This subsection (j) does not prevent the commissioner from issuing a
+permit for the disposal of coal combustion residuals in a coal combustion
+residuals disposal unit in accordance with rules adopted by the board.
+SECTION 9. Tennessee Code Annotated, Title 68, Chapter 211, Part 1, is amended by
+adding the following as a new section:
+(a) The department may recover against a person the department's direct and
+indirect costs, including administrative costs, incurred through the regulation of coal
+combustion residuals disposal units as provided by rules adopted by the board pursuant
+to this part.
+(b) Board rules providing for cost recovery under this section must establish an
+annual cap and may include costs associated with permitting, oversight, supervision,
+investigation, regulation, and remediation activities relative to coal combustion residuals
+disposal units.
+- 3 - 000177
+
+(c) The department shall not assess fees for coal combustion residuals disposal
+units under title 68, chapter 203, if the department seeks recovery of its costs pursuant
+to this section.
+SECTION 10. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 000177
+
+[DELETED: S]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]

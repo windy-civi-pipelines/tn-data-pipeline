@@ -1,0 +1,98 @@
+Title: SENATE BILL 36
+Official Title: SENATE BILL 36
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Campbell
+HOUSE BILL 156
+By Clemmons
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 4, relative to exemption from taxes for
+child care agencies.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-4-708(3)(C), is amended by
+adding the following new subdivision:
+(xvii) Child care agencies as defined in § 71-3-501.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 67-4-708(3)(C), is amended by
+deleting the language "subdivisions (3)(C)(i)-(xvi)" wherever it may appear and substituting
+instead "subdivisions (3)(C)(i)-(xvii)".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 67-4-724, is amended by adding the
+following new subsection:
+(e) Notwithstanding subsections (a) and (b), during the 2024-2025 fiscal year
+and subsequent fiscal years, the state must annually allocate and distribute to counties
+and municipalities an amount equal to the amount distributed to the counties and
+municipalities in the 2023-2024 fiscal year that was derived from taxes collected under
+this part for services performed by child care agencies as defined in § 71-3-501.
+Notwithstanding § 67-6-103 to the contrary, the distribution required by this subsection
+(e) must be made from state sales tax collections prior to distribution under § 67-6-103;
+provided, however, that no portion of the revenue derived from the increase in the rate of
+sales and use tax from six percent (6%) to seven percent (7%) contained in chapter 856,
+
+Section 5:
+§ 4 of the Public Acts of 2002 shall be distributed pursuant to this subsection (e). All
+HB0156
+000953
+- 1 -
+such revenue shall continue to be allocated as provided in chapter 856 of the Public Acts
+of 2002.
+
+Section 6:
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to tax years ending on or after December 31, 2025.
+- 2 - 000953
+[DELETED: S((]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 36
+By Campbell
+HOUSE BILL 156
+By Clemmons
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 4, relative to exemption from taxes for
+child care agencies.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-4-708(3)(C), is amended by
+adding the following new subdivision:
+(xvii) Child care agencies as defined in § 71-3-501.
+SECTION 2. Tennessee Code Annotated, Section 67-4-708(3)(C), is amended by
+deleting the language "subdivisions (3)(C)(i)-(xvi)" wherever it may appear and substituting
+instead "subdivisions (3)(C)(i)-(xvii)".
+SECTION 3. Tennessee Code Annotated, Section 67-4-724, is amended by adding the
+following new subsection:
+(e) Notwithstanding subsections (a) and (b), during the 2024-2025 fiscal year
+and subsequent fiscal years, the state must annually allocate and distribute to counties
+and municipalities an amount equal to the amount distributed to the counties and
+municipalities in the 2023-2024 fiscal year that was derived from taxes collected under
+this part for services performed by child care agencies as defined in § 71-3-501.
+Notwithstanding § 67-6-103 to the contrary, the distribution required by this subsection
+(e) must be made from state sales tax collections prior to distribution under § 67-6-103;
+provided, however, that no portion of the revenue derived from the increase in the rate of
+sales and use tax from six percent (6%) to seven percent (7%) contained in chapter 856,
+§ 4 of the Public Acts of 2002 shall be distributed pursuant to this subsection (e). All
+HB0156
+000953
+- 1 -
+
+such revenue shall continue to be allocated as provided in chapter 856 of the Public Acts
+of 2002.
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to tax years ending on or after December 31, 2025.
+- 2 - 000953
+
+[DELETED: S((]
+[DELETED:  -0]

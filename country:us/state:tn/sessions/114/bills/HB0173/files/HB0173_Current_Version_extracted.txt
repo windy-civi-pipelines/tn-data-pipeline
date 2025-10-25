@@ -1,0 +1,102 @@
+Title: SENATE BILL 185
+Official Title: SENATE BILL 185
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Jackson
+HOUSE BILL 173
+By Martin B
+AN ACT to amend Tennessee Code Annotated, Title 63;
+Title 68 and Title 71, Chapter 5, relative to hospital
+reimbursement.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 71-5-161(d), is amended by
+designating the existing language as subdivision (d)(1) and adding the following new subdivision
+(d)(2):
+(2)
+(A) As used in this subdivision (d)(2):
+(i) ''Rural area'' means an area that is not delineated as an
+urbanized area by the federal census bureau; and
+(ii) ''Rural hospital'' means a hospital with no more than forty-nine
+(49) licensed beds, operating in a rural area.
+(B) The minimum and maximum level for aggregate rates to rural
+hospitals for services to TennCare enrollees must be based on the percentages
+of each rural hospital's current FFY medicare reimbursement set forth in
+subdivision (d)(2)(C).
+(C) For routine, nonspecialized inpatient services at rural hospitals, the
+minimum level of reimbursement is one hundred percent (100%) and the
+maximum level is one hundred twenty percent (120%).
+(D) The director of TennCare may seek a federal waiver or other
+authorization the director deems necessary to implement subdivision (d)(2)(C),
+without requiring the expansion of medicaid.
+HB0173
+001616
+- 1 -
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 71-5-161, is amended by deleting
+subsection (e) and substituting:
+(e) The bureau shall publish the list of MS-DRGs included in each service
+category on its website, and the bureau shall update the list annually to reflect all
+changes as necessary. The bureau shall annually furnish an updated list of MS-DRGs
+directly to participating rural hospitals.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 001616
+[DELETED: S]
+[DELETED:  -0(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 185
+By Jackson
+HOUSE BILL 173
+By Martin B
+AN ACT to amend Tennessee Code Annotated, Title 63;
+Title 68 and Title 71, Chapter 5, relative to hospital
+reimbursement.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 71-5-161(d), is amended by
+designating the existing language as subdivision (d)(1) and adding the following new subdivision
+(d)(2):
+(2)
+(A) As used in this subdivision (d)(2):
+(i) ''Rural area'' means an area that is not delineated as an
+urbanized area by the federal census bureau; and
+(ii) ''Rural hospital'' means a hospital with no more than forty-nine
+(49) licensed beds, operating in a rural area.
+(B) The minimum and maximum level for aggregate rates to rural
+hospitals for services to TennCare enrollees must be based on the percentages
+of each rural hospital's current FFY medicare reimbursement set forth in
+subdivision (d)(2)(C).
+(C) For routine, nonspecialized inpatient services at rural hospitals, the
+minimum level of reimbursement is one hundred percent (100%) and the
+maximum level is one hundred twenty percent (120%).
+(D) The director of TennCare may seek a federal waiver or other
+authorization the director deems necessary to implement subdivision (d)(2)(C),
+without requiring the expansion of medicaid.
+HB0173
+001616
+- 1 -
+
+SECTION 2. Tennessee Code Annotated, Section 71-5-161, is amended by deleting
+subsection (e) and substituting:
+(e) The bureau shall publish the list of MS-DRGs included in each service
+category on its website, and the bureau shall update the list annually to reflect all
+changes as necessary. The bureau shall annually furnish an updated list of MS-DRGs
+directly to participating rural hospitals.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 001616
+
+[DELETED: S]
+[DELETED:  -0(S]

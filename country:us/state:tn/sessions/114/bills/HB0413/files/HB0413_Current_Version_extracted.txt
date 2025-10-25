@@ -1,0 +1,196 @@
+Title: SENATE BILL 152
+Official Title: SENATE BILL 152
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Pody
+HOUSE BILL 413
+By Lynn
+AN ACT to amend Tennessee Code Annotated, Title 53;
+Title 63 and Title 68, relative to stem cell
+treatment.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 63, Chapter 6, is amended by adding
+the following as a new part:
+63-6-901. Part definitions.
+As used in this part:
+(1) "Commissioner" means the commissioner of health;
+(2) "Governmental entity" means this state or an agency or political
+subdivision of this state;
+(3) "Investigational stem cell treatment" means an adult stem cell
+treatment that:
+(A) Is under investigation in a clinical trial and being administered
+to human participants in that trial; and
+(B) Has not yet been approved for general use by the United
+States food and drug administration;
+(4) "Severe chronic disease" means a condition, injury, or illness that:
+(A) May be treated;
+(B) Is never cured or eliminated; and
+(C) Entails significant functional impairment or severe pain; and
+HB0413
+000703
+- 1 -
+(5) "Terminal illness" means an advanced stage of a disease with an
+unfavorable prognosis that, without life-sustaining procedures, will soon result in
+death or a state of permanent unconsciousness from which recovery is unlikely.
+63-6-902. Patient eligibility.
+A patient may access and use an investigational stem cell treatment under this
+part if:
+(1) The patient has a severe chronic disease or terminal illness listed in
+the rules adopted under § 63-6-907 and attested to by the patient's treating
+physician; and
+(2) The patient's treating physician:
+(A) In consultation with the patient, has considered all other
+treatment options currently approved by the United States food and drug
+administration and determined that those treatment options are
+unavailable or unlikely to alleviate the significant impairment or severe
+pain associated with the severe chronic disease or terminal illness; and
+(B) Has recommended or prescribed in writing that the patient
+use a specific class of investigational stem cell treatment.
+63-6-903. Informed consent.
+(a) Before receiving an investigational stem cell treatment, an eligible patient
+must sign a written informed consent.
+(b) If the patient is a minor or lacks the mental capacity to provide informed
+consent, then a parent, guardian, or conservator may provide informed consent on the
+patient's behalf.
+(c) The commissioner may develop and make available to physicians a form for
+the informed consent under this section.
+- 2 - 000703
+63-6-904. Effect on other law.
+(a) This part does not affect the coverage of enrollees in clinical trials under §
+56-7-2365.
+(b) This part does not affect or authorize a person to violate any law regulating
+the possession, use, or transfer of fetal tissue, fetal stem cells, adult stem cells, or
+human organs, including § 39-15-208.
+63-6-905. Action against physician license prohibited.
+Notwithstanding another law, the board of medical examiners and the board of
+osteopathic examination shall not revoke, fail to renew, suspend, or take any action
+against a physician's license based solely on the physician's recommendations to an
+eligible patient regarding access to or use of an investigational stem cell treatment if the
+care provided or recommendations made to the patient meet the standard of care and
+the requirements of this part.
+63-6-906. Governmental interference prohibited.
+A governmental entity or an officer, employee, or agent of a governmental entity
+shall not interfere with an eligible patient's access to or use of an investigational stem
+cell treatment authorized under this part.
+63-6-907. Rules.
+The commissioner shall promulgate rules to effectuate this part. The rules must
+include designating the medical conditions that constitute a severe chronic disease or
+terminal illness for purposes of this part. Rules must be promulgated in accordance with
+the Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+
+Section 3:
+SECTION 2. The headings to sections in this act are for reference purposes only and do
+not constitute a part of the law enacted by this act. However, the Tennessee Code Commission
+is requested to include the headings in any compilation or publication containing this act.
+- 3 - 000703
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 000703
+[DELETED: S6A(((((((((]
+[DELETED:  -0(6A((((6(((]
+[DELETED:  -06((6N6A6TS]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 152
+By Pody
+HOUSE BILL 413
+By Lynn
+AN ACT to amend Tennessee Code Annotated, Title 53;
+Title 63 and Title 68, relative to stem cell
+treatment.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 63, Chapter 6, is amended by adding
+the following as a new part:
+63-6-901. Part definitions.
+As used in this part:
+(1) "Commissioner" means the commissioner of health;
+(2) "Governmental entity" means this state or an agency or political
+subdivision of this state;
+(3) "Investigational stem cell treatment" means an adult stem cell
+treatment that:
+(A) Is under investigation in a clinical trial and being administered
+to human participants in that trial; and
+(B) Has not yet been approved for general use by the United
+States food and drug administration;
+(4) "Severe chronic disease" means a condition, injury, or illness that:
+(A) May be treated;
+(B) Is never cured or eliminated; and
+(C) Entails significant functional impairment or severe pain; and
+HB0413
+000703
+- 1 -
+
+(5) "Terminal illness" means an advanced stage of a disease with an
+unfavorable prognosis that, without life-sustaining procedures, will soon result in
+death or a state of permanent unconsciousness from which recovery is unlikely.
+63-6-902. Patient eligibility.
+A patient may access and use an investigational stem cell treatment under this
+part if:
+(1) The patient has a severe chronic disease or terminal illness listed in
+the rules adopted under § 63-6-907 and attested to by the patient's treating
+physician; and
+(2) The patient's treating physician:
+(A) In consultation with the patient, has considered all other
+treatment options currently approved by the United States food and drug
+administration and determined that those treatment options are
+unavailable or unlikely to alleviate the significant impairment or severe
+pain associated with the severe chronic disease or terminal illness; and
+(B) Has recommended or prescribed in writing that the patient
+use a specific class of investigational stem cell treatment.
+63-6-903. Informed consent.
+(a) Before receiving an investigational stem cell treatment, an eligible patient
+must sign a written informed consent.
+(b) If the patient is a minor or lacks the mental capacity to provide informed
+consent, then a parent, guardian, or conservator may provide informed consent on the
+patient's behalf.
+(c) The commissioner may develop and make available to physicians a form for
+the informed consent under this section.
+- 2 - 000703
+
+63-6-904. Effect on other law.
+(a) This part does not affect the coverage of enrollees in clinical trials under §
+56-7-2365.
+(b) This part does not affect or authorize a person to violate any law regulating
+the possession, use, or transfer of fetal tissue, fetal stem cells, adult stem cells, or
+human organs, including § 39-15-208.
+63-6-905. Action against physician license prohibited.
+Notwithstanding another law, the board of medical examiners and the board of
+osteopathic examination shall not revoke, fail to renew, suspend, or take any action
+against a physician's license based solely on the physician's recommendations to an
+eligible patient regarding access to or use of an investigational stem cell treatment if the
+care provided or recommendations made to the patient meet the standard of care and
+the requirements of this part.
+63-6-906. Governmental interference prohibited.
+A governmental entity or an officer, employee, or agent of a governmental entity
+shall not interfere with an eligible patient's access to or use of an investigational stem
+cell treatment authorized under this part.
+63-6-907. Rules.
+The commissioner shall promulgate rules to effectuate this part. The rules must
+include designating the medical conditions that constitute a severe chronic disease or
+terminal illness for purposes of this part. Rules must be promulgated in accordance with
+the Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+SECTION 2. The headings to sections in this act are for reference purposes only and do
+not constitute a part of the law enacted by this act. However, the Tennessee Code Commission
+is requested to include the headings in any compilation or publication containing this act.
+- 3 - 000703
+
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 000703
+
+[DELETED: S6A(((((((((]
+[DELETED:  -0(6A((((6(((]
+[DELETED:  -06((6N6A6TS]
+[DELETED:  -0S]

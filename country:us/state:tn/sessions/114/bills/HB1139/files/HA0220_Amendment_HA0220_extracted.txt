@@ -1,0 +1,75 @@
+Title: AMEND S e n ate Bill No. 258* House Bill No. 1139
+Official Title: AMEND S e n ate Bill No. 258* House Bill No. 1139
+Number of Sections: 2
+Source: versions - Amendment HA0220
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House Agriculture & Natural Resources 1
+Amendment No. 1 to HB1139
+Todd
+Signature of Sponsor
+by deleting SECTION 1 and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 221, Part 7, is amended by
+adding the following as a new section:
+68-221-721.
+(a) As used in this section:
+(1) "Consecutive system" means a public water system that receives
+some or all of the system's finished water from one (1) or more wholesale
+systems. Delivery may be through a direct connection or through the distribution
+system of one (1) or more consecutive systems; and
+(2) "Point-of-entry treatment device" means a treatment device applied to
+the drinking water entering a house, building, or complex of buildings under
+single ownership for the purpose of reducing contaminants in the drinking water
+distributed throughout the house, building, or complex of buildings.
+(b) If a point-of-entry treatment device is installed in a facility solely to soften
+hard water and, because of the installation of such a device, the house, building, or
+complex of buildings meets the definition of a public water system under § 68-221-703,
+then the facility constitutes a consecutive system, and shall monitor the influent and
+finished water for hardness, alkalinity, and pH on a quarterly basis, and sodium on an
+annual basis, and report the results to the department within fifteen (15) days of the end
+of the reporting period.
+HA0220
+006939
+- 1 -
+[DELETED:  a HS6((((]
+
+
+================================================================================
+
+Raw Text:
+House Agriculture & Natural Resources 1
+Amendment No. 1 to HB1139
+Todd
+Signature of Sponsor
+AMEND S e n ate Bill No. 258* House Bill No. 1139
+by deleting SECTION 1 and substituting:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 221, Part 7, is amended by
+adding the following as a new section:
+68-221-721.
+(a) As used in this section:
+(1) "Consecutive system" means a public water system that receives
+some or all of the system's finished water from one (1) or more wholesale
+systems. Delivery may be through a direct connection or through the distribution
+system of one (1) or more consecutive systems; and
+(2) "Point-of-entry treatment device" means a treatment device applied to
+the drinking water entering a house, building, or complex of buildings under
+single ownership for the purpose of reducing contaminants in the drinking water
+distributed throughout the house, building, or complex of buildings.
+(b) If a point-of-entry treatment device is installed in a facility solely to soften
+hard water and, because of the installation of such a device, the house, building, or
+complex of buildings meets the definition of a public water system under § 68-221-703,
+then the facility constitutes a consecutive system, and shall monitor the influent and
+finished water for hardness, alkalinity, and pH on a quarterly basis, and sodium on an
+annual basis, and report the results to the department within fifteen (15) days of the end
+of the reporting period.
+HA0220
+006939
+- 1 -
+
+[DELETED:  a HS6((((]

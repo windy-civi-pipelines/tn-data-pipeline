@@ -1,0 +1,73 @@
+Title: HOUSE BILL 1239
+Official Title: HOUSE BILL 1239
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Helton-Haynes
+SENATE BILL 421
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 33;
+Title 41; Title 53 and Title 63, relative to healthcare
+prescribers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 53-11-311(c)(2)(P), is amended by
+deleting "at any given time." and substituting "at any given time; or".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 53-11-311(c)(2), is amended by
+designating subdivisions (A)-(P) as subdivisions (A)(1)-(16) and adding the following new
+subdivision:
+(B)
+(1) Has an active registration with the federal drug enforcement agency;
+(2) Is employed by or contracts with a state correctional facility, as
+defined in § 41-21-206, or a county or municipal jail to provide healthcare
+services on-site or via telemedicine; and
+(3) Has adopted clinical protocols for the facilitation or continuance of
+medication-assisted treatment for persons who are incarcerated in or to be
+released from such state correctional facility or county or municipal jail.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0421
+000481
+- 1 -
+[DELETED: SS((((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1239
+By Helton-Haynes
+SENATE BILL 421
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 33;
+Title 41; Title 53 and Title 63, relative to healthcare
+prescribers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 53-11-311(c)(2)(P), is amended by
+deleting "at any given time." and substituting "at any given time; or".
+SECTION 2. Tennessee Code Annotated, Section 53-11-311(c)(2), is amended by
+designating subdivisions (A)-(P) as subdivisions (A)(1)-(16) and adding the following new
+subdivision:
+(B)
+(1) Has an active registration with the federal drug enforcement agency;
+(2) Is employed by or contracts with a state correctional facility, as
+defined in § 41-21-206, or a county or municipal jail to provide healthcare
+services on-site or via telemedicine; and
+(3) Has adopted clinical protocols for the facilitation or continuance of
+medication-assisted treatment for persons who are incarcerated in or to be
+released from such state correctional facility or county or municipal jail.
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0421
+000481
+- 1 -
+
+[DELETED: SS((((S]

@@ -1,0 +1,51 @@
+Title: HOUSE BILL 1196
+Official Title: HOUSE BILL 1196
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Cepicky
+SENATE BILL 1066
+By White
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to education curricula.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-1-402(a), is amended by adding
+the following at the end of the subsection:
+The state board of education shall publish the curriculum for the statewide DARE
+program on the state board's website.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1066
+003233
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1196
+By Cepicky
+SENATE BILL 1066
+By White
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to education curricula.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-1-402(a), is amended by adding
+the following at the end of the subsection:
+The state board of education shall publish the curriculum for the statewide DARE
+program on the state board's website.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1066
+003233
+- 1 -
+
+[DELETED: SS]

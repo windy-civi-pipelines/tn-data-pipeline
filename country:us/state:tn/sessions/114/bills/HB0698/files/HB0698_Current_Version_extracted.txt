@@ -1,0 +1,218 @@
+Title: SENATE BILL 1014
+Official Title: SENATE BILL 1014
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Oliver
+HOUSE BILL 698
+By Camper
+AN ACT to amend Tennessee Code Annotated, Title 49
+and Title 71, relative to child care.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-13-136(c)(1), is amended by
+deleting the language "an LEA in which one (1) or more public charter schools operate" and
+substituting instead the language "each LEA".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 49, Chapter 2, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section, "child care facility" means a child care agency, a child
+care center, or a drop-in center, as those terms are defined in § 71-3-501, but only if the
+center or agency is owned and operated by one (1) or more individuals who do not own
+or operate the center or agency as a corporation domiciled in this or another state.
+(b) An LEA in which a child care facility operates shall submit a comprehensive
+listing of all underutilized property or vacant property to the department of human
+services and the comptroller of the treasury. The department shall make an LEA's list
+available to each child care facility operating in the LEA.
+(c) The owner or operator of a child care facility may petition the comptroller of
+the treasury for an audit of the list of all underutilized property or vacant property
+submitted by the LEA in which a child care facility operates. The comptroller of the
+treasury is authorized to promulgate rules, in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5, for the administration of this section.
+(d)
+HB0698
+001085
+- 1 -
+(1) The owner of a child care facility that is operating in an LEA that does
+not have one (1) or more public charter schools operating within its geographic
+boundaries has a right of first refusal to:
+(A) Purchase vacant property listed by the LEA under this section
+at or below fair market value to provide child care services; or
+(B) Lease underutilized property or vacant property listed by the
+LEA under this section at or below fair market value to provide child care
+services. A lease agreement executed between the owner or operator of
+a child care facility and an LEA must not reflect any outstanding bonded
+debt on the underutilized property or vacant property, except as agreed
+upon to reflect any necessary costs associated with the occupation or
+remodeling of the facility.
+(2) If one (1) or more public charter schools operate in the LEA in which
+a child care facility also operates, then the owner or operator of a child care
+facility operating in the LEA has a second right of refusal to purchase vacant
+property or lease underutilized property or vacant property listed by the LEA in
+the same manner and to the same extent as provided in subdivision (d)(1).
+(3) For purposes of this subsection (d), fair market value for educational
+purposes is determined by taking the average of two (2) separate appraisals
+conducted by two (2) independent, qualified appraisers, one (1) selected by the
+LEA and one (1) selected by the owner or operator of the child care facility.
+(e)
+(1) Upon the execution of a lease agreement pursuant to this section, the
+owner or operator of the child care facility has unrestricted use of the property;
+provided, that the property must be used to provide child care services. The
+- 2 - 001085
+owner or operator of the child care facility shall provide for routine maintenance
+and repair so that the leased property is maintained in as good of order as when
+the lease was executed. The owner or operator of the child care facility is
+responsible for paying all utilities used by the child care facility at the leased
+property. Extensive repairs to buildings or facilities considered capital expenses
+are the responsibility of the LEA funding body and not the child care facility. If
+the owner or operator of the child care facility makes extensive repairs to
+buildings or facilities considered capital expenses, then the capital expenses
+must be credited against the cost of the lease. Any fixtures, improvements, or
+tangible assets added to leased property by the owner or operator of the child
+care facility pursuant to this section must remain at the leased property upon the
+child care facility's return of the leased property to the LEA.
+(2) If the LEA decides to sell the school building that the child care facility
+is leasing, then the owner or operator of the child care facility must be provided
+the right of first refusal to purchase the school building at or below fair market
+value to provide child care services, less the value of all rental payments made to
+the LEA during the term of the lease.
+(3) If, during the term of the lease, the child care facility closes or ceases
+using the building, then the building must be placed on the LEA's vacant or
+underutilized property list pursuant to this section.
+(f) If, after the purchase of vacant or underutilized property from an LEA
+pursuant to this section, the child care facility closes or ceases using the property, then
+the LEA has the right of first refusal to purchase the property from the owner or operator
+of the child care facility at or below fair market value for educational purposes. This
+subsection (f) does not require the owner or operator of a child care facility to sell any
+- 3 - 001085
+property other than the property sold to the owner or operator of the child care facility by
+the LEA pursuant to this section, if the LEA elects to exercise its right of first refusal.
+(g) The comptroller of the treasury may promulgate rules, in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5, for the
+administration of this section.
+(h) This section is not intended to frustrate an LEA's ability to plan for the use of
+underutilized or vacant properties owned or operated by the LEA. In any LEA in which a
+child care facility operates, the LEA shall submit each year its plans for the use of
+underutilized or vacant properties owned or operated by the LEA in its annual report to
+the department of education and the comptroller of the treasury.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+- 4 - 001085
+[DELETED: SS]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1014
+By Oliver
+HOUSE BILL 698
+By Camper
+AN ACT to amend Tennessee Code Annotated, Title 49
+and Title 71, relative to child care.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-13-136(c)(1), is amended by
+deleting the language "an LEA in which one (1) or more public charter schools operate" and
+substituting instead the language "each LEA".
+SECTION 2. Tennessee Code Annotated, Title 49, Chapter 2, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section, "child care facility" means a child care agency, a child
+care center, or a drop-in center, as those terms are defined in § 71-3-501, but only if the
+center or agency is owned and operated by one (1) or more individuals who do not own
+or operate the center or agency as a corporation domiciled in this or another state.
+(b) An LEA in which a child care facility operates shall submit a comprehensive
+listing of all underutilized property or vacant property to the department of human
+services and the comptroller of the treasury. The department shall make an LEA's list
+available to each child care facility operating in the LEA.
+(c) The owner or operator of a child care facility may petition the comptroller of
+the treasury for an audit of the list of all underutilized property or vacant property
+submitted by the LEA in which a child care facility operates. The comptroller of the
+treasury is authorized to promulgate rules, in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5, for the administration of this section.
+(d)
+HB0698
+001085
+- 1 -
+
+(1) The owner of a child care facility that is operating in an LEA that does
+not have one (1) or more public charter schools operating within its geographic
+boundaries has a right of first refusal to:
+(A) Purchase vacant property listed by the LEA under this section
+at or below fair market value to provide child care services; or
+(B) Lease underutilized property or vacant property listed by the
+LEA under this section at or below fair market value to provide child care
+services. A lease agreement executed between the owner or operator of
+a child care facility and an LEA must not reflect any outstanding bonded
+debt on the underutilized property or vacant property, except as agreed
+upon to reflect any necessary costs associated with the occupation or
+remodeling of the facility.
+(2) If one (1) or more public charter schools operate in the LEA in which
+a child care facility also operates, then the owner or operator of a child care
+facility operating in the LEA has a second right of refusal to purchase vacant
+property or lease underutilized property or vacant property listed by the LEA in
+the same manner and to the same extent as provided in subdivision (d)(1).
+(3) For purposes of this subsection (d), fair market value for educational
+purposes is determined by taking the average of two (2) separate appraisals
+conducted by two (2) independent, qualified appraisers, one (1) selected by the
+LEA and one (1) selected by the owner or operator of the child care facility.
+(e)
+(1) Upon the execution of a lease agreement pursuant to this section, the
+owner or operator of the child care facility has unrestricted use of the property;
+provided, that the property must be used to provide child care services. The
+- 2 - 001085
+
+owner or operator of the child care facility shall provide for routine maintenance
+and repair so that the leased property is maintained in as good of order as when
+the lease was executed. The owner or operator of the child care facility is
+responsible for paying all utilities used by the child care facility at the leased
+property. Extensive repairs to buildings or facilities considered capital expenses
+are the responsibility of the LEA funding body and not the child care facility. If
+the owner or operator of the child care facility makes extensive repairs to
+buildings or facilities considered capital expenses, then the capital expenses
+must be credited against the cost of the lease. Any fixtures, improvements, or
+tangible assets added to leased property by the owner or operator of the child
+care facility pursuant to this section must remain at the leased property upon the
+child care facility's return of the leased property to the LEA.
+(2) If the LEA decides to sell the school building that the child care facility
+is leasing, then the owner or operator of the child care facility must be provided
+the right of first refusal to purchase the school building at or below fair market
+value to provide child care services, less the value of all rental payments made to
+the LEA during the term of the lease.
+(3) If, during the term of the lease, the child care facility closes or ceases
+using the building, then the building must be placed on the LEA's vacant or
+underutilized property list pursuant to this section.
+(f) If, after the purchase of vacant or underutilized property from an LEA
+pursuant to this section, the child care facility closes or ceases using the property, then
+the LEA has the right of first refusal to purchase the property from the owner or operator
+of the child care facility at or below fair market value for educational purposes. This
+subsection (f) does not require the owner or operator of a child care facility to sell any
+- 3 - 001085
+
+property other than the property sold to the owner or operator of the child care facility by
+the LEA pursuant to this section, if the LEA elects to exercise its right of first refusal.
+(g) The comptroller of the treasury may promulgate rules, in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5, for the
+administration of this section.
+(h) This section is not intended to frustrate an LEA's ability to plan for the use of
+underutilized or vacant properties owned or operated by the LEA. In any LEA in which a
+child care facility operates, the LEA shall submit each year its plans for the use of
+underutilized or vacant properties owned or operated by the LEA in its annual report to
+the department of education and the comptroller of the treasury.
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+- 4 - 001085
+
+[DELETED: SS]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0S]
