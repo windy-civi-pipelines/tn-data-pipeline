@@ -1,0 +1,49 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 1251
+By Lowe
+AN ACT to amend Tennessee Code Annotated, Title 28;
+Title 29; Title 33; Title 38; Title 39; Title 53; Title
+63; Title 68 and Title 71, relative to drug
+overdoses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 68-24-301, is amended by inserting
+"within seven (7) business days" after "shall report such cases".
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB1251
+003105
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 1251
+By Lowe
+AN ACT to amend Tennessee Code Annotated, Title 28;
+Title 29; Title 33; Title 38; Title 39; Title 53; Title
+63; Title 68 and Title 71, relative to drug
+overdoses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 68-24-301, is amended by inserting
+"within seven (7) business days" after "shall report such cases".
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB1251
+003105
+- 1 -
+
+[DELETED: SS]

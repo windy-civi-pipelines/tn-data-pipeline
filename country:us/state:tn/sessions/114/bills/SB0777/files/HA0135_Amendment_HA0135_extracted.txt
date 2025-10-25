@@ -1,0 +1,234 @@
+Title: AMEND S e n ate Bill No. 777* House Bill No. 886
+Official Title: AMEND S e n ate Bill No. 777* House Bill No. 886
+Number of Sections: 12
+Source: versions - Amendment HA0135
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+House State & Local Government 1
+Amendment No. 1 to HB0886
+Crawford
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 2-2-116, is amended by adding the
+following to the permanent registration record form:
+
+Section 3:
+13. Political Party Affiliation (Select one):
+{Name of majority party}
+{Name of minority party}
+Unaffiliated
+Recognized minor party: _______
+
+Section 4:
+SECTION 2. Tennessee Code Annotated, Section 2-2-116, is amended by designating
+the existing language as subsection (a) and adding the following as a new subsection:
+(b) The political party affiliation section of the permanent registration record must
+include options to register with a statewide political party or recognized minor party, or to
+be designated as unaffiliated. Statewide political parties must be listed in the same
+order as required by § 2-5-208. The form shall include a blank line to designate a
+recognized minor party affiliation. The form shall contain instructions that, if a voter fails
+or refuses to make a designation or designates a political party that is not a statewide
+political party or recognized minor party, the county election commission will enter on the
+permanent registration records that the voter is unaffiliated.
+
+Section 5:
+SECTION 3. Tennessee Code Annotated, Section 2-2-118, is amended by adding the
+following as a new subsection:
+(e)
+HA0135
+005133
+- 1 -
+(1) At the time of initial registration, each qualified voter may designate
+on the registration application an affiliation with a statewide political party or
+recognized minor party or may choose to be designated as "Unaffiliated." The
+county election commission shall record the party affiliation or unaffiliated
+designation as part of the voter's permanent registration record. If a voter fails or
+refuses to make a designation or designates a political party that is not a
+statewide political party or recognized minor party, then the county election
+commission shall enter on the permanent registration records that the voter is
+unaffiliated.
+(2) A person who was registered to vote prior to November 1, 2025, may
+designate the statewide political party or recognized minor party with which the
+person intends to affiliate during the registration period under § 2-2-109. A
+change to such affiliation must be accomplished pursuant to Section 7.
+
+Section 6:
+SECTION 4. Tennessee Code Annotated, Section 2-1-104(a)(19), is amended by
+deleting the subdivision and substituting instead:
+(19) "Primary election" means an election held for a political party for the
+purpose of allowing registered voters entitled to vote pursuant to § 2-7-115(b) to select a
+nominee or nominees to appear on the general election ballot;
+
+Section 7:
+SECTION 5. Tennessee Code Annotated, Section 2-1-104(a), is amended by adding
+the following as a new subdivision:
+( ) "Unaffiliated voter" means a voter who is not registered as being affiliated
+with a statewide party or recognized minor party;
+
+Section 8:
+SECTION 6. Tennessee Code Annotated, Section 2-7-115(b), is amended by deleting
+the subsection and substituting instead:
+(b) A registered voter is entitled to vote in a primary election for offices for which
+the voter is qualified to vote at the polling place where the voter is registered if:
+- 2 - 005133
+(1) It is the first primary election the voter has voted in on or after
+November 1, 2025, and at the time the voter seeks to vote, the voter declares
+allegiance to the political party in whose primary the voter seeks to vote. The
+county election commission shall record the voter's declaration or affirmation
+made at the time the voter seeks to vote as part of the voter's permanent
+registration record; or
+(2) The voter has registered as being affiliated with a party pursuant to §
+2-2-118.
+
+Section 9:
+SECTION 7. Tennessee Code Annotated, Title 2, Chapter 13, Part 1, is amended by
+adding the following as a new section:
+(a) An individual registering to vote on or after November 1, 2025, may register
+as a member of a statewide political party or a recognized minor party.
+(b) An individual who is registered to vote before November 1, 2025, shall
+register as a member of a statewide political party or a recognized minor party at the first
+primary election in which the individual participates on or after November 1, 2025, or
+during the registration period under § 2-2-109. The party with whom the individual
+registers must match the party for which the individual requests a primary ballot.
+(c) To change a voter's party affiliation for purposes of participating in a primary
+election for either a statewide political party or a recognized minor party after a voter is
+registered with a party under subsection (a) or (b), the registered voter must notify the
+county election commission in writing of the change in party affiliation no later than
+ninety (90) days prior to the primary in which the voter wishes to participate.
+(d) The written notice of change in party affiliation may be received by the county
+election commission by mail or in person with the registered voter's original signature.
+
+Section 10:
+SECTION 8. Tennessee Code Annotated, Section 2-13-107, is amended by adding the
+following as a new subsection:
+- 3 - 005133
+(g) If a recognized minor party has failed to maintain recognition beyond the
+current election year, the county election commission shall update the permanent voter
+registration record of any voter affiliated with a recognized minor party to "Unaffiliated"
+upon notice from the coordinator of elections.
+
+Section 11:
+SECTION 9. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+
+Section 12:
+SECTION 10. This act takes effect November 1, 2025, the public welfare requiring it.
+- 4 - 005133
+[DELETED:  a HS1{{URSS]
+[DELETED:  -0SSS]
+[DELETED:  -0SS]
+[DELETED:  -0SS]
+
+
+================================================================================
+
+Raw Text:
+House State & Local Government 1
+Amendment No. 1 to HB0886
+Crawford
+Signature of Sponsor
+AMEND S e n ate Bill No. 777* House Bill No. 886
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 2-2-116, is amended by adding the
+following to the permanent registration record form:
+13. Political Party Affiliation (Select one):
+{Name of majority party}
+{Name of minority party}
+Unaffiliated
+Recognized minor party: _______
+SECTION 2. Tennessee Code Annotated, Section 2-2-116, is amended by designating
+the existing language as subsection (a) and adding the following as a new subsection:
+(b) The political party affiliation section of the permanent registration record must
+include options to register with a statewide political party or recognized minor party, or to
+be designated as unaffiliated. Statewide political parties must be listed in the same
+order as required by § 2-5-208. The form shall include a blank line to designate a
+recognized minor party affiliation. The form shall contain instructions that, if a voter fails
+or refuses to make a designation or designates a political party that is not a statewide
+political party or recognized minor party, the county election commission will enter on the
+permanent registration records that the voter is unaffiliated.
+SECTION 3. Tennessee Code Annotated, Section 2-2-118, is amended by adding the
+following as a new subsection:
+(e)
+HA0135
+005133
+- 1 -
+
+(1) At the time of initial registration, each qualified voter may designate
+on the registration application an affiliation with a statewide political party or
+recognized minor party or may choose to be designated as "Unaffiliated." The
+county election commission shall record the party affiliation or unaffiliated
+designation as part of the voter's permanent registration record. If a voter fails or
+refuses to make a designation or designates a political party that is not a
+statewide political party or recognized minor party, then the county election
+commission shall enter on the permanent registration records that the voter is
+unaffiliated.
+(2) A person who was registered to vote prior to November 1, 2025, may
+designate the statewide political party or recognized minor party with which the
+person intends to affiliate during the registration period under § 2-2-109. A
+change to such affiliation must be accomplished pursuant to Section 7.
+SECTION 4. Tennessee Code Annotated, Section 2-1-104(a)(19), is amended by
+deleting the subdivision and substituting instead:
+(19) "Primary election" means an election held for a political party for the
+purpose of allowing registered voters entitled to vote pursuant to § 2-7-115(b) to select a
+nominee or nominees to appear on the general election ballot;
+SECTION 5. Tennessee Code Annotated, Section 2-1-104(a), is amended by adding
+the following as a new subdivision:
+( ) "Unaffiliated voter" means a voter who is not registered as being affiliated
+with a statewide party or recognized minor party;
+SECTION 6. Tennessee Code Annotated, Section 2-7-115(b), is amended by deleting
+the subsection and substituting instead:
+(b) A registered voter is entitled to vote in a primary election for offices for which
+the voter is qualified to vote at the polling place where the voter is registered if:
+- 2 - 005133
+
+(1) It is the first primary election the voter has voted in on or after
+November 1, 2025, and at the time the voter seeks to vote, the voter declares
+allegiance to the political party in whose primary the voter seeks to vote. The
+county election commission shall record the voter's declaration or affirmation
+made at the time the voter seeks to vote as part of the voter's permanent
+registration record; or
+(2) The voter has registered as being affiliated with a party pursuant to §
+2-2-118.
+SECTION 7. Tennessee Code Annotated, Title 2, Chapter 13, Part 1, is amended by
+adding the following as a new section:
+(a) An individual registering to vote on or after November 1, 2025, may register
+as a member of a statewide political party or a recognized minor party.
+(b) An individual who is registered to vote before November 1, 2025, shall
+register as a member of a statewide political party or a recognized minor party at the first
+primary election in which the individual participates on or after November 1, 2025, or
+during the registration period under § 2-2-109. The party with whom the individual
+registers must match the party for which the individual requests a primary ballot.
+(c) To change a voter's party affiliation for purposes of participating in a primary
+election for either a statewide political party or a recognized minor party after a voter is
+registered with a party under subsection (a) or (b), the registered voter must notify the
+county election commission in writing of the change in party affiliation no later than
+ninety (90) days prior to the primary in which the voter wishes to participate.
+(d) The written notice of change in party affiliation may be received by the county
+election commission by mail or in person with the registered voter's original signature.
+SECTION 8. Tennessee Code Annotated, Section 2-13-107, is amended by adding the
+following as a new subsection:
+- 3 - 005133
+
+(g) If a recognized minor party has failed to maintain recognition beyond the
+current election year, the county election commission shall update the permanent voter
+registration record of any voter affiliated with a recognized minor party to "Unaffiliated"
+upon notice from the coordinator of elections.
+SECTION 9. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 10. This act takes effect November 1, 2025, the public welfare requiring it.
+- 4 - 005133
+
+[DELETED:  a HS1{{URSS]
+[DELETED:  -0SSS]
+[DELETED:  -0SS]
+[DELETED:  -0SS]

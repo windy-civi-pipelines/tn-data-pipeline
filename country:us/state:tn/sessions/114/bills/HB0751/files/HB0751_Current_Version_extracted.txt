@@ -1,0 +1,73 @@
+Title: SENATE BILL 1415
+Official Title: SENATE BILL 1415
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Briggs
+HOUSE BILL 751
+By Faison
+AN ACT to amend Tennessee Code Annotated, Title 37;
+Title 39 and Title 40, relative to criminal offenses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 39-15-401(d)(2), is amended by
+deleting "subsection (d)" and substituting "subdivision (d)(1)".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 39-15-401(d), is amended by
+designating the current language as subdivision (d)(1) and adding the following as a new
+subdivision (d)(2):
+(2)
+(A) A person who knowingly, by act or omission, engages in conduct that
+places a child in imminent danger of death, bodily injury, or physical or mental
+impairment commits a Class E felony; except that if the abused child is eight (8)
+years of age or less, then the penalty is a Class B felony.
+(B) For purposes of this subdivision (d)(2), a person engages in conduct
+that places a child in imminent danger of death, bodily injury, or physical or
+mental impairment if the person unlawfully possesses any amount of fentanyl,
+carfentanil, remifentanil, alfentanil, or thiafentanil in the presence of the child.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0751
+001465
+- 1 -
+[DELETED: SS(((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1415
+By Briggs
+HOUSE BILL 751
+By Faison
+AN ACT to amend Tennessee Code Annotated, Title 37;
+Title 39 and Title 40, relative to criminal offenses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 39-15-401(d)(2), is amended by
+deleting "subsection (d)" and substituting "subdivision (d)(1)".
+SECTION 2. Tennessee Code Annotated, Section 39-15-401(d), is amended by
+designating the current language as subdivision (d)(1) and adding the following as a new
+subdivision (d)(2):
+(2)
+(A) A person who knowingly, by act or omission, engages in conduct that
+places a child in imminent danger of death, bodily injury, or physical or mental
+impairment commits a Class E felony; except that if the abused child is eight (8)
+years of age or less, then the penalty is a Class B felony.
+(B) For purposes of this subdivision (d)(2), a person engages in conduct
+that places a child in imminent danger of death, bodily injury, or physical or
+mental impairment if the person unlawfully possesses any amount of fentanyl,
+carfentanil, remifentanil, alfentanil, or thiafentanil in the presence of the child.
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0751
+001465
+- 1 -
+
+[DELETED: SS(((S]

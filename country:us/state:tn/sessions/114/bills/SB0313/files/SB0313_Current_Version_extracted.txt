@@ -1,0 +1,149 @@
+Title: HOUSE BILL 1234
+Official Title: HOUSE BILL 1234
+Number of Sections: 8
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By McKenzie
+SENATE BILL 313
+By Yarbro
+AN ACT to amend Tennessee Code Annotated, Title 49,
+Chapter 6, relative to K-12 education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-6-3802, is amended by deleting
+the section and substituting instead the following:
+As used in this part, unless the context otherwise requires:
+(1) "Classroom library" means materials donated to, purchased by, or
+acquired by an individual teacher, which are made available in the teacher's
+classroom to students assigned to the teacher's class or classes;
+(2) "Library collection" means the materials made available to students
+by a school operated by an LEA or by a public charter school, but does not
+include materials made available to students as part of a course curriculum or
+materials made available to students as part of a classroom library; and
+(3) "Materials" means books, periodicals, newspapers, manuscripts,
+films, prints, documents, microfilm, discs, cassettes, videotapes, video games,
+applications, and subscription content in any form.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 49-6-3803(a), is amended by adding
+the language "or classroom library" immediately after the language "a library collection".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 49-6-3803, is amended by deleting
+subsection (b) and by deleting the first sentence of subsection (d) and substituting instead the
+following:
+SB0313
+000296
+- 1 -
+Each local board of education and public charter school governing body shall
+adopt a policy for developing and reviewing school library collections and for
+classroom libraries.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 49-6-3803(d), is amended by adding
+the following as new subdivisions:
+( ) A procedure for teachers, or for parents and legal guardians of students with
+access to a classroom library, to review and refer materials in a teacher's classroom
+library for review and evaluation consistent with this section;
+( ) A procedure to ensure that parents and legal guardians of students with
+access to a classroom library have multiple opportunities throughout the school year to
+view the books in their student's classroom libraries; and
+( ) A provision prohibiting teachers from knowingly or intentionally circumventing
+the LEA's or public charter school's library collection policy through the teacher's
+classroom library, such as including materials in the teacher's classroom library that
+have been found by the local board of education, the public charter school governing
+body, or the state textbook and instructional materials quality commission pursuant to §
+49-6-2201(m) to be inappropriate for the age and maturity levels of the students who
+may access the materials, or that have been found by the local board or governing body
+to be unsuitable for, or inconsistent with, the educational mission of the school.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 49-6-3803(f), is amended by adding
+the language "or in a classroom library" after the language "in the school's library collection" and
+by adding the language "or classroom library" after the language "from the library collection".
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Section 49-6-3803(g), is amended by adding
+the language "or a classroom library" after the language "a school's library collection" and by
+adding the language "or classroom library" after the language "a library collection".
+- 2 - 000296
+
+Section 8:
+SECTION 7. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 000296
+[DELETED: SSS]
+[DELETED:  -0S(((SS]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1234
+By McKenzie
+SENATE BILL 313
+By Yarbro
+AN ACT to amend Tennessee Code Annotated, Title 49,
+Chapter 6, relative to K-12 education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-6-3802, is amended by deleting
+the section and substituting instead the following:
+As used in this part, unless the context otherwise requires:
+(1) "Classroom library" means materials donated to, purchased by, or
+acquired by an individual teacher, which are made available in the teacher's
+classroom to students assigned to the teacher's class or classes;
+(2) "Library collection" means the materials made available to students
+by a school operated by an LEA or by a public charter school, but does not
+include materials made available to students as part of a course curriculum or
+materials made available to students as part of a classroom library; and
+(3) "Materials" means books, periodicals, newspapers, manuscripts,
+films, prints, documents, microfilm, discs, cassettes, videotapes, video games,
+applications, and subscription content in any form.
+SECTION 2. Tennessee Code Annotated, Section 49-6-3803(a), is amended by adding
+the language "or classroom library" immediately after the language "a library collection".
+SECTION 3. Tennessee Code Annotated, Section 49-6-3803, is amended by deleting
+subsection (b) and by deleting the first sentence of subsection (d) and substituting instead the
+following:
+SB0313
+000296
+- 1 -
+
+Each local board of education and public charter school governing body shall
+adopt a policy for developing and reviewing school library collections and for
+classroom libraries.
+SECTION 4. Tennessee Code Annotated, Section 49-6-3803(d), is amended by adding
+the following as new subdivisions:
+( ) A procedure for teachers, or for parents and legal guardians of students with
+access to a classroom library, to review and refer materials in a teacher's classroom
+library for review and evaluation consistent with this section;
+( ) A procedure to ensure that parents and legal guardians of students with
+access to a classroom library have multiple opportunities throughout the school year to
+view the books in their student's classroom libraries; and
+( ) A provision prohibiting teachers from knowingly or intentionally circumventing
+the LEA's or public charter school's library collection policy through the teacher's
+classroom library, such as including materials in the teacher's classroom library that
+have been found by the local board of education, the public charter school governing
+body, or the state textbook and instructional materials quality commission pursuant to §
+49-6-2201(m) to be inappropriate for the age and maturity levels of the students who
+may access the materials, or that have been found by the local board or governing body
+to be unsuitable for, or inconsistent with, the educational mission of the school.
+SECTION 5. Tennessee Code Annotated, Section 49-6-3803(f), is amended by adding
+the language "or in a classroom library" after the language "in the school's library collection" and
+by adding the language "or classroom library" after the language "from the library collection".
+SECTION 6. Tennessee Code Annotated, Section 49-6-3803(g), is amended by adding
+the language "or a classroom library" after the language "a school's library collection" and by
+adding the language "or classroom library" after the language "a library collection".
+- 2 - 000296
+
+SECTION 7. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 000296
+
+[DELETED: SSS]
+[DELETED:  -0S(((SS]
+[DELETED:  -0S]

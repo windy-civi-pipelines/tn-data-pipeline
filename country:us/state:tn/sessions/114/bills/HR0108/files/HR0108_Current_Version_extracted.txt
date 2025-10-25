@@ -1,0 +1,96 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE RESOLUTION 108
+By Hill
+A RESOLUTION to honor Katie Lipford on being elected FFA East
+Tennessee state vice president.
+WHEREAS, organized in 1928 to promote leadership, personal growth, and career
+success among high school agriculture students, FFA continues to play an important role in
+ensuring the growth and prosperity of agriculture in Tennessee and the nation by expertly
+molding our future leaders; and
+WHEREAS, we take great pleasure in recognizing those outstanding young citizens who
+have distinguished themselves as emerging leaders in Tennessee's agriculture industry; and
+WHEREAS, Katie Lipford of Johnson County High School was recently elected FFA
+East Tennessee state vice president for 2025-2026 during the ninety-seventh annual
+Tennessee FFA State Convention; and
+WHEREAS, although she did not grow up on a farm, Ms. Lipford found a place to belong
+in FFA, which has taught her the value of agriculture, the power of leadership, and the strength
+of community; and
+WHEREAS, her duties as FFA East Tennessee state vice president include leading
+thousands of student members across the state by speaking with other FFA chapters, delivering
+workshops, and representing Tennessee FFA at various events; and
+WHEREAS, Ms. Lipford also will serve others through participation and leadership in
+FFA conferences, camps, and contests; and
+WHEREAS, her fellow FFA members, teachers, sponsors, and, indeed, all the good
+people of Johnson County are very proud of Katie Lipford and her accomplishment; and
+HR0108
+007053
+- 1 -
+WHEREAS, an outstanding young woman, Katie Lipford has proven herself a devoted
+and worthy leader in Tennessee FFA, and she is most deserving of our approbation; now,
+therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and
+congratulate Katie Lipford on being elected FFA East Tennessee state vice president, salute her
+many contributions and achievements in agriculture, and extend to her our best wishes for
+success during her term as East Tennessee vice president.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 007053
+[DELETED: WWWWWW]
+[DELETED:  -0BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE RESOLUTION 108
+By Hill
+A RESOLUTION to honor Katie Lipford on being elected FFA East
+Tennessee state vice president.
+WHEREAS, organized in 1928 to promote leadership, personal growth, and career
+success among high school agriculture students, FFA continues to play an important role in
+ensuring the growth and prosperity of agriculture in Tennessee and the nation by expertly
+molding our future leaders; and
+WHEREAS, we take great pleasure in recognizing those outstanding young citizens who
+have distinguished themselves as emerging leaders in Tennessee's agriculture industry; and
+WHEREAS, Katie Lipford of Johnson County High School was recently elected FFA
+East Tennessee state vice president for 2025-2026 during the ninety-seventh annual
+Tennessee FFA State Convention; and
+WHEREAS, although she did not grow up on a farm, Ms. Lipford found a place to belong
+in FFA, which has taught her the value of agriculture, the power of leadership, and the strength
+of community; and
+WHEREAS, her duties as FFA East Tennessee state vice president include leading
+thousands of student members across the state by speaking with other FFA chapters, delivering
+workshops, and representing Tennessee FFA at various events; and
+WHEREAS, Ms. Lipford also will serve others through participation and leadership in
+FFA conferences, camps, and contests; and
+WHEREAS, her fellow FFA members, teachers, sponsors, and, indeed, all the good
+people of Johnson County are very proud of Katie Lipford and her accomplishment; and
+HR0108
+007053
+- 1 -
+
+WHEREAS, an outstanding young woman, Katie Lipford has proven herself a devoted
+and worthy leader in Tennessee FFA, and she is most deserving of our approbation; now,
+therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and
+congratulate Katie Lipford on being elected FFA East Tennessee state vice president, salute her
+many contributions and achievements in agriculture, and extend to her our best wishes for
+success during her term as East Tennessee vice president.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 007053
+
+[DELETED: WWWWWW]
+[DELETED:  -0BB]

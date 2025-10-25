@@ -1,0 +1,112 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 1
+By Haile
+A RESOLUTION to propose an amendment to Article II, Section
+28 of the Constitution of Tennessee, to prohibit
+taxation of property by the State.
+WHEREAS, House Joint Resolution No. 81 of the One Hundred Thirteenth General
+Assembly, which proposed amendment of Article II, Section 28 of the Constitution of
+Tennessee, was considered and agreed upon by a majority of all the members elected to each
+of the two houses, as shown by the yeas and nays entered on their journals; and
+WHEREAS, such resolution proposing such amendment was published in accordance
+with Article XI, Section 3 of the Constitution of Tennessee; and
+WHEREAS, Article II, Section 28 of the Constitution of Tennessee currently authorizes
+taxation of all property according to its value by any taxing authority, including the State,
+counties, and municipalities; and
+WHEREAS, the State can impose a property tax, as it did until 1949 to all property in the
+State; and
+WHEREAS, in 1949, the Legislature repealed the State's property tax; and
+WHEREAS, the current property tax is imposed at the local level at various county and
+municipal tax rates; and
+WHEREAS, the controlling and predominant purpose of the property tax is for local
+purposes; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that a two-thirds majority of all the members of each
+house concurring, as shown by the yeas and nays entered on their journals, that it is proposed
+SJR0001
+000068
+- 1 -
+that Article II, Section 28 of the Constitution of the State of Tennessee be amended by deleting
+the following language from the first sentence:
+In accordance with the following provisions, all property real, personal or mixed
+shall be subject to taxation, but the Legislature
+and substituting instead the following:
+In accordance with the following provisions, all property real, personal, or mixed
+shall be subject to taxation, but the Legislature shall not levy, authorize, or otherwise
+permit any state tax upon such property, and the Legislature
+BE IT FURTHER RESOLVED, that, in accordance with Article XI, Section 3 of the
+Constitution of Tennessee, the foregoing proposed amendment shall be submitted to the people
+at the next general election in which a governor is to be chosen, the same being the 2026
+November general election, and the Secretary of State is directed to place such proposed
+amendment on the ballot for that election.
+BE IT FURTHER RESOLVED, that the Clerk of the Senate is directed to deliver a copy
+of this resolution to the Secretary of State, with this final resolving clause being deleted from
+such copy.
+- 2 - 000068
+[DELETED: WWWW]
+[DELETED:  -0BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 1
+By Haile
+A RESOLUTION to propose an amendment to Article II, Section
+28 of the Constitution of Tennessee, to prohibit
+taxation of property by the State.
+WHEREAS, House Joint Resolution No. 81 of the One Hundred Thirteenth General
+Assembly, which proposed amendment of Article II, Section 28 of the Constitution of
+Tennessee, was considered and agreed upon by a majority of all the members elected to each
+of the two houses, as shown by the yeas and nays entered on their journals; and
+WHEREAS, such resolution proposing such amendment was published in accordance
+with Article XI, Section 3 of the Constitution of Tennessee; and
+WHEREAS, Article II, Section 28 of the Constitution of Tennessee currently authorizes
+taxation of all property according to its value by any taxing authority, including the State,
+counties, and municipalities; and
+WHEREAS, the State can impose a property tax, as it did until 1949 to all property in the
+State; and
+WHEREAS, in 1949, the Legislature repealed the State's property tax; and
+WHEREAS, the current property tax is imposed at the local level at various county and
+municipal tax rates; and
+WHEREAS, the controlling and predominant purpose of the property tax is for local
+purposes; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that a two-thirds majority of all the members of each
+house concurring, as shown by the yeas and nays entered on their journals, that it is proposed
+SJR0001
+000068
+- 1 -
+
+that Article II, Section 28 of the Constitution of the State of Tennessee be amended by deleting
+the following language from the first sentence:
+In accordance with the following provisions, all property real, personal or mixed
+shall be subject to taxation, but the Legislature
+and substituting instead the following:
+In accordance with the following provisions, all property real, personal, or mixed
+shall be subject to taxation, but the Legislature shall not levy, authorize, or otherwise
+permit any state tax upon such property, and the Legislature
+BE IT FURTHER RESOLVED, that, in accordance with Article XI, Section 3 of the
+Constitution of Tennessee, the foregoing proposed amendment shall be submitted to the people
+at the next general election in which a governor is to be chosen, the same being the 2026
+November general election, and the Secretary of State is directed to place such proposed
+amendment on the ballot for that election.
+BE IT FURTHER RESOLVED, that the Clerk of the Senate is directed to deliver a copy
+of this resolution to the Secretary of State, with this final resolving clause being deleted from
+such copy.
+- 2 - 000068
+
+[DELETED: WWWW]
+[DELETED:  -0BB]

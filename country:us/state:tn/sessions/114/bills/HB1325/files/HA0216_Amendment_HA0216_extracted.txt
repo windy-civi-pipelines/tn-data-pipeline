@@ -1,0 +1,236 @@
+Title: AMEND S e n ate Bill No. 207* House Bill No. 1325
+Official Title: AMEND S e n ate Bill No. 207* House Bill No. 1325
+Number of Sections: 4
+Source: versions - Amendment HA0216
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+House Agriculture & Natural Resources 1
+Amendment No. 1 to HB1325
+Todd
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting instead the following:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 43, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+43-1-1__. Farmland preservation fund.
+(a)
+(1) It is the intent of the general assembly to preserve farmland and
+forestland in this state without limiting the ability of farmers and forest landowners
+to use their property for their agricultural pursuits. The general assembly intends
+to secure the economic, environmental, and societal benefits of farmland and
+forestland for future generations.
+(2) The general assembly finds the history and culture of this state to be
+positively impacted by agricultural endeavors and takes the position that
+preserving farmland and forestland will provide food and fiber security for
+generations to come.
+(b)
+(1) Subject to annual appropriations, there is established a fund for the
+development and implementation of programs that benefit Tennesseans by
+preserving farmland and forestland, including a grant program for conservation
+easements.
+HA0216
+005831
+- 1 -
+(2) There is established within the general fund a special agency account
+to be known as the farmland preservation fund for funds allocated to the
+department of agriculture for purposes of this section.
+(3) Any unencumbered moneys and unexpended balance of the fund
+remaining at the end of a fiscal year do not revert to the general fund but must be
+carried forward and maintained until expended in accordance with this section.
+The state treasurer shall invest moneys in the fund for the fund's benefit pursuant
+to § 9-4-603. Interest accruing on investments and deposits of the fund must be
+returned to the fund and remain a part of the fund. The fund must only consist of
+moneys appropriated from the general fund or interest accruing on investments
+and deposits in the fund.
+(4) The commissioner of agriculture shall administer the fund.
+(c)
+(1) As used in this subsection (c), "qualified easement holder" means a
+501(c)(3) nonprofit organization that:
+(A) Is exempt from federal income taxation under § 501(c)(3) of
+the Internal Revenue Code (26 U.S.C. § 501(c)(3));
+(B) Acquires or proposes to acquire a conservation easement on
+farmland or forestland in the state, whether through purchase, donation,
+or other transfer; and
+(C) Meets any other requirements established by the
+commissioner in rule.
+(2) Subject to the following, the department of agriculture shall develop a
+grant program within the farmland preservation fund for farmland and forestland
+owners to enroll their land in a permanent conservation easement held by a
+qualified easement holder:
+- 2 - 005831
+(A) The department of agriculture may award a grant to a
+qualified easement holder or directly to the farmer or forest landowner;
+(B) A grant application must include, at a minimum, the following:
+(i) Proof satisfactory to the department of agriculture that
+the farmer or forest landowner has entered into, or has contracted
+to enter into, a conservation easement with a qualified easement
+holder; and
+(ii) Proof satisfactory to the department of agriculture that
+the farmland or forestland covered by the conservation easement
+will be used for farm or forestry purposes; and
+(C) A conservation easement acquired by participating in the
+grant program must include the following conditions:
+(i) The qualified easement holder shall not sell, transfer,
+release, or otherwise divest the conservation easement except
+upon the consent of the farmer or forest landowner;
+(ii) A successor of a qualified easement holder shall be
+bound to the terms of a conservation easement;
+(iii) Any amendment to a conservation easement acquired
+under this section shall only be made upon the consent of the
+farmer or forest landowner and qualified easement holder and
+shall become effective and enforceable at the time that such
+amendment is recorded in the register's office of the county in
+which the farmland or forestland is located;
+(iv) The qualified easement holder shall only have access
+to the property upon the consent of the farmer or forest landowner
+with reasonable notice at reasonable times; and
+- 3 - 005831
+(v) The conservation easement must permit the erection,
+construction, or reconstruction of any building or other structure
+for agricultural or forestry purposes and shall not restrict
+agriculture, as defined in §§ 1-3-105 and 43-1-113, or forestry, as
+defined in § 11-4-103.
+(d) Governmental entities are not eligible to participate in a grant program
+created pursuant to this section.
+(e) The commissioner of agriculture is authorized to promulgate rules to
+effectuate this section, including the establishment of eligibility criteria. The rules must
+be promulgated in accordance with the Uniform Administrative Procedures Act, compiled
+in title 4, chapter 5.
+(f) Except as otherwise provided in this section, the Conservation Easement Act
+of 1981, compiled in title 66, chapter 9, part 3, applies to conservation easements
+created using grant funds from the farmland preservation fund.
+
+Section 3:
+SECTION 2. The heading in this act is for reference purposes only and does not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the heading in any compilation or publication containing this act.
+
+Section 4:
+SECTION 3. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect on July 1, 2025,
+the public welfare requiring it.
+- 4 - 005831
+[DELETED:  a HS(((]
+[DELETED:  -0((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((SS]
+
+
+================================================================================
+
+Raw Text:
+House Agriculture & Natural Resources 1
+Amendment No. 1 to HB1325
+Todd
+Signature of Sponsor
+AMEND S e n ate Bill No. 207* House Bill No. 1325
+by deleting all language after the enacting clause and substituting instead the following:
+SECTION 1. Tennessee Code Annotated, Title 43, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+43-1-1__. Farmland preservation fund.
+(a)
+(1) It is the intent of the general assembly to preserve farmland and
+forestland in this state without limiting the ability of farmers and forest landowners
+to use their property for their agricultural pursuits. The general assembly intends
+to secure the economic, environmental, and societal benefits of farmland and
+forestland for future generations.
+(2) The general assembly finds the history and culture of this state to be
+positively impacted by agricultural endeavors and takes the position that
+preserving farmland and forestland will provide food and fiber security for
+generations to come.
+(b)
+(1) Subject to annual appropriations, there is established a fund for the
+development and implementation of programs that benefit Tennesseans by
+preserving farmland and forestland, including a grant program for conservation
+easements.
+HA0216
+005831
+- 1 -
+
+(2) There is established within the general fund a special agency account
+to be known as the farmland preservation fund for funds allocated to the
+department of agriculture for purposes of this section.
+(3) Any unencumbered moneys and unexpended balance of the fund
+remaining at the end of a fiscal year do not revert to the general fund but must be
+carried forward and maintained until expended in accordance with this section.
+The state treasurer shall invest moneys in the fund for the fund's benefit pursuant
+to § 9-4-603. Interest accruing on investments and deposits of the fund must be
+returned to the fund and remain a part of the fund. The fund must only consist of
+moneys appropriated from the general fund or interest accruing on investments
+and deposits in the fund.
+(4) The commissioner of agriculture shall administer the fund.
+(c)
+(1) As used in this subsection (c), "qualified easement holder" means a
+501(c)(3) nonprofit organization that:
+(A) Is exempt from federal income taxation under § 501(c)(3) of
+the Internal Revenue Code (26 U.S.C. § 501(c)(3));
+(B) Acquires or proposes to acquire a conservation easement on
+farmland or forestland in the state, whether through purchase, donation,
+or other transfer; and
+(C) Meets any other requirements established by the
+commissioner in rule.
+(2) Subject to the following, the department of agriculture shall develop a
+grant program within the farmland preservation fund for farmland and forestland
+owners to enroll their land in a permanent conservation easement held by a
+qualified easement holder:
+- 2 - 005831
+
+(A) The department of agriculture may award a grant to a
+qualified easement holder or directly to the farmer or forest landowner;
+(B) A grant application must include, at a minimum, the following:
+(i) Proof satisfactory to the department of agriculture that
+the farmer or forest landowner has entered into, or has contracted
+to enter into, a conservation easement with a qualified easement
+holder; and
+(ii) Proof satisfactory to the department of agriculture that
+the farmland or forestland covered by the conservation easement
+will be used for farm or forestry purposes; and
+(C) A conservation easement acquired by participating in the
+grant program must include the following conditions:
+(i) The qualified easement holder shall not sell, transfer,
+release, or otherwise divest the conservation easement except
+upon the consent of the farmer or forest landowner;
+(ii) A successor of a qualified easement holder shall be
+bound to the terms of a conservation easement;
+(iii) Any amendment to a conservation easement acquired
+under this section shall only be made upon the consent of the
+farmer or forest landowner and qualified easement holder and
+shall become effective and enforceable at the time that such
+amendment is recorded in the register's office of the county in
+which the farmland or forestland is located;
+(iv) The qualified easement holder shall only have access
+to the property upon the consent of the farmer or forest landowner
+with reasonable notice at reasonable times; and
+- 3 - 005831
+
+(v) The conservation easement must permit the erection,
+construction, or reconstruction of any building or other structure
+for agricultural or forestry purposes and shall not restrict
+agriculture, as defined in §§ 1-3-105 and 43-1-113, or forestry, as
+defined in § 11-4-103.
+(d) Governmental entities are not eligible to participate in a grant program
+created pursuant to this section.
+(e) The commissioner of agriculture is authorized to promulgate rules to
+effectuate this section, including the establishment of eligibility criteria. The rules must
+be promulgated in accordance with the Uniform Administrative Procedures Act, compiled
+in title 4, chapter 5.
+(f) Except as otherwise provided in this section, the Conservation Easement Act
+of 1981, compiled in title 66, chapter 9, part 3, applies to conservation easements
+created using grant funds from the farmland preservation fund.
+SECTION 2. The heading in this act is for reference purposes only and does not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the heading in any compilation or publication containing this act.
+SECTION 3. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect on July 1, 2025,
+the public welfare requiring it.
+- 4 - 005831
+
+[DELETED:  a HS(((]
+[DELETED:  -0((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((SS]

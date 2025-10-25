@@ -1,0 +1,108 @@
+Title: HOUSE BILL 1159
+Official Title: HOUSE BILL 1159
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Lynn
+SENATE BILL 831
+By Hensley
+AN ACT to amend Tennessee Code Annotated, Title 2,
+relative to voter registration.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 2-2-116, is amended by adding the
+following as new language on the permanent registration record when a person registers to
+vote:
+Political Party Affiliation _______________
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 2-2-118, is amended by adding the
+following as a new subsection:
+(e) At the time of initial registration or during the registration period under § 2-2-
+109, each qualified voter may designate on the registration application an affiliation with
+a political party qualified to participate in primary elections or may designate to be
+designated as "Unaffiliated." The county election commission shall record the party
+affiliation or unaffiliated designation as part of the voter's permanent registration record.
+If a voter fails or refuses to make a designation, the county election commission shall
+enter on the permanent registration records that the voter is unaffiliated.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 2-1-104(a), is amended by adding
+the following as a new subdivision:
+( ) "Unaffiliated voter" means a voter who is not affiliated with a statewide
+political party or recognized minor political party and who has no political party
+preference.
+SB0831
+002916
+- 1 -
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 2-7-115(b)(2), is amended by
+deleting the subdivision and substituting instead:
+(2) It is the first primary election the voter has voted in after the effective date of
+this act, and at the time the voter seeks to vote, the voter declares allegiance to the
+political party in whose primary the voter seeks to vote and states that the voter intends
+to affiliate with that party. The county election commission shall record the voter's
+declaration or affirmation made at the time the voter seeks to vote as part of the voter's
+permanent registration record. Once recorded, such declaration may be changed by the
+voter in accordance with § 2-2-109.
+
+Section 6:
+SECTION 5. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 002916
+[DELETED: SPS(S(]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1159
+By Lynn
+SENATE BILL 831
+By Hensley
+AN ACT to amend Tennessee Code Annotated, Title 2,
+relative to voter registration.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 2-2-116, is amended by adding the
+following as new language on the permanent registration record when a person registers to
+vote:
+Political Party Affiliation _______________
+SECTION 2. Tennessee Code Annotated, Section 2-2-118, is amended by adding the
+following as a new subsection:
+(e) At the time of initial registration or during the registration period under § 2-2-
+109, each qualified voter may designate on the registration application an affiliation with
+a political party qualified to participate in primary elections or may designate to be
+designated as "Unaffiliated." The county election commission shall record the party
+affiliation or unaffiliated designation as part of the voter's permanent registration record.
+If a voter fails or refuses to make a designation, the county election commission shall
+enter on the permanent registration records that the voter is unaffiliated.
+SECTION 3. Tennessee Code Annotated, Section 2-1-104(a), is amended by adding
+the following as a new subdivision:
+( ) "Unaffiliated voter" means a voter who is not affiliated with a statewide
+political party or recognized minor political party and who has no political party
+preference.
+SB0831
+002916
+- 1 -
+
+SECTION 4. Tennessee Code Annotated, Section 2-7-115(b)(2), is amended by
+deleting the subdivision and substituting instead:
+(2) It is the first primary election the voter has voted in after the effective date of
+this act, and at the time the voter seeks to vote, the voter declares allegiance to the
+political party in whose primary the voter seeks to vote and states that the voter intends
+to affiliate with that party. The county election commission shall record the voter's
+declaration or affirmation made at the time the voter seeks to vote as part of the voter's
+permanent registration record. Once recorded, such declaration may be changed by the
+voter in accordance with § 2-2-109.
+SECTION 5. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 002916
+
+[DELETED: SPS(S(]
+[DELETED:  -0S]

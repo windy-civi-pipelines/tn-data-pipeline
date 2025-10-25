@@ -1,0 +1,86 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE RESOLUTION 28
+By Lamar
+A RESOLUTION to honor Dr. Katrina Green in celebration of
+Women's Day on the Hill.
+WHEREAS, Women's Day on the Hill is a time to honor the achievements of those
+Tennessee women who have paved the way for every person to have the opportunity to pursue
+the American dream; and
+WHEREAS, the Volunteer State is proud to be the home of the awe-inspiring Dr. Katrina
+Green, a stalwart advocate for the health and safety of Tennesseans, who spent the first ten
+years of her medical career at Skyline Medical Center before transferring to Nashville General
+Hospital in early 2021; and
+WHEREAS, Dr. Green has been involved in advocacy regarding gun violence prevention
+since 2019 and has also advocated for health care through Protect My Care, meeting with
+legislators about many different healthcare-related issues; and
+WHEREAS, Dr. Green has served as the Doctor of the Day at the General Assembly,
+representing the Tennessee Medical Association; and
+WHEREAS, she has further served the medical profession as a proud member, former
+advocacy committee chair, and current member of the board of directors of the American
+Medical Women's Association and an at-large board member of the Tennessee chapter of the
+American Association of Emergency Medicine; and
+WHEREAS, in saluting Dr. Green on this special occasion, let us remember that when
+women succeed, America succeeds, as does Tennessee; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby honor and commend
+SR0028
+003940
+- 1 -
+Dr. Katrina Green on her many contributions to the State of Tennessee as we celebrate
+Women's Day on the Hill.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 003940
+[DELETED: WWWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE RESOLUTION 28
+By Lamar
+A RESOLUTION to honor Dr. Katrina Green in celebration of
+Women's Day on the Hill.
+WHEREAS, Women's Day on the Hill is a time to honor the achievements of those
+Tennessee women who have paved the way for every person to have the opportunity to pursue
+the American dream; and
+WHEREAS, the Volunteer State is proud to be the home of the awe-inspiring Dr. Katrina
+Green, a stalwart advocate for the health and safety of Tennesseans, who spent the first ten
+years of her medical career at Skyline Medical Center before transferring to Nashville General
+Hospital in early 2021; and
+WHEREAS, Dr. Green has been involved in advocacy regarding gun violence prevention
+since 2019 and has also advocated for health care through Protect My Care, meeting with
+legislators about many different healthcare-related issues; and
+WHEREAS, Dr. Green has served as the Doctor of the Day at the General Assembly,
+representing the Tennessee Medical Association; and
+WHEREAS, she has further served the medical profession as a proud member, former
+advocacy committee chair, and current member of the board of directors of the American
+Medical Women's Association and an at-large board member of the Tennessee chapter of the
+American Association of Emergency Medicine; and
+WHEREAS, in saluting Dr. Green on this special occasion, let us remember that when
+women succeed, America succeeds, as does Tennessee; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby honor and commend
+SR0028
+003940
+- 1 -
+
+Dr. Katrina Green on her many contributions to the State of Tennessee as we celebrate
+Women's Day on the Hill.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 003940
+
+[DELETED: WWWWWWB]
+[DELETED:  -0B]

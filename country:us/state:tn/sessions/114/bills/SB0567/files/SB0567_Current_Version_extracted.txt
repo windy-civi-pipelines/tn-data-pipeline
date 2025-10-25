@@ -1,0 +1,77 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 567
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 2,
+relative to inspection of election documents.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 2-8-108, is amended by adding the
+following new subsections:
+(c) Each county election commission shall make election records available not
+later than the fifteenth day after election day in an electronic format for a fee of no more
+than fifty dollars ($50.00).
+(d) Beginning on the first day after the date the final certification of an election is
+completed, each county election commission shall make available for public inspection
+election records that are:
+(1) Images of voted ballots, if a county maintains images of voted ballots;
+or
+(2) Cast vote records.
+(e) Beginning on the sixty-first day after an election, each county election
+commission shall make available for public inspection records that are original voted
+ballots. The coordinator of elections shall adopt procedures to ensure the redaction of
+any personally identifiable information of the voter contained on a ballot before marking
+the voted ballot available for public inspection.
+(f) A person making a request pursuant to subsections (c)-(e) may observe the
+scanning and related handling process, but shall not touch or handle a physical ballot.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0567
+001926
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 567
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 2,
+relative to inspection of election documents.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 2-8-108, is amended by adding the
+following new subsections:
+(c) Each county election commission shall make election records available not
+later than the fifteenth day after election day in an electronic format for a fee of no more
+than fifty dollars ($50.00).
+(d) Beginning on the first day after the date the final certification of an election is
+completed, each county election commission shall make available for public inspection
+election records that are:
+(1) Images of voted ballots, if a county maintains images of voted ballots;
+or
+(2) Cast vote records.
+(e) Beginning on the sixty-first day after an election, each county election
+commission shall make available for public inspection records that are original voted
+ballots. The coordinator of elections shall adopt procedures to ensure the redaction of
+any personally identifiable information of the voter contained on a ballot before marking
+the voted ballot available for public inspection.
+(f) A person making a request pursuant to subsections (c)-(e) may observe the
+scanning and related handling process, but shall not touch or handle a physical ballot.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0567
+001926
+- 1 -
+
+[DELETED: SS]

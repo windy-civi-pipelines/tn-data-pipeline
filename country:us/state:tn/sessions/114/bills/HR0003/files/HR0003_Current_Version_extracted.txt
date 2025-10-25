@@ -1,0 +1,104 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE RESOLUTION 3
+By Jones R
+A RESOLUTION to recognize and congratulate the 2025 State
+FFA Officers.
+WHEREAS, organized in 1928 to promote leadership, personal growth, and career
+success among high school agricultural students, FFA continues to play an important role in
+ensuring the growth and prosperity of agriculture in Tennessee and the nation by expertly
+molding our future leaders; and
+WHEREAS, the FFA motto, "Learning to do, doing to learn, earning to live, living to
+serve," gives direction and purpose to these future leaders; and
+WHEREAS, the 2025 FFA Officers are one such group of distinguished future leaders;
+they are T. Wayne Williams of Woodbury, president; Skylar Baird of Wilson Central, Middle
+Tennessee vice president; Sarah Ault of Munford, West Tennessee vice president; Emily
+Whitehead of William Blount, East Tennessee vice president; Shelbi Wallace of McEwen,
+secretary; Eli Julian of Cookeville, treasurer; Paige Pardue of Hendersonville, reporter; and Lexi
+Rush of Portland, sentinel; and
+WHEREAS, the Tennessee FFA State Officers have collectively achieved remarkable
+accomplishments during their term, including completing eighty-two visits to FFA chapters
+across the State; providing 147 workshops that focus on leadership, agriculture, and personal
+development; impacting 7,673 students by fostering their growth and interest in agriculture and
+leadership; facilitating six weeks of FFA camp, which provided students with unique learning
+opportunities in a hands-on environment; facilitating seven leadership conferences; and
+traveling 41,850 miles to reach FFA members in Tennessee and beyond; and
+WHEREAS, one officer served as a chair for a national committee, representing
+Tennessee FFA at the national level; seven officers traveled to Spain and Portugal as part of
+HR0003
+002600
+- 1 -
+the international agricultural and leadership tour; one officer was selected to serve as a Speak
+Ag Pioneer to promote agricultural education nationwide; and one officer served as a national
+reporter for FFA in the United States, sharing stories and successes of FFA members from
+across the country; and
+WHEREAS, it is most appropriate that we commend this outstanding group of young
+Tennesseans for their many achievements and contributions to Tennessee FFA; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and
+commend the 2025 Tennessee FFA State Officers for their dedication and service, extending
+our best wishes for continued success in their future endeavors.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 002600
+[DELETED: WWWWW]
+[DELETED:  -0BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE RESOLUTION 3
+By Jones R
+A RESOLUTION to recognize and congratulate the 2025 State
+FFA Officers.
+WHEREAS, organized in 1928 to promote leadership, personal growth, and career
+success among high school agricultural students, FFA continues to play an important role in
+ensuring the growth and prosperity of agriculture in Tennessee and the nation by expertly
+molding our future leaders; and
+WHEREAS, the FFA motto, "Learning to do, doing to learn, earning to live, living to
+serve," gives direction and purpose to these future leaders; and
+WHEREAS, the 2025 FFA Officers are one such group of distinguished future leaders;
+they are T. Wayne Williams of Woodbury, president; Skylar Baird of Wilson Central, Middle
+Tennessee vice president; Sarah Ault of Munford, West Tennessee vice president; Emily
+Whitehead of William Blount, East Tennessee vice president; Shelbi Wallace of McEwen,
+secretary; Eli Julian of Cookeville, treasurer; Paige Pardue of Hendersonville, reporter; and Lexi
+Rush of Portland, sentinel; and
+WHEREAS, the Tennessee FFA State Officers have collectively achieved remarkable
+accomplishments during their term, including completing eighty-two visits to FFA chapters
+across the State; providing 147 workshops that focus on leadership, agriculture, and personal
+development; impacting 7,673 students by fostering their growth and interest in agriculture and
+leadership; facilitating six weeks of FFA camp, which provided students with unique learning
+opportunities in a hands-on environment; facilitating seven leadership conferences; and
+traveling 41,850 miles to reach FFA members in Tennessee and beyond; and
+WHEREAS, one officer served as a chair for a national committee, representing
+Tennessee FFA at the national level; seven officers traveled to Spain and Portugal as part of
+HR0003
+002600
+- 1 -
+
+the international agricultural and leadership tour; one officer was selected to serve as a Speak
+Ag Pioneer to promote agricultural education nationwide; and one officer served as a national
+reporter for FFA in the United States, sharing stories and successes of FFA members from
+across the country; and
+WHEREAS, it is most appropriate that we commend this outstanding group of young
+Tennesseans for their many achievements and contributions to Tennessee FFA; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and
+commend the 2025 Tennessee FFA State Officers for their dedication and service, extending
+our best wishes for continued success in their future endeavors.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 002600
+
+[DELETED: WWWWW]
+[DELETED:  -0BB]

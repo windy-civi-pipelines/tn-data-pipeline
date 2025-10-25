@@ -1,0 +1,49 @@
+Title: HOUSE BILL 692
+Official Title: HOUSE BILL 692
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Baum
+SENATE BILL 887
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to education funding.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-3-103, is amended by adding the
+following as a new subsection:
+(e) The department shall publish the TISA guide on the department's website.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0887
+002402
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 692
+By Baum
+SENATE BILL 887
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to education funding.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-3-103, is amended by adding the
+following as a new subsection:
+(e) The department shall publish the TISA guide on the department's website.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0887
+002402
+- 1 -
+
+[DELETED: SS]

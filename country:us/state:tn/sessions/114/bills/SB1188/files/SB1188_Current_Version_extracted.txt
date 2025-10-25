@@ -1,0 +1,63 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 1188
+By Akbari
+AN ACT to amend Tennessee Code Annotated, Title 49,
+Chapter 4, relative to financial aid for veterans.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-4-938(c)(3), is amended by
+adding the following as a new subdivision:
+(E) Any other medal authorized by congress for the armed forces of the United
+States that is awarded to a member of the armed forces for combat or heroism;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 49-4-938(c), is amended by deleting
+subdivisions (5) and (6) and substituting instead the following:
+(5) Be admitted to, and enrolled in, an eligible program of study at an eligible
+postsecondary institution seeking a certificate or associate or baccalaureate degree;
+(6) Have not received a certificate or baccalaureate degree; and
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to the 2025-2026 academic year and each academic year thereafter.
+SB1188
+002783
+- 1 -
+[DELETED: S(S((S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 1188
+By Akbari
+AN ACT to amend Tennessee Code Annotated, Title 49,
+Chapter 4, relative to financial aid for veterans.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-4-938(c)(3), is amended by
+adding the following as a new subdivision:
+(E) Any other medal authorized by congress for the armed forces of the United
+States that is awarded to a member of the armed forces for combat or heroism;
+SECTION 2. Tennessee Code Annotated, Section 49-4-938(c), is amended by deleting
+subdivisions (5) and (6) and substituting instead the following:
+(5) Be admitted to, and enrolled in, an eligible program of study at an eligible
+postsecondary institution seeking a certificate or associate or baccalaureate degree;
+(6) Have not received a certificate or baccalaureate degree; and
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to the 2025-2026 academic year and each academic year thereafter.
+SB1188
+002783
+- 1 -
+
+[DELETED: S(S((S]

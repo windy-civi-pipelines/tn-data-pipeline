@@ -1,0 +1,47 @@
+Title: HOUSE BILL 743
+Official Title: HOUSE BILL 743
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Keisling
+SENATE BILL 1078
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 47,
+Chapter 18, relative to debt resolution services.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 47-18-5510(a), is amended by
+deleting "seven (7) days" and substituting "seven (7) business days".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1078
+002884
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 743
+By Keisling
+SENATE BILL 1078
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 47,
+Chapter 18, relative to debt resolution services.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 47-18-5510(a), is amended by
+deleting "seven (7) days" and substituting "seven (7) business days".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1078
+002884
+- 1 -
+
+[DELETED: SS]

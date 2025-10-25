@@ -1,0 +1,114 @@
+Title: SENATE BILL 371
+Official Title: SENATE BILL 371
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Rose
+HOUSE BILL 341
+By Gillespie
+AN ACT to amend Tennessee Code Annotated, Title 40,
+Chapter 35, Part 3, relative to collection of
+biological specimens for DNA analysis.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 40-35-321(d)(1), is amended by
+adding the following language immediately after the fifth sentence:
+The biological specimen must be gathered within thirty (30) days of sentencing or, if the
+person's term of incarceration is less than thirty (30) days, before completion of the
+person's term of incarceration.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 40-35-321(d)(2), is amended by
+deleting the subdivision and substituting:
+(2) If a person convicted of any felony offense or any applicable misdemeanor
+offense and committed to the custody of the commissioner of correction for a term of
+imprisonment or sentenced to a period of confinement in a county jail or workhouse has
+not provided a biological specimen for the purpose of DNA analysis, then the
+commissioner or the chief administrative officer of a local jail shall order the person to
+provide a biological specimen for the purpose of DNA analysis within thirty (30) days of
+sentencing or, if the person's term of incarceration is less than thirty (30) days, before
+completion of the person's term of imprisonment. The approved agency or entity
+collecting the biological specimen shall forward the biological specimen to the
+Tennessee bureau of investigation, which shall maintain it as provided in § 38-6-113.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 40-35-321, is amended by adding
+the following new subsections:
+HB0341
+001143
+- 1 -
+(f) A law enforcement agency, including the Tennessee department of
+correction, may submit to the Tennessee bureau of investigation any lawfully obtained
+biological specimen within its control from a deceased offender who was previously
+convicted of a qualifying offense, regardless of the date of conviction. The Tennessee
+bureau of investigation shall maintain the specimen as provided in § 38-6-113.
+(g) If an offender's biological specimen has not previously been submitted, then
+a law enforcement agency, including the Tennessee department of correction, shall
+submit to the Tennessee bureau of investigation a biological specimen from an offender
+who dies while incarcerated and was previously convicted of a qualifying offense,
+regardless of the date of conviction. The Tennessee bureau of investigation shall
+maintain the specimen as provided in § 38-6-113.
+
+Section 5:
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 001143
+[DELETED: SSS]
+[DELETED:  -0((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 371
+By Rose
+HOUSE BILL 341
+By Gillespie
+AN ACT to amend Tennessee Code Annotated, Title 40,
+Chapter 35, Part 3, relative to collection of
+biological specimens for DNA analysis.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-35-321(d)(1), is amended by
+adding the following language immediately after the fifth sentence:
+The biological specimen must be gathered within thirty (30) days of sentencing or, if the
+person's term of incarceration is less than thirty (30) days, before completion of the
+person's term of incarceration.
+SECTION 2. Tennessee Code Annotated, Section 40-35-321(d)(2), is amended by
+deleting the subdivision and substituting:
+(2) If a person convicted of any felony offense or any applicable misdemeanor
+offense and committed to the custody of the commissioner of correction for a term of
+imprisonment or sentenced to a period of confinement in a county jail or workhouse has
+not provided a biological specimen for the purpose of DNA analysis, then the
+commissioner or the chief administrative officer of a local jail shall order the person to
+provide a biological specimen for the purpose of DNA analysis within thirty (30) days of
+sentencing or, if the person's term of incarceration is less than thirty (30) days, before
+completion of the person's term of imprisonment. The approved agency or entity
+collecting the biological specimen shall forward the biological specimen to the
+Tennessee bureau of investigation, which shall maintain it as provided in § 38-6-113.
+SECTION 3. Tennessee Code Annotated, Section 40-35-321, is amended by adding
+the following new subsections:
+HB0341
+001143
+- 1 -
+
+(f) A law enforcement agency, including the Tennessee department of
+correction, may submit to the Tennessee bureau of investigation any lawfully obtained
+biological specimen within its control from a deceased offender who was previously
+convicted of a qualifying offense, regardless of the date of conviction. The Tennessee
+bureau of investigation shall maintain the specimen as provided in § 38-6-113.
+(g) If an offender's biological specimen has not previously been submitted, then
+a law enforcement agency, including the Tennessee department of correction, shall
+submit to the Tennessee bureau of investigation a biological specimen from an offender
+who dies while incarcerated and was previously convicted of a qualifying offense,
+regardless of the date of conviction. The Tennessee bureau of investigation shall
+maintain the specimen as provided in § 38-6-113.
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 001143
+
+[DELETED: SSS]
+[DELETED:  -0((S]

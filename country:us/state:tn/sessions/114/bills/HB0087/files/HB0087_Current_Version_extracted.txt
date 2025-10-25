@@ -1,0 +1,53 @@
+Title: SENATE BILL 134
+Official Title: SENATE BILL 134
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Johnson
+HOUSE BILL 87
+By Slater
+AN ACT to amend Tennessee Code Annotated, Title 4 and
+Title 49, relative to education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-1-907, is amended by deleting the
+first sentence of the section and substituting instead the following:
+The department of education shall submit an early grades reading report to the
+education committee of the senate and the education committees of the house of
+representatives no later than October 15 of each year.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0087
+000391
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 134
+By Johnson
+HOUSE BILL 87
+By Slater
+AN ACT to amend Tennessee Code Annotated, Title 4 and
+Title 49, relative to education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-1-907, is amended by deleting the
+first sentence of the section and substituting instead the following:
+The department of education shall submit an early grades reading report to the
+education committee of the senate and the education committees of the house of
+representatives no later than October 15 of each year.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0087
+000391
+- 1 -
+
+[DELETED: SS]

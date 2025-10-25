@@ -1,0 +1,368 @@
+Title: AMEND S e n ate Bill No. 670 House Bill No. 541*
+Official Title: AMEND S e n ate Bill No. 670 House Bill No. 541*
+Number of Sections: 4
+Source: versions - Amendment SA0403
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+Senate Finance, Ways, and Means 1
+Amendment No. 2 to SB0670
+Watson
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 69-3-108(g), is amended by adding
+the following as a new subdivision:
+(6) On or before August 1, 2026, and on or before August 1 of each year
+thereafter, the division of water resources in the department, in collaboration with United
+States army corps of engineers, as necessary, shall report the following information to
+the governor, the comptroller of the treasury, the chair of the committee of the house of
+representatives having jurisdiction over subject matters pertaining to commerce, and the
+chair of the commerce and labor committee of the senate the following information for
+the preceding fiscal year:
+(A) The number of applications for permits filed pursuant to this section;
+and
+(B) For permits required to have a provision for adequate compensatory
+mitigation pursuant to subdivision (g)(4)(E), the mechanism of compensatory
+mitigation provided for in the permit, including mitigation banking, permittee
+responsible mitigation, or in-lieu fee payments as approved by the department. If
+the mechanism of compensatory mitigation is:
+(i) An in-lieu fee program, then the report must include the in-lieu
+fee instrument sponsor, the number of mitigation credits sold for the
+permitted project, and the amount of money received by the sponsor for
+such credits; and
+SA0403
+006502
+- 1 -
+(ii) Mitigation banking, then the report must include the mitigation
+bank sponsor, the number of mitigation credits sold for the permitted
+project, and the amount of money received by the sponsor for such
+credits.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 69-3-108(r) is amended by
+designating the existing language as subdivision (1) and designating the following as a new
+subdivision (2):
+(2)
+(A) A person desiring to develop real property may request a
+determination from the commissioner regarding the presence, extent, and
+category of wetlands by submitting a wetland resource inventory report prepared
+by a third-party wetland professional, including a delineation and, if applicable,
+documentation that the wetland is isolated. The report must also include a
+determination of the quality of the wetland. The wetland delineation portion of
+the report must be prepared in accordance with the United States Army Corps of
+Engineers Wetland Delineation Manual (January 1987) and applicable regional
+supplements or other such methodology contained in rules promulgated by the
+board.
+(B) If the wetland resource inventory report contains all required
+information, is prepared in accordance with department procedures and
+guidance, and is certified by a third-party wetland professional to be true,
+accurate and complete, then the determinations made in the wetland resource
+inventory report are presumed to be correct unless the commissioner notifies the
+person, in writing, within thirty (30) days of submittal of the report containing ten
+(10) or fewer wetlands, or within sixty (60) days of submittal of the report
+containing more than ten (10) wetlands, that the commissioner has affirmatively
+determined there is a significant question about the presence, extent, status as
+- 2 - 006502
+isolated, or quality of a wetland and states the reasons for that determination. If
+such a determination is made, then the commissioner must, within thirty (30)
+days following the initial notification, determine the presence, extent, status as
+isolated, and quality of wetlands, and notify the person in writing of that decision
+and the reasons for the determination.
+(C) The person on whose behalf a wetland resource inventory report was
+submitted may appeal a determination by the commissioner by filing a petition
+stating the basis for the appeal with the board within thirty (30) days of receiving
+the commissioner's decision.
+SECTON 3. Tennessee Code Annotated, Title 69, Chapter 3, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Artificial isolated wetland":
+(A) Means:
+(i) A wetland formed in an area that would otherwise be
+upland as a result of prior human alterations such as drainage, fill,
+cropping, ditching, tile drainage, excavation, tire ruts, silviculture,
+or impoundment for which sufficient proof exists providing
+evidence that a wetland did not exist five (5) years prior to the
+submission of a wetland resource inventory report; or
+(ii) A wetland that was intentionally constructed in an
+upland area for the purpose of wastewater treatment, stormwater
+management, or other engineered use, or was inadvertently
+created due to changes in surface hydrology from site
+development, and grading or as a result of a beaver dam within
+the five (5) years prior to the submission of a wetland resource
+inventory report; and
+- 3 - 006502
+(B) Does not include wetlands that serve as fish spawning areas
+or wetlands created as a result of mitigation requirements;
+(2) "High-quality isolated wetland" means an isolated wetland that
+provides a high degree of ecologic, hydrologic, and biogeochemical functions, as
+measured by the department’s wetland resource assessment tool;
+(3) "Isolated wetland" means a wetland that does not have a continuous
+surface connection to a relatively permanent body of water that is connected to a
+traditional interstate navigable water and, as such, is distinguishable from that
+body of water;
+(4) "Low-quality isolated wetland" means an isolated wetland that
+provides only minimal ecologic, hydrologic, and biogeochemical functions, as
+measured by the department’s wetland resource assessment tool; and
+(5) "Moderate-quality isolated wetland" means an isolated wetland that
+provides only modest ecologic, hydrologic, and biogeochemical functions as
+measured by the department’s wetland resource assessment tool.
+(b) Notwithstanding another law or rule to the contrary:
+(1) The alteration of a low-quality isolated wetland up to one (1) acre in
+size, a moderate-quality isolated wetland up to one-quarter (1/4) acre in size, or
+an artificial isolated wetland of any size is permitted by this subdivision (b)(1),
+and notice, approval, or compensatory mitigation is not required for such
+alteration if the alteration is done in accordance with the following conditions:
+(A) The activity must not result in the discharge of toxic pollutants;
+(B) Sediment must be prevented from entering a stream or other
+surface waters; and
+(C) Appropriate steps must be taken to ensure that petroleum
+products or other chemical pollutants are prevented from entering waters
+- 4 - 006502
+of the state. In the event of a spill, measures must be taken immediately
+to prevent pollution of waters of the state, including groundwater;
+(2) The alteration of a low-quality isolated wetland that is greater than
+one (1) acre up to two (2) acres in size, or a moderate-quality isolated wetland
+that is greater than one-quarter (1/4) acre up to two (2) acres in size, must be
+regulated by a general permit for aquatic alterations pursuant to § 69-3-108(l).
+The general permit required by this subdivision (b)(2) must not impose any
+requirements related to riparian buffer, cumulative impact analysis, or
+antidegradation, within the scope of this part;
+(3) Compensatory mitigation is not required for alteration of a wetland
+subject to subdivision (b)(1) or (b)(2), except that mitigation may be required for:
+(A) Alteration of a moderate-quality isolated wetland:
+(i) For the acreage greater than one-quarter (1/4) acre up
+to one (1) acre in size at a ratio not to exceed 1:1; and
+(ii) For the acreage greater than one (1) acre up to two (2)
+acres in size at a ratio not to exceed 2:1; and
+(B) Alteration of a low-quality isolated wetland for the acreage
+greater than one (1) acre up to two (2) acres in size at a ratio not to
+exceed 1:1;
+(4) Unless required by federal law and except as authorized by
+subdivision (b)(3), additional permits, authorization, conditions, or requirements
+related to cumulative impact analysis, antidegradation, or mitigation are not
+required for activity within a wetland subject to subdivision (b)(1) or (b)(2).
+Notwithstanding any requirement for reducing pollutants to the maximum extent
+practicable, riparian buffers are not required for wetlands subject to subdivision
+(b)(1) or (b)(2);
+- 5 - 006502
+(5) An individual aquatic resource alteration permit is required for
+alteration of a low-quality isolated wetland or moderate-quality isolated wetland
+greater than two (2) acres and a high-quality isolated wetland of any size; and
+(6) The acreage requirements in this subsection (b) must be considered
+minimum acreage limits. The commissioner is authorized to increase the
+acreage of low-quality isolated wetlands and moderate-quality isolated wetlands
+permitted by subdivision (b)(1) and the acreage of low-quality isolated wetlands
+and moderate-quality isolated wetlands subject to subdivision (b)(2) as the
+commissioner deems appropriate.
+(c) Existing onsite permanent stormwater control measures must be accounted
+for when determining the amount of mitigation required for alteration to any isolated
+wetland where mitigation is required.
+(d) Isolated wetlands and artificial isolated wetlands must not be considered
+when determining the cumulative impact of a project for purposes of a permit even if the
+project contains other wetlands that are deemed jurisdictional by the United States army
+corps of engineers (USACE). A water quality certification under § 401 of the federal
+Clean Water Act (33 U.S.C. § 1341) must not consider isolated or artificial isolated
+wetlands when determining cumulative impact or common plan of development.
+(e) The board has authority to develop criteria for the three (3) classifications of
+isolated wetlands as duly promulgated rules.
+(f) The wetland resource assessment tool established and utilized by the
+department to measure the presence or quality of a wetland is subject to a public notice
+and comment period of no less than thirty (30) days. The wetland resource assessment
+tool must be approved by the board following the public notice and comment period.
+
+Section 4:
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+- 6 - 006502
+[DELETED:  a HS((((]
+[DELETED:  -0(S(((]
+[DELETED:  -0(S(((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((S]
+
+
+================================================================================
+
+Raw Text:
+Senate Finance, Ways, and Means 1
+Amendment No. 2 to SB0670
+Watson
+Signature of Sponsor
+AMEND S e n ate Bill No. 670 House Bill No. 541*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 69-3-108(g), is amended by adding
+the following as a new subdivision:
+(6) On or before August 1, 2026, and on or before August 1 of each year
+thereafter, the division of water resources in the department, in collaboration with United
+States army corps of engineers, as necessary, shall report the following information to
+the governor, the comptroller of the treasury, the chair of the committee of the house of
+representatives having jurisdiction over subject matters pertaining to commerce, and the
+chair of the commerce and labor committee of the senate the following information for
+the preceding fiscal year:
+(A) The number of applications for permits filed pursuant to this section;
+and
+(B) For permits required to have a provision for adequate compensatory
+mitigation pursuant to subdivision (g)(4)(E), the mechanism of compensatory
+mitigation provided for in the permit, including mitigation banking, permittee
+responsible mitigation, or in-lieu fee payments as approved by the department. If
+the mechanism of compensatory mitigation is:
+(i) An in-lieu fee program, then the report must include the in-lieu
+fee instrument sponsor, the number of mitigation credits sold for the
+permitted project, and the amount of money received by the sponsor for
+such credits; and
+SA0403
+006502
+- 1 -
+
+(ii) Mitigation banking, then the report must include the mitigation
+bank sponsor, the number of mitigation credits sold for the permitted
+project, and the amount of money received by the sponsor for such
+credits.
+SECTION 2. Tennessee Code Annotated, Section 69-3-108(r) is amended by
+designating the existing language as subdivision (1) and designating the following as a new
+subdivision (2):
+(2)
+(A) A person desiring to develop real property may request a
+determination from the commissioner regarding the presence, extent, and
+category of wetlands by submitting a wetland resource inventory report prepared
+by a third-party wetland professional, including a delineation and, if applicable,
+documentation that the wetland is isolated. The report must also include a
+determination of the quality of the wetland. The wetland delineation portion of
+the report must be prepared in accordance with the United States Army Corps of
+Engineers Wetland Delineation Manual (January 1987) and applicable regional
+supplements or other such methodology contained in rules promulgated by the
+board.
+(B) If the wetland resource inventory report contains all required
+information, is prepared in accordance with department procedures and
+guidance, and is certified by a third-party wetland professional to be true,
+accurate and complete, then the determinations made in the wetland resource
+inventory report are presumed to be correct unless the commissioner notifies the
+person, in writing, within thirty (30) days of submittal of the report containing ten
+(10) or fewer wetlands, or within sixty (60) days of submittal of the report
+containing more than ten (10) wetlands, that the commissioner has affirmatively
+determined there is a significant question about the presence, extent, status as
+- 2 - 006502
+
+isolated, or quality of a wetland and states the reasons for that determination. If
+such a determination is made, then the commissioner must, within thirty (30)
+days following the initial notification, determine the presence, extent, status as
+isolated, and quality of wetlands, and notify the person in writing of that decision
+and the reasons for the determination.
+(C) The person on whose behalf a wetland resource inventory report was
+submitted may appeal a determination by the commissioner by filing a petition
+stating the basis for the appeal with the board within thirty (30) days of receiving
+the commissioner's decision.
+SECTON 3. Tennessee Code Annotated, Title 69, Chapter 3, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Artificial isolated wetland":
+(A) Means:
+(i) A wetland formed in an area that would otherwise be
+upland as a result of prior human alterations such as drainage, fill,
+cropping, ditching, tile drainage, excavation, tire ruts, silviculture,
+or impoundment for which sufficient proof exists providing
+evidence that a wetland did not exist five (5) years prior to the
+submission of a wetland resource inventory report; or
+(ii) A wetland that was intentionally constructed in an
+upland area for the purpose of wastewater treatment, stormwater
+management, or other engineered use, or was inadvertently
+created due to changes in surface hydrology from site
+development, and grading or as a result of a beaver dam within
+the five (5) years prior to the submission of a wetland resource
+inventory report; and
+- 3 - 006502
+
+(B) Does not include wetlands that serve as fish spawning areas
+or wetlands created as a result of mitigation requirements;
+(2) "High-quality isolated wetland" means an isolated wetland that
+provides a high degree of ecologic, hydrologic, and biogeochemical functions, as
+measured by the department’s wetland resource assessment tool;
+(3) "Isolated wetland" means a wetland that does not have a continuous
+surface connection to a relatively permanent body of water that is connected to a
+traditional interstate navigable water and, as such, is distinguishable from that
+body of water;
+(4) "Low-quality isolated wetland" means an isolated wetland that
+provides only minimal ecologic, hydrologic, and biogeochemical functions, as
+measured by the department’s wetland resource assessment tool; and
+(5) "Moderate-quality isolated wetland" means an isolated wetland that
+provides only modest ecologic, hydrologic, and biogeochemical functions as
+measured by the department’s wetland resource assessment tool.
+(b) Notwithstanding another law or rule to the contrary:
+(1) The alteration of a low-quality isolated wetland up to one (1) acre in
+size, a moderate-quality isolated wetland up to one-quarter (1/4) acre in size, or
+an artificial isolated wetland of any size is permitted by this subdivision (b)(1),
+and notice, approval, or compensatory mitigation is not required for such
+alteration if the alteration is done in accordance with the following conditions:
+(A) The activity must not result in the discharge of toxic pollutants;
+(B) Sediment must be prevented from entering a stream or other
+surface waters; and
+(C) Appropriate steps must be taken to ensure that petroleum
+products or other chemical pollutants are prevented from entering waters
+- 4 - 006502
+
+of the state. In the event of a spill, measures must be taken immediately
+to prevent pollution of waters of the state, including groundwater;
+(2) The alteration of a low-quality isolated wetland that is greater than
+one (1) acre up to two (2) acres in size, or a moderate-quality isolated wetland
+that is greater than one-quarter (1/4) acre up to two (2) acres in size, must be
+regulated by a general permit for aquatic alterations pursuant to § 69-3-108(l).
+The general permit required by this subdivision (b)(2) must not impose any
+requirements related to riparian buffer, cumulative impact analysis, or
+antidegradation, within the scope of this part;
+(3) Compensatory mitigation is not required for alteration of a wetland
+subject to subdivision (b)(1) or (b)(2), except that mitigation may be required for:
+(A) Alteration of a moderate-quality isolated wetland:
+(i) For the acreage greater than one-quarter (1/4) acre up
+to one (1) acre in size at a ratio not to exceed 1:1; and
+(ii) For the acreage greater than one (1) acre up to two (2)
+acres in size at a ratio not to exceed 2:1; and
+(B) Alteration of a low-quality isolated wetland for the acreage
+greater than one (1) acre up to two (2) acres in size at a ratio not to
+exceed 1:1;
+(4) Unless required by federal law and except as authorized by
+subdivision (b)(3), additional permits, authorization, conditions, or requirements
+related to cumulative impact analysis, antidegradation, or mitigation are not
+required for activity within a wetland subject to subdivision (b)(1) or (b)(2).
+Notwithstanding any requirement for reducing pollutants to the maximum extent
+practicable, riparian buffers are not required for wetlands subject to subdivision
+(b)(1) or (b)(2);
+- 5 - 006502
+
+(5) An individual aquatic resource alteration permit is required for
+alteration of a low-quality isolated wetland or moderate-quality isolated wetland
+greater than two (2) acres and a high-quality isolated wetland of any size; and
+(6) The acreage requirements in this subsection (b) must be considered
+minimum acreage limits. The commissioner is authorized to increase the
+acreage of low-quality isolated wetlands and moderate-quality isolated wetlands
+permitted by subdivision (b)(1) and the acreage of low-quality isolated wetlands
+and moderate-quality isolated wetlands subject to subdivision (b)(2) as the
+commissioner deems appropriate.
+(c) Existing onsite permanent stormwater control measures must be accounted
+for when determining the amount of mitigation required for alteration to any isolated
+wetland where mitigation is required.
+(d) Isolated wetlands and artificial isolated wetlands must not be considered
+when determining the cumulative impact of a project for purposes of a permit even if the
+project contains other wetlands that are deemed jurisdictional by the United States army
+corps of engineers (USACE). A water quality certification under § 401 of the federal
+Clean Water Act (33 U.S.C. § 1341) must not consider isolated or artificial isolated
+wetlands when determining cumulative impact or common plan of development.
+(e) The board has authority to develop criteria for the three (3) classifications of
+isolated wetlands as duly promulgated rules.
+(f) The wetland resource assessment tool established and utilized by the
+department to measure the presence or quality of a wetland is subject to a public notice
+and comment period of no less than thirty (30) days. The wetland resource assessment
+tool must be approved by the board following the public notice and comment period.
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+- 6 - 006502
+
+[DELETED:  a HS((((]
+[DELETED:  -0(S(((]
+[DELETED:  -0(S(((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((S]

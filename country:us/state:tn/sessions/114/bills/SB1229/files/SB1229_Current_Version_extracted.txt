@@ -1,0 +1,51 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 1229
+By Rose
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 8; Title 48 and Title 49, relative to athletics.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-2-136, is amended by deleting
+subsection (b) and substituting instead the following:
+(b) By March 1, 2026, and by each March 1 thereafter, each LEA and public
+charter school shall submit to the department of education documentation of its
+compliance with this section in the manner prescribed by the commissioner.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1229
+003334
+- 1 -
+[DELETED: S(S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 1229
+By Rose
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 8; Title 48 and Title 49, relative to athletics.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-2-136, is amended by deleting
+subsection (b) and substituting instead the following:
+(b) By March 1, 2026, and by each March 1 thereafter, each LEA and public
+charter school shall submit to the department of education documentation of its
+compliance with this section in the manner prescribed by the commissioner.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1229
+003334
+- 1 -
+
+[DELETED: S(S]

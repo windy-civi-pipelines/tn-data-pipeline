@@ -1,0 +1,47 @@
+Title: SENATE BILL 116
+Official Title: SENATE BILL 116
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Hatcher
+HOUSE BILL 140
+By Stinnett
+AN ACT to amend Tennessee Code Annotated, Title 13,
+relative to audits of human resource agencies.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 13-26-106(b), is amended by
+deleting subdivision (5).
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0140
+000683
+- 1 -
+[DELETED: sSS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 116
+By Hatcher
+HOUSE BILL 140
+By Stinnett
+AN ACT to amend Tennessee Code Annotated, Title 13,
+relative to audits of human resource agencies.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 13-26-106(b), is amended by
+deleting subdivision (5).
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0140
+000683
+- 1 -
+
+[DELETED: sSS]

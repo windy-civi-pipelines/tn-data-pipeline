@@ -1,0 +1,47 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 707
+By Lamberth
+A RESOLUTION to provide for the adjournment of the 2025
+session of the One Hundred Fourteenth General
+Assembly.
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that the 2025 session of the One Hundred Fourteenth General Assembly be
+adjourned at the close of business in both houses on Tuesday, April 22, 2025, and that the 2026
+session of the One Hundred Fourteenth General Assembly be convened at 12:00 noon (CST)
+on Tuesday, January 13, 2026.
+HJR0707
+007894
+- 1 -
+[DELETED: B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 707
+By Lamberth
+A RESOLUTION to provide for the adjournment of the 2025
+session of the One Hundred Fourteenth General
+Assembly.
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that the 2025 session of the One Hundred Fourteenth General Assembly be
+adjourned at the close of business in both houses on Tuesday, April 22, 2025, and that the 2026
+session of the One Hundred Fourteenth General Assembly be convened at 12:00 noon (CST)
+on Tuesday, January 13, 2026.
+HJR0707
+007894
+- 1 -
+
+[DELETED: B]

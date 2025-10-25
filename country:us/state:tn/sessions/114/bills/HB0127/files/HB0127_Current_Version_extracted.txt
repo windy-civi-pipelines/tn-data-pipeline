@@ -1,0 +1,142 @@
+Title: SENATE BILL 1307
+Official Title: SENATE BILL 1307
+Number of Sections: 8
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Johnson
+HOUSE BILL 127
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Section
+67-3-901 and Title 67, Chapter 4, Part 32, relative
+to local tax surcharges.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-3-901, is amended by inserting
+the language ", surcharges levied pursuant to chapter 4, part 32 of this title," immediately after
+the language "except bond issues" in subsections (d) and (m).
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 67, Chapter 4, Part 32, is amended by
+deleting the language "transit improvement" wherever it appears and substituting instead
+"transportation improvement".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 67-4-3201, is amended by deleting
+the section and substituting instead:
+(1) "Implementing agency" means any public transit agency, regional
+transportation authority created under title 64, chapter 8, or other local government
+department, agency, or designated entity that is responsible for planning or
+implementing a transportation improvement program;
+(2) "Local government" means:
+(A) Any county in this state, including any county having a metropolitan
+or consolidated form of government; or
+(B) Any incorporated city or town in this state;
+(3) "Surcharge" means a tax, or combination of taxes, levied by a local
+government pursuant to this part; and
+HB0127
+001206
+- 1 -
+(4) "Transportation improvement program" means a program consisting of
+specified transportation system projects and services, including, but not limited to, public
+transit system, highway, and bridge projects.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 67-4-3205, is amended by deleting
+the language "public transit system" wherever it appears and substituting instead
+"transportation".
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 67-4-3206, is amended by deleting
+the language "public transit system" wherever it appears and substituting "transportation".
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Title 67, Chapter 4, Part 32, is amended by
+adding the following as a new, appropriately designated section:
+Notwithstanding another law to the contrary, a local government is eligible to collect,
+receive, and administer proceeds of a surcharge levied under this part only if it appropriates
+and allocates funds for road purposes from local revenue sources in an amount not less than
+the average of the five (5) preceding fiscal years; except, that bond issues, federal revenue
+sharing proceeds, and surcharges levied pursuant to this part must be excluded from the five-
+year average computation. If a local government fails after July 1, 2025, to so appropriate and
+allocate at least such average amount for road purposes, then the amount of revenues that
+would otherwise be allocable to such local government under this part must be reduced by the
+amount of the decrease below such average. The amount of the funds not allocated to the
+local government because of the decrease must be allocated to the state highway fund, to be
+used by the department of transportation for the improvement of state highways in the local
+government's jurisdiction, and the state funds are in addition to the funds otherwise allocated
+for improvements in the local government's jurisdiction in that fiscal year.
+
+Section 8:
+SECTION 7. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 001206
+[DELETED: SSS(((((]
+[DELETED:  -0(SSS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1307
+By Johnson
+HOUSE BILL 127
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Section
+67-3-901 and Title 67, Chapter 4, Part 32, relative
+to local tax surcharges.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-3-901, is amended by inserting
+the language ", surcharges levied pursuant to chapter 4, part 32 of this title," immediately after
+the language "except bond issues" in subsections (d) and (m).
+SECTION 2. Tennessee Code Annotated, Title 67, Chapter 4, Part 32, is amended by
+deleting the language "transit improvement" wherever it appears and substituting instead
+"transportation improvement".
+SECTION 3. Tennessee Code Annotated, Section 67-4-3201, is amended by deleting
+the section and substituting instead:
+(1) "Implementing agency" means any public transit agency, regional
+transportation authority created under title 64, chapter 8, or other local government
+department, agency, or designated entity that is responsible for planning or
+implementing a transportation improvement program;
+(2) "Local government" means:
+(A) Any county in this state, including any county having a metropolitan
+or consolidated form of government; or
+(B) Any incorporated city or town in this state;
+(3) "Surcharge" means a tax, or combination of taxes, levied by a local
+government pursuant to this part; and
+HB0127
+001206
+- 1 -
+
+(4) "Transportation improvement program" means a program consisting of
+specified transportation system projects and services, including, but not limited to, public
+transit system, highway, and bridge projects.
+SECTION 4. Tennessee Code Annotated, Section 67-4-3205, is amended by deleting
+the language "public transit system" wherever it appears and substituting instead
+"transportation".
+SECTION 5. Tennessee Code Annotated, Section 67-4-3206, is amended by deleting
+the language "public transit system" wherever it appears and substituting "transportation".
+SECTION 6. Tennessee Code Annotated, Title 67, Chapter 4, Part 32, is amended by
+adding the following as a new, appropriately designated section:
+Notwithstanding another law to the contrary, a local government is eligible to collect,
+receive, and administer proceeds of a surcharge levied under this part only if it appropriates
+and allocates funds for road purposes from local revenue sources in an amount not less than
+the average of the five (5) preceding fiscal years; except, that bond issues, federal revenue
+sharing proceeds, and surcharges levied pursuant to this part must be excluded from the five-
+year average computation. If a local government fails after July 1, 2025, to so appropriate and
+allocate at least such average amount for road purposes, then the amount of revenues that
+would otherwise be allocable to such local government under this part must be reduced by the
+amount of the decrease below such average. The amount of the funds not allocated to the
+local government because of the decrease must be allocated to the state highway fund, to be
+used by the department of transportation for the improvement of state highways in the local
+government's jurisdiction, and the state funds are in addition to the funds otherwise allocated
+for improvements in the local government's jurisdiction in that fiscal year.
+SECTION 7. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 001206
+
+[DELETED: SSS(((((]
+[DELETED:  -0(SSS]

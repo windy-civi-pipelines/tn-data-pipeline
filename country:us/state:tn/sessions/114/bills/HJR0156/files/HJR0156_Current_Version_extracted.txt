@@ -1,0 +1,88 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 156
+By Lamberth
+A RESOLUTION to confirm the appointment of Jeffery Norfleet to
+the state university board of Tennessee State
+University.
+WHEREAS, Tennessee Code Annotated, Section 49-8-101, provides for the governance
+of Tennessee State University by a state university board; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that the governor
+shall appoint eight members to the state university board of Tennessee State University; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, further provides that at least
+three of the gubernatorial appointees shall be alumni of the institution for which they are serving
+and that at least six of the nine voting members of the state university board shall be residents
+of the State of Tennessee; and
+WHEREAS, Governor Bill Lee has appointed Jeffery Norfleet to the state university
+board of Tennessee State University for a term that will expire on March 31, 2027; and
+WHEREAS, a double graduate of Tennessee State University, having earned a Master
+of Education degree in 2010 and a Bachelor of Science degree in English and Music in 2008,
+Mr. Norfleet earned a Doctor of Education from Trevecca Nazarene University in 2018; he
+currently serves as the vice president for administration at Shorter College, a private, faith-
+based two-year institution in Arkansas; and
+WHEREAS, he previously served with the Tennessee Board of Regents, the Tennessee
+Higher Education Commission, and Trevecca Nazarene University; and
+HJR0156
+001560
+- 1 -
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that each member
+appointed by the governor to the state university board of Tennessee State University shall be
+subject to confirmation by the senate and the house of representatives; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby confirm the appointment of Jeffery Norfleet to the state
+university board of Tennessee State University for a term that will expire on March 31, 2027.
+- 2 - 001560
+[DELETED: WWWW]
+[DELETED:  -0WB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 156
+By Lamberth
+A RESOLUTION to confirm the appointment of Jeffery Norfleet to
+the state university board of Tennessee State
+University.
+WHEREAS, Tennessee Code Annotated, Section 49-8-101, provides for the governance
+of Tennessee State University by a state university board; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that the governor
+shall appoint eight members to the state university board of Tennessee State University; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, further provides that at least
+three of the gubernatorial appointees shall be alumni of the institution for which they are serving
+and that at least six of the nine voting members of the state university board shall be residents
+of the State of Tennessee; and
+WHEREAS, Governor Bill Lee has appointed Jeffery Norfleet to the state university
+board of Tennessee State University for a term that will expire on March 31, 2027; and
+WHEREAS, a double graduate of Tennessee State University, having earned a Master
+of Education degree in 2010 and a Bachelor of Science degree in English and Music in 2008,
+Mr. Norfleet earned a Doctor of Education from Trevecca Nazarene University in 2018; he
+currently serves as the vice president for administration at Shorter College, a private, faith-
+based two-year institution in Arkansas; and
+WHEREAS, he previously served with the Tennessee Board of Regents, the Tennessee
+Higher Education Commission, and Trevecca Nazarene University; and
+HJR0156
+001560
+- 1 -
+
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that each member
+appointed by the governor to the state university board of Tennessee State University shall be
+subject to confirmation by the senate and the house of representatives; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby confirm the appointment of Jeffery Norfleet to the state
+university board of Tennessee State University for a term that will expire on March 31, 2027.
+- 2 - 001560
+
+[DELETED: WWWW]
+[DELETED:  -0WB]

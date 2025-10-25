@@ -1,0 +1,94 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 120
+By Powers
+A RESOLUTION relative to a voluntary reporting system for
+Charcot-Marie-Tooth Disease in Tennessee.
+WHEREAS, Charcot-Marie-Tooth Disease (CMT) is one of the most common inherited
+neurological disorders, affecting an estimated one in 2,500 people in the United States; this
+statistic suggests that approximately 2,800 Tennesseans may be affected by CMT; and
+WHEREAS, the Department of Health currently maintains voluntary reporting systems
+for various health conditions through its existing web-based information technology system; and
+WHEREAS, thus, no additional state appropriation would be required to implement CMT
+reporting through existing departmental resources and systems; and
+WHEREAS, accurate enumeration of CMT patients would enhance Tennessee's
+competitiveness for federal research grants and specialized care centers; and
+WHEREAS, this General Assembly recognizes that improved data collection for rare
+diseases aligns with the State's commitment to efficient healthcare resource allocation; and
+WHEREAS, voluntary reporting through existing healthcare networks would impose no
+mandatory costs on healthcare providers or the State; and
+WHEREAS, this data collection effort would support Tennessee's healthcare providers in
+delivering more targeted and effective care to CMT patients; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that this General Assembly encourages the Department of Health to:
+(a) Implement voluntary reporting of Charcot-Marie-Tooth Disease (CMT) cases
+through existing electronic health record systems;
+HJR0120
+002037
+- 1 -
+(b) Utilize current departmental resources and infrastructure for such data
+collection; and
+(c) Provide an annual report to the House of Representatives committee having
+jurisdiction over subject matters concerning health and the Senate Health and Welfare
+Committee on the progress of this voluntary initiative.
+BE IT FURTHER RESOLVED, that it is the intent of this General Assembly that such
+voluntary reporting system shall not create any new financial obligations for the State of
+Tennessee.
+- 2 - 002037
+[DELETED: WWWWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 120
+By Powers
+A RESOLUTION relative to a voluntary reporting system for
+Charcot-Marie-Tooth Disease in Tennessee.
+WHEREAS, Charcot-Marie-Tooth Disease (CMT) is one of the most common inherited
+neurological disorders, affecting an estimated one in 2,500 people in the United States; this
+statistic suggests that approximately 2,800 Tennesseans may be affected by CMT; and
+WHEREAS, the Department of Health currently maintains voluntary reporting systems
+for various health conditions through its existing web-based information technology system; and
+WHEREAS, thus, no additional state appropriation would be required to implement CMT
+reporting through existing departmental resources and systems; and
+WHEREAS, accurate enumeration of CMT patients would enhance Tennessee's
+competitiveness for federal research grants and specialized care centers; and
+WHEREAS, this General Assembly recognizes that improved data collection for rare
+diseases aligns with the State's commitment to efficient healthcare resource allocation; and
+WHEREAS, voluntary reporting through existing healthcare networks would impose no
+mandatory costs on healthcare providers or the State; and
+WHEREAS, this data collection effort would support Tennessee's healthcare providers in
+delivering more targeted and effective care to CMT patients; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that this General Assembly encourages the Department of Health to:
+(a) Implement voluntary reporting of Charcot-Marie-Tooth Disease (CMT) cases
+through existing electronic health record systems;
+HJR0120
+002037
+- 1 -
+
+(b) Utilize current departmental resources and infrastructure for such data
+collection; and
+(c) Provide an annual report to the House of Representatives committee having
+jurisdiction over subject matters concerning health and the Senate Health and Welfare
+Committee on the progress of this voluntary initiative.
+BE IT FURTHER RESOLVED, that it is the intent of this General Assembly that such
+voluntary reporting system shall not create any new financial obligations for the State of
+Tennessee.
+- 2 - 002037
+
+[DELETED: WWWWWWWB]
+[DELETED:  -0B]

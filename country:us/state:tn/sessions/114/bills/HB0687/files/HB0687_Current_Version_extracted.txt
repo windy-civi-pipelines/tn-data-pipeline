@@ -1,0 +1,116 @@
+Title: SENATE BILL 336
+Official Title: SENATE BILL 336
+Number of Sections: 7
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Akbari
+HOUSE BILL 687
+By Camper
+AN ACT to amend Tennessee Code Annotated, Title 2 and
+Title 40, relative to voting rights.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 40-29-202, is amended by deleting
+subdivision (b)(2).
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 40-29-202(c), is amended by
+deleting "unless the person is current in all child support obligations" and substituting "unless
+the person is compliant with all current child support orders, including orders related to child
+support arrearages".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 40-29-204, is amended by deleting
+the following language:
+Notwithstanding this part, the following persons shall never be eligible to register
+and vote in this state:
+and substituting instead:
+Notwithstanding this part, the following persons are ineligible to register and vote
+in this state, unless at least three (3) years have elapsed since the person's
+sentence completion date, and the person has met all other qualifications to
+restore their right of suffrage:
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 40-29-105, is amended by deleting
+subdivision (b)(2) and substituting:
+(2) A person rendered infamous after July 1, 1986, by virtue of being convicted
+of first degree murder, aggravated rape, treason, or voter fraud is ineligible to register
+HB0687
+002000
+- 1 -
+and vote in this state unless at least three (3) years have elapsed since the person's
+sentence completion date, and the person has met all other qualifications to restore their
+right of suffrage.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 40-29-105(c)(2)(B), is amended by
+deleting the subdivision and substituting:
+(B) A person convicted of an infamous crime may petition for restoration upon
+the expiration of the maximum sentence imposed by the court for the infamous crime;
+provided, that a person convicted of murder, rape, treason, or voter fraud is ineligible to
+register and vote in this state unless at least three (3) years have elapsed since the
+person's sentence completion date, and the person has met all other qualifications to
+restore their right of suffrage;
+
+Section 7:
+SECTION 6. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 002000
+[DELETED: SSSS(]
+[DELETED:  -0S(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 336
+By Akbari
+HOUSE BILL 687
+By Camper
+AN ACT to amend Tennessee Code Annotated, Title 2 and
+Title 40, relative to voting rights.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-29-202, is amended by deleting
+subdivision (b)(2).
+SECTION 2. Tennessee Code Annotated, Section 40-29-202(c), is amended by
+deleting "unless the person is current in all child support obligations" and substituting "unless
+the person is compliant with all current child support orders, including orders related to child
+support arrearages".
+SECTION 3. Tennessee Code Annotated, Section 40-29-204, is amended by deleting
+the following language:
+Notwithstanding this part, the following persons shall never be eligible to register
+and vote in this state:
+and substituting instead:
+Notwithstanding this part, the following persons are ineligible to register and vote
+in this state, unless at least three (3) years have elapsed since the person's
+sentence completion date, and the person has met all other qualifications to
+restore their right of suffrage:
+SECTION 4. Tennessee Code Annotated, Section 40-29-105, is amended by deleting
+subdivision (b)(2) and substituting:
+(2) A person rendered infamous after July 1, 1986, by virtue of being convicted
+of first degree murder, aggravated rape, treason, or voter fraud is ineligible to register
+HB0687
+002000
+- 1 -
+
+and vote in this state unless at least three (3) years have elapsed since the person's
+sentence completion date, and the person has met all other qualifications to restore their
+right of suffrage.
+SECTION 5. Tennessee Code Annotated, Section 40-29-105(c)(2)(B), is amended by
+deleting the subdivision and substituting:
+(B) A person convicted of an infamous crime may petition for restoration upon
+the expiration of the maximum sentence imposed by the court for the infamous crime;
+provided, that a person convicted of murder, rape, treason, or voter fraud is ineligible to
+register and vote in this state unless at least three (3) years have elapsed since the
+person's sentence completion date, and the person has met all other qualifications to
+restore their right of suffrage;
+SECTION 6. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 002000
+
+[DELETED: SSSS(]
+[DELETED:  -0S(S]

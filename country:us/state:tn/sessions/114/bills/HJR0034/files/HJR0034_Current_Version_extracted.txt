@@ -1,0 +1,102 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 34
+By Howell
+A RESOLUTION to commemorate March 2025 as "Bleeding
+Disorders Awareness Month" in Tennessee.
+WHEREAS, hemophilia is a rare genetic condition affecting hundreds of people in
+Tennessee, and von Willebrand disease impacts countless others in our State; and
+WHEREAS, without treatment, people with hemophilia and other related bleeding
+disorders face frequent, spontaneous bleeding episodes in their joints, causing swelling in the
+joints, muscles, internal organs, and brain; repeated bleeding episodes in the joints result in
+chronic degenerative arthritic conditions, which often lead to frequent hospitalizations,
+permanent disability, and chronic pain; bleeding episodes involving internal organs and the
+brain can cause permanent damage, disability, and even death; and
+WHEREAS, many individuals with hemophilia became infected with HIV and Hepatitis C
+in the 1980s due to the contamination of the blood supply and blood products; and
+WHEREAS, with proper care and access to comprehensive medical resources, persons
+with hemophilia and other related bleeding disorders can control bleeding episodes and lead
+productive lives; and
+WHEREAS, visits to federally recognized hemophilia treatment centers reduce morbidity
+and mortality significantly; and
+WHEREAS, Tennessee is committed to proper care and treatment of children and adults
+with hemophilia and other related bleeding disorders; and
+WHEREAS, this Awareness Month will generate greater understanding of not only
+hemophilia but all inheritable bleeding disorders; and
+HJR0034
+001586
+- 1 -
+WHEREAS, this Awareness Month will foster a greater sense of community and shared
+purpose among individuals with inheritable bleeding disorders; and
+WHEREAS, this Awareness Month will elevate the awareness of and engagement in the
+inheritable bleeding disorders journey beyond this community to the general public, enabling the
+prevention of illness, unnecessary procedures, and disability; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we proudly commemorate March 2025 as "Bleeding Disorders Awareness
+Month" in the State of Tennessee.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 001586
+[DELETED: W]
+[DELETED:  -0BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 34
+By Howell
+A RESOLUTION to commemorate March 2025 as "Bleeding
+Disorders Awareness Month" in Tennessee.
+WHEREAS, hemophilia is a rare genetic condition affecting hundreds of people in
+Tennessee, and von Willebrand disease impacts countless others in our State; and
+WHEREAS, without treatment, people with hemophilia and other related bleeding
+disorders face frequent, spontaneous bleeding episodes in their joints, causing swelling in the
+joints, muscles, internal organs, and brain; repeated bleeding episodes in the joints result in
+chronic degenerative arthritic conditions, which often lead to frequent hospitalizations,
+permanent disability, and chronic pain; bleeding episodes involving internal organs and the
+brain can cause permanent damage, disability, and even death; and
+WHEREAS, many individuals with hemophilia became infected with HIV and Hepatitis C
+in the 1980s due to the contamination of the blood supply and blood products; and
+WHEREAS, with proper care and access to comprehensive medical resources, persons
+with hemophilia and other related bleeding disorders can control bleeding episodes and lead
+productive lives; and
+WHEREAS, visits to federally recognized hemophilia treatment centers reduce morbidity
+and mortality significantly; and
+WHEREAS, Tennessee is committed to proper care and treatment of children and adults
+with hemophilia and other related bleeding disorders; and
+WHEREAS, this Awareness Month will generate greater understanding of not only
+hemophilia but all inheritable bleeding disorders; and
+HJR0034
+001586
+- 1 -
+
+WHEREAS, this Awareness Month will foster a greater sense of community and shared
+purpose among individuals with inheritable bleeding disorders; and
+WHEREAS, this Awareness Month will elevate the awareness of and engagement in the
+inheritable bleeding disorders journey beyond this community to the general public, enabling the
+prevention of illness, unnecessary procedures, and disability; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we proudly commemorate March 2025 as "Bleeding Disorders Awareness
+Month" in the State of Tennessee.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 001586
+
+[DELETED: W]
+[DELETED:  -0BB]

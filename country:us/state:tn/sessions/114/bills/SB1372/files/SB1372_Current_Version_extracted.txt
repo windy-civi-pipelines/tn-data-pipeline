@@ -1,0 +1,527 @@
+Title: HOUSE BILL 651
+Official Title: HOUSE BILL 651
+Number of Sections: 11
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+By Williams
+SENATE BILL 1372
+By Watson
+AN ACT to amend Tennessee Code Annotated, Title 56
+and Title 71, relative to health care.
+WHEREAS, the General Assembly finds that since 2012 TennCare payments to
+healthcare providers generally reimburse twenty-eight percent through thirty-four percent less
+than Medicare; and
+WHEREAS, the General Assembly requires TennCare to incentivize better access to
+quality health care in rural and underserved communities; and
+WHEREAS, recent federal regulations allow states to increase Medicaid payments for
+many services to up to the average commercial rate to enable Medicaid plans to compete with
+commercial plans when building provider networks; and
+WHEREAS, it is prudent that, within the next twelve months, the Bureau of TennCare
+develop a plan that identifies a variety of approaches, including increasing payment rates for
+healthcare providers to parity with average commercial contracting rates, improving outreach
+and problem resolution to providers, reducing barriers to provider credentialing and contracting,
+providing for improved or expanded use of telehealth, and improving the timeliness and
+accuracy of processes such as claim payment and prior authorization, and submit the plan to
+the General Assembly for consideration during the following legislative session; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 56, Chapter 7, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+SB1372
+001446
+- 1 -
+(1) "All-products clause" means a provision in a written or oral network
+provider agreement between a health insurance entity and a healthcare provider
+that requires the healthcare provider, as a condition of participation or
+continuation in a provider network or health benefit plan to:
+(A) Participate in another provider network that is utilized by the
+health insurance entity and affiliated with the health insurance entity; or
+(B) Provide healthcare services under another plan or product
+offered by the health insurance entity;
+(2) "Commissioner" means the commissioner of commerce and
+insurance;
+(3) "Health insurance entity" has the same meaning as defined in § 56-7-
+109; and
+(4) "Healthcare provider" means:
+(A) A physician acting within the scope of a valid license issued
+pursuant to title 63, chapters 6 or 9;
+(B) A nurse acting within the scope of a valid license issued
+pursuant to title 63, chapter 7 and who has a certificate to practice as an
+advanced practice registered nurse issued by the board of nursing under
+
+Section 3:
+§ 63-7-126; or
+(C) A physician assistant acting within the scope of a valid license
+issued pursuant to title 63, chapter 19.
+(b) A health insurance entity shall not:
+(1) Offer to a healthcare provider a network provider agreement or
+otherwise condition the healthcare provider's network participation based on an
+all-products clause;
+- 2 - 001446
+(2) Enter into a network provider agreement with a healthcare provider or
+otherwise condition the healthcare provider's network participation based on an
+all-products clause; or
+(3) Amend or renew an existing network provider agreement previously
+entered into with a healthcare provider so that the network provider agreement
+as amended or renewed adds or continues to include an all-products clause.
+(c) If a network provider agreement contains a provision that violates this
+
+Section 4:
+section, or if a health insurance entity otherwise conditions a healthcare provider's
+network participation based on an all-products clause, such provision or condition is void
+and the commissioner shall assess the health insurance entity a civil penalty of ten
+thousand dollars ($10,000) for each occurrence.
+(d) On or before July 1, 2026, the commissioner shall promulgate rules to
+effectuate this section. The rules must be promulgated pursuant to the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+
+Section 5:
+SECTION 2. Tennessee Code Annotated, Title 71, Chapter 5, Part 23, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "All-products clause" means a provision in a written or oral network
+provider agreement between a MCO or health insurance entity and a healthcare
+provider that requires the healthcare provider, as a condition of participation or
+continuation in a provider network or a health benefit plan to:
+(A) Participate in another provider network that is utilized by the
+MCO or health insurance entity and affiliated with the MCO or health
+insurance entity; or
+- 3 - 001446
+(B) Provide healthcare services under another plan or product
+offered by the MCO or health insurance entity.
+(2) "Bureau" means the bureau of TennCare;
+(3) "Commissioner" means the commissioner of finance and
+administration;
+(4) "Health insurance entity" has the same meaning as defined in § 56-7-
+109;
+(5) "Healthcare provider" means:
+(A) A physician acting within the scope of a valid license issued
+pursuant to title 63, chapters 6 or 9;
+(B) A nurse acting within the scope of a valid license issued
+pursuant to title 63, chapter 7 and who has a certificate to practice as an
+advanced practice registered nurse issued by the board of nursing under
+
+Section 6:
+§ 63-7-126; or
+(C) A physician assistant acting within the scope of a valid license
+issued pursuant to title 63, chapter 19; and
+(6) "Managed care organization" or "MCO" means an appropriately
+licensed health insurance entity contracted with the bureau to manage the
+delivery of, provide for access to, contain the cost of, and ensure the quality of
+specified covered medical and behavioral benefits to TennCare enrollees through
+a network of qualified providers.
+(b) An MCO shall not:
+(1) Offer to a healthcare provider a network provider agreement or
+otherwise condition the healthcare provider's network participation based on an
+all-products clause;
+- 4 - 001446
+(2) Enter into a network provider agreement with a healthcare provider or
+otherwise condition the healthcare provider's network participation based on an
+all-products clause; or
+(3) Amend or renew an existing network provider agreement previously
+entered into with a healthcare provider so that the network provider agreement
+as amended or renewed adds or continues to include an all-products clause.
+(c) If a network provider agreement contains a provision that violates this
+
+Section 7:
+section, or if an MCO otherwise conditions a healthcare provider's network participation
+based on an all-products clause, such provision or condition is void and the
+commissioner shall assess the MCO a civil penalty of ten thousand dollars ($10,000) for
+each occurrence.
+(d) On or before July 1, 2026, the commissioner shall promulgate rules to
+effectuate this section. The rules must be promulgated pursuant to the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+
+Section 8:
+SECTION 3. Tennessee Code Annotated, Title 71, Chapter 5, Part 23, is amended by
+adding the following as a new section:
+(a) This section is known and may be cited as the "TennCare Provider Remedy
+Plan."
+(b) As used in this section:
+(1) "Bureau" means bureau of TennCare;
+(2) "Department" means the department of finance and administration;
+(3) "Health insurance entity" has the same meaning as defined in § 56-7-
+109;
+(4) "Healthcare provider" or "provider" means:
+- 5 - 001446
+(A) A physician acting within the scope of a valid license issued
+pursuant to title 63, chapters 6 or 9;
+(B) A nurse acting within the scope of a valid license issued
+pursuant to title 63, chapter 7 and who has a certificate to practice as an
+advanced practice registered nurse issued by the board of nursing under
+
+Section 9:
+§ 63-7-126; or
+(C) A physician assistant acting within the scope of a valid license
+issued pursuant to title 63, chapter 19;
+(5) "Managed care organization" or "MCO" means an appropriately
+licensed health insurance entity contracted with the bureau to manage the
+delivery, provide for access, contain the cost, and ensure the quality of specified
+covered medical and behavioral benefits to TennCare enrollees through a
+network of qualified providers;
+(6) "Secret shopper survey" or "survey" means a research methodology
+where callers who do not identify themselves as evaluators pose as enrollees
+trying to schedule an appointment with a healthcare provider to evaluate
+appointment wait time availability and the accuracy of healthcare provider
+directories; and
+(7) "TennCare" has the same meaning as defined in § 71-5-2503.
+(c) The bureau shall establish and enforce appointment wait time standards and
+the accuracy of healthcare provider directories by implementing a regular secret shopper
+survey to determine each MCO's compliance with the standards in subsections (e) and
+(f).
+(d) An MCO is in compliance with the standards established in subsection (e)
+when secret shopper survey results reflect a rate of appointment wait time availability
+- 6 - 001446
+within the standard time frame of at least ninety percent (90%). The bureau shall
+determine if appointments offered via telehealth may be counted toward compliance with
+appointment wait time availability standards.
+(e) The bureau shall establish wait time availability standards for routine
+appointments for the following services, if covered in an MCO's contract, and within the
+specified limits:
+(1) For outpatient mental health and substance use disorder services,
+adult and pediatric appointment wait times must be no longer than ten (10)
+business days from the date of request;
+(2) For primary care services, adult and pediatric appointment wait times
+must be no longer than fifteen (15) business days from the date of request;
+(3) For obstetric and gynecological services, appointment wait times
+must be no longer than fifteen (15) business days from the date of request; and
+(4) For other services or specialties the bureau may identify, appointment
+wait times must be no longer than the timeframes specified by the bureau in an
+evidence-based manner.
+(f)
+(1) No less than annually, TennCare shall conduct a secret shopper
+survey to determine the accuracy of the information specified in subdivision (f)(2)
+for each MCO's most current electronic healthcare provider directories for the
+following healthcare provider types, if included in the MCO's provider directory:
+(A) Primary care providers;
+(B) Obstetric and gynecological providers;
+(C) Outpatient mental health and substance use disorder
+providers; and
+- 7 - 001446
+(D) Providers of the services identified by the bureau under
+subdivision (e)(4).
+(2) At a minimum, a secret shopper survey must assess the accuracy of
+the information in each MCO's most current electronic provider directories that
+pertains to:
+(A) The provider's active network status with the MCO;
+(B) Provider street address;
+(C) Provider telephone number; and
+(D) Whether the provider is accepting new enrollees.
+(g) When an entity conducting a secret shopper survey on behalf of the bureau
+identifies an error in an MCO's directory data, the entity shall send information sufficient
+for the MCO to correct the error to the bureau within three (3) business days after the
+date the error is identified.
+(h) The bureau shall send information received pursuant to subsection (g) to the
+applicable MCO within three (3) business days after the date the bureau receives the
+information from the entity that conducted the secret shopper survey.
+(i)
+(1) The bureau shall develop and enforce network adequacy standards
+consistent with this section.
+(2) The network standards established by the bureau in accordance with
+this section must include all geographic areas covered by an MCO. The bureau
+may establish varying standards for the same healthcare provider type based on
+geographic area.
+(3) The bureau shall not create exceptions to the network adequacy
+standards developed under this subsection (i).
+- 8 - 001446
+(4) At a minimum, the bureau must develop a quantitative network
+adequacy standard for MCOs, other than appointment wait time availability
+standards, for the following provider types, if covered under an MCO's contract:
+(A) Adult and pediatric primary care;
+(B) Obstetrics and gynecology;
+(C) Adult and pediatric mental health and substance use
+disorders; and
+(D) Adult and pediatric specialists, as designated by the bureau.
+(j) The bureau shall publish the standards developed in accordance with this
+
+Section 10:
+section on its website in a manner that is easily accessible to the general public.
+(k) If the bureau identifies a deficiency in an MCO's network adequacy under the
+standards established by this section, then the bureau shall:
+(1) Develop a remediation plan to address the deficiency which identifies
+specific steps for the MCO to complete, contains timelines for implementation
+and completion by the MCO, and includes a variety of approaches, including but
+not limited to, increasing payment rates to providers; and
+(2) Submit the remediation plan to the general assembly for approval no
+later than one hundred eighty (180) calendar days after the date TennCare
+becomes aware of the deficiency.
+(l) No later than July 1, 2026, the department of finance and administration shall
+promulgate rules to effectuate this section. The rules must include civil penalties for
+violations of this section. The rules must be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+
+Section 11:
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+- 9 - 001446
+[DELETED: WWWWS(]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0((((S(((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0((((S((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0((((((((((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 651
+By Williams
+SENATE BILL 1372
+By Watson
+AN ACT to amend Tennessee Code Annotated, Title 56
+and Title 71, relative to health care.
+WHEREAS, the General Assembly finds that since 2012 TennCare payments to
+healthcare providers generally reimburse twenty-eight percent through thirty-four percent less
+than Medicare; and
+WHEREAS, the General Assembly requires TennCare to incentivize better access to
+quality health care in rural and underserved communities; and
+WHEREAS, recent federal regulations allow states to increase Medicaid payments for
+many services to up to the average commercial rate to enable Medicaid plans to compete with
+commercial plans when building provider networks; and
+WHEREAS, it is prudent that, within the next twelve months, the Bureau of TennCare
+develop a plan that identifies a variety of approaches, including increasing payment rates for
+healthcare providers to parity with average commercial contracting rates, improving outreach
+and problem resolution to providers, reducing barriers to provider credentialing and contracting,
+providing for improved or expanded use of telehealth, and improving the timeliness and
+accuracy of processes such as claim payment and prior authorization, and submit the plan to
+the General Assembly for consideration during the following legislative session; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 56, Chapter 7, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+SB1372
+001446
+- 1 -
+
+(1) "All-products clause" means a provision in a written or oral network
+provider agreement between a health insurance entity and a healthcare provider
+that requires the healthcare provider, as a condition of participation or
+continuation in a provider network or health benefit plan to:
+(A) Participate in another provider network that is utilized by the
+health insurance entity and affiliated with the health insurance entity; or
+(B) Provide healthcare services under another plan or product
+offered by the health insurance entity;
+(2) "Commissioner" means the commissioner of commerce and
+insurance;
+(3) "Health insurance entity" has the same meaning as defined in § 56-7-
+109; and
+(4) "Healthcare provider" means:
+(A) A physician acting within the scope of a valid license issued
+pursuant to title 63, chapters 6 or 9;
+(B) A nurse acting within the scope of a valid license issued
+pursuant to title 63, chapter 7 and who has a certificate to practice as an
+advanced practice registered nurse issued by the board of nursing under
+§ 63-7-126; or
+(C) A physician assistant acting within the scope of a valid license
+issued pursuant to title 63, chapter 19.
+(b) A health insurance entity shall not:
+(1) Offer to a healthcare provider a network provider agreement or
+otherwise condition the healthcare provider's network participation based on an
+all-products clause;
+- 2 - 001446
+
+(2) Enter into a network provider agreement with a healthcare provider or
+otherwise condition the healthcare provider's network participation based on an
+all-products clause; or
+(3) Amend or renew an existing network provider agreement previously
+entered into with a healthcare provider so that the network provider agreement
+as amended or renewed adds or continues to include an all-products clause.
+(c) If a network provider agreement contains a provision that violates this
+section, or if a health insurance entity otherwise conditions a healthcare provider's
+network participation based on an all-products clause, such provision or condition is void
+and the commissioner shall assess the health insurance entity a civil penalty of ten
+thousand dollars ($10,000) for each occurrence.
+(d) On or before July 1, 2026, the commissioner shall promulgate rules to
+effectuate this section. The rules must be promulgated pursuant to the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+SECTION 2. Tennessee Code Annotated, Title 71, Chapter 5, Part 23, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "All-products clause" means a provision in a written or oral network
+provider agreement between a MCO or health insurance entity and a healthcare
+provider that requires the healthcare provider, as a condition of participation or
+continuation in a provider network or a health benefit plan to:
+(A) Participate in another provider network that is utilized by the
+MCO or health insurance entity and affiliated with the MCO or health
+insurance entity; or
+- 3 - 001446
+
+(B) Provide healthcare services under another plan or product
+offered by the MCO or health insurance entity.
+(2) "Bureau" means the bureau of TennCare;
+(3) "Commissioner" means the commissioner of finance and
+administration;
+(4) "Health insurance entity" has the same meaning as defined in § 56-7-
+109;
+(5) "Healthcare provider" means:
+(A) A physician acting within the scope of a valid license issued
+pursuant to title 63, chapters 6 or 9;
+(B) A nurse acting within the scope of a valid license issued
+pursuant to title 63, chapter 7 and who has a certificate to practice as an
+advanced practice registered nurse issued by the board of nursing under
+§ 63-7-126; or
+(C) A physician assistant acting within the scope of a valid license
+issued pursuant to title 63, chapter 19; and
+(6) "Managed care organization" or "MCO" means an appropriately
+licensed health insurance entity contracted with the bureau to manage the
+delivery of, provide for access to, contain the cost of, and ensure the quality of
+specified covered medical and behavioral benefits to TennCare enrollees through
+a network of qualified providers.
+(b) An MCO shall not:
+(1) Offer to a healthcare provider a network provider agreement or
+otherwise condition the healthcare provider's network participation based on an
+all-products clause;
+- 4 - 001446
+
+(2) Enter into a network provider agreement with a healthcare provider or
+otherwise condition the healthcare provider's network participation based on an
+all-products clause; or
+(3) Amend or renew an existing network provider agreement previously
+entered into with a healthcare provider so that the network provider agreement
+as amended or renewed adds or continues to include an all-products clause.
+(c) If a network provider agreement contains a provision that violates this
+section, or if an MCO otherwise conditions a healthcare provider's network participation
+based on an all-products clause, such provision or condition is void and the
+commissioner shall assess the MCO a civil penalty of ten thousand dollars ($10,000) for
+each occurrence.
+(d) On or before July 1, 2026, the commissioner shall promulgate rules to
+effectuate this section. The rules must be promulgated pursuant to the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+SECTION 3. Tennessee Code Annotated, Title 71, Chapter 5, Part 23, is amended by
+adding the following as a new section:
+(a) This section is known and may be cited as the "TennCare Provider Remedy
+Plan."
+(b) As used in this section:
+(1) "Bureau" means bureau of TennCare;
+(2) "Department" means the department of finance and administration;
+(3) "Health insurance entity" has the same meaning as defined in § 56-7-
+109;
+(4) "Healthcare provider" or "provider" means:
+- 5 - 001446
+
+(A) A physician acting within the scope of a valid license issued
+pursuant to title 63, chapters 6 or 9;
+(B) A nurse acting within the scope of a valid license issued
+pursuant to title 63, chapter 7 and who has a certificate to practice as an
+advanced practice registered nurse issued by the board of nursing under
+§ 63-7-126; or
+(C) A physician assistant acting within the scope of a valid license
+issued pursuant to title 63, chapter 19;
+(5) "Managed care organization" or "MCO" means an appropriately
+licensed health insurance entity contracted with the bureau to manage the
+delivery, provide for access, contain the cost, and ensure the quality of specified
+covered medical and behavioral benefits to TennCare enrollees through a
+network of qualified providers;
+(6) "Secret shopper survey" or "survey" means a research methodology
+where callers who do not identify themselves as evaluators pose as enrollees
+trying to schedule an appointment with a healthcare provider to evaluate
+appointment wait time availability and the accuracy of healthcare provider
+directories; and
+(7) "TennCare" has the same meaning as defined in § 71-5-2503.
+(c) The bureau shall establish and enforce appointment wait time standards and
+the accuracy of healthcare provider directories by implementing a regular secret shopper
+survey to determine each MCO's compliance with the standards in subsections (e) and
+(f).
+(d) An MCO is in compliance with the standards established in subsection (e)
+when secret shopper survey results reflect a rate of appointment wait time availability
+- 6 - 001446
+
+within the standard time frame of at least ninety percent (90%). The bureau shall
+determine if appointments offered via telehealth may be counted toward compliance with
+appointment wait time availability standards.
+(e) The bureau shall establish wait time availability standards for routine
+appointments for the following services, if covered in an MCO's contract, and within the
+specified limits:
+(1) For outpatient mental health and substance use disorder services,
+adult and pediatric appointment wait times must be no longer than ten (10)
+business days from the date of request;
+(2) For primary care services, adult and pediatric appointment wait times
+must be no longer than fifteen (15) business days from the date of request;
+(3) For obstetric and gynecological services, appointment wait times
+must be no longer than fifteen (15) business days from the date of request; and
+(4) For other services or specialties the bureau may identify, appointment
+wait times must be no longer than the timeframes specified by the bureau in an
+evidence-based manner.
+(f)
+(1) No less than annually, TennCare shall conduct a secret shopper
+survey to determine the accuracy of the information specified in subdivision (f)(2)
+for each MCO's most current electronic healthcare provider directories for the
+following healthcare provider types, if included in the MCO's provider directory:
+(A) Primary care providers;
+(B) Obstetric and gynecological providers;
+(C) Outpatient mental health and substance use disorder
+providers; and
+- 7 - 001446
+
+(D) Providers of the services identified by the bureau under
+subdivision (e)(4).
+(2) At a minimum, a secret shopper survey must assess the accuracy of
+the information in each MCO's most current electronic provider directories that
+pertains to:
+(A) The provider's active network status with the MCO;
+(B) Provider street address;
+(C) Provider telephone number; and
+(D) Whether the provider is accepting new enrollees.
+(g) When an entity conducting a secret shopper survey on behalf of the bureau
+identifies an error in an MCO's directory data, the entity shall send information sufficient
+for the MCO to correct the error to the bureau within three (3) business days after the
+date the error is identified.
+(h) The bureau shall send information received pursuant to subsection (g) to the
+applicable MCO within three (3) business days after the date the bureau receives the
+information from the entity that conducted the secret shopper survey.
+(i)
+(1) The bureau shall develop and enforce network adequacy standards
+consistent with this section.
+(2) The network standards established by the bureau in accordance with
+this section must include all geographic areas covered by an MCO. The bureau
+may establish varying standards for the same healthcare provider type based on
+geographic area.
+(3) The bureau shall not create exceptions to the network adequacy
+standards developed under this subsection (i).
+- 8 - 001446
+
+(4) At a minimum, the bureau must develop a quantitative network
+adequacy standard for MCOs, other than appointment wait time availability
+standards, for the following provider types, if covered under an MCO's contract:
+(A) Adult and pediatric primary care;
+(B) Obstetrics and gynecology;
+(C) Adult and pediatric mental health and substance use
+disorders; and
+(D) Adult and pediatric specialists, as designated by the bureau.
+(j) The bureau shall publish the standards developed in accordance with this
+section on its website in a manner that is easily accessible to the general public.
+(k) If the bureau identifies a deficiency in an MCO's network adequacy under the
+standards established by this section, then the bureau shall:
+(1) Develop a remediation plan to address the deficiency which identifies
+specific steps for the MCO to complete, contains timelines for implementation
+and completion by the MCO, and includes a variety of approaches, including but
+not limited to, increasing payment rates to providers; and
+(2) Submit the remediation plan to the general assembly for approval no
+later than one hundred eighty (180) calendar days after the date TennCare
+becomes aware of the deficiency.
+(l) No later than July 1, 2026, the department of finance and administration shall
+promulgate rules to effectuate this section. The rules must include civil penalties for
+violations of this section. The rules must be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+- 9 - 001446
+
+[DELETED: WWWWS(]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0((((S(((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0((((S((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0((((((((((S]

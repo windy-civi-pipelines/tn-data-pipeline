@@ -1,0 +1,79 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 7
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 1465
+By Lowe
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 6, relative to the taxation of labor
+performed on tangible personal property.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-6-102(87)(A)(ii), is amended by
+deleting the language "labor or service cost,".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 67-6-102(87)(A), is amended by
+deleting subdivision (v) and renumbering the subsequent subdivision accordingly.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 67-6-102(87)(B), is amended by
+adding the following as a new subdivision:
+(v) Labor and service costs, including repair and installation labor charges, that
+are separately stated on an invoice or similar billing document given to the purchaser;
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 67-6-205(c), is amended by deleting
+subdivisions (4) and (6) and renumbering the remaining subdivisions accordingly.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 67-6-203, is amended by deleting
+subsection (d).
+
+Section 7:
+SECTION 6. For the purpose of promulgating rules, this act takes effect upon becoming
+a law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2026,
+the public welfare requiring it.
+SB1465
+008774
+- 1 -
+[DELETED: SSS(S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 1465
+By Lowe
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 6, relative to the taxation of labor
+performed on tangible personal property.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-6-102(87)(A)(ii), is amended by
+deleting the language "labor or service cost,".
+SECTION 2. Tennessee Code Annotated, Section 67-6-102(87)(A), is amended by
+deleting subdivision (v) and renumbering the subsequent subdivision accordingly.
+SECTION 3. Tennessee Code Annotated, Section 67-6-102(87)(B), is amended by
+adding the following as a new subdivision:
+(v) Labor and service costs, including repair and installation labor charges, that
+are separately stated on an invoice or similar billing document given to the purchaser;
+SECTION 4. Tennessee Code Annotated, Section 67-6-205(c), is amended by deleting
+subdivisions (4) and (6) and renumbering the remaining subdivisions accordingly.
+SECTION 5. Tennessee Code Annotated, Section 67-6-203, is amended by deleting
+subsection (d).
+SECTION 6. For the purpose of promulgating rules, this act takes effect upon becoming
+a law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2026,
+the public welfare requiring it.
+SB1465
+008774
+- 1 -
+
+[DELETED: SSS(S]

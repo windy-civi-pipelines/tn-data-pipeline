@@ -1,0 +1,263 @@
+Title: HOUSE BILL 791
+Official Title: HOUSE BILL 791
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+By Behn
+SENATE BILL 1220
+By Oliver
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 8; Title 29 and Title 50, relative to workplace
+conditions.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 50, Chapter 3, is amended by adding
+the following as a new part:
+50-3-1101. Short title.
+This part is known and may be cited as the "Workers' Right to Live Act."
+50-3-1102. Legislative findings.
+(a) The general assembly finds that every worker in this state has the right to a
+safe workplace and that workplace fatalities due to negligence, unsafe conditions, or
+failure to comply with safety regulations must be addressed with accountability
+measures.
+(b) The purpose of this part is to ensure that businesses operating in this state
+are held accountable for workplace fatalities, provide a clear mechanism for reporting
+worker deaths, and establish financial penalties and incentive claw back provisions for
+employers found responsible for preventable deaths.
+50-3-1103. Part definitions.
+As used in this part:
+(1) "Accountability agreement" means any agreement between an
+employer and the department of economic and community development that
+includes incentives, tax abatements, or other economic development benefits;
+SB1220
+003033
+- 1 -
+(2) "Claw back provision" means a requirement that an employer repay
+incentives received if the employer is found in violation of workplace safety
+regulations and such violation resulted in a workplace fatality;
+(3) "Negligence" means a failure to exercise reasonable care in
+maintaining workplace safety, as determined by an investigation conducted by
+the division; and
+(4) "Workplace fatality" means the death of an employee occurring on-
+site during work hours or as a direct result of workplace conditions.
+50-3-1104. Reporting of workplace fatalities.
+(a) A workplace fatality must be reported to the division within twenty-four (24)
+hours of occurrence.
+(b) The department, in consultation with the division, shall establish a reporting
+system for workplace fatalities, ensuring coordination with the division and local
+authorities.
+(c) If an employer fails to report a workplace fatality within the timeframe
+required under subsection (a), then the department shall assess a civil penalty of not
+less than fifty thousand dollars ($50,000) per violation of subsection (a). Each instance
+of failing to report a workplace fatality within the timeframe required under subsection (a)
+constitutes a separate violation.
+50-3-1105. Investigation and determination of negligence.
+(a) Upon receiving notice of a workplace fatality, the division shall initiate an
+investigation within five (5) business days.
+(b) The division shall determine whether the fatality was due to:
+- 2 - 003033
+(1) Employer negligence, including a failure to comply with occupational
+safety and health regulations promulgated pursuant to this chapter, inadequate
+training, or lack of safety protocols;
+(2) An unavoidable medical emergency unrelated to workplace
+conditions, including a heart attack; or
+(3) A true accident without identifiable employer fault.
+(c) The division shall publicly report the findings of an investigation pursuant to
+this section within ninety (90) days of completion of the investigation.
+(d) An employer may appeal a determination of negligence in accordance with
+the Uniform Administrative Procedures Act, compiled in title 4, chapter 5, within thirty
+(30) days of receiving the final investigative report.
+50-3-1106. Financial penalties and incentive claw backs.
+(a) If the division determines in an investigation conducted pursuant to § 50-3-
+1105 that a workplace fatality resulted from employer negligence, then the employer
+must be subject to:
+(1) A fine of not less than two hundred fifty thousand dollars ($250,000)
+for each fatality, payable to the state's worker protection fund, created in § 50-3-
+1107; and
+(2) Additional fines determined by the division based on the severity of
+the violation and prior violations committed by the same employer.
+(b)
+(1) On or after July 1, 2025, the department of economic and community
+development shall include a claw back provision in an accountability agreement
+that the department enters into with an employer in this state.
+- 3 - 003033
+(2) If the division determines that a workplace fatality resulted from
+employer negligence under subsection (a), then an employer that has an
+accountability agreement with the department of economic and community
+development, must repay any state-provided incentives or funds received during
+the preceding three (3) fiscal years.
+(c) If an employer demonstrates a pattern of negligence resulting in multiple
+fatalities, then the employer shall not receive state economic incentives for not less than
+five (5) years from the date such determination is made.
+50-3-1107. Worker protection fund.
+(a) There is created in the state treasury the worker protection fund, which is
+separate and distinct from the general fund and all other reserve funds, to be
+administered by the division.
+(b) The fund consists of moneys collected from the penalties and fines described
+in §§ 50-3-1104 and 50-3-1106. Moneys in the fund must only be used to effectuate this
+part.
+(c) Moneys in the fund may be invested by the state treasurer in accordance
+with § 9-4-602.
+(d) Interest accruing on investments and deposits of the fund must be credited to
+the fund, do not revert to the general fund, and must be carried forward into the
+subsequent fiscal year.
+(e) Any balance remaining unexpended at the end of a fiscal year in the fund
+does not revert to the general fund and must be carried forward into the subsequent
+fiscal year.
+50-3-1108. Rules.
+- 4 - 003033
+The department shall promulgate rules to effectuate this part, including
+mechanisms for whistleblower protections for employees reporting unsafe working
+conditions. The rules must be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+
+Section 3:
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 4:
+SECTION 3. For the purpose of promulgating rules, this act takes effect upon becoming
+a law, the public welfare requiring it. For all other purposes, this act takes effect on July 1,
+2025, the public welfare requiring it.
+- 5 - 003033
+[DELETED: S55((5A(]
+[DELETED:  -0(((5(((5(]
+[DELETED:  -0(((((5((((]
+[DELETED:  -0(((]
+[DELETED:  -0TS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 791
+By Behn
+SENATE BILL 1220
+By Oliver
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 8; Title 29 and Title 50, relative to workplace
+conditions.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 50, Chapter 3, is amended by adding
+the following as a new part:
+50-3-1101. Short title.
+This part is known and may be cited as the "Workers' Right to Live Act."
+50-3-1102. Legislative findings.
+(a) The general assembly finds that every worker in this state has the right to a
+safe workplace and that workplace fatalities due to negligence, unsafe conditions, or
+failure to comply with safety regulations must be addressed with accountability
+measures.
+(b) The purpose of this part is to ensure that businesses operating in this state
+are held accountable for workplace fatalities, provide a clear mechanism for reporting
+worker deaths, and establish financial penalties and incentive claw back provisions for
+employers found responsible for preventable deaths.
+50-3-1103. Part definitions.
+As used in this part:
+(1) "Accountability agreement" means any agreement between an
+employer and the department of economic and community development that
+includes incentives, tax abatements, or other economic development benefits;
+SB1220
+003033
+- 1 -
+
+(2) "Claw back provision" means a requirement that an employer repay
+incentives received if the employer is found in violation of workplace safety
+regulations and such violation resulted in a workplace fatality;
+(3) "Negligence" means a failure to exercise reasonable care in
+maintaining workplace safety, as determined by an investigation conducted by
+the division; and
+(4) "Workplace fatality" means the death of an employee occurring on-
+site during work hours or as a direct result of workplace conditions.
+50-3-1104. Reporting of workplace fatalities.
+(a) A workplace fatality must be reported to the division within twenty-four (24)
+hours of occurrence.
+(b) The department, in consultation with the division, shall establish a reporting
+system for workplace fatalities, ensuring coordination with the division and local
+authorities.
+(c) If an employer fails to report a workplace fatality within the timeframe
+required under subsection (a), then the department shall assess a civil penalty of not
+less than fifty thousand dollars ($50,000) per violation of subsection (a). Each instance
+of failing to report a workplace fatality within the timeframe required under subsection (a)
+constitutes a separate violation.
+50-3-1105. Investigation and determination of negligence.
+(a) Upon receiving notice of a workplace fatality, the division shall initiate an
+investigation within five (5) business days.
+(b) The division shall determine whether the fatality was due to:
+- 2 - 003033
+
+(1) Employer negligence, including a failure to comply with occupational
+safety and health regulations promulgated pursuant to this chapter, inadequate
+training, or lack of safety protocols;
+(2) An unavoidable medical emergency unrelated to workplace
+conditions, including a heart attack; or
+(3) A true accident without identifiable employer fault.
+(c) The division shall publicly report the findings of an investigation pursuant to
+this section within ninety (90) days of completion of the investigation.
+(d) An employer may appeal a determination of negligence in accordance with
+the Uniform Administrative Procedures Act, compiled in title 4, chapter 5, within thirty
+(30) days of receiving the final investigative report.
+50-3-1106. Financial penalties and incentive claw backs.
+(a) If the division determines in an investigation conducted pursuant to § 50-3-
+1105 that a workplace fatality resulted from employer negligence, then the employer
+must be subject to:
+(1) A fine of not less than two hundred fifty thousand dollars ($250,000)
+for each fatality, payable to the state's worker protection fund, created in § 50-3-
+1107; and
+(2) Additional fines determined by the division based on the severity of
+the violation and prior violations committed by the same employer.
+(b)
+(1) On or after July 1, 2025, the department of economic and community
+development shall include a claw back provision in an accountability agreement
+that the department enters into with an employer in this state.
+- 3 - 003033
+
+(2) If the division determines that a workplace fatality resulted from
+employer negligence under subsection (a), then an employer that has an
+accountability agreement with the department of economic and community
+development, must repay any state-provided incentives or funds received during
+the preceding three (3) fiscal years.
+(c) If an employer demonstrates a pattern of negligence resulting in multiple
+fatalities, then the employer shall not receive state economic incentives for not less than
+five (5) years from the date such determination is made.
+50-3-1107. Worker protection fund.
+(a) There is created in the state treasury the worker protection fund, which is
+separate and distinct from the general fund and all other reserve funds, to be
+administered by the division.
+(b) The fund consists of moneys collected from the penalties and fines described
+in §§ 50-3-1104 and 50-3-1106. Moneys in the fund must only be used to effectuate this
+part.
+(c) Moneys in the fund may be invested by the state treasurer in accordance
+with § 9-4-602.
+(d) Interest accruing on investments and deposits of the fund must be credited to
+the fund, do not revert to the general fund, and must be carried forward into the
+subsequent fiscal year.
+(e) Any balance remaining unexpended at the end of a fiscal year in the fund
+does not revert to the general fund and must be carried forward into the subsequent
+fiscal year.
+50-3-1108. Rules.
+- 4 - 003033
+
+The department shall promulgate rules to effectuate this part, including
+mechanisms for whistleblower protections for employees reporting unsafe working
+conditions. The rules must be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 3. For the purpose of promulgating rules, this act takes effect upon becoming
+a law, the public welfare requiring it. For all other purposes, this act takes effect on July 1,
+2025, the public welfare requiring it.
+- 5 - 003033
+
+[DELETED: S55((5A(]
+[DELETED:  -0(((5(((5(]
+[DELETED:  -0(((((5((((]
+[DELETED:  -0(((]
+[DELETED:  -0TS]

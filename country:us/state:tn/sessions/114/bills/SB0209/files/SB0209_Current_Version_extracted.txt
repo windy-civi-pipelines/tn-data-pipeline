@@ -1,0 +1,114 @@
+Title: HOUSE BILL 1019
+Official Title: HOUSE BILL 1019
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Russell
+SENATE BILL 209
+By Jackson
+AN ACT to amend Tennessee Code Annotated, Title 10,
+Chapter 7, relative to confidential records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 10-7-504, is amended by adding the
+following new subsection:
+(1) In addition to subsection (f), and upon request as provided in subdivision
+( )(2), the following records or information of active or former sworn state and local law
+enforcement officers; correctional and correction probation officers; personnel of the
+department of children's services whose duties include the investigation of child abuse,
+neglect, exploitation, fraud, theft, or other criminal activities; personnel of the department
+of revenue or of local government agencies whose responsibilities include revenue
+collection; justices, judges, chancellors, commissioners, and staff of state and local
+courts; district attorneys general; and public defenders are not public records:
+(A) Home addresses;
+(B) Telephone numbers;
+(C) Social security numbers;
+(D) Dates of birth; and
+(E) Official photographs or photographs taken in the scope of
+employment.
+(2) For purposes of effectuating subdivision ( )(1), such individual must submit a
+written request to each state or local government agency with records of or access to the
+information identified in subdivisions ( )(1)(A)-(E) requesting that such information be
+SB0209
+000911
+- 1 -
+maintained confidentially. Upon receipt of a request under this subdivision ( )(2), the
+respective state or local government entity shall maintain the identified records
+confidentially and not make the records available for public inspection.
+(3) The governing body of a local government may establish or designate an
+individual or agency as responsible for receiving requests under subdivision ( )(2) and
+distributing notice to all agencies and departments of the local government for purposes
+of compliance with this subsection ( ).
+(4) Notwithstanding this subsection ( ), information maintained confidentially
+under this subsection ( ) may be released in response to a court order, subpoena, or law
+enforcement agency conducting an active investigation.
+(5) Information made confidential by this subsection ( ) must be redacted from
+public records whenever possible and nothing in this subsection ( ) may be used to limit
+or deny access to otherwise public records because a file, document, or data file
+contains confidential information.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 000911
+[DELETED: S(((((((]
+[DELETED:  -0(((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1019
+By Russell
+SENATE BILL 209
+By Jackson
+AN ACT to amend Tennessee Code Annotated, Title 10,
+Chapter 7, relative to confidential records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 10-7-504, is amended by adding the
+following new subsection:
+(1) In addition to subsection (f), and upon request as provided in subdivision
+( )(2), the following records or information of active or former sworn state and local law
+enforcement officers; correctional and correction probation officers; personnel of the
+department of children's services whose duties include the investigation of child abuse,
+neglect, exploitation, fraud, theft, or other criminal activities; personnel of the department
+of revenue or of local government agencies whose responsibilities include revenue
+collection; justices, judges, chancellors, commissioners, and staff of state and local
+courts; district attorneys general; and public defenders are not public records:
+(A) Home addresses;
+(B) Telephone numbers;
+(C) Social security numbers;
+(D) Dates of birth; and
+(E) Official photographs or photographs taken in the scope of
+employment.
+(2) For purposes of effectuating subdivision ( )(1), such individual must submit a
+written request to each state or local government agency with records of or access to the
+information identified in subdivisions ( )(1)(A)-(E) requesting that such information be
+SB0209
+000911
+- 1 -
+
+maintained confidentially. Upon receipt of a request under this subdivision ( )(2), the
+respective state or local government entity shall maintain the identified records
+confidentially and not make the records available for public inspection.
+(3) The governing body of a local government may establish or designate an
+individual or agency as responsible for receiving requests under subdivision ( )(2) and
+distributing notice to all agencies and departments of the local government for purposes
+of compliance with this subsection ( ).
+(4) Notwithstanding this subsection ( ), information maintained confidentially
+under this subsection ( ) may be released in response to a court order, subpoena, or law
+enforcement agency conducting an active investigation.
+(5) Information made confidential by this subsection ( ) must be redacted from
+public records whenever possible and nothing in this subsection ( ) may be used to limit
+or deny access to otherwise public records because a file, document, or data file
+contains confidential information.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 000911
+
+[DELETED: S(((((((]
+[DELETED:  -0(((S]

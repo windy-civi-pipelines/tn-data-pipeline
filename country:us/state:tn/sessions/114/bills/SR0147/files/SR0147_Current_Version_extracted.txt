@@ -1,0 +1,90 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE RESOLUTION 147
+By Akbari
+A RESOLUTION to honor and recognize London Dyson, 2025
+Valedictorian of the Memphis Academy of
+Science and Engineering.
+WHEREAS, it is fitting that the members of this legislative body should pause to pay
+tribute to those students who, through their natural talents and unflagging commitment to
+academic excellence, have distinguished themselves in the classroom; and
+WHEREAS, London Dyson is one such exceptional student, who was recently named
+Valedictorian of the 2025 graduating class at the Memphis Academy of Science and
+Engineering; and
+WHEREAS, through diligent study, steady composure during examinations, and
+steadfast commitment of time and talent, Ms. Dyson has achieved outstanding academic
+success and joined the ranks of the best and brightest students in Tennessee and our country;
+and
+WHEREAS, in her remarkable high school career, London Dyson has earned an
+exemplary grade point average while participating in numerous extracurricular activities; and
+WHEREAS, London Dyson's display of intellectual aptitude and ambition surely bodes
+well for her future success; and
+WHEREAS, her noteworthy achievement is a tremendous source of pride for her family,
+her school, and her community; and
+WHEREAS, Ms. Dyson's dedication to excellence is clearly deserving of our respect,
+admiration, and commendation; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby commend and honor
+SR0147
+007485
+- 1 -
+the 2025 Memphis Academy of Science and Engineering Valedictorian, London Dyson, on her
+impressive academic achievement and extend to her our best wishes for a happy, successful
+future.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 007485
+[DELETED: WWWWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE RESOLUTION 147
+By Akbari
+A RESOLUTION to honor and recognize London Dyson, 2025
+Valedictorian of the Memphis Academy of
+Science and Engineering.
+WHEREAS, it is fitting that the members of this legislative body should pause to pay
+tribute to those students who, through their natural talents and unflagging commitment to
+academic excellence, have distinguished themselves in the classroom; and
+WHEREAS, London Dyson is one such exceptional student, who was recently named
+Valedictorian of the 2025 graduating class at the Memphis Academy of Science and
+Engineering; and
+WHEREAS, through diligent study, steady composure during examinations, and
+steadfast commitment of time and talent, Ms. Dyson has achieved outstanding academic
+success and joined the ranks of the best and brightest students in Tennessee and our country;
+and
+WHEREAS, in her remarkable high school career, London Dyson has earned an
+exemplary grade point average while participating in numerous extracurricular activities; and
+WHEREAS, London Dyson's display of intellectual aptitude and ambition surely bodes
+well for her future success; and
+WHEREAS, her noteworthy achievement is a tremendous source of pride for her family,
+her school, and her community; and
+WHEREAS, Ms. Dyson's dedication to excellence is clearly deserving of our respect,
+admiration, and commendation; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby commend and honor
+SR0147
+007485
+- 1 -
+
+the 2025 Memphis Academy of Science and Engineering Valedictorian, London Dyson, on her
+impressive academic achievement and extend to her our best wishes for a happy, successful
+future.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 007485
+
+[DELETED: WWWWWWWB]
+[DELETED:  -0B]

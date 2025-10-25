@@ -1,0 +1,51 @@
+Title: SENATE BILL 693
+Official Title: SENATE BILL 693
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Johnson
+HOUSE BILL 45
+By McCalmon
+AN ACT to amend Tennessee Code Annotated, Title 36;
+Title 37; Title 39 and Title 40, relative to child
+abuse.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 39-15-401(a), is amended by
+deleting "Class A misdemeanor" and substituting "Class E felony".
+
+Section 3:
+SECTION 2. This act takes effect July, 1, 2025, the public welfare requiring it, and
+applies to offenses committed on or after such date.
+HB0045
+000721
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 693
+By Johnson
+HOUSE BILL 45
+By McCalmon
+AN ACT to amend Tennessee Code Annotated, Title 36;
+Title 37; Title 39 and Title 40, relative to child
+abuse.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 39-15-401(a), is amended by
+deleting "Class A misdemeanor" and substituting "Class E felony".
+SECTION 2. This act takes effect July, 1, 2025, the public welfare requiring it, and
+applies to offenses committed on or after such date.
+HB0045
+000721
+- 1 -
+
+[DELETED: SS]

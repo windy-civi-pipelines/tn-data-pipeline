@@ -1,0 +1,71 @@
+Title: SENATE BILL 408
+Official Title: SENATE BILL 408
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Bailey
+HOUSE BILL 534
+By Rudder
+AN ACT to amend Tennessee Code Annotated, Title 29,
+Chapter 20, relative to governmental tort liability.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 29-20-107(h), is amended by
+deleting the subdivision and substituting:
+(h)
+(1) A governmental entity or local board of education shall not extend the
+immunity granted by this chapter to independent school bus contractors in
+performing or providing school-related transportation services to a local board of
+education.
+(2) The contract or agreement between a local board of education and an
+independent school bus contractor must require sufficient limits for tort liability
+exposures as required by applicable law related to performing or providing
+school-related transportation services to the local board of education by the
+contractor. Evidence of such coverage may include, without limitation, a
+certificate of insurance from the provider of insurance coverage that has the local
+board of education listed as an additional insured.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0534
+001796
+- 1 -
+[DELETED: S((]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 408
+By Bailey
+HOUSE BILL 534
+By Rudder
+AN ACT to amend Tennessee Code Annotated, Title 29,
+Chapter 20, relative to governmental tort liability.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 29-20-107(h), is amended by
+deleting the subdivision and substituting:
+(h)
+(1) A governmental entity or local board of education shall not extend the
+immunity granted by this chapter to independent school bus contractors in
+performing or providing school-related transportation services to a local board of
+education.
+(2) The contract or agreement between a local board of education and an
+independent school bus contractor must require sufficient limits for tort liability
+exposures as required by applicable law related to performing or providing
+school-related transportation services to the local board of education by the
+contractor. Evidence of such coverage may include, without limitation, a
+certificate of insurance from the provider of insurance coverage that has the local
+board of education listed as an additional insured.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0534
+001796
+- 1 -
+
+[DELETED: S((]

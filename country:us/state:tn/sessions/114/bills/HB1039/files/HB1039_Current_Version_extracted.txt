@@ -1,0 +1,138 @@
+Title: SENATE BILL 1230
+Official Title: SENATE BILL 1230
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Briggs
+HOUSE BILL 1039
+By Garrett
+AN ACT to amend Tennessee Code Annotated, Title 47,
+Chapter 10, Part 1 and Title 66, Chapter 24, Part
+2, relative to electronic recordings.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 47-10-118, is amended by adding
+the following as a new subsection:
+(d) The following persons may submit electronic records for registration with a
+register of deeds that accepts electronic records under this chapter:
+(1) A licensed attorney;
+(2) A bank, savings and loan association, savings bank, or credit union
+doing business under laws of the United States or this state;
+(3) A federally chartered lending institution, a federal government-
+sponsored entity, an instrumentality of the federal government, or a person
+approved as a mortgagee by the United States to make federally insured loans;
+(4) A person licensed to make regulated loans;
+(5) A licensed title insurance company or title insurance agent; or
+(6) This state, or any county or municipality, utility district, school district,
+power district, sanitary district, or other political subdivision of this state, and any
+agency, authority, branch, bureau, commission, corporation, department, or
+instrumentality of such political subdivision.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 66-24-203, is amended by deleting
+subsection (d) and substituting:
+HB1039
+002677
+- 1 -
+(d)
+(1) A county register may receive for registration electronic documents
+transmitted by electronic filing vendors on behalf of those persons authorized to
+submit electronic records pursuant to § 47-10-118(d).
+(2) Subject to the requirements under subdivision (d)(1), a county
+register may receive for registration electronic documents created by making a
+digitized image of an original paper document that is eligible for registration and
+has the certification required by § 66-24-101(d).
+(3) All recordings of electronic documents eligible for registration
+pursuant to this subsection (d) are validly registered when accepted for recording
+by the county register. It is the responsibility of the electronic filing vendor, and
+not the county register, to ensure that the vendor is only transmitting electronic
+documents to county registers from persons authorized to submit electronic
+records pursuant to § 47-10-118(d). An electronic filing vendor is liable for any
+damages resulting from the vendor's failure to comply with this section.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 66-24-204(a), is amended by adding
+the following as a new subdivision:
+(10) May only accept for registration documents transmitted by electronic filing
+vendors on behalf of those persons authorized to submit electronic records pursuant to §
+47-10-118(d). It is the responsibility of the electronic filing vendor, and not the county
+register, to ensure that the vendor is only transmitting electronic documents to county
+registers from persons authorized to submit electronic records pursuant to § 47-10-
+118(d). An electronic filing vendor is liable for any damages resulting from the vendor's
+failure to comply with this subdivision (a)(10).
+
+Section 5:
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 002677
+[DELETED: S(((((((S]
+[DELETED:  -0((((S(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1230
+By Briggs
+HOUSE BILL 1039
+By Garrett
+AN ACT to amend Tennessee Code Annotated, Title 47,
+Chapter 10, Part 1 and Title 66, Chapter 24, Part
+2, relative to electronic recordings.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 47-10-118, is amended by adding
+the following as a new subsection:
+(d) The following persons may submit electronic records for registration with a
+register of deeds that accepts electronic records under this chapter:
+(1) A licensed attorney;
+(2) A bank, savings and loan association, savings bank, or credit union
+doing business under laws of the United States or this state;
+(3) A federally chartered lending institution, a federal government-
+sponsored entity, an instrumentality of the federal government, or a person
+approved as a mortgagee by the United States to make federally insured loans;
+(4) A person licensed to make regulated loans;
+(5) A licensed title insurance company or title insurance agent; or
+(6) This state, or any county or municipality, utility district, school district,
+power district, sanitary district, or other political subdivision of this state, and any
+agency, authority, branch, bureau, commission, corporation, department, or
+instrumentality of such political subdivision.
+SECTION 2. Tennessee Code Annotated, Section 66-24-203, is amended by deleting
+subsection (d) and substituting:
+HB1039
+002677
+- 1 -
+
+(d)
+(1) A county register may receive for registration electronic documents
+transmitted by electronic filing vendors on behalf of those persons authorized to
+submit electronic records pursuant to § 47-10-118(d).
+(2) Subject to the requirements under subdivision (d)(1), a county
+register may receive for registration electronic documents created by making a
+digitized image of an original paper document that is eligible for registration and
+has the certification required by § 66-24-101(d).
+(3) All recordings of electronic documents eligible for registration
+pursuant to this subsection (d) are validly registered when accepted for recording
+by the county register. It is the responsibility of the electronic filing vendor, and
+not the county register, to ensure that the vendor is only transmitting electronic
+documents to county registers from persons authorized to submit electronic
+records pursuant to § 47-10-118(d). An electronic filing vendor is liable for any
+damages resulting from the vendor's failure to comply with this section.
+SECTION 3. Tennessee Code Annotated, Section 66-24-204(a), is amended by adding
+the following as a new subdivision:
+(10) May only accept for registration documents transmitted by electronic filing
+vendors on behalf of those persons authorized to submit electronic records pursuant to §
+47-10-118(d). It is the responsibility of the electronic filing vendor, and not the county
+register, to ensure that the vendor is only transmitting electronic documents to county
+registers from persons authorized to submit electronic records pursuant to § 47-10-
+118(d). An electronic filing vendor is liable for any damages resulting from the vendor's
+failure to comply with this subdivision (a)(10).
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 002677
+
+[DELETED: S(((((((S]
+[DELETED:  -0((((S(S]

@@ -1,0 +1,155 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 125
+By Sparks
+A RESOLUTION to honor Charles Robert Jones on his lifetime of
+service to his community and the State of
+Tennessee.
+WHEREAS, it is fitting that we should salute those citizens who, through their
+extraordinary efforts, have distinguished themselves as community leaders of whom we can all
+be proud; and
+WHEREAS, one such noteworthy person is Charles Robert Jones, a highly successful
+businessman, entrepreneur, and philanthropist, who has an extensive record of accomplishment
+and a distinguished lifetime of service to his community; and
+WHEREAS, a native son of Tennessee, Charles Robert Jones was born on June 21,
+1930, on his grandfather's farm in Gainesboro and moved with his family to Nashville in 1933
+before relocating to Rutherford County in 1936; and
+WHEREAS, after the outbreak of World War II, the Jones family moved to Brunswick,
+Georgia, where young Charles worked in the J.A. Jones Shipyard as a messenger; the family
+returned to Nashville in 1946, and Charles Jones attended East Nashville High School until
+quitting in the tenth grade to work for the Avco Corporation, making steel parts for the aviation
+industry, and later in construction; and
+WHEREAS, in 1949, Charles Jones moved to Detroit, Michigan, to work at an
+automobile plant before joining the United States Army in 1951. During the Korean War, he
+served as a medical corpsman and later as a psychiatric assistant; and
+WHEREAS, during his tenure in the Army, he met and married the love of his life,
+Maryetta, to whom he sent over 400 love letters during his two years of military service; and
+HJR0125
+002723
+- 1 -
+WHEREAS, after the end of the Korean War, Mr. Jones began his college education at
+David Lipscomb University in Nashville in 1953, earning his Bachelor of Arts degree in History
+and Speech. He later earned a master's degree from Western Michigan University; and
+WHEREAS, during his college years, Charles Jones preached at a small Church of
+Christ congregation and served as a substitute teacher in Michigan; in 1965, he left his job in
+public education to work at an automobile leasing company as a manager, where his
+tremendous success led him to never return to work as an educator; and
+WHEREAS, after his success in the automobile leasing industry and a stint as president
+of the local chapter of the Michigan Education Association, he was asked to develop a member
+benefit program for the Michigan Education Association that later led him to develop a similar
+program for the National Education Association, and he was able to negotiate deals with banks,
+financial institutions, insurance companies, and manufacturers to get discounts for teachers on
+a national scale; and
+WHEREAS, in 1970, Mr. Jones launched his own company, Professional Economic
+Services, which he managed until 1985, when he transitioned into investing in farms and
+commercial properties in Virginia, Texas, and Oklahoma; and
+WHEREAS, Charles Jones returned to Tennessee in 1990 and began purchasing
+historic properties in Nashville, including the St. Bernard's convent building and the Werthan
+Bag Factory; he repurposed the former Macy's building and traded it for the Memorial Hospital
+property at Due West Towers, in addition to becoming an integral part of the restoration of the
+historic Milky Way Farm; and
+WHEREAS, in addition to his business success, Mr. Jones has profoundly impacted the
+lives of countless individuals through his mentorship, counseling, and philanthropic efforts; and
+WHEREAS, Charles Jones epitomizes the spirit and commitment that are characteristic
+of a true Tennessean; and
+- 2 - 002723
+WHEREAS, we find it appropriate to acknowledge and applaud Mr. Jones for his
+dedication to the State of Tennessee and its citizens; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor and commend Charles Robert Jones for his lifetime of service to
+his community and the State of Tennessee, extending our best wishes for much continued
+success in all his future endeavors.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 002723
+[DELETED: WWWWWW]
+[DELETED:  -0WWWWWWW]
+[DELETED:  -0WB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 125
+By Sparks
+A RESOLUTION to honor Charles Robert Jones on his lifetime of
+service to his community and the State of
+Tennessee.
+WHEREAS, it is fitting that we should salute those citizens who, through their
+extraordinary efforts, have distinguished themselves as community leaders of whom we can all
+be proud; and
+WHEREAS, one such noteworthy person is Charles Robert Jones, a highly successful
+businessman, entrepreneur, and philanthropist, who has an extensive record of accomplishment
+and a distinguished lifetime of service to his community; and
+WHEREAS, a native son of Tennessee, Charles Robert Jones was born on June 21,
+1930, on his grandfather's farm in Gainesboro and moved with his family to Nashville in 1933
+before relocating to Rutherford County in 1936; and
+WHEREAS, after the outbreak of World War II, the Jones family moved to Brunswick,
+Georgia, where young Charles worked in the J.A. Jones Shipyard as a messenger; the family
+returned to Nashville in 1946, and Charles Jones attended East Nashville High School until
+quitting in the tenth grade to work for the Avco Corporation, making steel parts for the aviation
+industry, and later in construction; and
+WHEREAS, in 1949, Charles Jones moved to Detroit, Michigan, to work at an
+automobile plant before joining the United States Army in 1951. During the Korean War, he
+served as a medical corpsman and later as a psychiatric assistant; and
+WHEREAS, during his tenure in the Army, he met and married the love of his life,
+Maryetta, to whom he sent over 400 love letters during his two years of military service; and
+HJR0125
+002723
+- 1 -
+
+WHEREAS, after the end of the Korean War, Mr. Jones began his college education at
+David Lipscomb University in Nashville in 1953, earning his Bachelor of Arts degree in History
+and Speech. He later earned a master's degree from Western Michigan University; and
+WHEREAS, during his college years, Charles Jones preached at a small Church of
+Christ congregation and served as a substitute teacher in Michigan; in 1965, he left his job in
+public education to work at an automobile leasing company as a manager, where his
+tremendous success led him to never return to work as an educator; and
+WHEREAS, after his success in the automobile leasing industry and a stint as president
+of the local chapter of the Michigan Education Association, he was asked to develop a member
+benefit program for the Michigan Education Association that later led him to develop a similar
+program for the National Education Association, and he was able to negotiate deals with banks,
+financial institutions, insurance companies, and manufacturers to get discounts for teachers on
+a national scale; and
+WHEREAS, in 1970, Mr. Jones launched his own company, Professional Economic
+Services, which he managed until 1985, when he transitioned into investing in farms and
+commercial properties in Virginia, Texas, and Oklahoma; and
+WHEREAS, Charles Jones returned to Tennessee in 1990 and began purchasing
+historic properties in Nashville, including the St. Bernard's convent building and the Werthan
+Bag Factory; he repurposed the former Macy's building and traded it for the Memorial Hospital
+property at Due West Towers, in addition to becoming an integral part of the restoration of the
+historic Milky Way Farm; and
+WHEREAS, in addition to his business success, Mr. Jones has profoundly impacted the
+lives of countless individuals through his mentorship, counseling, and philanthropic efforts; and
+WHEREAS, Charles Jones epitomizes the spirit and commitment that are characteristic
+of a true Tennessean; and
+- 2 - 002723
+
+WHEREAS, we find it appropriate to acknowledge and applaud Mr. Jones for his
+dedication to the State of Tennessee and its citizens; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor and commend Charles Robert Jones for his lifetime of service to
+his community and the State of Tennessee, extending our best wishes for much continued
+success in all his future endeavors.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 002723
+
+[DELETED: WWWWWW]
+[DELETED:  -0WWWWWWW]
+[DELETED:  -0WB]

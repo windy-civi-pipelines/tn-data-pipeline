@@ -1,0 +1,82 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE RESOLUTION 27
+By Lamar
+A RESOLUTION to honor Judith Clerjeune in celebration of
+Women's Day on the Hill.
+WHEREAS, Women's Day on the Hill is a time to honor the achievements of those
+Tennessee women who have paved the way for every person to have the opportunity to pursue
+the American dream; and
+WHEREAS, the Volunteer State is proud to be the home of the awe-inspiring Judith
+Clerjeune, who serves as the Advocacy Director for the Tennessee Immigrant and Refugee
+Rights Coalition (TIRRC) and TIRRC Votes, leading the organization's policy priorities and
+campaign initiatives and working closely with organizers to advance strategic campaigns at
+national, state, and local levels that directly impact TIRRC's membership and immigrant
+communities; and
+WHEREAS, before joining TIRRC, Ms. Clerjeune worked at the Healing Trust
+Foundation and the Jean Crowe Advocacy Center and as a domestic violence specialist at the
+YWCA of Nashville and Middle Tennessee; and
+WHEREAS, she has further served her community as a member of the steering
+committee of Healthy and Free Tennessee; and
+WHEREAS, in saluting Ms. Clerjeune on this special occasion, let us remember that
+when women succeed, America succeeds, as does Tennessee; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby honor and commend
+Judith Clerjeune on her many contributions to the State of Tennessee as we celebrate Women's
+Day on the Hill.
+SR0027
+003939
+- 1 -
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 003939
+[DELETED: WWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE RESOLUTION 27
+By Lamar
+A RESOLUTION to honor Judith Clerjeune in celebration of
+Women's Day on the Hill.
+WHEREAS, Women's Day on the Hill is a time to honor the achievements of those
+Tennessee women who have paved the way for every person to have the opportunity to pursue
+the American dream; and
+WHEREAS, the Volunteer State is proud to be the home of the awe-inspiring Judith
+Clerjeune, who serves as the Advocacy Director for the Tennessee Immigrant and Refugee
+Rights Coalition (TIRRC) and TIRRC Votes, leading the organization's policy priorities and
+campaign initiatives and working closely with organizers to advance strategic campaigns at
+national, state, and local levels that directly impact TIRRC's membership and immigrant
+communities; and
+WHEREAS, before joining TIRRC, Ms. Clerjeune worked at the Healing Trust
+Foundation and the Jean Crowe Advocacy Center and as a domestic violence specialist at the
+YWCA of Nashville and Middle Tennessee; and
+WHEREAS, she has further served her community as a member of the steering
+committee of Healthy and Free Tennessee; and
+WHEREAS, in saluting Ms. Clerjeune on this special occasion, let us remember that
+when women succeed, America succeeds, as does Tennessee; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby honor and commend
+Judith Clerjeune on her many contributions to the State of Tennessee as we celebrate Women's
+Day on the Hill.
+SR0027
+003939
+- 1 -
+
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 003939
+
+[DELETED: WWWWB]
+[DELETED:  -0B]

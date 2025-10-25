@@ -1,0 +1,86 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 193
+By Lamberth
+A RESOLUTION to confirm the appointment of Mark Rogers to
+the state forestry commission.
+WHEREAS, Tennessee Code Annotated, Section 11-4-201, provides for the creation of
+a state forestry commission within the department of agriculture; and
+WHEREAS, Tennessee Code Annotated, Section 11-4-201, further provides that the
+governor shall appoint seven (7) members to the commission; and
+WHEREAS, Governor Bill Lee has appointed Mark Rogers to the state forestry
+commission as the representative of an owner of five hundred (500) or more acres of forests
+within the state for a term that expires on June 30, 2029; and
+WHEREAS, a nearly thirty-year veteran of forest management, Mark Rogers is a Society
+of American Foresters certified forester who has worked with private industry, state forestry
+agencies, and conservation organizations; and
+WHEREAS, currently employed as the Central Appalachian forest manager for The
+Nature Conservancy, Mr. Rogers is committed to employee/contractor safety, sustainable forest
+management, water quality, forest products industry development, and forestry education; and
+WHEREAS, he is a member of the Society of American Foresters and the Tennessee
+Forestry Association; and
+WHEREAS, Mr. Rogers earned both his bachelor's degree and master's degree in
+forestry from the University of Tennessee, Knoxville; and
+WHEREAS, Tennessee Code Annotated, Section 11-4-201, provides that each member
+appointed by the governor to the state forestry commission shall be confirmed by the general
+assembly; now, therefore,
+HJR0193
+003263
+- 1 -
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we confirm the appointment of Mark Rogers to the state forestry
+commission for a term that expires on June 30, 2029.
+- 2 - 003263
+[DELETED: WWWWW]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 193
+By Lamberth
+A RESOLUTION to confirm the appointment of Mark Rogers to
+the state forestry commission.
+WHEREAS, Tennessee Code Annotated, Section 11-4-201, provides for the creation of
+a state forestry commission within the department of agriculture; and
+WHEREAS, Tennessee Code Annotated, Section 11-4-201, further provides that the
+governor shall appoint seven (7) members to the commission; and
+WHEREAS, Governor Bill Lee has appointed Mark Rogers to the state forestry
+commission as the representative of an owner of five hundred (500) or more acres of forests
+within the state for a term that expires on June 30, 2029; and
+WHEREAS, a nearly thirty-year veteran of forest management, Mark Rogers is a Society
+of American Foresters certified forester who has worked with private industry, state forestry
+agencies, and conservation organizations; and
+WHEREAS, currently employed as the Central Appalachian forest manager for The
+Nature Conservancy, Mr. Rogers is committed to employee/contractor safety, sustainable forest
+management, water quality, forest products industry development, and forestry education; and
+WHEREAS, he is a member of the Society of American Foresters and the Tennessee
+Forestry Association; and
+WHEREAS, Mr. Rogers earned both his bachelor's degree and master's degree in
+forestry from the University of Tennessee, Knoxville; and
+WHEREAS, Tennessee Code Annotated, Section 11-4-201, provides that each member
+appointed by the governor to the state forestry commission shall be confirmed by the general
+assembly; now, therefore,
+HJR0193
+003263
+- 1 -
+
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we confirm the appointment of Mark Rogers to the state forestry
+commission for a term that expires on June 30, 2029.
+- 2 - 003263
+
+[DELETED: WWWWW]
+[DELETED:  -0B]

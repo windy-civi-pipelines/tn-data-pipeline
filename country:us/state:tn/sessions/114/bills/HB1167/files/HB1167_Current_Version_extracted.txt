@@ -1,0 +1,263 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 1167
+By Hawk
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 8; Title 56; Title 63 and Title 68, relative to
+certificates of public advantage.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 11, Part 13, is amended by
+adding the following as a new section:
+(a) As used in this section, "hospital system" means two (2) or more hospitals or
+entities that are parties to a cooperative agreement and have been issued a certificate of
+public advantage pursuant to § 68-11-1303.
+(b)
+(1) A hospital system shall have as the governing body of the hospital
+system a board of directors that complies with this section.
+(2) A hospital system which has, on the effective date of this act, an
+existing board of directors that does not comply with this section shall, within
+thirty (30) days after the effective date of this act, vacate the existing board of
+directors and reconstitute the board of directors in a manner that complies with
+this section.
+(c) The board of directors of a hospital system must consist of nine (9) voting
+members who are nominated by the governor and, except as otherwise provided in
+subsection (d), must be confirmed by joint resolution of the general assembly.
+(d)
+(1) If the general assembly is not in session when initial appointments
+are made, all initial appointees serve the terms prescribed in subsection (h),
+HB1167
+000021
+- 1 -
+unless the appointments are not confirmed during the next regular session of the
+general assembly following the appointments.
+(2) If the general assembly is not in session at the time a member is
+appointed to fill a vacancy resulting from the expiration of a term, the member
+whose term has expired serves until a new appointee is confirmed as provided in
+subdivision (d)(1).
+(3) If the general assembly is not in session at the time a member is
+appointed to fill a vacancy not resulting from the expiration of a term, the new
+appointee serves for the term appointed unless the appointment is not confirmed
+during the next regular session of the general assembly following the
+appointment.
+(e)
+(1) The following individuals are prohibited from serving as a member of
+the board of directors of a hospital system for so long as they hold the office or
+position:
+(A) An employee of a hospital that is a party to the hospital
+system's cooperative agreement;
+(B) An employee of an entity that contracts to do business with
+the hospital system or with any hospital that is a party to the hospital
+system's cooperative agreement;
+(C) A member of a governing body of any hospital that is a party
+to the hospital system's cooperative agreement; and
+(D) A person who has a financial interest in any contract or
+transaction affecting the interest of the hospital system.
+- 2 - 000021
+(2) A violation of subdivision (e)(1) subjects the violator to removal by the
+governor, board of directors, or the committee of state legislators appointed
+pursuant to subsection (p).
+(f) The reconstituted board of directors shall assume responsibility beginning
+May 1, 2025. The reconstitution of the board of directors has no effect on any action
+taken by the board of directors prior to May 1, 2025, unless such action is inconsistent
+with this part.
+(g) If a board of directors is not appointed by May 1, 2025, pursuant to
+subsection (c) and subject to subsection (d), then the hospital system's certificate of
+public advantage expires on May 1, 2025.
+(h) In order to establish staggered terms of service for members on the board of
+directors, the initial terms of the members of the board of directors appointed by the
+governor pursuant to subsection (c) are as follows:
+(1) Three (3) members shall each serve an initial one-year term,
+beginning on May 1, 2025, and terminating on April 30, 2026;
+(2) Three (3) members shall each serve an initial two-year term,
+beginning on May 1, 2025, and terminating on April 30, 2027; and
+(3) Three (3) members shall each serve an initial three-year term,
+beginning on May 1, 2025, and terminating on April 30, 2028.
+(i) Following the expiration of the initial terms prescribed in subsection (h), the
+term for all members appointed to serve on the board of directors pursuant to subsection
+(c) is three (3) years, beginning on May 1 of the year of appointment and ending on April
+30 three (3) years later.
+(j) Members appointed pursuant to subsection (c) are eligible to serve multiple
+terms and succeed themselves; provided, that no person may serve more than two (2)
+- 3 - 000021
+consecutive terms, whether appointed as an initial member, as a successor member, or
+to fill a vacancy. A member who serves two (2) consecutive terms may be reappointed
+after two (2) years have elapsed since the individual's last date of service on the board.
+(k) If a vacancy on a board of directors occurs by death or resignation, a
+successor is appointed pursuant to subsection (c) for the remainder of the term, subject
+to subsection (d). If a vacancy occurs by reason of expiration of a term, then the
+member whose term has expired shall serve until a successor is appointed and
+confirmed.
+(l) Five (5) members of the board of directors constitute a quorum for the
+purpose of transacting business.
+(m) The failure of a member to attend at least fifty percent (50%) of the regular
+meetings in a calendar year is cause for the member's removal and authorizes the
+presiding officer of the board to call on the governor to appoint a successor.
+(n) The governor is authorized to call the initial meeting of the reconstituted
+board of directors to occur on or after May 1, 2025.
+(o) The board shall hold at least one (1) stated meeting annually on a day or
+days determined by the board from year to year and at called meetings that may be
+necessary, to be called by the board or to be called by a legislative committee pursuant
+to subsection (p), upon at least five (5) days' notice to the board members.
+(p) The governor shall appoint a committee of members of the senate and house
+of representatives that is authorized, by majority vote, to call a meeting of the board of
+directors pursuant to subsection (o). The committee must only be composed of
+members of the senate and house of representatives that represent a county or portion
+of a county where the hospital system is located.
+- 4 - 000021
+(q) All meetings of the board must be made available for viewing by the public
+over the internet by streaming video accessible from the board's website. Archived
+videos of the board's meetings shall also be available to the public through the board's
+website.
+
+Section 3:
+SECTION 2. If any provision of this act or the application of any provision of this act to
+any person or circumstance is held invalid, the invalidity does not affect other provisions or
+applications of the act that can be given effect without the invalid provision or application, and to
+that end, the provisions of this act are declared to be severable.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 5 - 000021
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0)]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 1167
+By Hawk
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 8; Title 56; Title 63 and Title 68, relative to
+certificates of public advantage.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 11, Part 13, is amended by
+adding the following as a new section:
+(a) As used in this section, "hospital system" means two (2) or more hospitals or
+entities that are parties to a cooperative agreement and have been issued a certificate of
+public advantage pursuant to § 68-11-1303.
+(b)
+(1) A hospital system shall have as the governing body of the hospital
+system a board of directors that complies with this section.
+(2) A hospital system which has, on the effective date of this act, an
+existing board of directors that does not comply with this section shall, within
+thirty (30) days after the effective date of this act, vacate the existing board of
+directors and reconstitute the board of directors in a manner that complies with
+this section.
+(c) The board of directors of a hospital system must consist of nine (9) voting
+members who are nominated by the governor and, except as otherwise provided in
+subsection (d), must be confirmed by joint resolution of the general assembly.
+(d)
+(1) If the general assembly is not in session when initial appointments
+are made, all initial appointees serve the terms prescribed in subsection (h),
+HB1167
+000021
+- 1 -
+
+unless the appointments are not confirmed during the next regular session of the
+general assembly following the appointments.
+(2) If the general assembly is not in session at the time a member is
+appointed to fill a vacancy resulting from the expiration of a term, the member
+whose term has expired serves until a new appointee is confirmed as provided in
+subdivision (d)(1).
+(3) If the general assembly is not in session at the time a member is
+appointed to fill a vacancy not resulting from the expiration of a term, the new
+appointee serves for the term appointed unless the appointment is not confirmed
+during the next regular session of the general assembly following the
+appointment.
+(e)
+(1) The following individuals are prohibited from serving as a member of
+the board of directors of a hospital system for so long as they hold the office or
+position:
+(A) An employee of a hospital that is a party to the hospital
+system's cooperative agreement;
+(B) An employee of an entity that contracts to do business with
+the hospital system or with any hospital that is a party to the hospital
+system's cooperative agreement;
+(C) A member of a governing body of any hospital that is a party
+to the hospital system's cooperative agreement; and
+(D) A person who has a financial interest in any contract or
+transaction affecting the interest of the hospital system.
+- 2 - 000021
+
+(2) A violation of subdivision (e)(1) subjects the violator to removal by the
+governor, board of directors, or the committee of state legislators appointed
+pursuant to subsection (p).
+(f) The reconstituted board of directors shall assume responsibility beginning
+May 1, 2025. The reconstitution of the board of directors has no effect on any action
+taken by the board of directors prior to May 1, 2025, unless such action is inconsistent
+with this part.
+(g) If a board of directors is not appointed by May 1, 2025, pursuant to
+subsection (c) and subject to subsection (d), then the hospital system's certificate of
+public advantage expires on May 1, 2025.
+(h) In order to establish staggered terms of service for members on the board of
+directors, the initial terms of the members of the board of directors appointed by the
+governor pursuant to subsection (c) are as follows:
+(1) Three (3) members shall each serve an initial one-year term,
+beginning on May 1, 2025, and terminating on April 30, 2026;
+(2) Three (3) members shall each serve an initial two-year term,
+beginning on May 1, 2025, and terminating on April 30, 2027; and
+(3) Three (3) members shall each serve an initial three-year term,
+beginning on May 1, 2025, and terminating on April 30, 2028.
+(i) Following the expiration of the initial terms prescribed in subsection (h), the
+term for all members appointed to serve on the board of directors pursuant to subsection
+(c) is three (3) years, beginning on May 1 of the year of appointment and ending on April
+30 three (3) years later.
+(j) Members appointed pursuant to subsection (c) are eligible to serve multiple
+terms and succeed themselves; provided, that no person may serve more than two (2)
+- 3 - 000021
+
+consecutive terms, whether appointed as an initial member, as a successor member, or
+to fill a vacancy. A member who serves two (2) consecutive terms may be reappointed
+after two (2) years have elapsed since the individual's last date of service on the board.
+(k) If a vacancy on a board of directors occurs by death or resignation, a
+successor is appointed pursuant to subsection (c) for the remainder of the term, subject
+to subsection (d). If a vacancy occurs by reason of expiration of a term, then the
+member whose term has expired shall serve until a successor is appointed and
+confirmed.
+(l) Five (5) members of the board of directors constitute a quorum for the
+purpose of transacting business.
+(m) The failure of a member to attend at least fifty percent (50%) of the regular
+meetings in a calendar year is cause for the member's removal and authorizes the
+presiding officer of the board to call on the governor to appoint a successor.
+(n) The governor is authorized to call the initial meeting of the reconstituted
+board of directors to occur on or after May 1, 2025.
+(o) The board shall hold at least one (1) stated meeting annually on a day or
+days determined by the board from year to year and at called meetings that may be
+necessary, to be called by the board or to be called by a legislative committee pursuant
+to subsection (p), upon at least five (5) days' notice to the board members.
+(p) The governor shall appoint a committee of members of the senate and house
+of representatives that is authorized, by majority vote, to call a meeting of the board of
+directors pursuant to subsection (o). The committee must only be composed of
+members of the senate and house of representatives that represent a county or portion
+of a county where the hospital system is located.
+- 4 - 000021
+
+(q) All meetings of the board must be made available for viewing by the public
+over the internet by streaming video accessible from the board's website. Archived
+videos of the board's meetings shall also be available to the public through the board's
+website.
+SECTION 2. If any provision of this act or the application of any provision of this act to
+any person or circumstance is held invalid, the invalidity does not affect other provisions or
+applications of the act that can be given effect without the invalid provision or application, and to
+that end, the provisions of this act are declared to be severable.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 5 - 000021
+
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0)]
+[DELETED:  -0]

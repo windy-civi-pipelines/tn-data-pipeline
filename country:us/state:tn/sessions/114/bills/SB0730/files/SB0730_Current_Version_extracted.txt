@@ -1,0 +1,77 @@
+Title: HOUSE BILL 903
+Official Title: HOUSE BILL 903
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Vital
+SENATE BILL 730
+By Lowe
+AN ACT to amend Tennessee Code Annotated, Title 10,
+Chapter 7, relative to open records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 10-7-503(a)(7)(A)(i), is amended by
+deleting the following language:
+A governmental entity shall not require a written request or assess a charge to
+view a public record unless otherwise required by law.
+and substituting instead:
+A governmental entity shall not require a written request or assess a charge to
+view a public record unless otherwise required by law or as provided in
+subdivision (a)(8).
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 10-7-503(a), is amended by adding
+the following as a new subdivision:
+(8) A records custodian may require a requestor to pay a fee to view records if
+the records requested reasonably require more than one (1) hour of an employee's time
+to collect for inspection by the requestor. A records custodian shall not assess a fee for
+the first hour an employee works on a request. After the first hour, the records custodian
+may charge a fee at an hourly rate that is in proportion to the rate of pay of the employee
+who is collecting the records.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0730
+002989
+- 1 -
+[DELETED: SSS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 903
+By Vital
+SENATE BILL 730
+By Lowe
+AN ACT to amend Tennessee Code Annotated, Title 10,
+Chapter 7, relative to open records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 10-7-503(a)(7)(A)(i), is amended by
+deleting the following language:
+A governmental entity shall not require a written request or assess a charge to
+view a public record unless otherwise required by law.
+and substituting instead:
+A governmental entity shall not require a written request or assess a charge to
+view a public record unless otherwise required by law or as provided in
+subdivision (a)(8).
+SECTION 2. Tennessee Code Annotated, Section 10-7-503(a), is amended by adding
+the following as a new subdivision:
+(8) A records custodian may require a requestor to pay a fee to view records if
+the records requested reasonably require more than one (1) hour of an employee's time
+to collect for inspection by the requestor. A records custodian shall not assess a fee for
+the first hour an employee works on a request. After the first hour, the records custodian
+may charge a fee at an hourly rate that is in proportion to the rate of pay of the employee
+who is collecting the records.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0730
+002989
+- 1 -
+
+[DELETED: SSS]

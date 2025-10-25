@@ -1,0 +1,55 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 709
+By Cepicky
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-2-703, is amended by designating
+the existing language as subsection (a) and adding the following as a new subsection:
+(b) If a local board of education declares the board's LEA to be a high
+performing school district pursuant to subsection (a), then the board shall notify the
+department of education of the local board's declaration. The department shall publish a
+list of LEAs that are high performing school districts pursuant to this section on the
+department's website.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0709
+001968
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 709
+By Cepicky
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-2-703, is amended by designating
+the existing language as subsection (a) and adding the following as a new subsection:
+(b) If a local board of education declares the board's LEA to be a high
+performing school district pursuant to subsection (a), then the board shall notify the
+department of education of the local board's declaration. The department shall publish a
+list of LEAs that are high performing school districts pursuant to this section on the
+department's website.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0709
+001968
+- 1 -
+
+[DELETED: SS]

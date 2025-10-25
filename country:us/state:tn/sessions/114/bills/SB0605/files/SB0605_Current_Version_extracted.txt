@@ -1,0 +1,47 @@
+Title: HOUSE BILL 976
+Official Title: HOUSE BILL 976
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Burkhart
+SENATE BILL 605
+By Bailey
+AN ACT to amend Tennessee Code Annotated, Title 66,
+Chapter 11, relative to liens.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 66-11-103, is amended by deleting
+"ten (10) days" and substituting "twenty (20) days".
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0605
+002582
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 976
+By Burkhart
+SENATE BILL 605
+By Bailey
+AN ACT to amend Tennessee Code Annotated, Title 66,
+Chapter 11, relative to liens.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 66-11-103, is amended by deleting
+"ten (10) days" and substituting "twenty (20) days".
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0605
+002582
+- 1 -
+
+[DELETED: SS]

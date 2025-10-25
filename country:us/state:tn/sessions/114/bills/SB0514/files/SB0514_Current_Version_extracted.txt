@@ -1,0 +1,77 @@
+Title: HOUSE BILL 531
+Official Title: HOUSE BILL 531
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Farmer
+SENATE BILL 514
+By Bailey
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to artificial intelligence.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 6, Part 10, is amended by
+adding the following as a new section:
+(a) Beginning in the 2026-2027 school year, each LEA and public charter school
+shall provide age-appropriate instruction to students on how to access, utilize, and
+critically evaluate various artificial intelligence tools within the curriculum taught by the
+educator. The instruction must be aligned with the guidance issued by the department
+of education pursuant to subsection (b).
+(b) The department of education shall issue guidance to LEAs and public charter
+schools on how to implement subsection (a). The guidance must include, but is not
+limited to, the following instructional components:
+(1) Introducing basic artificial intelligence concepts;
+(2) Demonstrating practical applications of artificial intelligence;
+(3) Teaching responsible artificial intelligence usage;
+(4) How to access relevant artificial intelligence tools; and
+(5) Developing critical thinking skills to analyze artificial intelligence.
+(c) Subject to available funding, the department of education shall provide a
+professional development program in artificial intelligence education for educators.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0514
+002032
+- 1 -
+[DELETED: S((((((((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 531
+By Farmer
+SENATE BILL 514
+By Bailey
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to artificial intelligence.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 6, Part 10, is amended by
+adding the following as a new section:
+(a) Beginning in the 2026-2027 school year, each LEA and public charter school
+shall provide age-appropriate instruction to students on how to access, utilize, and
+critically evaluate various artificial intelligence tools within the curriculum taught by the
+educator. The instruction must be aligned with the guidance issued by the department
+of education pursuant to subsection (b).
+(b) The department of education shall issue guidance to LEAs and public charter
+schools on how to implement subsection (a). The guidance must include, but is not
+limited to, the following instructional components:
+(1) Introducing basic artificial intelligence concepts;
+(2) Demonstrating practical applications of artificial intelligence;
+(3) Teaching responsible artificial intelligence usage;
+(4) How to access relevant artificial intelligence tools; and
+(5) Developing critical thinking skills to analyze artificial intelligence.
+(c) Subject to available funding, the department of education shall provide a
+professional development program in artificial intelligence education for educators.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0514
+002032
+- 1 -
+
+[DELETED: S((((((((S]

@@ -1,0 +1,232 @@
+Title: HOUSE BILL 992
+Official Title: HOUSE BILL 992
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Love
+SENATE BILL 902
+By Oliver
+AN ACT to amend Tennessee Code Annotated, Title 71,
+Chapter 3, relative to child care.
+WHEREAS, the provision of child care is an essential service in this State that is relied
+upon by many working Tennessee parents; and
+WHEREAS, the cost of child care services has become burdensome to many families
+due to inflationary and other factors; and
+WHEREAS, child care workers and early childhood educators are often underpaid
+relative to the quality and necessity of the dedicated services they provide; and
+WHEREAS, the high cost of child care is often especially burdensome to child care
+workers, even in the very child care agencies or other settings in which they work; and
+WHEREAS, the Department of Human Services should utilize the Child Care WAGE$
+program as a model to reward early childhood educators for their years of dedicated service and
+promote longevity in the profession; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 3, Part 5, is amended by
+adding the following as new sections:
+71-3-522.
+(a) This section is known and may be cited as the "Child Care Workforce
+Improvement Act."
+(b)
+(1) The commissioner shall develop, and, no later than January 1, 2026,
+implement a Child Care WAGE$ Tennessee program to provide supplemental
+SB0902
+003141
+- 1 -
+payments to full- and part-time child care workers in this state based upon time in
+service.
+(2) A child care worker is eligible to receive a supplemental payment
+under the program established pursuant to subdivision (b)(1) if the child care
+worker:
+(A) Works at a child care program licensed by the department;
+(B) Earns twenty dollars ($20) per hour or less;
+(C) Has worked at least six (6) months in the same child care
+program, at least ten (10) classroom hours per week, with children from
+birth to five (5) years of age; and
+(D) Is employed at the same child care program at a time when
+funding is available and a final confirmation has been completed.
+(c) Beginning January 1, 2026, and each January 1 thereafter, the commissioner
+shall annually adjust the payments for the program described in subsection (b) by the
+percentage increase in the consumer price index's United States average for all urban
+consumers, as prepared by the United Stated department of labor's bureau of labor
+statistics.
+(d) The commissioner may use funds from the child care improvement fund
+established pursuant to § 71-3-520 to support and supplement the program described in
+subsection (b).
+71-3-523.
+(a) As used in this section, "early childhood educator" means an employee who
+works at least twenty (20) hours per week at a licensed child care center, family child
+care home, or group child care home, regardless of the employee's income.
+(b)
+- 2 - 003141
+(1) The commissioner shall develop, and, no later than January 1, 2026,
+implement a program to provide assistance payments to eligible early childhood
+educators in this state through the child care payment assistance program.
+(2) An early childhood educator is eligible to receive an assistance
+payment under the program established pursuant to subdivision (b)(1) if:
+(A) The early childhood educator is a resident of this state;
+(B) The early childhood educator is the parent of a child that
+attends:
+(i) The licensed child care center, family child care home,
+or group child care home where the early childhood educator is
+employed; or
+(ii) Any licensed child care center, family child care home,
+or group child care home in this state;
+(C) The facility described in subdivision (b)(2)(B)(i) or (ii) is
+approved to accept, and accepts, child care assistance payments; and
+(D) The early childhood educator provides proof of employment to
+the satisfaction of the department.
+(c) The commissioner shall exclude all of an applicant early childhood educator's
+income, earned and unearned, when making an eligibility determination for assistance
+payments under the program developed pursuant to subdivision (b)(1).
+(d)
+(1) Except as provided in subdivision (d)(2), and unless otherwise
+prohibited by federal or state law, a child care agency licensed under this part
+shall not place a dependent child of an early childhood educator who is a
+recipient of assistance payments under the program developed pursuant to
+- 3 - 003141
+subdivision (b)(1) on a wait list behind a child whose parent or guardian is not an
+early childhood educator receiving assistance payments under such program.
+(2) A child care agency shall give first priority on the agency's wait list to
+children described in § 71-3-518, if any.
+(e) Beginning January 1, 2026, and each January 1 thereafter, the commissioner
+shall annually adjust the payments for the program described in subsection (b) by the
+percentage increase in the consumer price index's United States average for all urban
+consumers, as prepared by the United States department of labor's bureau of labor
+statistics.
+(f) The commissioner may use funds from the child care improvement fund
+established pursuant to § 71-3-520 to support and supplement the program described in
+subsection (b).
+(g) The commissioner shall include the eligibility requirements of subdivision
+(b)(2) in the next available application for the federal child care development fund grant.
+
+Section 3:
+SECTION 2. The commissioner of human services is authorized to promulgate rules to
+effectuate this act. The rules must be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in Tennessee Code Annotated, Title 4, Chapter 5.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 003141
+[DELETED: WWWWS7((]
+[DELETED:  -0((((((7((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 992
+By Love
+SENATE BILL 902
+By Oliver
+AN ACT to amend Tennessee Code Annotated, Title 71,
+Chapter 3, relative to child care.
+WHEREAS, the provision of child care is an essential service in this State that is relied
+upon by many working Tennessee parents; and
+WHEREAS, the cost of child care services has become burdensome to many families
+due to inflationary and other factors; and
+WHEREAS, child care workers and early childhood educators are often underpaid
+relative to the quality and necessity of the dedicated services they provide; and
+WHEREAS, the high cost of child care is often especially burdensome to child care
+workers, even in the very child care agencies or other settings in which they work; and
+WHEREAS, the Department of Human Services should utilize the Child Care WAGE$
+program as a model to reward early childhood educators for their years of dedicated service and
+promote longevity in the profession; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 3, Part 5, is amended by
+adding the following as new sections:
+71-3-522.
+(a) This section is known and may be cited as the "Child Care Workforce
+Improvement Act."
+(b)
+(1) The commissioner shall develop, and, no later than January 1, 2026,
+implement a Child Care WAGE$ Tennessee program to provide supplemental
+SB0902
+003141
+- 1 -
+
+payments to full- and part-time child care workers in this state based upon time in
+service.
+(2) A child care worker is eligible to receive a supplemental payment
+under the program established pursuant to subdivision (b)(1) if the child care
+worker:
+(A) Works at a child care program licensed by the department;
+(B) Earns twenty dollars ($20) per hour or less;
+(C) Has worked at least six (6) months in the same child care
+program, at least ten (10) classroom hours per week, with children from
+birth to five (5) years of age; and
+(D) Is employed at the same child care program at a time when
+funding is available and a final confirmation has been completed.
+(c) Beginning January 1, 2026, and each January 1 thereafter, the commissioner
+shall annually adjust the payments for the program described in subsection (b) by the
+percentage increase in the consumer price index's United States average for all urban
+consumers, as prepared by the United Stated department of labor's bureau of labor
+statistics.
+(d) The commissioner may use funds from the child care improvement fund
+established pursuant to § 71-3-520 to support and supplement the program described in
+subsection (b).
+71-3-523.
+(a) As used in this section, "early childhood educator" means an employee who
+works at least twenty (20) hours per week at a licensed child care center, family child
+care home, or group child care home, regardless of the employee's income.
+(b)
+- 2 - 003141
+
+(1) The commissioner shall develop, and, no later than January 1, 2026,
+implement a program to provide assistance payments to eligible early childhood
+educators in this state through the child care payment assistance program.
+(2) An early childhood educator is eligible to receive an assistance
+payment under the program established pursuant to subdivision (b)(1) if:
+(A) The early childhood educator is a resident of this state;
+(B) The early childhood educator is the parent of a child that
+attends:
+(i) The licensed child care center, family child care home,
+or group child care home where the early childhood educator is
+employed; or
+(ii) Any licensed child care center, family child care home,
+or group child care home in this state;
+(C) The facility described in subdivision (b)(2)(B)(i) or (ii) is
+approved to accept, and accepts, child care assistance payments; and
+(D) The early childhood educator provides proof of employment to
+the satisfaction of the department.
+(c) The commissioner shall exclude all of an applicant early childhood educator's
+income, earned and unearned, when making an eligibility determination for assistance
+payments under the program developed pursuant to subdivision (b)(1).
+(d)
+(1) Except as provided in subdivision (d)(2), and unless otherwise
+prohibited by federal or state law, a child care agency licensed under this part
+shall not place a dependent child of an early childhood educator who is a
+recipient of assistance payments under the program developed pursuant to
+- 3 - 003141
+
+subdivision (b)(1) on a wait list behind a child whose parent or guardian is not an
+early childhood educator receiving assistance payments under such program.
+(2) A child care agency shall give first priority on the agency's wait list to
+children described in § 71-3-518, if any.
+(e) Beginning January 1, 2026, and each January 1 thereafter, the commissioner
+shall annually adjust the payments for the program described in subsection (b) by the
+percentage increase in the consumer price index's United States average for all urban
+consumers, as prepared by the United States department of labor's bureau of labor
+statistics.
+(f) The commissioner may use funds from the child care improvement fund
+established pursuant to § 71-3-520 to support and supplement the program described in
+subsection (b).
+(g) The commissioner shall include the eligibility requirements of subdivision
+(b)(2) in the next available application for the federal child care development fund grant.
+SECTION 2. The commissioner of human services is authorized to promulgate rules to
+effectuate this act. The rules must be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in Tennessee Code Annotated, Title 4, Chapter 5.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 003141
+
+[DELETED: WWWWS7((]
+[DELETED:  -0((((((7((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((SS]

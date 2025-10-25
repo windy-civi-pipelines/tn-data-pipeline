@@ -1,0 +1,1736 @@
+Title: AMEND S e n ate Bill No. 1413* House Bill No. 1376
+Official Title: AMEND S e n ate Bill No. 1413* House Bill No. 1376
+Number of Sections: 19
+Source: versions - Amendment HA0095
+Media Type: application/pdf
+Strikethrough Detection: 30 sections found
+
+================================================================================
+
+Section 1:
+House Commerce 1
+Amendment No. 2 to HB1376
+Vaughan
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 43, Chapter 27, Part 2, is amended by
+deleting the part.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 57, is amended by creating the following
+new chapter:
+57-7-101. Purpose.
+The purpose of this chapter is to regulate the sale and distribution of hemp-
+derived cannabinoid products. It is the intent of general assembly that the manufacture,
+sale, and distribution of hemp-derived cannabinoid products is strictly prohibited unless
+specifically provided for in this chapter. In acknowledging that the products regulated in
+this chapter may be intoxicating, the regulation and control of such products in this state
+are in the interest of public health and safety through ensuring proper age verification
+and the state's ability to efficiently enforce the requirements and restrictions contained in
+this chapter.
+57-7-102. Chapter definitions.
+As used in this chapter, unless the context otherwise requires:
+(1) "Batch" means a single stock-keeping unit with common cannabinoid
+input or a hemp flower of the same varietal and harvested on the same date and
+manufactured during a defined cycle in such a way that it could be expected to
+be of a uniform character and should be designated as such;
+HA0095
+005509
+- 1 -
+(2) "Dry weight" means the weight of plant material with a moisture
+content that does not exceed thirteen percent (13%);
+(3) "Hemp-derived cannabinoid":
+(A) Means:
+(i) A cannabinoid other than delta-9 tetrahydrocannabinol,
+or an isomer derived from such cannabinoid, that is derived from
+hemp in a concentration of more than one-tenth of one percent
+(0.1%); or
+(ii) A hemp-derived product containing delta-9
+tetrahydrocannabinol in a concentration of three-tenths of one
+percent (0.3%) or less on a dry weight basis;
+(B) Includes, but is not limited to:
+(i) Delta-8 tetrahydrocannabinol;
+(ii) Delta-10 tetrahydrocannabinol;
+(iii) Hexahydrocannabinol; and
+(iv) Tetrahydrocannabivarin (THCv); and
+(C) Does not include:
+(i) Cannabichromene (CBC/CBCa/CBCv);
+(ii) Cannabicitran (CBT/CBTa);
+(iii) Cannabicyclol (CBL/CBLa);
+(iv) Cannabidiol (CBD/CBDa/CBDv/CBDp);
+(v) Cannabielsoin (CBE/CBEa);
+(vi) Cannabigerol (CBG/CBGa/CBGv/CBGm);
+(vii) Cannabinol (CBN/CBNa);
+(viii) Cannabivarin (CBV/CBVa);
+(ix) Hemp-derived feed products allowed under title 44,
+chapter 6;
+- 2 - 005509
+(x) Hemp-derived fiber, grain, or stalk; provided, that the
+product does not contain a hemp-derived cannabinoid in a
+concentration of more than one-tenth of one percent (0.1%);
+(xi) Tetrahydrocannabinolic acid (THCa);
+(xii) Tetrahydrocannabiphorol (THCp);
+(xiii) A synthetic cannabinoid; or
+(xiv) A substance that is categorized as a Schedule I
+controlled substance on or after July 1, 2023, including a
+substance that may be identified in subdivision (3)(B);
+(4) "Hemp-derived cannabinoid product" or "HDCP":
+(A) Means a product that contains or that is labeled as containing
+a hemp-derived cannabinoid and that is produced, marketed, or otherwise
+intended to be ingested orally, inhaled, or absorbed through the skin, and
+that may contain a hemp-derived cannabinoid that is extracted from hemp
+plants or hemp plant parts; and
+(B) Includes:
+(i) Intermediate products intended for subsequent use as
+a component in a later finished HDCP; and
+(ii) Except as excluded under subdivision (3)(C)(x),
+harvested hemp plant parts, otherwise known as hemp flower;
+(5) "Manufacture" means to compound, blend, extract, infuse, cook, or
+otherwise make or prepare HDCPs, including the processes of extraction,
+infusion, packaging, repackaging, labeling, and relabeling of HDCPs;
+(6) "Proof of age" means a valid driver license or other government-
+issued identification card that contains a photograph of the person and confirms
+the person's age as twenty-one (21) years of age or older;
+- 3 - 005509
+(7) "Retailer" means a person or entity that sells, markets, or advertises
+as a seller, provides samples with or without a fee or charge, or otherwise
+distributes to the public, with or without compensation, HDCPs for consumption
+and not for resale;
+(8) "Serving" means a quantity of an HDCP reasonably suitable for a
+single person's daily use;
+(9) "Supplier" means a person or entity that manufactures hemp-derived
+cannabinoids or HDCPs or contracts for the manufacture of hemp-derived
+cannabinoids or HDCPs, whether located inside or outside of this state, and that
+sells finished, packaged HDCPs to wholesalers licensed under this chapter for
+resale and not for consumption;
+(10) "Synthetic cannabinoid" means a substance with an identical or
+substantially similar chemical structure to or the pharmacological activity of a
+cannabinoid, but that is not extracted or derived from hemp plants, or hemp plant
+parts and is instead created or produced by chemical or biochemical synthesis;
+(11) "Tetrahydrocannabinolic acid" or "THCa" is the precursor of delta-9
+THC;
+(12) "THC" means a tetrahydrocannabinol, tetrahydrocannabinolic acid, a
+THC component, or any derivative thereof;
+(13) "THC component" means a naturally occurring cannabinoid
+component of industrial hemp or hemp; and
+(14) "Wholesaler" means a person or entity that purchases finished and
+packaged for consumption HDCPs, not considered intermediate products still in
+the pre-packaging stage, from suppliers licensed under this chapter, or from
+other wholesalers licensed under this chapter, and that sells HDCPs for resale
+and not for consumption.
+- 4 - 005509
+57-7-103. License required for manufacturing, producing, or selling hemp-derived
+cannabinoid products — Offenses and penalties.
+(a)
+(1) It is an offense for a person or entity to engage in the business of
+manufacturing, the wholesale distribution of, or selling HDCPs in this state
+without a valid license required by this chapter.
+(2) An HDCP that is manufactured, produced, wholesaled, sold, or
+offered for sale in violation of subdivision (a)(1) is subject to seizure in the same
+manner as beer pursuant to chapter 5, part 4 of this title.
+(b)
+(1) It is an offense to knowingly sell or distribute an HDCP without having
+first obtained proof of age from the purchaser or recipient.
+(2) It is an offense for a person to knowingly sell or distribute an HDCP to
+a person who is under twenty-one (21) years of age or to purchase an HDCP on
+behalf of a person who is under twenty-one (21) years of age.
+(3) It is an offense for a person to knowingly assist a person who is under
+twenty-one (21) years of age to purchase, acquire, receive, or attempt to
+purchase an HDCP.
+(4) It is an offense for a person who is under twenty-one (21) years of
+age to knowingly purchase, possess, or accept receipt of an HDCP or to
+knowingly present purported proof of age that is false, fraudulent, or not actually
+that person's proof of age for the purpose of purchasing or receiving an HDCP.
+(5) For purposes of enforcing this chapter, this subsection (b) does not
+preclude commission or law enforcement efforts involving:
+(A) The use of a minor if the minor's parent or legal guardian has
+consented to assisting the commission or law enforcement; or
+- 5 - 005509
+(B) The use of a person under twenty-one (21) years of age who
+is not a minor if the individual has consented to assisting the commission
+or law enforcement.
+(6) It is an offense to knowingly distribute samples of HDCPs in or on a
+public street, sidewalk, or park.
+(7) It is an offense for a supplier, wholesaler, or retailer to knowingly
+employ a person under eighteen (18) years of age for the physical manufacture,
+storage, sale, or distribution of HDCPs, or to knowingly permit any such
+underage person on the premises of its place of business to engage in the
+manufacture, storage, sale, or distribution of HDCPs.
+(c) A violation of this section is a Class A misdemeanor.
+(d) Notwithstanding this chapter to the contrary and except as provided in § 57-
+7-105, state and local law enforcement officers have concurrent jurisdiction with the
+commission to enforce violations of this section and § 57-7-104.
+57-7-104. Maintenance of hemp-derived cannabinoid products in retail
+establishments — Violations.
+(a) As used in this section, "barrier" means the point of purchase having an
+actual physical separation between HDCPs on display and the consumer at a retail
+establishment or another designated area of the retail establishment that is inaccessible
+to the consumer and that requires assistance from a retail clerk in order to access and
+purchase HDCPs.
+(b) HDCPs may be sold at retail in the following locations:
+(1) An establishment that limits entry into the premises to individuals who
+are twenty-one (21) years of age or more;
+(2) An establishment that holds a valid license issued by the commission
+pursuant to § 57-4-102. An establishment that qualifies under this subdivision
+(b)(2) may only sell HDCPs in a quantity and manner intended for on-premise
+- 6 - 005509
+consumption while present at the establishment in accordance with rules of the
+commission;
+(3) An establishment that holds a valid license issued by the commission
+pursuant to § 57-3-204; or
+(4) An establishment owned or leased by a licensee that holds a valid
+supplier license, wholesale license, and retail license for the same location where
+HDCPs will be manufactured and sold at retail, or an establishment owned or
+leased by a licensee that holds a valid supplier license and retail license for the
+same location where HDCPs will be manufactured and sold, and that has
+contracted with a wholesale licensee for remitting the tax levied under § 57-7-108
+and for the wholesale distribution of the supplier's products. For the products
+that are manufactured on the supplier's licensed premises and that are sold at
+retail on the supplier's licensed premises, if all requirements of this section have
+been met, a supplier is not required to have the products that it manufactures
+and sells at retail on its licensed premises warehoused by the supplier's
+contracted wholesale licensee.
+(c) Signage must be displayed in all areas where HDCPs are displayed, in a
+manner to be determined by the commission, clearly advising and warning the consumer
+that the HDCPs on display may have intoxicating effects and cause impairment. HDCPs
+may only be displayed in an area of the retail establishment that is constantly visible to a
+retail licensee employee. An HDCP in this state must not be dispensed by or sold via
+the use of a self-checkout retail system or vending machine.
+(d) An HDCP must be maintained by a retailer behind a barrier unless the HDCP
+is a hemp-derived cannabinoid beverage product having a minimum container size of
+twelve (12) fluid ounces.
+(e) A violation of this section is a Class A misdemeanor.
+- 7 - 005509
+57-7-105. Responsibilities of the commission — Responsibilities of the
+department of revenue — Annual reports.
+(a) The commission shall:
+(1) Issue licenses to suppliers, wholesalers, and retailers under this
+chapter;
+(2) Oversee the manufacture of HDCPs by licensed suppliers and the
+distribution of HDCPs by licensed wholesalers, including ensuring compliance
+with labeling, product testing, and transportation requirements, and conducting
+necessary inspections of HDCPs and HDCP proof of compliance documentation
+at the facility of licensed wholesalers in a frequency and in a manner to be
+determined by the commission, prior to the delivery or sale of HDCPs to a
+retailer;
+(3) Oversee the retail sale of HDCPs by licensed retailers to ensure
+compliance with this chapter;
+(4) Enforce this chapter in a manner that may reasonably be expected to
+reduce the extent to which noncompliant HDCPs are sold and conducting
+random, unannounced inspections at locations where HDCPs are manufactured,
+stored for wholesale distribution, and sold at retail to ensure compliance with this
+chapter in furtherance of protecting the health and safety of the public. The
+commission shall determine the frequency of random, unannounced inspections
+required under this subdivision (a)(4); and
+(5) Hire a sufficient number of employees, as determined by the
+commission, to oversee the day to day operations and management of the
+supervision and enforcement of this chapter and the rules of the commission.
+The commission shall establish the salaries of the employees hired under this
+subdivision (a)(5) and such employees serve at the pleasure of the commission.
+(b) The department of revenue:
+- 8 - 005509
+(1) Shall ensure wholesalers and retailers are in compliance with this
+chapter and applicable tax provisions under title 67, including §§ 57-7-108 and
+67-6-232;
+(2) Shall, in conjunction with the commission, enforce this chapter in a
+manner that may reasonably be expected to reduce the extent to which
+noncompliant HDCPs are sold and shall conduct random, unannounced
+inspections at wholesale locations where HDCPs are stored for distribution and
+retail locations where such products are sold to ensure compliance with this
+chapter. The department of revenue shall determine the frequency of random,
+unannounced inspections required under this subdivision (b)(2); and
+(3) May, in conjunction with the commission, confiscate noncompliant
+HDCPs as contraband in the manner described in title 57, chapter 5, part 4. All
+products that the department of revenue confiscates under this subdivision (b)(3)
+are subject to seizure and forfeiture in the same manner prescribed for beer in §§
+57-5-409 and 57-5-410.
+(c) The commission and department of revenue shall submit an annual report to
+the general assembly describing in detail the commission's and department's
+compliance and enforcement efforts under this chapter. The report must also be
+published and made available to the public on the commission's and department's
+websites, respectively. The report must be submitted and published no later than July 1,
+2027, and each July 1 thereafter.
+57-7-106. License to produce or sell cannabinoid products — License
+requirements — Prohibited retail locations — Authority of the commission.
+(a) A person or entity that is in the business of manufacturing, distributing, or
+selling HDCPs in this state, including as a supplier, wholesaler, or retailer, must obtain a
+license from the commission authorizing the person or entity to engage in that business
+prior to the commencement of business. If a person or entity holds multiple licenses
+- 9 - 005509
+under this chapter, the person or entity shall maintain the business conducted under
+each license on a separately designated premises or in wholly separate facilities in a
+manner to be determined by the commission by rule.
+(b)
+(1) In order to obtain and maintain a supplier or retailer license under
+subsection (a), a person or entity must:
+(A) Submit to the commission information promulgated by rules
+as necessary for the efficient enforcement of this chapter;
+(B) Pay to the commission:
+(i) A non-refundable application fee of five hundred dollars
+($500) per application; and
+(ii) Upon approval, an annual license fee of:
+(a) For a retailer, one thousand dollars ($1,000),
+and an additional annual license fee of one thousand
+dollars ($1,000) for each additional location in this state;
+and
+(b) For a supplier, two thousand five hundred
+dollars ($2,500), and an additional annual license fee of
+two thousand five hundred dollars ($2,500) for each
+additional location in this state;
+(C) Consent to reasonable inspection by the commission and
+department of revenue, and sampling and testing by the commission, as
+applicable, of the person's inventory of HDCPs;
+(D) Submit to a criminal history background check that includes
+fingerprint checks against state and federal criminal records maintained
+by the Tennessee bureau of investigation and the federal bureau of
+investigation; and
+- 10 - 005509
+(E) If the supplier is located out of state, remain in compliance
+with the applicable governing laws, rules, and regulations of the
+jurisdiction where the supplier is located.
+(2) A person is not eligible to hold a direct or indirect interest in a supplier
+or retailer license while serving a sentence for, or for ten (10) years following the
+date of conviction of, a drug-related felony offense in any state, territory of the
+United States, or federal jurisdiction.
+(3)
+(A) An applicant for a license as a retailer with a proposed retail
+location that is within one thousand feet (1,000') of a private school, public
+school, or charter school that serves any grade from kindergarten through
+grade twelve (K-12) shall not sell HDCPs at such location unless the
+applicant provides the commission with documentation that establishes
+that HDCPs were being offered for sale at retail at such location on
+December 31, 2023.
+(B) The commission shall accept business records, photographs,
+and video recordings as documentation for purposes of determining
+whether an applicant qualifies for the exception in subdivision (b)(3)(A).
+(C) For the purposes of subdivision (b)(3)(A), measurements
+must be made in a straight line in all directions, without regard to
+intervening structures or objects, from the nearest point on the property
+line of a parcel containing a retail establishment to the nearest point on
+the property line of a parcel containing a private school, public school, or
+charter school that serves any grade from kindergarten through grade
+twelve (K-12).
+(4) The shipping of HDCPs directly to a retail licensee in this state or
+directly to a consumer in this state is strictly prohibited.
+- 11 - 005509
+(5) All sales of HDCPs and transfers of product from a retailer to
+consumer must take place at a licensed retail location in a face-to-face
+transaction. The delivery of HDCPs to consumers, directly or indirectly, is strictly
+prohibited.
+(c) A supplier or retailer license issued pursuant to this section is valid for a
+period of one (1) year and may be renewed annually. The commission shall charge an
+annual renewal fee equal to the initial licensing fee.
+(d) The commission may:
+(1) Determine requirements for and issue licenses for the manufacture or
+sale of HDCPs in this state; and
+(2) Deny or revoke supplier or retailer licenses and issue civil penalties in
+the following manner for each violation of this chapter, or a rule promulgated
+pursuant to this chapter:
+(A) One thousand dollars ($1,000) for a first violation;
+(B) Two thousand five hundred dollars ($2,500) for a second
+violation that occurs within two (2) years of the first violation;
+(C) Five thousand dollars ($5,000) for a third violation that occurs
+within two (2) years of the first violation;
+(D) Revocation of the license for a fourth violation that occurs
+within two (2) years of the first violation; and
+(E) Require retraining of all employees of the licensee under the
+supervision of the commission in addition to the civil penalties imposed
+pursuant to subdivisions (d)(2)(A)-(C).
+(e) The revenue collected from fees established under subdivision (b)(1)(B) must
+be deposited with the state treasurer to be earmarked for and allocated to the
+commission and used exclusively for the administration of this title.
+(f)
+- 12 - 005509
+(1) In order to obtain and maintain a wholesaler license under subsection
+(a), a person or entity shall:
+(A) Submit to the commission information included in this
+subsection (f) and as promulgated by rule of the commission pertaining to
+warehouse location, security measures, and as necessary for the efficient
+enforcement of this chapter, including, but not limited to:
+(i) Name of the applicant;
+(ii) Date of birth of each applicant, or each owner of the
+applicant, if the applicant is a legal entity;
+(iii) Proof of registration or incorporation in this state for an
+applicant that is a legal business entity authorized to engage in
+business in this state;
+(iv) Contact information for each applicant, including the
+name of the person legally responsible for each applicant's
+operations, telephone number, email address, and address of
+principal place of business;
+(v) Address of location to be licensed;
+(vi) A detailed description of the square footage and
+dimensions of the warehouse space, including a description of
+how the product will be received, inventoried, stored, and
+packaged, as applicable;
+(vii) A detailed description of how records will be stored
+and kept in a secure manner, and how the applicant will conduct
+its review of all aspects of the compliance requirements contained
+in this chapter and as set forth by the commission as it pertains to
+HDCPs;
+- 13 - 005509
+(viii) An identity history summary issued by the federal
+bureau of investigation for the person identified as legally
+responsible for the management of each applicant's operations;
+(ix) Designation, if applicable, of each authorized
+representative of the applicant; and
+(x) Other information as required by the commission;
+(B) Pay to the commission:
+(i) A nonrefundable application fee of five hundred dollars
+($500) per application; and
+(ii) Upon approval, an annual license fee of five thousand
+dollars ($5,000) per application, per warehouse location;
+(C) Consent to reasonable inspection and sampling by the
+commission or the department of revenue, as applicable, of the person's
+inventory of HDCPs;
+(D) Submit to a criminal history background check that includes
+fingerprint checks against state and federal criminal records maintained
+by the Tennessee bureau of investigation and the federal bureau of
+investigation; and
+(E) Submit proof of the following:
+(i) The applicant has secured or is readily able to secure a
+warehouse located in this state, which meets all local
+requirements for the applicant's specific use of the property, with a
+minimum size of one thousand square feet (1,000 sq. ft.) that is
+not also being used for the cultivation, manufacture, laboratory
+testing, or the retail sale of hemp, hemp-derived products other
+than HDCPs, or HDCPs. Other products regulated by the
+commission may be stored in the same areas as HDCPs;
+- 14 - 005509
+provided, that all required federal, state, and local licenses,
+permits, and other requirements are satisfied for the storage of
+such products;
+(ii) Certificate of occupancy or other proof of approval from
+the local jurisdiction for the applicant's intended use;
+(iii) Detailed business plan, including details pertaining to
+the applicant's investment in the business and the capital required
+to start the business;
+(iv) Proof that the applicant possesses the financial
+capacity necessary to engage in the warehousing and distribution
+of HDCPs in a manner to be determined by the commission,
+documenting access to a minimum of seven hundred fifty
+thousand dollars ($750,000), that must be proven by providing the
+following documentation:
+(a) Certified business or personal financial
+statements; and
+(b) Checking or savings bank statements or
+statements from money market or brokerage accounts;
+provided, funds are readily convertible to cash; and
+(v) If an applicant has obtained a loan as proof of financial
+capacity under subdivision (f)(1)(E)(iv):
+(a) Proof of the loan approval from a bank or
+another insured depository institution or lender deemed
+acceptable by the commission; or
+(b) Proof of the loan approval from a private lender
+via executed loan documents and sufficient proof of funds
+in a manner to be determined by the commission;
+- 15 - 005509
+provided, that the private lender and its individual owners
+or principals must be disclosed in the application as an
+owner of the applicant.
+(2) A person is not eligible to hold a direct or indirect interest in a
+wholesaler license while serving a sentence for, or for ten (10) years following
+the date of conviction of, a drug-related felony offense in any state, territory of the
+United States, or federal jurisdiction.
+(3) A wholesaler license issued pursuant to this section is valid for a
+period of one (1) year and may be renewed annually. The commission shall
+charge an annual renewal fee equal to the initial licensing fee, unless otherwise
+determined by the commission.
+(4) Wholesaler licensees must receive preapproval from the commission
+for any changes in ownership, control, or otherwise of the legal entity of the
+license holder.
+(5) Wholesaler licensees shall notify the commission of any changes to
+the contents of their application on file and that do not otherwise require
+preapproval, as determined by the commission, within thirty (30) days after the
+change takes place, including any change of contact information or changes to
+the warehouse premises.
+(6) The commission may deny the issuance or renewal of an application
+for a wholesaler license for an applicant that has not fully complied with this
+
+Section 4:
+section.
+(7) Persons who warehouse and distribute HDCPs are subject to all rules
+of the commission applicable to the type of product sold, including, but not limited
+to, all applicable federal and state laws, rules, and regulations. HDCPs are
+excluded from all regulatory exemptions, including, but not limited to, those
+exemptions prescribed by § 53-1-118.
+- 16 - 005509
+(8) The revenue collected from fees established under this subsection (f)
+must be deposited with the state treasurer to be earmarked for and allocated to
+the commission and used exclusively for the administration of this title.
+(9) A wholesaler that violates a provision of this chapter is subject to the
+same penalties as a supplier or retailer under subdivision (d)(2).
+(g) Supplier, wholesaler, and retailer licenses issued under this section are not
+transferable from person to person or location to location.
+(h) A supplier, wholesaler, and retailer license issued under this section expires
+in accordance with rules promulgated by the commission establishing a schedule for
+licensure expiration. An applicant for renewal must submit with the application for
+renewal the annual license fee, an updated identity history summary, and any other
+information required by the commission by rule, as applicable.
+57-7-107. Product testing requirements — Commission maintenance of list of
+qualified testing laboratories.
+(a) Testing of products and substances must be conducted as follows:
+(1) Full-panel testing on all active cannabinoid molecules must be
+conducted prior to final production of HDCPs; and
+(2) A potency test must be conducted on finished goods to confirm
+potency is consistent with stated potency on the packaging.
+(b)
+(1) A supplier must contract with a third-party laboratory to provide the
+testing required by subsection (a).
+(2) A supplier shall certify to the commission that all HDCPs provided by
+the supplier are in compliance with all requirements of this chapter. The manner
+of certification may be established by rule of the commission.
+- 17 - 005509
+(3) The commission is authorized to promulgate rules specifying which
+types of tests may be used to satisfy the requirements of subsection (a) and the
+qualifications for laboratories from which the commission will accept test results.
+(c) Each batch manufactured must undergo testing and obtain a certificate of
+analysis by a third-party laboratory qualified under subsection (b).
+(d) The commission shall:
+(1) Promulgate rules specifying pass and fail action levels for safety and
+toxicity with respect to the testing required by subsection (a);
+(2) Maintain and post on its website a registry of testing laboratories that
+are qualified to test intermediate manufactured material and finished HDCPs;
+(3) Develop an application and process by which qualifying laboratories
+are listed on the commission's website. The application submitted by a
+potentially qualifying laboratory must include a sample certificate of analysis
+issued by the applying laboratory; and
+(4) Sample and analyze HDCPs produced, distributed, and offered for
+sale in this state for cannabinoid concentrations, tested according to protocols
+promulgated by rule of the commission. Commission testing must be conducted
+by post-decarboxylation to determine a cannabinoid profile of samples tested,
+including their THC concentrations. As used in this subdivision (d)(4), "post-
+decarboxylation" means the quantification by percentage of the resulting
+tetrahydrocannabinol of a sample if carboxyl groups are removed from all
+molecules containing tetrahydrocannabinol within the sample.
+57-7-108. Wholesale tax levy – Enforcement – Disposition of collections.
+(a) There is imposed a tax upon the sale of HDCPs at wholesale in the amount
+of one cent (1¢) per milligram of hemp-derived cannabinoid in each HDCP sold at
+wholesale in this state. The tax imposed under this subsection (a) must be paid monthly
+by the wholesaler upon the amount of milligrams of hemp-derived cannabinoid sold by
+- 18 - 005509
+the wholesaler during the preceding month to the department of revenue, fifty percent
+(50%) of which tax must be distributed to the commission in accordance with subsection
+(c).
+(b) For the purpose of enforcing this chapter and ascertaining the amount of tax
+due under this section, each wholesaler shall, on or before the fifteenth day of each
+month, file a report with the commissioner upon forms prescribed, prepared, and
+furnished by the commissioner showing information relative to sales and disposition of
+all HDCPs and such other related information as the commissioner may require.
+(c) All moneys collected under this section must be turned over to the state
+treasurer for deposit in the general fund, to be distributed as follows:
+(1) Fifty percent (50%) to be appropriated for local road infrastructure
+projects to the several incorporated municipalities within this state to be allocated
+and distributed to such municipalities monthly by the commissioner of finance
+and administration, in proportion to the population of each municipality compared
+to the aggregate population of all municipalities within the state, according to the
+2020 federal census or a subsequent federal census. Municipalities incorporated
+subsequent to the last decennial federal census shall, until the next decennial
+federal census, be eligible for an allotment, commencing on July 1, following
+incorporation and the election and swearing in of municipal officials, on a
+population basis determined under regulations of the department of economic
+and community development and certified by the department to the
+commissioner of finance and administration; provided, that an accurate census of
+population has been certified to the department of economic and community
+development by the municipality; and
+(2) Fifty percent (50%) to be appropriated for use by the commission in
+the enforcement of this title.
+- 19 - 005509
+57-7-109. Transportation of hemp-derived cannabinoid products — Required
+documentation — Exceptions.
+(a) Except as provided in subsection (b), a person transporting HDCPs into,
+within, or through this state shall carry:
+(1) Documentation sufficient to prove that the products being shipped or
+transported:
+(A) Were produced from hemp that was lawfully produced under
+a state or tribal hemp plan approved by the United States department of
+agriculture, under a hemp license issued by the United States department
+of agriculture, or otherwise in accordance with federal regulations through
+the state or territory of the Indian tribe, as applicable; and
+(B) Do not exceed the cannabinoid limits for hemp-derived
+cannabinoids; and
+(2) A bill of lading that includes:
+(A) Name and address of the owner of the products;
+(B) Point of origin;
+(C) Point of delivery, including name and address;
+(D) Kind and quantity of packages or, if in bulk, the total quantity
+of products in the shipment; and
+(E) Date of shipment.
+(b) Subsection (a) does not apply to a person in possession of HDCPs that were
+purchased from a retailer that is licensed under this chapter.
+57-7-110. Safety requirements for hemp-derived cannabinoid products — Proper
+storage by consumer — Prohibited advertising.
+(a) An HDCP that is sold at retail must:
+- 20 - 005509
+(1) Satisfy the child-resistant effectiveness standards under 16 CFR
+
+Section 5:
+1700.15(b)(1) when tested in accordance with the requirements of 16 CFR
+
+Section 6:
+1700.20;
+(2) Notwithstanding subdivision (a)(1), if the HDCP:
+(A) Is a beverage product other than such product described in
+subdivision (a)(2)(B), utilize a traditional pull-tab, an aluminum can device
+currently approved for soft drinks and malt beverages, or a screw-top or
+cork-style cap used for containers of wine and other alcoholic beverage
+products; or
+(B) Is in a container with a capacity of less than seven hundred
+fifty milliliters (750 ml) and contains more than one (1) serving, be in a
+container that is resealable in a manner to support multi-day use;
+(3) For HDCPs other than beverage products, be packaged in a single
+package, container, or cartridge that contains no more than the milligram
+equivalent of ten (10) servings, or two hundred fifty (250) milligrams of hemp-
+derived cannabinoids, in the aggregate, in a manner to be determined by the
+commission by rule; and
+(4) Be labeled with:
+(A) A list of ingredients and possible allergens and a nutritional
+fact panel;
+(B) A conspicuous warning statement having a minimum font size
+of 11-point font concerning the risk of impairment from consumption of the
+product, keeping the product out of the reach of children, and other
+warning information as required by rule of the commission;
+(C) If the product is ingestible, the amount of hemp-derived
+cannabinoid in each serving of the product, measured in milligrams;
+- 21 - 005509
+(D) The total amount of hemp-derived cannabinoid in the entire
+package, measured in milligrams;
+(E) The net weight of the product;
+(F) A quick response (QR) code that can be scanned to access a
+website providing the product's batch number, date received, date of
+testing completion, method of analysis for the testing report required
+under § 57-7-107, including information regarding results of the product's
+full-panel and potency tests conducted pursuant to § 57-7-107(a); and
+(G) An expiration date.
+(b) A person who obtains an HDCP that is sold at retail shall store any
+unconsumed portion of the product in its original packaging. It is a Class C
+misdemeanor offense for a person to violate this subsection (b).
+(c) A retailer or supplier of an HDCP shall not advertise, market, or offer for sale
+an HDCP by using, depicting, or signifying, in the labeling or design of the product or
+product packaging, or in advertising or marketing materials for the product, trade dress,
+trademarks, branding, or other related product imagery or scenery, characters, or
+symbols known to appeal primarily to persons under twenty-one (21) years of age,
+including, but not limited to, superheroes, comic book characters, video game
+characters, television show characters, movie characters, or unicorns or other mythical
+creatures.
+(d) An HDCP mixed or infused with, or otherwise used as an ingredient in beer
+or alcoholic beverages, must not be manufactured, sold, provided, or served to a
+consumer in this state and is otherwise strictly prohibited.
+(e) An HDCP must not be labeled or otherwise marketed to make any health-
+related claims, including, but not limited to, claims pertaining to diagnoses, cures, or
+mitigation or treatment of any human disease or other condition.
+(f) An ingestible HDCP containing a hemp-derived cannabinoid must not:
+- 22 - 005509
+(1) Be sold in a serving that contains more than twenty-five (25)
+milligrams, in the aggregate, of one (1) or more hemp-derived cannabinoids;
+(2) If the HDCP is a hemp-derived cannabinoid beverage product, be
+sold:
+(A) Except as provided in this subdivision (f)(2), in a container
+that contains more than two (2) servings;
+(B) In a container with a volume greater than seven hundred fifty
+milliliters (750 ml); or
+(C) In a concentration greater than two hundred fifty (250)
+milligrams, in the aggregate, of one (1) or more hemp-derived
+cannabinoids, per seven hundred fifty milliliters (750 ml) by volume; or
+(3) Be formed into the shape of an animal or cartoon character.
+(g) The commission may promulgate rules for the packaging, labeling, and
+display of HDCPs that are offered for sale in this state.
+57-7-111. Limitations on right to use hemp-derived cannabinoid — Rights of
+others.
+(a) This chapter does not permit a person to:
+(1) Undertake any task under the influence of a hemp-derived
+cannabinoid or HDCP when doing so would constitute negligence or professional
+malpractice; or
+(2) Operate, navigate, or be in actual physical control of a motor vehicle,
+aircraft, motorized watercraft, or any other vehicle while under the influence of a
+hemp-derived cannabinoid or HDCP.
+(b) This chapter does not require:
+(1) An employer to accommodate the use of hemp-derived cannabinoids
+or HDCPs in a workplace or an employee working while under the influence of a
+hemp-derived cannabinoid or an HDCP;
+- 23 - 005509
+(2) An individual or establishment in lawful possession of property to
+allow a guest, client, customer, or other visitor to use a hemp-derived
+cannabinoid or HDCP on or in that property; or
+(3) An individual or establishment in lawful possession of property to
+admit a guest, client, customer, or other visitor who is visibly impaired as a result
+of the person's use of a hemp-derived cannabinoid or HDCP.
+(c) This chapter does not exempt a person from prosecution for a criminal
+offense related to impairment or intoxication resulting from use of a hemp-derived
+cannabinoid or HDCP or relieve a person from any requirement under law to submit to a
+breath, blood, urine, or other test to detect the presence of a controlled substance.
+(d) This chapter does not:
+(1) Limit the ability of an employer to establish, continue, or enforce a
+drug-free workplace program or policy;
+(2) Create a cause of action against an employer for wrongful discharge
+or discrimination; or
+(3) Allow the possession, sale, manufacture, or distribution of any
+substance that is otherwise prohibited by title 39, chapter 17, part 4.
+57-7-112. Registration requirements for brands – Fees.
+(a) As used in this section, "brand" means each category and type of HDCP, as
+distinguishable to a consumer by supplier, name or trademark, brand or product line
+name or trademark, delivery system, or another distinction between HDCPs as
+promulgated by rule of the department of revenue or commission.
+(b) Each brand of HDCPs, distinguishable by category, type, and delivery
+system, must be separately registered with the department of revenue.
+(c)
+- 24 - 005509
+(1) A supplier shall not deliver any HDCPs to a wholesaler for distribution
+in this state unless each HDCP brand is registered by the supplier with the
+department of revenue.
+(2) A wholesaler or retailer shall not place an order for, receive, accept,
+or offer for sale an HDCP unless the HDCP brand is registered with the
+department of revenue.
+(d) The department of revenue shall prescribe a form for registering an HDCP
+brand with the department, which must include each wholesaler authorized to distribute
+the HDCP in this state and each county in this state in which the product is being sold at
+retail. The department may require a supplier to include with its submission of the
+registration form any supporting documents as deemed necessary by the department for
+registration of an HDCP brand.
+(e) The department of revenue shall collect from the supplier an annual brand
+registration fee of three hundred dollars ($300) per HDCP brand registered with the
+department.
+57-7-113. Direct-to-consumer shipping and delivery services unlawful.
+(a) It is unlawful for a person or entity:
+(1) From within or outside of this state, to ship an HDCP directly to a
+consumer; or
+(2) To utilize a delivery service to deliver an HDCP to a consumer.
+(b) A person or entity that violates subsection (a) is subject to a civil penalty
+levied by the commission of:
+(1) One thousand dollars ($1,000) for a first offense;
+(2) Five thousand dollars ($5,000) for a second offense; and
+(3) Ten thousand dollars ($10,000) for a third or subsequent offense.
+57-7-114. Unlawful to manufacture, cultivate, produce, or sell certain
+cannabinoids.
+- 25 - 005509
+(a) It is an offense to manufacture, cultivate, produce, or sell in this state:
+(1) Hemp or hemp plant parts which contain a THCa concentration in
+excess of one-tenth of one percent (0.1%) on a dry weight basis;
+(2) Any derivative of hemp or an HDCP that contains THCa;
+(3) Hemp, hemp plant parts, a derivative of hemp, HDCPs, or another
+product that contains a total THC concentration, or a total theoretical THC
+concentration, in excess of three-tenths of one percent (0.3%) on a dry weight
+basis;
+(4) A synthetic cannabinoid, or an HDCP or any other product, which
+contains a synthetic cannabinoid; or
+(5) A derivative of hemp or an HDCP that contains
+Tetrahydrocannabiphorol (THCp).
+(b) A person who violates subsection (a) commits a Class A misdemeanor.
+(c) As used in this section:
+(1) "Total THC" means a combination of tetrahydrocannabinol,
+tetrahydrocannabinolic acid, a THC component, or a derivative thereof; and
+(2) "Total theoretical tetrahydrocannabinol content" or "total theoretical
+THC" is the maximum amount of possible delta-9 tetrahydrocannabinol if total
+conversion were to occur, calculated as the sum of the concentration of delta-9
+tetrahydrocannabinol added to the amount of tetrahydrocannabinolic acid after
+such amount is multiplied by eight hundred seventy-seven ten-thousandths
+(0.877) on a dry weight basis and reported to two significant figures, and
+expressed in mathematical formula as follows:
+Total theoretical THC = ([delta 9 THC] + ([THCa] x 0.877))
+57-7-115. Authority to promulgate rules.
+- 26 - 005509
+The commission and department of revenue are authorized to promulgate rules
+to effectuate this chapter in accordance with the Uniform Administrative Procedures Act,
+compiled in title 4, chapter 5.
+57-7-116. Applicability of chapter with conflicting provisions of law.
+This chapter governs the manufacturing, distribution, and sale of HDCPs, and to
+the extent that a provision of this code conflicts with this chapter, the applicable
+provisions of this chapter prevail. Notwithstanding this chapter, the manufacture,
+distribution, and sale of HDCPs must comply with all other applicable state laws and
+rules.
+
+Section 7:
+SECTION 3. Tennessee Code Annotated, Section 67-6-232, is amended by deleting the
+
+Section 8:
+section and substituting:
+(a) For the exercise of the privilege of engaging in the business of selling hemp-
+derived cannabinoid products (HDCPs), as defined in § 57-7-102, in this state pursuant
+to title 57, chapter 7, there is levied an additional tax at the rate of six percent (6%) of the
+sales price of HDCPs when sold at retail in this state.
+(b) The tax levied under this section is due and payable monthly on the first day
+of each month, and for the purpose of ascertaining the amount of tax payable under this
+
+Section 9:
+section, all retailers making taxable sales on or before the twentieth day of each month
+shall transmit to the commissioner of revenue, upon forms prescribed by the
+commissioner, returns showing gross sales during the preceding month.
+(c) All revenue generated from the tax levied pursuant to subsection (a) must be
+deposited into a special account in the state general fund, with fifty percent (50%) being
+allocated to the department of revenue and fifty percent (50%) being allocated to the
+alcoholic beverage commission. Unused funds remaining in the account at the end of a
+fiscal year must not revert to the general fund but must be carried forward and remain
+available for distribution in accordance with this section.
+- 27 - 005509
+
+Section 10:
+SECTION 4. Tennessee Code Annotated, Section 57-3-404(e)(4)(Q), is amended by
+deleting the subdivision.
+
+Section 11:
+SECTION 5. Tennessee Code Annotated, Section 53-11-451, is amended by deleting
+from subsection (b) the language "forfeiture under title 43, chapter 27, part 2" and substituting
+"forfeiture or seizure under § 57-7-103(a)(2)", and is further amended by deleting subdivision
+(a)(8) and substituting:
+(8) All products containing a hemp-derived cannabinoid that are manufactured,
+produced, wholesaled, sold, or offered for sale by a person or entity in violation of § 57-
+7-103(a)(1).
+
+Section 12:
+SECTION 6. Tennessee Code Annotated, Section 39-17-1507(a), is amended by
+deleting the language:
+It is unlawful for any person to sell tobacco, smoking hemp, vapor products, or
+smokeless nicotine products through a vending machine unless the vending machine is
+located in any of the following locations:
+and substituting:
+It is unlawful for a person to sell smoking hemp and hemp derived cannabinoid products
+through a vending machine. It is unlawful for a person to sell tobacco, vapor products,
+or smokeless nicotine products through a vending machine unless the vending machine
+is located in any of the following areas:
+
+Section 13:
+SECTION 7. Tennessee Code Annotated, Section 39-17-1509, is amended by deleting
+the language "smoking hemp," wherever it may appear, and is further amended by adding the
+following new subsection (g):
+(g) Notwithstanding this part to the contrary, the alcoholic beverage commission
+and department of revenue have administrative oversight of hemp derived cannabinoid
+products, including inspections and the assessment of civil penalties, in accordance with
+title 57, chapter 7.
+- 28 - 005509
+
+Section 14:
+SECTION 8. Tennessee Code Annotated, Section 57-1-210, is amended by deleting the
+
+Section 15:
+section and substituting:
+In addition to the other duties imposed under this title, the commission is
+authorized to investigate and to arrest any person whom the arresting officer has
+probable cause to believe is committing or attempting to commit any crime occurring on
+premises licensed under this title or arising from any investigation of violations under this
+title whether such violations would be criminal or regulatory in nature or committed
+within, or outside of, a premises licensed under this title. The commission may issue
+subpoenas to compel the attendance of witnesses and the production of relevant books,
+accounts, records, and documents for the purpose of carrying out the duties of the
+commission.
+
+Section 16:
+SECTION 9. Notwithstanding this act to the contrary, a license issued pursuant to
+Tennessee Code Annotated, Title 43, Chapter 27, Part 2, before the effective date of this act
+remains valid and in full force until the expiration of the license. Such license and license holder
+are subject to Tennessee Code Annotated, Title 43, Chapter 27, Part 2, as it existed prior to the
+effective date of this act, until the expiration of the license.
+
+Section 17:
+SECTION 10. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+
+Section 18:
+SECTION 11. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 19:
+SECTION 12.
+(a) For purposes of promulgating rules and carrying out administrative duties
+necessary to effectuate this act, this act takes effect upon becoming a law, the public
+welfare requiring it.
+- 29 - 005509
+(b) For all other purposes, this act takes effect January 1, 2026, the public
+welfare requiring it.
+- 30 - 005509
+[DELETED:  a HSS5(]
+[DELETED:  -0]
+[DELETED:  -0(]
+[DELETED:  -0((]
+[DELETED:  -05((((]
+[DELETED:  -0(]
+[DELETED:  -0]
+[DELETED:  -0(]
+[DELETED:  -0((]
+[DELETED:  -0(())((]
+[DELETED:  -0(((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((()()()()]
+[DELETED:  -0((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((]
+[DELETED:  -0]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((]
+[DELETED:  -0((((]
+[DELETED:  -0((((]
+[DELETED:  -0(((((5((]
+[DELETED:  -0((5((((((5]
+[DELETED:  -0((((]
+[DELETED:  -0(((]
+[DELETED:  -0SS(]
+[DELETED:  -0IS]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+House Commerce 1
+Amendment No. 2 to HB1376
+Vaughan
+Signature of Sponsor
+AMEND S e n ate Bill No. 1413* House Bill No. 1376
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 43, Chapter 27, Part 2, is amended by
+deleting the part.
+SECTION 2. Tennessee Code Annotated, Title 57, is amended by creating the following
+new chapter:
+57-7-101. Purpose.
+The purpose of this chapter is to regulate the sale and distribution of hemp-
+derived cannabinoid products. It is the intent of general assembly that the manufacture,
+sale, and distribution of hemp-derived cannabinoid products is strictly prohibited unless
+specifically provided for in this chapter. In acknowledging that the products regulated in
+this chapter may be intoxicating, the regulation and control of such products in this state
+are in the interest of public health and safety through ensuring proper age verification
+and the state's ability to efficiently enforce the requirements and restrictions contained in
+this chapter.
+57-7-102. Chapter definitions.
+As used in this chapter, unless the context otherwise requires:
+(1) "Batch" means a single stock-keeping unit with common cannabinoid
+input or a hemp flower of the same varietal and harvested on the same date and
+manufactured during a defined cycle in such a way that it could be expected to
+be of a uniform character and should be designated as such;
+HA0095
+005509
+- 1 -
+
+(2) "Dry weight" means the weight of plant material with a moisture
+content that does not exceed thirteen percent (13%);
+(3) "Hemp-derived cannabinoid":
+(A) Means:
+(i) A cannabinoid other than delta-9 tetrahydrocannabinol,
+or an isomer derived from such cannabinoid, that is derived from
+hemp in a concentration of more than one-tenth of one percent
+(0.1%); or
+(ii) A hemp-derived product containing delta-9
+tetrahydrocannabinol in a concentration of three-tenths of one
+percent (0.3%) or less on a dry weight basis;
+(B) Includes, but is not limited to:
+(i) Delta-8 tetrahydrocannabinol;
+(ii) Delta-10 tetrahydrocannabinol;
+(iii) Hexahydrocannabinol; and
+(iv) Tetrahydrocannabivarin (THCv); and
+(C) Does not include:
+(i) Cannabichromene (CBC/CBCa/CBCv);
+(ii) Cannabicitran (CBT/CBTa);
+(iii) Cannabicyclol (CBL/CBLa);
+(iv) Cannabidiol (CBD/CBDa/CBDv/CBDp);
+(v) Cannabielsoin (CBE/CBEa);
+(vi) Cannabigerol (CBG/CBGa/CBGv/CBGm);
+(vii) Cannabinol (CBN/CBNa);
+(viii) Cannabivarin (CBV/CBVa);
+(ix) Hemp-derived feed products allowed under title 44,
+chapter 6;
+- 2 - 005509
+
+(x) Hemp-derived fiber, grain, or stalk; provided, that the
+product does not contain a hemp-derived cannabinoid in a
+concentration of more than one-tenth of one percent (0.1%);
+(xi) Tetrahydrocannabinolic acid (THCa);
+(xii) Tetrahydrocannabiphorol (THCp);
+(xiii) A synthetic cannabinoid; or
+(xiv) A substance that is categorized as a Schedule I
+controlled substance on or after July 1, 2023, including a
+substance that may be identified in subdivision (3)(B);
+(4) "Hemp-derived cannabinoid product" or "HDCP":
+(A) Means a product that contains or that is labeled as containing
+a hemp-derived cannabinoid and that is produced, marketed, or otherwise
+intended to be ingested orally, inhaled, or absorbed through the skin, and
+that may contain a hemp-derived cannabinoid that is extracted from hemp
+plants or hemp plant parts; and
+(B) Includes:
+(i) Intermediate products intended for subsequent use as
+a component in a later finished HDCP; and
+(ii) Except as excluded under subdivision (3)(C)(x),
+harvested hemp plant parts, otherwise known as hemp flower;
+(5) "Manufacture" means to compound, blend, extract, infuse, cook, or
+otherwise make or prepare HDCPs, including the processes of extraction,
+infusion, packaging, repackaging, labeling, and relabeling of HDCPs;
+(6) "Proof of age" means a valid driver license or other government-
+issued identification card that contains a photograph of the person and confirms
+the person's age as twenty-one (21) years of age or older;
+- 3 - 005509
+
+(7) "Retailer" means a person or entity that sells, markets, or advertises
+as a seller, provides samples with or without a fee or charge, or otherwise
+distributes to the public, with or without compensation, HDCPs for consumption
+and not for resale;
+(8) "Serving" means a quantity of an HDCP reasonably suitable for a
+single person's daily use;
+(9) "Supplier" means a person or entity that manufactures hemp-derived
+cannabinoids or HDCPs or contracts for the manufacture of hemp-derived
+cannabinoids or HDCPs, whether located inside or outside of this state, and that
+sells finished, packaged HDCPs to wholesalers licensed under this chapter for
+resale and not for consumption;
+(10) "Synthetic cannabinoid" means a substance with an identical or
+substantially similar chemical structure to or the pharmacological activity of a
+cannabinoid, but that is not extracted or derived from hemp plants, or hemp plant
+parts and is instead created or produced by chemical or biochemical synthesis;
+(11) "Tetrahydrocannabinolic acid" or "THCa" is the precursor of delta-9
+THC;
+(12) "THC" means a tetrahydrocannabinol, tetrahydrocannabinolic acid, a
+THC component, or any derivative thereof;
+(13) "THC component" means a naturally occurring cannabinoid
+component of industrial hemp or hemp; and
+(14) "Wholesaler" means a person or entity that purchases finished and
+packaged for consumption HDCPs, not considered intermediate products still in
+the pre-packaging stage, from suppliers licensed under this chapter, or from
+other wholesalers licensed under this chapter, and that sells HDCPs for resale
+and not for consumption.
+- 4 - 005509
+
+57-7-103. License required for manufacturing, producing, or selling hemp-derived
+cannabinoid products — Offenses and penalties.
+(a)
+(1) It is an offense for a person or entity to engage in the business of
+manufacturing, the wholesale distribution of, or selling HDCPs in this state
+without a valid license required by this chapter.
+(2) An HDCP that is manufactured, produced, wholesaled, sold, or
+offered for sale in violation of subdivision (a)(1) is subject to seizure in the same
+manner as beer pursuant to chapter 5, part 4 of this title.
+(b)
+(1) It is an offense to knowingly sell or distribute an HDCP without having
+first obtained proof of age from the purchaser or recipient.
+(2) It is an offense for a person to knowingly sell or distribute an HDCP to
+a person who is under twenty-one (21) years of age or to purchase an HDCP on
+behalf of a person who is under twenty-one (21) years of age.
+(3) It is an offense for a person to knowingly assist a person who is under
+twenty-one (21) years of age to purchase, acquire, receive, or attempt to
+purchase an HDCP.
+(4) It is an offense for a person who is under twenty-one (21) years of
+age to knowingly purchase, possess, or accept receipt of an HDCP or to
+knowingly present purported proof of age that is false, fraudulent, or not actually
+that person's proof of age for the purpose of purchasing or receiving an HDCP.
+(5) For purposes of enforcing this chapter, this subsection (b) does not
+preclude commission or law enforcement efforts involving:
+(A) The use of a minor if the minor's parent or legal guardian has
+consented to assisting the commission or law enforcement; or
+- 5 - 005509
+
+(B) The use of a person under twenty-one (21) years of age who
+is not a minor if the individual has consented to assisting the commission
+or law enforcement.
+(6) It is an offense to knowingly distribute samples of HDCPs in or on a
+public street, sidewalk, or park.
+(7) It is an offense for a supplier, wholesaler, or retailer to knowingly
+employ a person under eighteen (18) years of age for the physical manufacture,
+storage, sale, or distribution of HDCPs, or to knowingly permit any such
+underage person on the premises of its place of business to engage in the
+manufacture, storage, sale, or distribution of HDCPs.
+(c) A violation of this section is a Class A misdemeanor.
+(d) Notwithstanding this chapter to the contrary and except as provided in § 57-
+7-105, state and local law enforcement officers have concurrent jurisdiction with the
+commission to enforce violations of this section and § 57-7-104.
+57-7-104. Maintenance of hemp-derived cannabinoid products in retail
+establishments — Violations.
+(a) As used in this section, "barrier" means the point of purchase having an
+actual physical separation between HDCPs on display and the consumer at a retail
+establishment or another designated area of the retail establishment that is inaccessible
+to the consumer and that requires assistance from a retail clerk in order to access and
+purchase HDCPs.
+(b) HDCPs may be sold at retail in the following locations:
+(1) An establishment that limits entry into the premises to individuals who
+are twenty-one (21) years of age or more;
+(2) An establishment that holds a valid license issued by the commission
+pursuant to § 57-4-102. An establishment that qualifies under this subdivision
+(b)(2) may only sell HDCPs in a quantity and manner intended for on-premise
+- 6 - 005509
+
+consumption while present at the establishment in accordance with rules of the
+commission;
+(3) An establishment that holds a valid license issued by the commission
+pursuant to § 57-3-204; or
+(4) An establishment owned or leased by a licensee that holds a valid
+supplier license, wholesale license, and retail license for the same location where
+HDCPs will be manufactured and sold at retail, or an establishment owned or
+leased by a licensee that holds a valid supplier license and retail license for the
+same location where HDCPs will be manufactured and sold, and that has
+contracted with a wholesale licensee for remitting the tax levied under § 57-7-108
+and for the wholesale distribution of the supplier's products. For the products
+that are manufactured on the supplier's licensed premises and that are sold at
+retail on the supplier's licensed premises, if all requirements of this section have
+been met, a supplier is not required to have the products that it manufactures
+and sells at retail on its licensed premises warehoused by the supplier's
+contracted wholesale licensee.
+(c) Signage must be displayed in all areas where HDCPs are displayed, in a
+manner to be determined by the commission, clearly advising and warning the consumer
+that the HDCPs on display may have intoxicating effects and cause impairment. HDCPs
+may only be displayed in an area of the retail establishment that is constantly visible to a
+retail licensee employee. An HDCP in this state must not be dispensed by or sold via
+the use of a self-checkout retail system or vending machine.
+(d) An HDCP must be maintained by a retailer behind a barrier unless the HDCP
+is a hemp-derived cannabinoid beverage product having a minimum container size of
+twelve (12) fluid ounces.
+(e) A violation of this section is a Class A misdemeanor.
+- 7 - 005509
+
+57-7-105. Responsibilities of the commission — Responsibilities of the
+department of revenue — Annual reports.
+(a) The commission shall:
+(1) Issue licenses to suppliers, wholesalers, and retailers under this
+chapter;
+(2) Oversee the manufacture of HDCPs by licensed suppliers and the
+distribution of HDCPs by licensed wholesalers, including ensuring compliance
+with labeling, product testing, and transportation requirements, and conducting
+necessary inspections of HDCPs and HDCP proof of compliance documentation
+at the facility of licensed wholesalers in a frequency and in a manner to be
+determined by the commission, prior to the delivery or sale of HDCPs to a
+retailer;
+(3) Oversee the retail sale of HDCPs by licensed retailers to ensure
+compliance with this chapter;
+(4) Enforce this chapter in a manner that may reasonably be expected to
+reduce the extent to which noncompliant HDCPs are sold and conducting
+random, unannounced inspections at locations where HDCPs are manufactured,
+stored for wholesale distribution, and sold at retail to ensure compliance with this
+chapter in furtherance of protecting the health and safety of the public. The
+commission shall determine the frequency of random, unannounced inspections
+required under this subdivision (a)(4); and
+(5) Hire a sufficient number of employees, as determined by the
+commission, to oversee the day to day operations and management of the
+supervision and enforcement of this chapter and the rules of the commission.
+The commission shall establish the salaries of the employees hired under this
+subdivision (a)(5) and such employees serve at the pleasure of the commission.
+(b) The department of revenue:
+- 8 - 005509
+
+(1) Shall ensure wholesalers and retailers are in compliance with this
+chapter and applicable tax provisions under title 67, including §§ 57-7-108 and
+67-6-232;
+(2) Shall, in conjunction with the commission, enforce this chapter in a
+manner that may reasonably be expected to reduce the extent to which
+noncompliant HDCPs are sold and shall conduct random, unannounced
+inspections at wholesale locations where HDCPs are stored for distribution and
+retail locations where such products are sold to ensure compliance with this
+chapter. The department of revenue shall determine the frequency of random,
+unannounced inspections required under this subdivision (b)(2); and
+(3) May, in conjunction with the commission, confiscate noncompliant
+HDCPs as contraband in the manner described in title 57, chapter 5, part 4. All
+products that the department of revenue confiscates under this subdivision (b)(3)
+are subject to seizure and forfeiture in the same manner prescribed for beer in §§
+57-5-409 and 57-5-410.
+(c) The commission and department of revenue shall submit an annual report to
+the general assembly describing in detail the commission's and department's
+compliance and enforcement efforts under this chapter. The report must also be
+published and made available to the public on the commission's and department's
+websites, respectively. The report must be submitted and published no later than July 1,
+2027, and each July 1 thereafter.
+57-7-106. License to produce or sell cannabinoid products — License
+requirements — Prohibited retail locations — Authority of the commission.
+(a) A person or entity that is in the business of manufacturing, distributing, or
+selling HDCPs in this state, including as a supplier, wholesaler, or retailer, must obtain a
+license from the commission authorizing the person or entity to engage in that business
+prior to the commencement of business. If a person or entity holds multiple licenses
+- 9 - 005509
+
+under this chapter, the person or entity shall maintain the business conducted under
+each license on a separately designated premises or in wholly separate facilities in a
+manner to be determined by the commission by rule.
+(b)
+(1) In order to obtain and maintain a supplier or retailer license under
+subsection (a), a person or entity must:
+(A) Submit to the commission information promulgated by rules
+as necessary for the efficient enforcement of this chapter;
+(B) Pay to the commission:
+(i) A non-refundable application fee of five hundred dollars
+($500) per application; and
+(ii) Upon approval, an annual license fee of:
+(a) For a retailer, one thousand dollars ($1,000),
+and an additional annual license fee of one thousand
+dollars ($1,000) for each additional location in this state;
+and
+(b) For a supplier, two thousand five hundred
+dollars ($2,500), and an additional annual license fee of
+two thousand five hundred dollars ($2,500) for each
+additional location in this state;
+(C) Consent to reasonable inspection by the commission and
+department of revenue, and sampling and testing by the commission, as
+applicable, of the person's inventory of HDCPs;
+(D) Submit to a criminal history background check that includes
+fingerprint checks against state and federal criminal records maintained
+by the Tennessee bureau of investigation and the federal bureau of
+investigation; and
+- 10 - 005509
+
+(E) If the supplier is located out of state, remain in compliance
+with the applicable governing laws, rules, and regulations of the
+jurisdiction where the supplier is located.
+(2) A person is not eligible to hold a direct or indirect interest in a supplier
+or retailer license while serving a sentence for, or for ten (10) years following the
+date of conviction of, a drug-related felony offense in any state, territory of the
+United States, or federal jurisdiction.
+(3)
+(A) An applicant for a license as a retailer with a proposed retail
+location that is within one thousand feet (1,000') of a private school, public
+school, or charter school that serves any grade from kindergarten through
+grade twelve (K-12) shall not sell HDCPs at such location unless the
+applicant provides the commission with documentation that establishes
+that HDCPs were being offered for sale at retail at such location on
+December 31, 2023.
+(B) The commission shall accept business records, photographs,
+and video recordings as documentation for purposes of determining
+whether an applicant qualifies for the exception in subdivision (b)(3)(A).
+(C) For the purposes of subdivision (b)(3)(A), measurements
+must be made in a straight line in all directions, without regard to
+intervening structures or objects, from the nearest point on the property
+line of a parcel containing a retail establishment to the nearest point on
+the property line of a parcel containing a private school, public school, or
+charter school that serves any grade from kindergarten through grade
+twelve (K-12).
+(4) The shipping of HDCPs directly to a retail licensee in this state or
+directly to a consumer in this state is strictly prohibited.
+- 11 - 005509
+
+(5) All sales of HDCPs and transfers of product from a retailer to
+consumer must take place at a licensed retail location in a face-to-face
+transaction. The delivery of HDCPs to consumers, directly or indirectly, is strictly
+prohibited.
+(c) A supplier or retailer license issued pursuant to this section is valid for a
+period of one (1) year and may be renewed annually. The commission shall charge an
+annual renewal fee equal to the initial licensing fee.
+(d) The commission may:
+(1) Determine requirements for and issue licenses for the manufacture or
+sale of HDCPs in this state; and
+(2) Deny or revoke supplier or retailer licenses and issue civil penalties in
+the following manner for each violation of this chapter, or a rule promulgated
+pursuant to this chapter:
+(A) One thousand dollars ($1,000) for a first violation;
+(B) Two thousand five hundred dollars ($2,500) for a second
+violation that occurs within two (2) years of the first violation;
+(C) Five thousand dollars ($5,000) for a third violation that occurs
+within two (2) years of the first violation;
+(D) Revocation of the license for a fourth violation that occurs
+within two (2) years of the first violation; and
+(E) Require retraining of all employees of the licensee under the
+supervision of the commission in addition to the civil penalties imposed
+pursuant to subdivisions (d)(2)(A)-(C).
+(e) The revenue collected from fees established under subdivision (b)(1)(B) must
+be deposited with the state treasurer to be earmarked for and allocated to the
+commission and used exclusively for the administration of this title.
+(f)
+- 12 - 005509
+
+(1) In order to obtain and maintain a wholesaler license under subsection
+(a), a person or entity shall:
+(A) Submit to the commission information included in this
+subsection (f) and as promulgated by rule of the commission pertaining to
+warehouse location, security measures, and as necessary for the efficient
+enforcement of this chapter, including, but not limited to:
+(i) Name of the applicant;
+(ii) Date of birth of each applicant, or each owner of the
+applicant, if the applicant is a legal entity;
+(iii) Proof of registration or incorporation in this state for an
+applicant that is a legal business entity authorized to engage in
+business in this state;
+(iv) Contact information for each applicant, including the
+name of the person legally responsible for each applicant's
+operations, telephone number, email address, and address of
+principal place of business;
+(v) Address of location to be licensed;
+(vi) A detailed description of the square footage and
+dimensions of the warehouse space, including a description of
+how the product will be received, inventoried, stored, and
+packaged, as applicable;
+(vii) A detailed description of how records will be stored
+and kept in a secure manner, and how the applicant will conduct
+its review of all aspects of the compliance requirements contained
+in this chapter and as set forth by the commission as it pertains to
+HDCPs;
+- 13 - 005509
+
+(viii) An identity history summary issued by the federal
+bureau of investigation for the person identified as legally
+responsible for the management of each applicant's operations;
+(ix) Designation, if applicable, of each authorized
+representative of the applicant; and
+(x) Other information as required by the commission;
+(B) Pay to the commission:
+(i) A nonrefundable application fee of five hundred dollars
+($500) per application; and
+(ii) Upon approval, an annual license fee of five thousand
+dollars ($5,000) per application, per warehouse location;
+(C) Consent to reasonable inspection and sampling by the
+commission or the department of revenue, as applicable, of the person's
+inventory of HDCPs;
+(D) Submit to a criminal history background check that includes
+fingerprint checks against state and federal criminal records maintained
+by the Tennessee bureau of investigation and the federal bureau of
+investigation; and
+(E) Submit proof of the following:
+(i) The applicant has secured or is readily able to secure a
+warehouse located in this state, which meets all local
+requirements for the applicant's specific use of the property, with a
+minimum size of one thousand square feet (1,000 sq. ft.) that is
+not also being used for the cultivation, manufacture, laboratory
+testing, or the retail sale of hemp, hemp-derived products other
+than HDCPs, or HDCPs. Other products regulated by the
+commission may be stored in the same areas as HDCPs;
+- 14 - 005509
+
+provided, that all required federal, state, and local licenses,
+permits, and other requirements are satisfied for the storage of
+such products;
+(ii) Certificate of occupancy or other proof of approval from
+the local jurisdiction for the applicant's intended use;
+(iii) Detailed business plan, including details pertaining to
+the applicant's investment in the business and the capital required
+to start the business;
+(iv) Proof that the applicant possesses the financial
+capacity necessary to engage in the warehousing and distribution
+of HDCPs in a manner to be determined by the commission,
+documenting access to a minimum of seven hundred fifty
+thousand dollars ($750,000), that must be proven by providing the
+following documentation:
+(a) Certified business or personal financial
+statements; and
+(b) Checking or savings bank statements or
+statements from money market or brokerage accounts;
+provided, funds are readily convertible to cash; and
+(v) If an applicant has obtained a loan as proof of financial
+capacity under subdivision (f)(1)(E)(iv):
+(a) Proof of the loan approval from a bank or
+another insured depository institution or lender deemed
+acceptable by the commission; or
+(b) Proof of the loan approval from a private lender
+via executed loan documents and sufficient proof of funds
+in a manner to be determined by the commission;
+- 15 - 005509
+
+provided, that the private lender and its individual owners
+or principals must be disclosed in the application as an
+owner of the applicant.
+(2) A person is not eligible to hold a direct or indirect interest in a
+wholesaler license while serving a sentence for, or for ten (10) years following
+the date of conviction of, a drug-related felony offense in any state, territory of the
+United States, or federal jurisdiction.
+(3) A wholesaler license issued pursuant to this section is valid for a
+period of one (1) year and may be renewed annually. The commission shall
+charge an annual renewal fee equal to the initial licensing fee, unless otherwise
+determined by the commission.
+(4) Wholesaler licensees must receive preapproval from the commission
+for any changes in ownership, control, or otherwise of the legal entity of the
+license holder.
+(5) Wholesaler licensees shall notify the commission of any changes to
+the contents of their application on file and that do not otherwise require
+preapproval, as determined by the commission, within thirty (30) days after the
+change takes place, including any change of contact information or changes to
+the warehouse premises.
+(6) The commission may deny the issuance or renewal of an application
+for a wholesaler license for an applicant that has not fully complied with this
+section.
+(7) Persons who warehouse and distribute HDCPs are subject to all rules
+of the commission applicable to the type of product sold, including, but not limited
+to, all applicable federal and state laws, rules, and regulations. HDCPs are
+excluded from all regulatory exemptions, including, but not limited to, those
+exemptions prescribed by § 53-1-118.
+- 16 - 005509
+
+(8) The revenue collected from fees established under this subsection (f)
+must be deposited with the state treasurer to be earmarked for and allocated to
+the commission and used exclusively for the administration of this title.
+(9) A wholesaler that violates a provision of this chapter is subject to the
+same penalties as a supplier or retailer under subdivision (d)(2).
+(g) Supplier, wholesaler, and retailer licenses issued under this section are not
+transferable from person to person or location to location.
+(h) A supplier, wholesaler, and retailer license issued under this section expires
+in accordance with rules promulgated by the commission establishing a schedule for
+licensure expiration. An applicant for renewal must submit with the application for
+renewal the annual license fee, an updated identity history summary, and any other
+information required by the commission by rule, as applicable.
+57-7-107. Product testing requirements — Commission maintenance of list of
+qualified testing laboratories.
+(a) Testing of products and substances must be conducted as follows:
+(1) Full-panel testing on all active cannabinoid molecules must be
+conducted prior to final production of HDCPs; and
+(2) A potency test must be conducted on finished goods to confirm
+potency is consistent with stated potency on the packaging.
+(b)
+(1) A supplier must contract with a third-party laboratory to provide the
+testing required by subsection (a).
+(2) A supplier shall certify to the commission that all HDCPs provided by
+the supplier are in compliance with all requirements of this chapter. The manner
+of certification may be established by rule of the commission.
+- 17 - 005509
+
+(3) The commission is authorized to promulgate rules specifying which
+types of tests may be used to satisfy the requirements of subsection (a) and the
+qualifications for laboratories from which the commission will accept test results.
+(c) Each batch manufactured must undergo testing and obtain a certificate of
+analysis by a third-party laboratory qualified under subsection (b).
+(d) The commission shall:
+(1) Promulgate rules specifying pass and fail action levels for safety and
+toxicity with respect to the testing required by subsection (a);
+(2) Maintain and post on its website a registry of testing laboratories that
+are qualified to test intermediate manufactured material and finished HDCPs;
+(3) Develop an application and process by which qualifying laboratories
+are listed on the commission's website. The application submitted by a
+potentially qualifying laboratory must include a sample certificate of analysis
+issued by the applying laboratory; and
+(4) Sample and analyze HDCPs produced, distributed, and offered for
+sale in this state for cannabinoid concentrations, tested according to protocols
+promulgated by rule of the commission. Commission testing must be conducted
+by post-decarboxylation to determine a cannabinoid profile of samples tested,
+including their THC concentrations. As used in this subdivision (d)(4), "post-
+decarboxylation" means the quantification by percentage of the resulting
+tetrahydrocannabinol of a sample if carboxyl groups are removed from all
+molecules containing tetrahydrocannabinol within the sample.
+57-7-108. Wholesale tax levy – Enforcement – Disposition of collections.
+(a) There is imposed a tax upon the sale of HDCPs at wholesale in the amount
+of one cent (1¢) per milligram of hemp-derived cannabinoid in each HDCP sold at
+wholesale in this state. The tax imposed under this subsection (a) must be paid monthly
+by the wholesaler upon the amount of milligrams of hemp-derived cannabinoid sold by
+- 18 - 005509
+
+the wholesaler during the preceding month to the department of revenue, fifty percent
+(50%) of which tax must be distributed to the commission in accordance with subsection
+(c).
+(b) For the purpose of enforcing this chapter and ascertaining the amount of tax
+due under this section, each wholesaler shall, on or before the fifteenth day of each
+month, file a report with the commissioner upon forms prescribed, prepared, and
+furnished by the commissioner showing information relative to sales and disposition of
+all HDCPs and such other related information as the commissioner may require.
+(c) All moneys collected under this section must be turned over to the state
+treasurer for deposit in the general fund, to be distributed as follows:
+(1) Fifty percent (50%) to be appropriated for local road infrastructure
+projects to the several incorporated municipalities within this state to be allocated
+and distributed to such municipalities monthly by the commissioner of finance
+and administration, in proportion to the population of each municipality compared
+to the aggregate population of all municipalities within the state, according to the
+2020 federal census or a subsequent federal census. Municipalities incorporated
+subsequent to the last decennial federal census shall, until the next decennial
+federal census, be eligible for an allotment, commencing on July 1, following
+incorporation and the election and swearing in of municipal officials, on a
+population basis determined under regulations of the department of economic
+and community development and certified by the department to the
+commissioner of finance and administration; provided, that an accurate census of
+population has been certified to the department of economic and community
+development by the municipality; and
+(2) Fifty percent (50%) to be appropriated for use by the commission in
+the enforcement of this title.
+- 19 - 005509
+
+57-7-109. Transportation of hemp-derived cannabinoid products — Required
+documentation — Exceptions.
+(a) Except as provided in subsection (b), a person transporting HDCPs into,
+within, or through this state shall carry:
+(1) Documentation sufficient to prove that the products being shipped or
+transported:
+(A) Were produced from hemp that was lawfully produced under
+a state or tribal hemp plan approved by the United States department of
+agriculture, under a hemp license issued by the United States department
+of agriculture, or otherwise in accordance with federal regulations through
+the state or territory of the Indian tribe, as applicable; and
+(B) Do not exceed the cannabinoid limits for hemp-derived
+cannabinoids; and
+(2) A bill of lading that includes:
+(A) Name and address of the owner of the products;
+(B) Point of origin;
+(C) Point of delivery, including name and address;
+(D) Kind and quantity of packages or, if in bulk, the total quantity
+of products in the shipment; and
+(E) Date of shipment.
+(b) Subsection (a) does not apply to a person in possession of HDCPs that were
+purchased from a retailer that is licensed under this chapter.
+57-7-110. Safety requirements for hemp-derived cannabinoid products — Proper
+storage by consumer — Prohibited advertising.
+(a) An HDCP that is sold at retail must:
+- 20 - 005509
+
+(1) Satisfy the child-resistant effectiveness standards under 16 CFR
+1700.15(b)(1) when tested in accordance with the requirements of 16 CFR
+1700.20;
+(2) Notwithstanding subdivision (a)(1), if the HDCP:
+(A) Is a beverage product other than such product described in
+subdivision (a)(2)(B), utilize a traditional pull-tab, an aluminum can device
+currently approved for soft drinks and malt beverages, or a screw-top or
+cork-style cap used for containers of wine and other alcoholic beverage
+products; or
+(B) Is in a container with a capacity of less than seven hundred
+fifty milliliters (750 ml) and contains more than one (1) serving, be in a
+container that is resealable in a manner to support multi-day use;
+(3) For HDCPs other than beverage products, be packaged in a single
+package, container, or cartridge that contains no more than the milligram
+equivalent of ten (10) servings, or two hundred fifty (250) milligrams of hemp-
+derived cannabinoids, in the aggregate, in a manner to be determined by the
+commission by rule; and
+(4) Be labeled with:
+(A) A list of ingredients and possible allergens and a nutritional
+fact panel;
+(B) A conspicuous warning statement having a minimum font size
+of 11-point font concerning the risk of impairment from consumption of the
+product, keeping the product out of the reach of children, and other
+warning information as required by rule of the commission;
+(C) If the product is ingestible, the amount of hemp-derived
+cannabinoid in each serving of the product, measured in milligrams;
+- 21 - 005509
+
+(D) The total amount of hemp-derived cannabinoid in the entire
+package, measured in milligrams;
+(E) The net weight of the product;
+(F) A quick response (QR) code that can be scanned to access a
+website providing the product's batch number, date received, date of
+testing completion, method of analysis for the testing report required
+under § 57-7-107, including information regarding results of the product's
+full-panel and potency tests conducted pursuant to § 57-7-107(a); and
+(G) An expiration date.
+(b) A person who obtains an HDCP that is sold at retail shall store any
+unconsumed portion of the product in its original packaging. It is a Class C
+misdemeanor offense for a person to violate this subsection (b).
+(c) A retailer or supplier of an HDCP shall not advertise, market, or offer for sale
+an HDCP by using, depicting, or signifying, in the labeling or design of the product or
+product packaging, or in advertising or marketing materials for the product, trade dress,
+trademarks, branding, or other related product imagery or scenery, characters, or
+symbols known to appeal primarily to persons under twenty-one (21) years of age,
+including, but not limited to, superheroes, comic book characters, video game
+characters, television show characters, movie characters, or unicorns or other mythical
+creatures.
+(d) An HDCP mixed or infused with, or otherwise used as an ingredient in beer
+or alcoholic beverages, must not be manufactured, sold, provided, or served to a
+consumer in this state and is otherwise strictly prohibited.
+(e) An HDCP must not be labeled or otherwise marketed to make any health-
+related claims, including, but not limited to, claims pertaining to diagnoses, cures, or
+mitigation or treatment of any human disease or other condition.
+(f) An ingestible HDCP containing a hemp-derived cannabinoid must not:
+- 22 - 005509
+
+(1) Be sold in a serving that contains more than twenty-five (25)
+milligrams, in the aggregate, of one (1) or more hemp-derived cannabinoids;
+(2) If the HDCP is a hemp-derived cannabinoid beverage product, be
+sold:
+(A) Except as provided in this subdivision (f)(2), in a container
+that contains more than two (2) servings;
+(B) In a container with a volume greater than seven hundred fifty
+milliliters (750 ml); or
+(C) In a concentration greater than two hundred fifty (250)
+milligrams, in the aggregate, of one (1) or more hemp-derived
+cannabinoids, per seven hundred fifty milliliters (750 ml) by volume; or
+(3) Be formed into the shape of an animal or cartoon character.
+(g) The commission may promulgate rules for the packaging, labeling, and
+display of HDCPs that are offered for sale in this state.
+57-7-111. Limitations on right to use hemp-derived cannabinoid — Rights of
+others.
+(a) This chapter does not permit a person to:
+(1) Undertake any task under the influence of a hemp-derived
+cannabinoid or HDCP when doing so would constitute negligence or professional
+malpractice; or
+(2) Operate, navigate, or be in actual physical control of a motor vehicle,
+aircraft, motorized watercraft, or any other vehicle while under the influence of a
+hemp-derived cannabinoid or HDCP.
+(b) This chapter does not require:
+(1) An employer to accommodate the use of hemp-derived cannabinoids
+or HDCPs in a workplace or an employee working while under the influence of a
+hemp-derived cannabinoid or an HDCP;
+- 23 - 005509
+
+(2) An individual or establishment in lawful possession of property to
+allow a guest, client, customer, or other visitor to use a hemp-derived
+cannabinoid or HDCP on or in that property; or
+(3) An individual or establishment in lawful possession of property to
+admit a guest, client, customer, or other visitor who is visibly impaired as a result
+of the person's use of a hemp-derived cannabinoid or HDCP.
+(c) This chapter does not exempt a person from prosecution for a criminal
+offense related to impairment or intoxication resulting from use of a hemp-derived
+cannabinoid or HDCP or relieve a person from any requirement under law to submit to a
+breath, blood, urine, or other test to detect the presence of a controlled substance.
+(d) This chapter does not:
+(1) Limit the ability of an employer to establish, continue, or enforce a
+drug-free workplace program or policy;
+(2) Create a cause of action against an employer for wrongful discharge
+or discrimination; or
+(3) Allow the possession, sale, manufacture, or distribution of any
+substance that is otherwise prohibited by title 39, chapter 17, part 4.
+57-7-112. Registration requirements for brands – Fees.
+(a) As used in this section, "brand" means each category and type of HDCP, as
+distinguishable to a consumer by supplier, name or trademark, brand or product line
+name or trademark, delivery system, or another distinction between HDCPs as
+promulgated by rule of the department of revenue or commission.
+(b) Each brand of HDCPs, distinguishable by category, type, and delivery
+system, must be separately registered with the department of revenue.
+(c)
+- 24 - 005509
+
+(1) A supplier shall not deliver any HDCPs to a wholesaler for distribution
+in this state unless each HDCP brand is registered by the supplier with the
+department of revenue.
+(2) A wholesaler or retailer shall not place an order for, receive, accept,
+or offer for sale an HDCP unless the HDCP brand is registered with the
+department of revenue.
+(d) The department of revenue shall prescribe a form for registering an HDCP
+brand with the department, which must include each wholesaler authorized to distribute
+the HDCP in this state and each county in this state in which the product is being sold at
+retail. The department may require a supplier to include with its submission of the
+registration form any supporting documents as deemed necessary by the department for
+registration of an HDCP brand.
+(e) The department of revenue shall collect from the supplier an annual brand
+registration fee of three hundred dollars ($300) per HDCP brand registered with the
+department.
+57-7-113. Direct-to-consumer shipping and delivery services unlawful.
+(a) It is unlawful for a person or entity:
+(1) From within or outside of this state, to ship an HDCP directly to a
+consumer; or
+(2) To utilize a delivery service to deliver an HDCP to a consumer.
+(b) A person or entity that violates subsection (a) is subject to a civil penalty
+levied by the commission of:
+(1) One thousand dollars ($1,000) for a first offense;
+(2) Five thousand dollars ($5,000) for a second offense; and
+(3) Ten thousand dollars ($10,000) for a third or subsequent offense.
+57-7-114. Unlawful to manufacture, cultivate, produce, or sell certain
+cannabinoids.
+- 25 - 005509
+
+(a) It is an offense to manufacture, cultivate, produce, or sell in this state:
+(1) Hemp or hemp plant parts which contain a THCa concentration in
+excess of one-tenth of one percent (0.1%) on a dry weight basis;
+(2) Any derivative of hemp or an HDCP that contains THCa;
+(3) Hemp, hemp plant parts, a derivative of hemp, HDCPs, or another
+product that contains a total THC concentration, or a total theoretical THC
+concentration, in excess of three-tenths of one percent (0.3%) on a dry weight
+basis;
+(4) A synthetic cannabinoid, or an HDCP or any other product, which
+contains a synthetic cannabinoid; or
+(5) A derivative of hemp or an HDCP that contains
+Tetrahydrocannabiphorol (THCp).
+(b) A person who violates subsection (a) commits a Class A misdemeanor.
+(c) As used in this section:
+(1) "Total THC" means a combination of tetrahydrocannabinol,
+tetrahydrocannabinolic acid, a THC component, or a derivative thereof; and
+(2) "Total theoretical tetrahydrocannabinol content" or "total theoretical
+THC" is the maximum amount of possible delta-9 tetrahydrocannabinol if total
+conversion were to occur, calculated as the sum of the concentration of delta-9
+tetrahydrocannabinol added to the amount of tetrahydrocannabinolic acid after
+such amount is multiplied by eight hundred seventy-seven ten-thousandths
+(0.877) on a dry weight basis and reported to two significant figures, and
+expressed in mathematical formula as follows:
+Total theoretical THC = ([delta 9 THC] + ([THCa] x 0.877))
+57-7-115. Authority to promulgate rules.
+- 26 - 005509
+
+The commission and department of revenue are authorized to promulgate rules
+to effectuate this chapter in accordance with the Uniform Administrative Procedures Act,
+compiled in title 4, chapter 5.
+57-7-116. Applicability of chapter with conflicting provisions of law.
+This chapter governs the manufacturing, distribution, and sale of HDCPs, and to
+the extent that a provision of this code conflicts with this chapter, the applicable
+provisions of this chapter prevail. Notwithstanding this chapter, the manufacture,
+distribution, and sale of HDCPs must comply with all other applicable state laws and
+rules.
+SECTION 3. Tennessee Code Annotated, Section 67-6-232, is amended by deleting the
+section and substituting:
+(a) For the exercise of the privilege of engaging in the business of selling hemp-
+derived cannabinoid products (HDCPs), as defined in § 57-7-102, in this state pursuant
+to title 57, chapter 7, there is levied an additional tax at the rate of six percent (6%) of the
+sales price of HDCPs when sold at retail in this state.
+(b) The tax levied under this section is due and payable monthly on the first day
+of each month, and for the purpose of ascertaining the amount of tax payable under this
+section, all retailers making taxable sales on or before the twentieth day of each month
+shall transmit to the commissioner of revenue, upon forms prescribed by the
+commissioner, returns showing gross sales during the preceding month.
+(c) All revenue generated from the tax levied pursuant to subsection (a) must be
+deposited into a special account in the state general fund, with fifty percent (50%) being
+allocated to the department of revenue and fifty percent (50%) being allocated to the
+alcoholic beverage commission. Unused funds remaining in the account at the end of a
+fiscal year must not revert to the general fund but must be carried forward and remain
+available for distribution in accordance with this section.
+- 27 - 005509
+
+SECTION 4. Tennessee Code Annotated, Section 57-3-404(e)(4)(Q), is amended by
+deleting the subdivision.
+SECTION 5. Tennessee Code Annotated, Section 53-11-451, is amended by deleting
+from subsection (b) the language "forfeiture under title 43, chapter 27, part 2" and substituting
+"forfeiture or seizure under § 57-7-103(a)(2)", and is further amended by deleting subdivision
+(a)(8) and substituting:
+(8) All products containing a hemp-derived cannabinoid that are manufactured,
+produced, wholesaled, sold, or offered for sale by a person or entity in violation of § 57-
+7-103(a)(1).
+SECTION 6. Tennessee Code Annotated, Section 39-17-1507(a), is amended by
+deleting the language:
+It is unlawful for any person to sell tobacco, smoking hemp, vapor products, or
+smokeless nicotine products through a vending machine unless the vending machine is
+located in any of the following locations:
+and substituting:
+It is unlawful for a person to sell smoking hemp and hemp derived cannabinoid products
+through a vending machine. It is unlawful for a person to sell tobacco, vapor products,
+or smokeless nicotine products through a vending machine unless the vending machine
+is located in any of the following areas:
+SECTION 7. Tennessee Code Annotated, Section 39-17-1509, is amended by deleting
+the language "smoking hemp," wherever it may appear, and is further amended by adding the
+following new subsection (g):
+(g) Notwithstanding this part to the contrary, the alcoholic beverage commission
+and department of revenue have administrative oversight of hemp derived cannabinoid
+products, including inspections and the assessment of civil penalties, in accordance with
+title 57, chapter 7.
+- 28 - 005509
+
+SECTION 8. Tennessee Code Annotated, Section 57-1-210, is amended by deleting the
+section and substituting:
+In addition to the other duties imposed under this title, the commission is
+authorized to investigate and to arrest any person whom the arresting officer has
+probable cause to believe is committing or attempting to commit any crime occurring on
+premises licensed under this title or arising from any investigation of violations under this
+title whether such violations would be criminal or regulatory in nature or committed
+within, or outside of, a premises licensed under this title. The commission may issue
+subpoenas to compel the attendance of witnesses and the production of relevant books,
+accounts, records, and documents for the purpose of carrying out the duties of the
+commission.
+SECTION 9. Notwithstanding this act to the contrary, a license issued pursuant to
+Tennessee Code Annotated, Title 43, Chapter 27, Part 2, before the effective date of this act
+remains valid and in full force until the expiration of the license. Such license and license holder
+are subject to Tennessee Code Annotated, Title 43, Chapter 27, Part 2, as it existed prior to the
+effective date of this act, until the expiration of the license.
+SECTION 10. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 11. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 12.
+(a) For purposes of promulgating rules and carrying out administrative duties
+necessary to effectuate this act, this act takes effect upon becoming a law, the public
+welfare requiring it.
+- 29 - 005509
+
+(b) For all other purposes, this act takes effect January 1, 2026, the public
+welfare requiring it.
+- 30 - 005509
+
+[DELETED:  a HSS5(]
+[DELETED:  -0]
+[DELETED:  -0(]
+[DELETED:  -0((]
+[DELETED:  -05((((]
+[DELETED:  -0(]
+[DELETED:  -0]
+[DELETED:  -0(]
+[DELETED:  -0((]
+[DELETED:  -0(())((]
+[DELETED:  -0(((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((()()()()]
+[DELETED:  -0((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((]
+[DELETED:  -0]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((]
+[DELETED:  -0((((]
+[DELETED:  -0((((]
+[DELETED:  -0(((((5((]
+[DELETED:  -0((5((((((5]
+[DELETED:  -0((((]
+[DELETED:  -0(((]
+[DELETED:  -0SS(]
+[DELETED:  -0IS]
+[DELETED:  -0]

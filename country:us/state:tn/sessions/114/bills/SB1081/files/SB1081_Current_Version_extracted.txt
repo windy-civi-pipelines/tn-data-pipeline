@@ -1,0 +1,114 @@
+Title: HOUSE BILL 714
+Official Title: HOUSE BILL 714
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Baum
+SENATE BILL 1081
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 6, relative to sales and use taxes.
+WHEREAS, Tennessee's merchants are Tennessee's primary tax collectors; and
+WHEREAS, these merchants pay fees on sales taxes associated with card transactions;
+and
+WHEREAS, these fees are applied on the entire cost of the transaction including the
+sales tax portion; and
+WHEREAS, merchants should not have to pay fees on behalf of the State, the State
+being the sole beneficiary of the sales tax portion of the transaction; and
+WHEREAS, in the interest of fairness, the State should find a method to make
+merchants whole without disruption of the collection and remittance of sales taxes by
+merchants; and
+WHEREAS, the financial principle of time value of money allows merchants to retain
+sales tax payments for a period to allow merchants to reasonably recoup these fees before
+remitting the sales tax collected; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 67, Chapter 6, Part 1, is amended by
+adding the following as a new section:
+(a) The commissioner, in consultation with the state treasurer, shall establish a
+sales tax remittance schedule that allows dealers making sales of tangible personal
+property to reasonably offset the burden of transaction fees associated with the
+collection of sales tax on those sales. The schedule must extend the holding time of
+SB1081
+002835
+- 1 -
+accumulated sales tax for a period within which dealers can reasonably recoup their
+transaction costs before remittance to the department. This holding time must be
+derived from:
+(1) This state's total sales tax remittance during the previous year;
+(2) The percentage of transactions conducted through credit card and
+debit card tender;
+(3) This state's fees to its residents for credit card transactions, including
+service and convenience fees; and
+(4) The risk-free federal funds rate as defined by the federal reserve.
+(b) The commissioner shall monitor the holding time on a biannual basis for
+appropriateness.
+(c) This section does not require the department to change its current processes
+or forms for collecting and remitting sales tax other than establishing an extended
+timeframe for remittance.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 002835
+[DELETED: WWWWWWS(]
+[DELETED:  -0((((((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 714
+By Baum
+SENATE BILL 1081
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 6, relative to sales and use taxes.
+WHEREAS, Tennessee's merchants are Tennessee's primary tax collectors; and
+WHEREAS, these merchants pay fees on sales taxes associated with card transactions;
+and
+WHEREAS, these fees are applied on the entire cost of the transaction including the
+sales tax portion; and
+WHEREAS, merchants should not have to pay fees on behalf of the State, the State
+being the sole beneficiary of the sales tax portion of the transaction; and
+WHEREAS, in the interest of fairness, the State should find a method to make
+merchants whole without disruption of the collection and remittance of sales taxes by
+merchants; and
+WHEREAS, the financial principle of time value of money allows merchants to retain
+sales tax payments for a period to allow merchants to reasonably recoup these fees before
+remitting the sales tax collected; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 67, Chapter 6, Part 1, is amended by
+adding the following as a new section:
+(a) The commissioner, in consultation with the state treasurer, shall establish a
+sales tax remittance schedule that allows dealers making sales of tangible personal
+property to reasonably offset the burden of transaction fees associated with the
+collection of sales tax on those sales. The schedule must extend the holding time of
+SB1081
+002835
+- 1 -
+
+accumulated sales tax for a period within which dealers can reasonably recoup their
+transaction costs before remittance to the department. This holding time must be
+derived from:
+(1) This state's total sales tax remittance during the previous year;
+(2) The percentage of transactions conducted through credit card and
+debit card tender;
+(3) This state's fees to its residents for credit card transactions, including
+service and convenience fees; and
+(4) The risk-free federal funds rate as defined by the federal reserve.
+(b) The commissioner shall monitor the holding time on a biannual basis for
+appropriateness.
+(c) This section does not require the department to change its current processes
+or forms for collecting and remitting sales tax other than establishing an extended
+timeframe for remittance.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 002835
+
+[DELETED: WWWWWWS(]
+[DELETED:  -0((((((S]

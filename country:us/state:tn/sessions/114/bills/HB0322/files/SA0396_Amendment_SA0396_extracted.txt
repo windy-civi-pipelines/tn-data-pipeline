@@ -1,0 +1,234 @@
+Title: AMEND S e n ate Bill No. 392 House Bill No. 322*
+Official Title: AMEND S e n ate Bill No. 392 House Bill No. 322*
+Number of Sections: 8
+Source: versions - Amendment SA0396
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+Senate Judiciary 1
+Amendment No. 1 to SB0392
+Gardenhire
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 39-13-311, is amended by deleting
+"§§ 39-13-308 and 39-13-309" and substituting "§§ 39-13-308, 39-13-309, and 39-17-118".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 39-13-314(a)(1), is amended by
+deleting the subdivision and substituting:
+(1) "Human trafficking offense" means the commission of any act that constitutes
+the criminal offense of:
+(A) Involuntary labor servitude, under § 39-13-307;
+(B) Trafficking persons for forced labor or services, under § 39-13-308;
+(C) Trafficking for commercial sex act, under § 39-13-309;
+(D) Patronizing prostitution, under § 39-13-514(b)(3)(A);
+(E) Promoting prostitution, under § 39-13-515(c); or
+(F) Promoting the prostitution of a minor, under § 39-13-512; and
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 39-13-314(a), is amended by adding
+the following as a new subdivision:
+( ) "Organization" means any of the following, whether foreign or domestic:
+(A) Limited liability companies;
+(B) Corporations;
+(C) Not-for-profit corporations;
+(D) Profit and not-for-profit unincorporated associations;
+(E) Business trusts;
+SA0396
+006449
+- 1 -
+(F) Estates;
+(G) General partnerships;
+(H) Limited partnerships;
+(I) Registered or unregistered limited liability partnerships;
+(J) Trusts; or
+(K) Joint ventures;
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 39-13-314, is amended by adding
+the following as a new subsection:
+(g) In addition to any other remedy, if the attorney general and reporter has
+reason to believe that any person or organization is committing, has committed, or is
+about to commit a human trafficking offense or aggravated human trafficking, then the
+attorney general and reporter may bring an action in the appropriate state court against
+the person or organization to:
+(1) Restrain the person's or organization's actions by temporary
+restraining order or temporary or permanent injunction;
+(2) Cancel, revoke, or terminate any certificate of formation, certificate of
+incorporation, articles of organization, trust instrument, certificate of authority to
+transact business, license, permit, approval, charter, or registration to transact
+business of the person or organization;
+(3) Appoint a receiver for the organization; or
+(4) Involuntarily dissolve the organization.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Title 39, Chapter 17, Part 1, is amended by
+adding the following as a new section:
+39-17-118.
+(a) A person commits the offense of human smuggling who knowingly:
+(1) Transports one (1) or more persons for the purpose of commercial
+advantage or private financial gain, with the intent to conceal the individual from
+- 2 - 006449
+a law enforcement officer or a federal immigration officer, while knowing the
+person has illegally entered or remained in the United States, as determined by
+the bureau of immigration and customs enforcement of the United States
+department of homeland security; or
+(2) Encourages or induces one (1) or more persons to enter or remain in
+this state in violation of federal law, as determined by the bureau of immigration
+and customs enforcement of the United States department of homeland security,
+by concealing, harboring, or shielding those persons from detection.
+(b) Human smuggling is a Class E felony.
+(c)
+(1) A person commits aggravated human smuggling who commits the
+offense of human smuggling as prohibited by subsection (a), and the victim of the
+offense was less than thirteen (13) years of age at any time during the person's
+course of conduct.
+(2) Aggravated human smuggling is a Class A felony.
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Title 39, Chapter 17, Part 1, is amended by
+adding the following as a new section:
+39-17-119.
+(a) Except as provided in subsection (c), it is an offense for a person to harbor or
+hide, or to assist another in harboring or hiding, within this state an individual whom the
+person knows or should have known has illegally entered or remained in the United
+States, as determined by the bureau of immigration and customs enforcement of the
+United States department of homeland security.
+(b) A violation of this section is a Class A misdemeanor, punishable only by a
+fine of one thousand dollars ($1,000) for each person harbored or hidden.
+(c) It is not a violation of subsection (a) for:
+- 3 - 006449
+(1) An attorney licensed and admitted to the practice law in this state
+pursuant to title 23, chapter 1, to provide bona fide legal advice to an individual
+whom the attorney knows or should have known has illegally entered or
+remained in the United States, as determined by the bureau of immigration and
+customs enforcement of the United States department of homeland security; or
+(2) A person to provide healthcare services or assistance to an individual
+presenting at a healthcare facility licensed under title 68 or title 33, or the office or
+other practice site of a healthcare provider licensed, registered, certified, or
+otherwise permitted to deliver healthcare services under title 63 or title 68,
+chapter 24.
+
+Section 8:
+SECTION 7. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to an offense committed on or after that date.
+- 4 - 006449
+[DELETED:  a HSS(((((((S((((((]
+[DELETED:  -0((((((S(((((S((]
+[DELETED:  -0(((((S(((]
+[DELETED:  -0((S]
+
+
+================================================================================
+
+Raw Text:
+Senate Judiciary 1
+Amendment No. 1 to SB0392
+Gardenhire
+Signature of Sponsor
+AMEND S e n ate Bill No. 392 House Bill No. 322*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 39-13-311, is amended by deleting
+"§§ 39-13-308 and 39-13-309" and substituting "§§ 39-13-308, 39-13-309, and 39-17-118".
+SECTION 2. Tennessee Code Annotated, Section 39-13-314(a)(1), is amended by
+deleting the subdivision and substituting:
+(1) "Human trafficking offense" means the commission of any act that constitutes
+the criminal offense of:
+(A) Involuntary labor servitude, under § 39-13-307;
+(B) Trafficking persons for forced labor or services, under § 39-13-308;
+(C) Trafficking for commercial sex act, under § 39-13-309;
+(D) Patronizing prostitution, under § 39-13-514(b)(3)(A);
+(E) Promoting prostitution, under § 39-13-515(c); or
+(F) Promoting the prostitution of a minor, under § 39-13-512; and
+SECTION 3. Tennessee Code Annotated, Section 39-13-314(a), is amended by adding
+the following as a new subdivision:
+( ) "Organization" means any of the following, whether foreign or domestic:
+(A) Limited liability companies;
+(B) Corporations;
+(C) Not-for-profit corporations;
+(D) Profit and not-for-profit unincorporated associations;
+(E) Business trusts;
+SA0396
+006449
+- 1 -
+
+(F) Estates;
+(G) General partnerships;
+(H) Limited partnerships;
+(I) Registered or unregistered limited liability partnerships;
+(J) Trusts; or
+(K) Joint ventures;
+SECTION 4. Tennessee Code Annotated, Section 39-13-314, is amended by adding
+the following as a new subsection:
+(g) In addition to any other remedy, if the attorney general and reporter has
+reason to believe that any person or organization is committing, has committed, or is
+about to commit a human trafficking offense or aggravated human trafficking, then the
+attorney general and reporter may bring an action in the appropriate state court against
+the person or organization to:
+(1) Restrain the person's or organization's actions by temporary
+restraining order or temporary or permanent injunction;
+(2) Cancel, revoke, or terminate any certificate of formation, certificate of
+incorporation, articles of organization, trust instrument, certificate of authority to
+transact business, license, permit, approval, charter, or registration to transact
+business of the person or organization;
+(3) Appoint a receiver for the organization; or
+(4) Involuntarily dissolve the organization.
+SECTION 5. Tennessee Code Annotated, Title 39, Chapter 17, Part 1, is amended by
+adding the following as a new section:
+39-17-118.
+(a) A person commits the offense of human smuggling who knowingly:
+(1) Transports one (1) or more persons for the purpose of commercial
+advantage or private financial gain, with the intent to conceal the individual from
+- 2 - 006449
+
+a law enforcement officer or a federal immigration officer, while knowing the
+person has illegally entered or remained in the United States, as determined by
+the bureau of immigration and customs enforcement of the United States
+department of homeland security; or
+(2) Encourages or induces one (1) or more persons to enter or remain in
+this state in violation of federal law, as determined by the bureau of immigration
+and customs enforcement of the United States department of homeland security,
+by concealing, harboring, or shielding those persons from detection.
+(b) Human smuggling is a Class E felony.
+(c)
+(1) A person commits aggravated human smuggling who commits the
+offense of human smuggling as prohibited by subsection (a), and the victim of the
+offense was less than thirteen (13) years of age at any time during the person's
+course of conduct.
+(2) Aggravated human smuggling is a Class A felony.
+SECTION 6. Tennessee Code Annotated, Title 39, Chapter 17, Part 1, is amended by
+adding the following as a new section:
+39-17-119.
+(a) Except as provided in subsection (c), it is an offense for a person to harbor or
+hide, or to assist another in harboring or hiding, within this state an individual whom the
+person knows or should have known has illegally entered or remained in the United
+States, as determined by the bureau of immigration and customs enforcement of the
+United States department of homeland security.
+(b) A violation of this section is a Class A misdemeanor, punishable only by a
+fine of one thousand dollars ($1,000) for each person harbored or hidden.
+(c) It is not a violation of subsection (a) for:
+- 3 - 006449
+
+(1) An attorney licensed and admitted to the practice law in this state
+pursuant to title 23, chapter 1, to provide bona fide legal advice to an individual
+whom the attorney knows or should have known has illegally entered or
+remained in the United States, as determined by the bureau of immigration and
+customs enforcement of the United States department of homeland security; or
+(2) A person to provide healthcare services or assistance to an individual
+presenting at a healthcare facility licensed under title 68 or title 33, or the office or
+other practice site of a healthcare provider licensed, registered, certified, or
+otherwise permitted to deliver healthcare services under title 63 or title 68,
+chapter 24.
+SECTION 7. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to an offense committed on or after that date.
+- 4 - 006449
+
+[DELETED:  a HSS(((((((S((((((]
+[DELETED:  -0((((((S(((((S((]
+[DELETED:  -0(((((S(((]
+[DELETED:  -0((S]

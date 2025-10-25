@@ -1,0 +1,100 @@
+Title: SENATE BILL 904
+Official Title: SENATE BILL 904
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Lamar
+HOUSE BILL 954
+By Brooks
+AN ACT to amend Tennessee Code Annotated, Title 33
+and Title 38, relative to alternative crisis response
+units.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 38-8-101, is amended by adding the
+following as new subdivisions:
+( ) "Alternative crisis response unit" means a program where a qualified mental
+health professional, who is employed by a law enforcement agency, accompanies a full-
+time police officer on mental-health related calls for service, and the qualified mental
+health professional is considered the lead on the call;
+( ) "Qualified mental health professional" means the same as defined in § 33-1-
+101;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 38-8-104, is amended by adding the
+following as a new subsection:
+(h) The commission shall establish uniform training standards for alternative
+crisis response units for all law enforcement agencies.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 38-8-119, is amended by designating
+the existing language as subsection (a) and adding the following as a new subsection (b):
+(b) The commission shall annually provide full-time police officers with training
+on how to best support a qualified mental health professional to a call for service with the
+alternative crisis response unit.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Title 38, Chapter 8, Part 1, is amended by
+adding the following as a new section:
+HB0954
+001488
+- 1 -
+By January 1, 2026, each law enforcement agency shall develop and implement
+an alternative crisis response unit.
+
+Section 6:
+SECTION 5. Section 2 takes effect upon becoming a law, the public welfare requiring it.
+All remaining sections take effect January 1, 2026, the public welfare requiring it.
+- 2 - 001488
+[DELETED: S((S(S(S]
+[DELETED:  -0BS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 904
+By Lamar
+HOUSE BILL 954
+By Brooks
+AN ACT to amend Tennessee Code Annotated, Title 33
+and Title 38, relative to alternative crisis response
+units.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 38-8-101, is amended by adding the
+following as new subdivisions:
+( ) "Alternative crisis response unit" means a program where a qualified mental
+health professional, who is employed by a law enforcement agency, accompanies a full-
+time police officer on mental-health related calls for service, and the qualified mental
+health professional is considered the lead on the call;
+( ) "Qualified mental health professional" means the same as defined in § 33-1-
+101;
+SECTION 2. Tennessee Code Annotated, Section 38-8-104, is amended by adding the
+following as a new subsection:
+(h) The commission shall establish uniform training standards for alternative
+crisis response units for all law enforcement agencies.
+SECTION 3. Tennessee Code Annotated, Section 38-8-119, is amended by designating
+the existing language as subsection (a) and adding the following as a new subsection (b):
+(b) The commission shall annually provide full-time police officers with training
+on how to best support a qualified mental health professional to a call for service with the
+alternative crisis response unit.
+SECTION 4. Tennessee Code Annotated, Title 38, Chapter 8, Part 1, is amended by
+adding the following as a new section:
+HB0954
+001488
+- 1 -
+
+By January 1, 2026, each law enforcement agency shall develop and implement
+an alternative crisis response unit.
+SECTION 5. Section 2 takes effect upon becoming a law, the public welfare requiring it.
+All remaining sections take effect January 1, 2026, the public welfare requiring it.
+- 2 - 001488
+
+[DELETED: S((S(S(S]
+[DELETED:  -0BS]

@@ -1,0 +1,1699 @@
+Title: HOUSE BILL 600
+Official Title: HOUSE BILL 600
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 31 sections found
+
+================================================================================
+
+Section 1:
+By Freeman
+SENATE BILL 269
+By Campbell
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 29, Part 2 and Title 68, Chapter 211,
+relative to solid waste.
+WHEREAS, packaging waste makes up nearly one-third of solid municipal waste with
+just twelve percent recycled, sending nine hundred thousand tons of recyclable packaging to
+landfills; and
+WHEREAS, businesses in this State want and need the valuable materials that would
+otherwise be lost to landfills, litter, and incineration; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 211, is amended by adding
+the following as a new part:
+68-211-1201.
+(a) This part is known and may be cited as the "Tennessee Waste to Jobs Act."
+(b) It is the intent of the general assembly that this part affects the development
+and implementation of a comprehensive approach to addressing packaging waste in this
+state, to include:
+(1) Creating jobs and providing a sustainable funding mechanism for the
+operation of local recycling systems, enabling investment in recycling
+infrastructure;
+(2) Diverting recyclable packaging waste from rapidly filling landfills in
+this state;
+SB0269
+001943
+- 1 -
+(3) Recovering valuable materials that would otherwise be lost to
+landfills, litter, and incineration, while developing markets for these materials and
+supporting businesses building a circular economy in this state; and
+(4) Engaging producers of packaging in the innovative reduction and
+reuse of packaging materials.
+68-211-1202.
+As used in this part:
+(1) "Advisory board" means the producer responsibility program advisory
+board, established under § 68-211-1203;
+(2) "Commissioner" means the commissioner of environment and
+conservation;
+(3) "Compostable material" means a covered material that:
+(A) Meets, and is labeled to reflect that it meets, the American
+Society for Testing and Materials (ASTM) standard in effect on July 1,
+2025, and any successor standard, as the D6400 specification for
+labeling of plastics designed to be aerobically composted in municipal or
+industrial facilities;
+(B) Meets, and is labeled to reflect that it meets, the ASTM
+standard in effect on July 1, 2025, and any successor standard, as the
+D6868 specification for labeling of end items that incorporate plastics and
+polymers as coatings or additives with paper and other substrates
+designed to be aerobically composted in municipal or industrial facilities;
+(C) Is composed of only wood without any coatings or additives;
+(D) Is composed of only paper without any coatings or additives;
+and
+- 2 - 001943
+(E) Is included on the minimum compostable materials list
+maintained under § 68-211-1204(a)(8);
+(4) "Covered entity" means a person or location that receives covered
+services for covered materials in accordance with the requirements of this part,
+including:
+(A) A single-family residence;
+(B) A multifamily residence;
+(C) A school or other location where education or childcare is
+provided;
+(D) A nonprofit corporation with annual revenue of less than
+thirty-five million dollars ($35,000,000); and
+(E) A state agency, political subdivision, public area, or other
+public entity or government unit;
+(5) "Covered materials":
+(A) Means packaging materials, except as provided in subdivision
+(5)(B); and
+(B) Does not include:
+(i) Packaging materials intended to be used for the long-
+term storage or protection of a durable product and that are
+intended to transport, protect, or store the product for at least five
+(5) years;
+(ii) Packaging materials used in commercial, industrial, or
+manufacturing processes;
+(iii) Subject to § 68-211-1213(a), packaging materials that
+are collected prior to receipt of the product by the consumer do
+- 3 - 001943
+not undergo separation from other materials at a commingled
+recycling processing facility, and are reused or recycled at a
+responsible end market;
+(iv) Beverage containers subject to a future returnable
+container deposit not established by the producer responsibility
+organization;
+(v) Packaging material used to contain a product that is
+regulated as a drug or medical device by the federal food and
+drug administration under the Federal Food, Drug, and Cosmetic
+Act, as amended (21 U.S.C. § 301 et seq.), or associated
+components and consumable medical equipment;
+(vi) Packaging material used to contain a product that is
+regulated under the Virus-Serum-Toxin Act, as amended (21
+U.S.C. § 151 et seq.);
+(vii) Packaging material used to contain a product that is
+required to be sold in packaging material that meets the
+requirements of the Poison Prevention Packaging Act, as
+amended (15 U.S.C. § 1471 et seq.);
+(viii) Packaging material used to contain a product that is
+regulated as infant formula, as defined in 21 U.S.C. § 321; as a
+medical food, as defined in 21 U.S.C. § 360ee(b); or as fortified
+nutritional supplements used for individuals who require
+supplemental or sole source nutrition to meet nutritional needs
+due to special dietary needs directly related to cancer, chronic
+kidney disease, diabetes, malnutrition, or failure to thrive, as those
+- 4 - 001943
+terms are defined by the world health organization's International
+Classification of Diseases, Tenth Revision (ICD-10), as amended
+or revised, or other medical conditions as determined by the
+department, after consultation with the advisory board, by rule;
+and
+(ix) Any other material that the department, after
+consultation with the advisory board, determines by rule to not be
+a covered material;
+(6) "Covered services" means the services provided for the recovery,
+recycling, reuse, or composting of covered materials by local governments and
+other providers, including the collection, transportation, and processing of
+covered materials from the consumer to the end market, curbside services, and
+drop-off centers;
+(7) "De minimis producer" means a person that in their most recent fiscal
+year:
+(A) Introduced less than one (1) ton of covered material into this
+state; or
+(B) Earned global gross revenues of less than two million dollars
+($2,000,000);
+(8) "Department" means the department of environment and
+conservation;
+(9) "Packaging materials":
+(A) Means, regardless of recyclability, a part of a package or
+container, including material that is used for the containment, protection,
+- 5 - 001943
+handling, delivery, and presentation of a product that is sold, offered for
+sale, imported, or distributed in this state; and
+(B) Includes:
+(i) Primary, secondary, and tertiary packaging intended for
+the consumer market; and
+(ii) Service packaging designed and intended to be filled
+at the point of sale, including carry-out bags, bulk goods bags, and
+take-out and home delivery food service packaging;
+(10) "Producer":
+(A) Except as provided in subdivision (10)(B), means the
+following person responsible for compliance with requirements under this
+part for a covered material:
+(i) For items sold in or with packaging at a physical retail
+location in this state:
+(a) If the item is sold in or with packaging under the
+brand of the item manufacturer or is sold in packaging that
+lacks identification of a brand, then the producer is the
+person that manufactures the item;
+(b) If there is no person to which subdivision
+(10)(A)(i)(a) applies, then the producer is the person that is
+licensed to manufacture and sell or offer for sale to
+consumers in this state an item with packaging under the
+brand or trademark of another manufacturer or person;
+- 6 - 001943
+(c) If there is no person to which subdivisions
+(10)(A)(i)(a) or (b) apply, then the producer is the brand
+owner of the item;
+(d) If there is no person to which subdivisions
+(10)(A)(i)(a)-(c) apply within the United States, then the
+producer is the person who is the importer of record for the
+item into the United States for use in a commercial
+enterprise that sells, offers for sale, or distributes the item
+in this state; and
+(e) If there is no person to which subdivisions
+(10)(A)(i)(a)-(d) apply, then the producer is the person that
+first distributes the item in or into this state;
+(ii) For items sold or distributed in packaging in or into this
+state via e-commerce, remote sale, or distribution:
+(a) For packaging used to directly protect or
+contain the item, the producer of the packaging is the
+same as if the items sold in or with packaging at a physical
+retail location in this state under subdivision (10)(A)(i); and
+(b) For packaging used to ship the item to a
+consumer, the producer of the packaging is the person that
+packages the item to be shipped to the consumer; and
+(iii) For packaging that is a covered material and for which
+a producer cannot be identified under subdivision (10)(A)(i) or
+subdivision (10)(A)(ii), the producer of the packaging is the person
+that first distributes the item in or into this state;
+- 7 - 001943
+(B) Does not include:
+(i) A state, a federal or state agency, a political subdivision
+of a state, or other governmental unit;
+(ii) A registered 501(c)(3) charitable organization or
+501(c)(4) social welfare organization;
+(iii) A de minimis producer;
+(iv) A mill that uses any virgin wood fiber in the products it
+produces;
+(v) A paper mill that produces container board derived
+from one hundred percent (100%) postconsumer recycled content
+and non-post-consumer recycled content; or
+(vi) A person who would otherwise be the producer of a
+covered material sold, offered for sale, or distributed in or into this
+state under subdivision (10)(A), if:
+(a) Another person contracts with the person who
+would otherwise be a producer to assume responsibility for
+the producer's compliance with requirements of this part,
+that person has joined a registered PRO as the
+responsible producer, and the person who would otherwise
+be a producer provides written certification of the contract
+to the PRO; or
+(b) The person who would otherwise be a producer
+is a business operated wholly or in part as a franchise, in
+which case the franchisor is the producer if that franchisor
+- 8 - 001943
+has franchisees that have a commercial presence within
+the state;
+(11) "Producer responsibility organization" or "PRO" means a nonprofit
+organization that is created by a group of producers to implement a producer
+responsibility plan;
+(12) "Readily recyclable material" means a covered material that is
+included as a recyclable material on the minimum recyclable materials list
+maintained under § 68-211-1204(a)(8);
+(13) "Recyclable" means a covered material that can technically and
+safely be recycled;
+(14) "Recycling":
+(A) Means the process of collecting and preparing recyclable
+materials and reusing the materials in their original form or using the
+materials in manufacturing processes that do not cause the destruction of
+recyclable materials in a manner that precludes further use; and
+(B) Does not include:
+(i) Use of covered materials for energy recovery or energy
+generation by means of combustion;
+(ii) Use of covered materials as, or in production of, a fuel
+or fuel component; or
+(iii) Disposal of discarded covered materials in a landfill,
+including use as alternative daily cover;
+(15) "Refill" means the continued use of a covered material by a
+consumer through a system that is:
+- 9 - 001943
+(A) Intentionally designed and marketed for repeated filling of a
+covered material to reduce demand for new production of the covered
+material;
+(B) Supported by adequate logistics and infrastructure to provide
+convenient access for consumers; and
+(C) Compliant with all applicable federal, state, and local statutes,
+rules, ordinances, and other laws governing health and safety;
+(16) "Reusable" means capable of reuse;
+(17) "Reuse" means the return of a covered material to the marketplace
+and the continued use of the covered material by a producer or service provider
+when the covered material is:
+(A) Intentionally designed and marketed to be used multiple times
+for its original intended purpose without a change in form;
+(B) Designed for durability and maintenance to extend its useful
+life and reduce demand for new production of the covered material;
+(C) Supported by adequate logistics and infrastructure at a retail
+location, by a service provider, or on behalf of or by a producer, that
+provides convenient access for consumers; and
+(D) Compliant with all applicable federal, state, and local statutes,
+rules, ordinances, and other laws governing health and safety; and
+(18) "Service provider" means a person who provides covered services.
+68-211-1203.
+(a) The commissioner shall appoint a producer responsibility program advisory
+board.
+- 10 - 001943
+(b) The advisory board is administratively attached to the department; provided,
+that the department may select an impartial, third-party facilitator to convene and provide
+administrative support to the advisory board.
+(c) The commissioner shall not appoint registered lobbyists to the advisory
+board.
+(d) The membership of the advisory board must represent all geographic regions
+of this state, including urban and rural counties and municipalities. The advisory board
+consists of the following twenty (20) members:
+(1) Three (3) voting members representing local governments in this
+state;
+(2) One (1) voting member representing materials recovery facilities;
+(3) One (1) voting member representing covered service providers;
+(4) One (1) voting member representing environmental nonprofit
+organizations;
+(5) One (1) voting member representing community-based nonprofit
+organizations working in the area of solid waste;
+(6) One (1) voting member representing a trade association or chamber
+of commerce, or other business advocacy organization representing businesses
+that are headquartered in this state;
+(7) One (1) voting member representing glass packaging material
+suppliers that is not a producer;
+(8) One (1) voting member representing plastics packaging material
+suppliers that is not a producer;
+(9) One (1) voting member representing fiber packaging material
+suppliers that is not a producer;
+- 11 - 001943
+(10) One (1) voting member representing metals packaging material
+suppliers that is not a producer;
+(11) One (1) voting member who has experience representing
+underserved communities;
+(12) One (1) voting member representing a solid waste landfill or transfer
+station operating an onsite, public-facing recycling collection program;
+(13) One (1) voting member representing durable goods manufacturing
+that is not a producer;
+(14) One (1) voting member representing retail and food services that is
+not a producer;
+(15) One (1) voting member representing an entity that develops or offers
+for sale covered materials that are designed for reuse and maintained through a
+reuse system or infrastructure or a statewide or national trade association that
+represents such entities;
+(16) One (1) voting member representing an entity that develops or offers
+for sale covered materials that are designed for refill and maintained through a
+refill system or infrastructure or a statewide or national trade association that
+represents such entities;
+(17) The commissioner, or the commissioner's designee, who serves as
+a nonvoting member; and
+(18) One (1) nonvoting member representing a PRO.
+(e) The commissioner shall appoint the initial advisory board members by July 1,
+
+Section 3:
+2026. In making appointments to the advisory board, the commissioner shall strive to
+ensure that the makeup of the advisory board reflects and represents the demographic
+diversity of persons in this state.
+- 12 - 001943
+(f) The terms for appointed members of the advisory board are four (4) years.
+(g) In making the initial appointments, the members appointed pursuant to
+subdivisions (d)(2)-(9) and (15) are appointed for four-year terms, and the members
+appointed pursuant to subdivisions (d)(1), (10)–(14), (16), and (18) are appointed for
+two-year terms. Thereafter, all appointments are for the full four-year term. In the event
+of a vacancy, the commissioner shall fill the vacancy for the unexpired term.
+(h) After all initial appointments to the advisory board are made, but no later than
+July 15, 2026, the commissioner, or the impartial third-party facilitator selected under
+subsection (b), shall call the first meeting of the advisory board. At the first meeting, and
+at the first meeting of each year ending in an even number thereafter, the advisory board
+shall elect from among its appointed members a chair, vice chair, and any other officers
+deemed necessary.
+(i) After the first meeting of the advisory board, the advisory board shall meet at
+the call of the chair and not less than two (2) times per year.
+(j) Meetings of the advisory board must comply with the open meeting
+requirements of title 8, chapter 44.
+(k) All records of the advisory board are public records for purposes of the public
+records law, compiled in title 10, chapter 7.
+(l) All reimbursement for travel expenses must be in accordance with the
+comprehensive travel regulations as promulgated by the department of finance and
+administration and approved by the attorney general and reporter. All members of the
+advisory board serve without compensation but are eligible for reimbursement of
+necessary traveling and other appropriate expenses while engaged in the work of the
+advisory board.
+- 13 - 001943
+(m) If an appointed member is absent from more than two (2) consecutive
+meetings of the advisory board without good cause, then a vacancy is created.
+(n) The advisory board shall:
+(1) Advise the PRO throughout the needs assessment process, as
+described in § 68-211-1206(a), and review the needs assessment;
+(2) Advise the PRO on the development of producer responsibility plan
+proposals, as described in § 68-211-1206(b);
+(3) Review the producer responsibility plan proposal submitted to the
+department under § 68-211-1205(c)(4), and recommend that the department
+approve or reject the proposal;
+(4) Review an individual producer responsibility program plan proposal
+submitted to the department under § 68-211-1209, and recommend that the
+department approve or reject the proposal; and
+(5) Review the annual reports required by § 68-211-1207 and
+recommend to the PRO and the department any program amendments that are
+needed.
+68-211-1204.
+(a) The department shall:
+(1) Review applications from prospective PROs. If applications from
+more than one (1) PRO are submitted, then the department shall determine
+which proposed PRO can most effectively implement this part. The department
+may permit and approve additional PRO applicants if they provide unique ability
+to manage a defined subgroup of covered materials;
+(2) When determining whether to approve a PRO, consider whether the
+PRO:
+- 14 - 001943
+(A) Has a governing board consisting of producers that represent
+a diversity of covered materials introduced; and
+(B) Demonstrates adequate financial responsibility and financial
+controls to ensure proper management of funds;
+(3) Consult with the PRO and the advisory board in the development of
+the producer responsibility plan proposal;
+(4) Approve or reject a producer responsibility plan proposal submitted to
+the department under § 68-211-1205(c)(4);
+(5) Approve or reject an individual producer responsibility plan proposal
+submitted to the department under § 68-211-1209;
+(6) Review the annual reports required by § 68-211-1207;
+(7) Administer, review, oversee, and enforce the producer responsibility
+plan;
+(8) Review and annually update minimum recyclable and compostable
+materials lists that consider the availability of recycling composting services for
+each material, taking into consideration the impact of innovative collection and
+sorting technology on the creation of viable end markets;
+(9) By August 1, 2026, and each August 1 thereafter through August 1,
+2029, provide written notice to the PRO of the estimated cost to the department
+in performing its duties under this part, including all such costs incurred since the
+date that this act becomes a law; and
+(10) Beginning July 1, 2029, and annually thereafter, provide written
+notice to the PRO of the department's estimates of the cost required to perform
+the department's duties.
+(b) The commissioner shall:
+- 15 - 001943
+(1) By October 15, 2031, and every two (2) years thereafter, submit a
+report to the governor, to the chairman and ranking minority member of the
+senate energy, agriculture and natural resources committee, and the chairman
+and ranking minority member of the committee of house of representatives with
+subject jurisdiction over solid waste. The report must contain:
+(A) A summary of the implementation, administration, and
+enforcement of this part;
+(B) A summary of the most current needs assessment described
+in § 68-211-1206(a);
+(C) An internet link to a universal resource locator or other
+internet address where the reports filed under § 68-211-1207 are
+published;
+(D) Recommendations for policy, statutory, or regulatory changes
+to the producer responsibility program;
+(E) An analysis of the impacts of exempting certain materials from
+the definition of covered materials and of exempting certain persons from
+the definition of producer;
+(F) A list of efforts undertaken by the commissioner to enforce
+and secure compliance with this part; and
+(G) Any other information the commissioner deems to be
+relevant; and
+(2) Promulgate rules necessary to implement and administer this part.
+All rules must be promulgated in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5.
+68-211-1205.
+- 16 - 001943
+(a) By July 1, 2026, a producer shall establish a PRO.
+(b) By July 1, 2026, the governing body of the PRO shall apply for approval to
+the department describing how the PRO meets the requirements to be an approved
+PRO by submitting the following:
+(1) Contact information for a person responsible for implementing an
+approved stewardship plan;
+(2) A list of current member producers that have entered into written
+agreements to operate under an approved stewardship plan administered by the
+PRO;
+(3) A plan for recruiting additional member producers and executing
+written agreements confirming producers will operate under an approved
+stewardship plan administered by the PRO;
+(4) A list of current board members and the executive director, if different
+than the person identified pursuant to subdivision (b)(1);
+(5) Documentation demonstrating adequate financial responsibility and
+financial controls to ensure the proper management of funds; and
+(6) Payment of an implementation fee set by rule of the commissioner.
+(c) The PRO shall:
+(1) Facilitate at least one (1) needs assessment, as described in § 68-
+211-1206, every five (5) years conducted by an independent third party approved
+by the department using a consultation process to obtain recommendations from
+the advisory board, local governments, service providers, PROs, and other
+interested parties regarding the type and scope of information that should be
+collected and analyzed in the needs assessment;
+- 17 - 001943
+(2) Engage with local governments to increase participation under this
+part;
+(3) Consult with the advisory board and the department in the
+development of the producer responsibility plan proposal;
+(4) Submit a producer responsibility plan proposal that covers a period of
+five (5) years to the department and the advisory board; and
+(5) Operate and administer the department-approved producer
+responsibility plan as the producer responsibility program.
+(d) By January 1, 2027, a producer must be a member of a PRO approved in
+this state.
+(e) By July 1, 2027, a PRO shall submit the results of a preliminary needs
+assessment to the department and the advisory board.
+(f) By July 1, 2028, a PRO shall submit the results of the initial needs
+assessment to the department and the advisory board.
+(g) By July 1, 2029, a PRO shall submit an initial producer responsibility plan
+proposal to the department and the advisory board. When approved by the department,
+the PRO shall begin implementation of the producer responsibility plan within six (6)
+months of approval.
+68-211-1206.
+(a) The needs assessments required under § 68-211-1205(c)(1) must include:
+(1) The service availability, capacity, performance, and gaps in the reuse,
+composting, and recycling services provided to covered entities throughout this
+state and the prices paid for reuse, composting, and recycling services;
+(2) The documented cost of reuse, composting, and recycling services
+incurred by public and private service providers to provide recycling services;
+- 18 - 001943
+(3) The processing capacity of existing infrastructure, the additional
+infrastructure needed to meet or exceed the recycling, reuse, and composting
+levels set by the producer responsibility plan proposal, and opportunities for the
+use of innovative new technologies for sorting and collection to improve that
+capacity;
+(4) An assessment of the level and causes of contamination of source-
+separated recyclable materials, source-separated compostable materials, and
+collected reusables, and the impacts of contamination on service providers,
+including the cost to manage that contamination;
+(5) An evaluation of the opportunities and costs of various service
+methods to increase reuse, composting, and recycling rates overall;
+(6) The education needs in this state pertaining to composting, reuse,
+and recycling; and
+(7) Assessment and identification of materials for recommendation for
+inclusion on the minimum recyclable and compostable materials lists maintained
+under § 68-211-1204(a)(8).
+(b) The producer responsibility plan proposal required under § 68-211-
+1205(c)(4) must:
+(1) Include a list of participating producers;
+(2) Describe how the producer responsibility plan proposal will address
+and implement the findings of the needs assessment in a fair and balanced
+manner;
+(3) Provide a financing mechanism in accordance with subsection (c) that
+supports, to the extent possible, that recycling and composting services for
+- 19 - 001943
+materials listed on the minimum recyclables and compostables lists are as
+convenient as mixed municipal solid waste collection;
+(4) Describe how staffing and administering the implementation of the
+producer responsibility plan will be handled;
+(5) Describe the manner in which the PRO solicited and considered input
+from stakeholders;
+(6) Describe how the PRO will track compliance amongst producers and
+will bring producers into compliance;
+(7) Establish a financing mechanism based on PRO dues, as described
+in subsection (c), which includes the following components:
+(A) Varied PRO dues based on:
+(i) The quantity of covered materials a producer sells,
+distributes, or imports in this state;
+(ii) Whether or not the covered materials are reusable,
+compostable, or readily recyclable, which determination must
+account for associated impacts as well as the extent to which
+recycling or composting services for a covered material are
+accessible to the consumer; and
+(iii) The use of recycled content in covered materials so
+that dues are lower for producers who use covered materials that
+contain higher amounts of recycled content than other producers;
+(B) Prioritize reuse by charging covered materials that are
+managed through a reuse system only once, upon initial entry into the
+marketplace;
+- 20 - 001943
+(C) Reduce the amount of packaging per individual covered
+material that is necessary to efficiently deliver a product without damage
+or spoilage and without reducing its ability to be recycled;
+(D) Incentivize using materials and design attributes that reduce
+the environmental impacts and human health impacts of covered
+materials; and
+(E) Prohibit the use of PRO dues for lobbying;
+(8) Describe the strategy for reducing the quantity of covered materials in
+this state, including how producers participating in a producer responsibility plan
+will work together to reduce packaging through product design and program
+innovations;
+(9) Describe the strategy for increasing packaging reuse in this state,
+including how producers will work together to design and implement innovative
+reuse processes;
+(10) Describe the strategy for increasing packaging composting in this
+state, as appropriate and technologically feasible for certain covered materials;
+(11) Describe performance standards for recycling, composting, and
+reuse service providers as applicable to the service provided, including, but not
+limited to:
+(A) The quality of collected covered materials based upon the
+service provided; and
+(B) Employee safety programs, employee health benefits, living
+wages, and other labor standards and safety practices;
+- 21 - 001943
+(12) Describe how the program will reimburse service providers under an
+approved producer responsibility plan, including, but not limited to, a description
+of:
+(A) How the program will provide a methodology to calculate
+differentiated reimbursement rates as provided under subsection (c);
+(B) A process for service providers to submit invoices and be
+reimbursed for recycling, composting, or reuse services; and
+(C) Clear and reasonable timelines for reimbursement, at
+intervals no longer than monthly unless agreed to by a service provider
+and a PRO;
+(13) Describe the actions taken or that will be taken for public outreach,
+education, and communication concerning the recycling, reuse, or composting of
+covered materials;
+(14) Describe the process by which recycling, reuse, or composting
+service providers may request reimbursement for costs associated with
+transporting, collecting, and processing covered materials that are identified in
+the producer responsibility plan;
+(15) Describe how the PRO will work with recycling, reuse, and
+composting service providers to utilize and expand on existing recycling, reuse,
+and composting service providers and infrastructure to the greatest extent
+possible, including, but not limited to:
+(A) If the PRO intends to develop new collection and recycling
+infrastructure, it must state why and how this may impact the existing
+infrastructure and how it may impact collection and recycling of covered
+materials on a statewide basis; and
+- 22 - 001943
+(B) Describe how a PRO will use competitive bidding processes
+for infrastructure investments included in an approved stewardship plan;
+(16) Describe how covered materials will be collected and processed in a
+manner that retains their value for their highest use;
+(17) Describe how the plan will provide or facilitate the deployment of
+innovative recycling and reuse systems within a recycling center or materials
+recovery facility that utilizes innovative technology to improve the identification
+and sorting of covered materials, where feasible;
+(18) Describe how the plan will utilize innovative technologies to improve
+data collection of covered materials collected and processed and the disposition
+of such materials throughout the materials recovery facility or recycling center;
+(19) A description of how producers can purchase postconsumer
+materials from service providers at market prices if the producer is interested in
+obtaining recycled feedstock to achieve minimum postconsumer recycled content
+performance targets and statewide requirements;
+(20) A description of how the PRO has engaged with nonparticipating
+local governments to facilitate and encourage participation under the producer
+responsibility plan;
+(21) A description of how local governments may begin operating under
+an existing producer responsibility plan; and
+(22) Include additional information as required by the advisory board and
+the department.
+(c) The PRO may charge each member producer dues according to each
+producer's unit-, weight-, volume-, or sales-based market share, or by another method
+the PRO determines to be an equitable determination of each producer's payment
+- 23 - 001943
+obligation, so that the aggregate dues charged to member producers is sufficient to pay
+the commissioner's estimated costs under § 68-211-1204(a)(9) and (10) in full.
+(d) In implementing the approved producer responsibility plan, the PRO shall
+use a financing method that:
+(1) Provides a methodology for reimbursement rates for covered services
+for covered materials, exclusive of exempt materials. The methodology for
+reimbursement rates must consider estimated revenue received by service
+providers from the sale of covered materials based upon relevant material
+indices and incorporate relevant cost information identified by the needs
+assessment. Reimbursement rates must be annually updated and reflect the net
+costs for covered services for covered materials from covered entities, at a
+minimum. Reimbursement rates must be established equivalent to net costs as
+established by a methodology in an approved plan;
+(2) Calculates reimbursement rates per ton, by household, or by another
+appropriate unit of measurement;
+(3) Provides a formula for reimbursement rates for recycling, composting,
+or reuse services for covered materials. Reimbursement rates must be
+established equivalent to net costs pursuant to the methodology required by
+subdivision (d)(1) for reasonable covered services costs;
+(4) Bases reimbursement rates on the following, as applicable by the
+service provided:
+(A) The cost to collect covered material for recycling, a
+proportional share of composting, or reuse adjusted to reflect conditions
+that affect those costs, varied by region or jurisdiction in which the
+covered services are provided, including, but not limited to:
+- 24 - 001943
+(i) The number and type of covered entities;
+(ii) Population density;
+(iii) Collection methods employed;
+(iv) Distance traveled by collection vehicles to
+consolidation or transfer facilities; to reuse, recycling, or
+composting facilities; and to responsible markets;
+(v) Other factors that may contribute to regional or
+jurisdictional cost differences;
+(vi) The proportion of covered compostable materials
+within all source-separated compostable materials collected or
+managed through composting; and
+(vii) The general quality of covered materials collected by
+service providers;
+(B) The cost to transfer collected covered materials from
+consolidation or transfer facilities to reuse, processing, recycling, or
+composting facilities or to responsible markets to the extent not previously
+factored in under subdivision (c)(4)(A)(iv);
+(C) The cost to:
+(i) Sort and process covered materials for sale or use and
+remove contamination from covered materials by a recycling or
+composting facility, less the average fair market value for that
+covered material based on market indices for the region; and
+(ii) Manage contamination removed from collected
+covered material;
+- 25 - 001943
+(D) The costs of covered services for a refill system or covered
+services provided for reusable covered materials and management of
+contamination; and
+(E) Administrative costs of service providers, including education,
+public awareness campaigns, and outreach program costs, as applicable.
+(e) A producer responsibility organization must describe a dispute resolution
+process utilizing third-party mediators for disputes related to reimbursements.
+(f) The PRO shall establish performance goals for each covered material type at
+five-, ten-, and fifteen-year rolling intervals and demonstrate continual improvement in
+reducing environmental impacts and human health impacts of covered materials over
+time. The performance goals must be informed by PRO experience and knowledge and
+include postconsumer recycled content goals, recyclability and recycling rate goals,
+reuse goals, packaging reduction goals, composting goals, contamination reduction rate
+goals, and any other goals required by the advisory board or the department. The PRO
+shall review existing rates and dates for performance goals from other programs to use
+in establishing a minimum that aims to exceed the national average.
+(g) This part does not prohibit a PRO from establishing alternative systems as a
+strategy for increasing the capture and reuse or recycling of covered materials.
+(h) A producer responsibility plan expires five (5) years from the date that the
+department approves the plan, unless the plan is renegotiated, renewed, or amended
+and approved by the department.
+68-211-1207.
+(a) The PRO shall annually report to the department and the advisory board on
+the progress toward meeting producer responsibility plan requirements and goals for the
+immediately preceding year.
+- 26 - 001943
+(b) The progress report required by subsection (a) must include:
+(1) A detailed description of the reimbursement methods used for
+collecting, transporting, and processing covered materials;
+(2) The status of achieving the performance goals established under §
+68-211-1206(f), and if the goals have not been achieved, a description of the
+actions proposed to achieve the goals;
+(3) The amount of each covered material type collected in this state,
+including the method of disposition of each covered material type;
+(4) The amount of each collected covered material type exported from
+this state for processing broken down by destination and disposition;
+(5) The amount and disposition of each covered material not recycled as
+a result of excessive contamination;
+(6) The total cost of implementing the producer responsibility plan, as
+determined by an independent financial auditor;
+(7) Samples of all educational materials provided to consumers or other
+entities pursuant to this part;
+(8) A detailed description of the actions taken, and an evaluation of the
+methods used, to disseminate educational materials, including
+recommendations, if any, for how the educational component of the producer
+responsibility plan can be improved;
+(9) A detailed description of investments made in market development for
+improving reuse, contamination reduction, and recycling infrastructure;
+(10) A copy of a financial audit of program operations conducted by an
+independent auditor;
+(11) Changes to the PRO dues structure; and
+- 27 - 001943
+(12) Other information as required by the advisory board or the
+department.
+(c) A PRO shall maintain a website that uses best practices for accessibility and
+contains at a minimum contact information for the PRO, PRO reports, needs
+assessments, educational materials, and any other information required by the
+department.
+68-211-1208.
+(a) By January 1, 2026, and annually thereafter, a service provider seeking
+reimbursement for services provided under an approved producer responsibility plan
+according to § 68-211-1206 must register with the commissioner by submitting the
+following information:
+(1) The contact information for a person representing the service
+provider;
+(2) The address of the service provider; and
+(3) If applicable to services provided, a report of the total amount billed
+for collection for covered entities, processing services, and transfer station
+operations provided during the preceding calendar year and, when possible,
+values must be separated for collection, transfer, and processing.
+(b) The reimbursements provided to service providers under § 68-211-1206,
+under an approved producer responsibility plan, must only be provided to service
+providers that meet the performance standards established under an approved producer
+responsibility plan.
+68-211-1209.
+(a) As an alternative method for participating in the producer responsibility
+program, a producer may submit to the advisory board and the department an individual
+- 28 - 001943
+producer responsibility program plan proposal if they provide a unique ability to manage
+a defined subgroup of covered materials, and if the producer notifies the department of
+its intent to submit an individual plan no later than July 1, 2028, and by July 1 of each
+subsequent year. An individual producer responsibility program plan proposal must:
+(1) Comply with the requirements of § 68-211-1206(b);
+(2) Describe how the producer participating in the individual program will
+contribute to the department's cost of overseeing the program; and
+(3) Describe any alternative collection programs operated by the
+producer and their recycling, reuse, or composting rates.
+(b) The producer must report annually in compliance with the requirements of §
+68-211-1207.
+(c) The advisory board shall review an individual producer responsibility program
+plan proposal submitted under subsection (a) and make a recommendation concerning
+approval of the proposal to the department.
+68-211-1210.
+(a) On or after January 1, 2030, if the department has approved a producer
+responsibility plan, a producer shall not sell or distribute any products packaged in
+covered materials in this state unless the producer is participating in the PRO producer
+responsibility plan or an individual producer responsibility plan.
+(b) A person that is not a PRO or a producer that violates this part is liable for a
+civil penalty not to exceed twenty-five thousand dollars ($25,000) per day of violation.
+(c) A PRO or a producer that violates this part or the requirements of a
+stewardship plan approved by the commissioner is liable for a civil penalty in the
+following amount:
+- 29 - 001943
+(1) For a first violation, a civil penalty not to exceed twenty-five thousand
+dollars ($25,000) per day of violation;
+(2) For a second violation, a civil penalty not to exceed fifty thousand
+dollars ($50,000) per day of violation; and
+(3) For a third or subsequent violation, a civil penalty not to exceed one
+hundred thousand dollars ($100,000) per day of violation.
+(d) The department may rescind approval for a PRO producer responsibility plan
+or individual producer responsibility program plan at any time for good cause. If the
+department rescinds a plan, the PRO or individual producer may amend and resubmit
+the plan for approval.
+(e) If, based upon the annual report, goals have not been met, the department
+may require the PRO to amend the producer responsibility plan or a producer to amend
+its individual producer responsibility program plan.
+68-211-1211.
+A PRO that arranges collection, recycling, composting, waste reduction, or reuse
+services under this part may engage in anticompetitive conduct to the extent necessary
+to plan and implement collection, recycling, composting, waste reduction, or reuse
+systems to meet the obligations under this part and is immune from liability under state
+laws relating to antitrust, restraint of trade, and unfair trade practices.
+68-211-1212.
+(a) Subject to subsection (b), this part must not be construed to require a local
+government to agree to operate under a producer responsibility plan, nor does it restrict
+the authority of a local government to provide waste management services to residents
+or to contract with any entity to provide waste management services. A local
+government that is also a service provider is eligible to be registered with the
+- 30 - 001943
+commissioner and reimbursed at the rates and schedule established in accordance with
+an approved producer responsibility plan.
+(b)
+(1) A county having a population greater than two hundred thousand
+(200,000), according to the 2020 federal census or a subsequent federal census,
+shall operate under a producer responsibility plan as a service provider.
+(2) A county having a population of two hundred thousand (200,000) or
+less, according to the 2020 federal census or a subsequent federal census, may
+choose to operate as a service provider under a producer responsibility plan.
+(3) A municipality located in a non-participating county may choose to be
+a service provider separate from the county.
+68-211-1213.
+(a) A producer who claims that package materials are not covered materials
+under § 68-211-1202(5)(B)(3) must report the type, quantity, and disposition of the
+materials to the department annually.
+(b) A service provider must provide its PRO with data necessary to complete the
+needs assessment and reports required by this part upon request of the PRO.
+
+Section 4:
+SECTION 2. Tennessee Code Annotated, Section 4-29-249(a), is amended by inserting
+the following as a new subdivision:
+( ) Producer responsibility program advisory board, created by § 68-211-1203;
+
+Section 5:
+SECTION 3. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2025, the
+public welfare requiring it.
+- 31 - 001943
+[DELETED: WWS6((((]
+[DELETED:  -0((6A(((((((]
+[DELETED:  -0(((((((((((((]
+[DELETED:  -0(((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((((()()()]
+[DELETED:  -0()()()()()()()()()(()()(]
+[DELETED:  -0(((((((()()]
+[DELETED:  -0((((((((((]
+[DELETED:  -0((((((((((6(]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((((((6(((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(((((((((6]
+[DELETED:  -0((((((((((]
+[DELETED:  -0((((((((6(((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0((((((6(]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0((6(((((6(]
+[DELETED:  -0(((((6(((]
+[DELETED:  -0(((((6A6(]
+[DELETED:  -0((((6((S(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 600
+By Freeman
+SENATE BILL 269
+By Campbell
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 29, Part 2 and Title 68, Chapter 211,
+relative to solid waste.
+WHEREAS, packaging waste makes up nearly one-third of solid municipal waste with
+just twelve percent recycled, sending nine hundred thousand tons of recyclable packaging to
+landfills; and
+WHEREAS, businesses in this State want and need the valuable materials that would
+otherwise be lost to landfills, litter, and incineration; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 211, is amended by adding
+the following as a new part:
+68-211-1201.
+(a) This part is known and may be cited as the "Tennessee Waste to Jobs Act."
+(b) It is the intent of the general assembly that this part affects the development
+and implementation of a comprehensive approach to addressing packaging waste in this
+state, to include:
+(1) Creating jobs and providing a sustainable funding mechanism for the
+operation of local recycling systems, enabling investment in recycling
+infrastructure;
+(2) Diverting recyclable packaging waste from rapidly filling landfills in
+this state;
+SB0269
+001943
+- 1 -
+
+(3) Recovering valuable materials that would otherwise be lost to
+landfills, litter, and incineration, while developing markets for these materials and
+supporting businesses building a circular economy in this state; and
+(4) Engaging producers of packaging in the innovative reduction and
+reuse of packaging materials.
+68-211-1202.
+As used in this part:
+(1) "Advisory board" means the producer responsibility program advisory
+board, established under § 68-211-1203;
+(2) "Commissioner" means the commissioner of environment and
+conservation;
+(3) "Compostable material" means a covered material that:
+(A) Meets, and is labeled to reflect that it meets, the American
+Society for Testing and Materials (ASTM) standard in effect on July 1,
+2025, and any successor standard, as the D6400 specification for
+labeling of plastics designed to be aerobically composted in municipal or
+industrial facilities;
+(B) Meets, and is labeled to reflect that it meets, the ASTM
+standard in effect on July 1, 2025, and any successor standard, as the
+D6868 specification for labeling of end items that incorporate plastics and
+polymers as coatings or additives with paper and other substrates
+designed to be aerobically composted in municipal or industrial facilities;
+(C) Is composed of only wood without any coatings or additives;
+(D) Is composed of only paper without any coatings or additives;
+and
+- 2 - 001943
+
+(E) Is included on the minimum compostable materials list
+maintained under § 68-211-1204(a)(8);
+(4) "Covered entity" means a person or location that receives covered
+services for covered materials in accordance with the requirements of this part,
+including:
+(A) A single-family residence;
+(B) A multifamily residence;
+(C) A school or other location where education or childcare is
+provided;
+(D) A nonprofit corporation with annual revenue of less than
+thirty-five million dollars ($35,000,000); and
+(E) A state agency, political subdivision, public area, or other
+public entity or government unit;
+(5) "Covered materials":
+(A) Means packaging materials, except as provided in subdivision
+(5)(B); and
+(B) Does not include:
+(i) Packaging materials intended to be used for the long-
+term storage or protection of a durable product and that are
+intended to transport, protect, or store the product for at least five
+(5) years;
+(ii) Packaging materials used in commercial, industrial, or
+manufacturing processes;
+(iii) Subject to § 68-211-1213(a), packaging materials that
+are collected prior to receipt of the product by the consumer do
+- 3 - 001943
+
+not undergo separation from other materials at a commingled
+recycling processing facility, and are reused or recycled at a
+responsible end market;
+(iv) Beverage containers subject to a future returnable
+container deposit not established by the producer responsibility
+organization;
+(v) Packaging material used to contain a product that is
+regulated as a drug or medical device by the federal food and
+drug administration under the Federal Food, Drug, and Cosmetic
+Act, as amended (21 U.S.C. § 301 et seq.), or associated
+components and consumable medical equipment;
+(vi) Packaging material used to contain a product that is
+regulated under the Virus-Serum-Toxin Act, as amended (21
+U.S.C. § 151 et seq.);
+(vii) Packaging material used to contain a product that is
+required to be sold in packaging material that meets the
+requirements of the Poison Prevention Packaging Act, as
+amended (15 U.S.C. § 1471 et seq.);
+(viii) Packaging material used to contain a product that is
+regulated as infant formula, as defined in 21 U.S.C. § 321; as a
+medical food, as defined in 21 U.S.C. § 360ee(b); or as fortified
+nutritional supplements used for individuals who require
+supplemental or sole source nutrition to meet nutritional needs
+due to special dietary needs directly related to cancer, chronic
+kidney disease, diabetes, malnutrition, or failure to thrive, as those
+- 4 - 001943
+
+terms are defined by the world health organization's International
+Classification of Diseases, Tenth Revision (ICD-10), as amended
+or revised, or other medical conditions as determined by the
+department, after consultation with the advisory board, by rule;
+and
+(ix) Any other material that the department, after
+consultation with the advisory board, determines by rule to not be
+a covered material;
+(6) "Covered services" means the services provided for the recovery,
+recycling, reuse, or composting of covered materials by local governments and
+other providers, including the collection, transportation, and processing of
+covered materials from the consumer to the end market, curbside services, and
+drop-off centers;
+(7) "De minimis producer" means a person that in their most recent fiscal
+year:
+(A) Introduced less than one (1) ton of covered material into this
+state; or
+(B) Earned global gross revenues of less than two million dollars
+($2,000,000);
+(8) "Department" means the department of environment and
+conservation;
+(9) "Packaging materials":
+(A) Means, regardless of recyclability, a part of a package or
+container, including material that is used for the containment, protection,
+- 5 - 001943
+
+handling, delivery, and presentation of a product that is sold, offered for
+sale, imported, or distributed in this state; and
+(B) Includes:
+(i) Primary, secondary, and tertiary packaging intended for
+the consumer market; and
+(ii) Service packaging designed and intended to be filled
+at the point of sale, including carry-out bags, bulk goods bags, and
+take-out and home delivery food service packaging;
+(10) "Producer":
+(A) Except as provided in subdivision (10)(B), means the
+following person responsible for compliance with requirements under this
+part for a covered material:
+(i) For items sold in or with packaging at a physical retail
+location in this state:
+(a) If the item is sold in or with packaging under the
+brand of the item manufacturer or is sold in packaging that
+lacks identification of a brand, then the producer is the
+person that manufactures the item;
+(b) If there is no person to which subdivision
+(10)(A)(i)(a) applies, then the producer is the person that is
+licensed to manufacture and sell or offer for sale to
+consumers in this state an item with packaging under the
+brand or trademark of another manufacturer or person;
+- 6 - 001943
+
+(c) If there is no person to which subdivisions
+(10)(A)(i)(a) or (b) apply, then the producer is the brand
+owner of the item;
+(d) If there is no person to which subdivisions
+(10)(A)(i)(a)-(c) apply within the United States, then the
+producer is the person who is the importer of record for the
+item into the United States for use in a commercial
+enterprise that sells, offers for sale, or distributes the item
+in this state; and
+(e) If there is no person to which subdivisions
+(10)(A)(i)(a)-(d) apply, then the producer is the person that
+first distributes the item in or into this state;
+(ii) For items sold or distributed in packaging in or into this
+state via e-commerce, remote sale, or distribution:
+(a) For packaging used to directly protect or
+contain the item, the producer of the packaging is the
+same as if the items sold in or with packaging at a physical
+retail location in this state under subdivision (10)(A)(i); and
+(b) For packaging used to ship the item to a
+consumer, the producer of the packaging is the person that
+packages the item to be shipped to the consumer; and
+(iii) For packaging that is a covered material and for which
+a producer cannot be identified under subdivision (10)(A)(i) or
+subdivision (10)(A)(ii), the producer of the packaging is the person
+that first distributes the item in or into this state;
+- 7 - 001943
+
+(B) Does not include:
+(i) A state, a federal or state agency, a political subdivision
+of a state, or other governmental unit;
+(ii) A registered 501(c)(3) charitable organization or
+501(c)(4) social welfare organization;
+(iii) A de minimis producer;
+(iv) A mill that uses any virgin wood fiber in the products it
+produces;
+(v) A paper mill that produces container board derived
+from one hundred percent (100%) postconsumer recycled content
+and non-post-consumer recycled content; or
+(vi) A person who would otherwise be the producer of a
+covered material sold, offered for sale, or distributed in or into this
+state under subdivision (10)(A), if:
+(a) Another person contracts with the person who
+would otherwise be a producer to assume responsibility for
+the producer's compliance with requirements of this part,
+that person has joined a registered PRO as the
+responsible producer, and the person who would otherwise
+be a producer provides written certification of the contract
+to the PRO; or
+(b) The person who would otherwise be a producer
+is a business operated wholly or in part as a franchise, in
+which case the franchisor is the producer if that franchisor
+- 8 - 001943
+
+has franchisees that have a commercial presence within
+the state;
+(11) "Producer responsibility organization" or "PRO" means a nonprofit
+organization that is created by a group of producers to implement a producer
+responsibility plan;
+(12) "Readily recyclable material" means a covered material that is
+included as a recyclable material on the minimum recyclable materials list
+maintained under § 68-211-1204(a)(8);
+(13) "Recyclable" means a covered material that can technically and
+safely be recycled;
+(14) "Recycling":
+(A) Means the process of collecting and preparing recyclable
+materials and reusing the materials in their original form or using the
+materials in manufacturing processes that do not cause the destruction of
+recyclable materials in a manner that precludes further use; and
+(B) Does not include:
+(i) Use of covered materials for energy recovery or energy
+generation by means of combustion;
+(ii) Use of covered materials as, or in production of, a fuel
+or fuel component; or
+(iii) Disposal of discarded covered materials in a landfill,
+including use as alternative daily cover;
+(15) "Refill" means the continued use of a covered material by a
+consumer through a system that is:
+- 9 - 001943
+
+(A) Intentionally designed and marketed for repeated filling of a
+covered material to reduce demand for new production of the covered
+material;
+(B) Supported by adequate logistics and infrastructure to provide
+convenient access for consumers; and
+(C) Compliant with all applicable federal, state, and local statutes,
+rules, ordinances, and other laws governing health and safety;
+(16) "Reusable" means capable of reuse;
+(17) "Reuse" means the return of a covered material to the marketplace
+and the continued use of the covered material by a producer or service provider
+when the covered material is:
+(A) Intentionally designed and marketed to be used multiple times
+for its original intended purpose without a change in form;
+(B) Designed for durability and maintenance to extend its useful
+life and reduce demand for new production of the covered material;
+(C) Supported by adequate logistics and infrastructure at a retail
+location, by a service provider, or on behalf of or by a producer, that
+provides convenient access for consumers; and
+(D) Compliant with all applicable federal, state, and local statutes,
+rules, ordinances, and other laws governing health and safety; and
+(18) "Service provider" means a person who provides covered services.
+68-211-1203.
+(a) The commissioner shall appoint a producer responsibility program advisory
+board.
+- 10 - 001943
+
+(b) The advisory board is administratively attached to the department; provided,
+that the department may select an impartial, third-party facilitator to convene and provide
+administrative support to the advisory board.
+(c) The commissioner shall not appoint registered lobbyists to the advisory
+board.
+(d) The membership of the advisory board must represent all geographic regions
+of this state, including urban and rural counties and municipalities. The advisory board
+consists of the following twenty (20) members:
+(1) Three (3) voting members representing local governments in this
+state;
+(2) One (1) voting member representing materials recovery facilities;
+(3) One (1) voting member representing covered service providers;
+(4) One (1) voting member representing environmental nonprofit
+organizations;
+(5) One (1) voting member representing community-based nonprofit
+organizations working in the area of solid waste;
+(6) One (1) voting member representing a trade association or chamber
+of commerce, or other business advocacy organization representing businesses
+that are headquartered in this state;
+(7) One (1) voting member representing glass packaging material
+suppliers that is not a producer;
+(8) One (1) voting member representing plastics packaging material
+suppliers that is not a producer;
+(9) One (1) voting member representing fiber packaging material
+suppliers that is not a producer;
+- 11 - 001943
+
+(10) One (1) voting member representing metals packaging material
+suppliers that is not a producer;
+(11) One (1) voting member who has experience representing
+underserved communities;
+(12) One (1) voting member representing a solid waste landfill or transfer
+station operating an onsite, public-facing recycling collection program;
+(13) One (1) voting member representing durable goods manufacturing
+that is not a producer;
+(14) One (1) voting member representing retail and food services that is
+not a producer;
+(15) One (1) voting member representing an entity that develops or offers
+for sale covered materials that are designed for reuse and maintained through a
+reuse system or infrastructure or a statewide or national trade association that
+represents such entities;
+(16) One (1) voting member representing an entity that develops or offers
+for sale covered materials that are designed for refill and maintained through a
+refill system or infrastructure or a statewide or national trade association that
+represents such entities;
+(17) The commissioner, or the commissioner's designee, who serves as
+a nonvoting member; and
+(18) One (1) nonvoting member representing a PRO.
+(e) The commissioner shall appoint the initial advisory board members by July 1,
+2026. In making appointments to the advisory board, the commissioner shall strive to
+ensure that the makeup of the advisory board reflects and represents the demographic
+diversity of persons in this state.
+- 12 - 001943
+
+(f) The terms for appointed members of the advisory board are four (4) years.
+(g) In making the initial appointments, the members appointed pursuant to
+subdivisions (d)(2)-(9) and (15) are appointed for four-year terms, and the members
+appointed pursuant to subdivisions (d)(1), (10)–(14), (16), and (18) are appointed for
+two-year terms. Thereafter, all appointments are for the full four-year term. In the event
+of a vacancy, the commissioner shall fill the vacancy for the unexpired term.
+(h) After all initial appointments to the advisory board are made, but no later than
+July 15, 2026, the commissioner, or the impartial third-party facilitator selected under
+subsection (b), shall call the first meeting of the advisory board. At the first meeting, and
+at the first meeting of each year ending in an even number thereafter, the advisory board
+shall elect from among its appointed members a chair, vice chair, and any other officers
+deemed necessary.
+(i) After the first meeting of the advisory board, the advisory board shall meet at
+the call of the chair and not less than two (2) times per year.
+(j) Meetings of the advisory board must comply with the open meeting
+requirements of title 8, chapter 44.
+(k) All records of the advisory board are public records for purposes of the public
+records law, compiled in title 10, chapter 7.
+(l) All reimbursement for travel expenses must be in accordance with the
+comprehensive travel regulations as promulgated by the department of finance and
+administration and approved by the attorney general and reporter. All members of the
+advisory board serve without compensation but are eligible for reimbursement of
+necessary traveling and other appropriate expenses while engaged in the work of the
+advisory board.
+- 13 - 001943
+
+(m) If an appointed member is absent from more than two (2) consecutive
+meetings of the advisory board without good cause, then a vacancy is created.
+(n) The advisory board shall:
+(1) Advise the PRO throughout the needs assessment process, as
+described in § 68-211-1206(a), and review the needs assessment;
+(2) Advise the PRO on the development of producer responsibility plan
+proposals, as described in § 68-211-1206(b);
+(3) Review the producer responsibility plan proposal submitted to the
+department under § 68-211-1205(c)(4), and recommend that the department
+approve or reject the proposal;
+(4) Review an individual producer responsibility program plan proposal
+submitted to the department under § 68-211-1209, and recommend that the
+department approve or reject the proposal; and
+(5) Review the annual reports required by § 68-211-1207 and
+recommend to the PRO and the department any program amendments that are
+needed.
+68-211-1204.
+(a) The department shall:
+(1) Review applications from prospective PROs. If applications from
+more than one (1) PRO are submitted, then the department shall determine
+which proposed PRO can most effectively implement this part. The department
+may permit and approve additional PRO applicants if they provide unique ability
+to manage a defined subgroup of covered materials;
+(2) When determining whether to approve a PRO, consider whether the
+PRO:
+- 14 - 001943
+
+(A) Has a governing board consisting of producers that represent
+a diversity of covered materials introduced; and
+(B) Demonstrates adequate financial responsibility and financial
+controls to ensure proper management of funds;
+(3) Consult with the PRO and the advisory board in the development of
+the producer responsibility plan proposal;
+(4) Approve or reject a producer responsibility plan proposal submitted to
+the department under § 68-211-1205(c)(4);
+(5) Approve or reject an individual producer responsibility plan proposal
+submitted to the department under § 68-211-1209;
+(6) Review the annual reports required by § 68-211-1207;
+(7) Administer, review, oversee, and enforce the producer responsibility
+plan;
+(8) Review and annually update minimum recyclable and compostable
+materials lists that consider the availability of recycling composting services for
+each material, taking into consideration the impact of innovative collection and
+sorting technology on the creation of viable end markets;
+(9) By August 1, 2026, and each August 1 thereafter through August 1,
+2029, provide written notice to the PRO of the estimated cost to the department
+in performing its duties under this part, including all such costs incurred since the
+date that this act becomes a law; and
+(10) Beginning July 1, 2029, and annually thereafter, provide written
+notice to the PRO of the department's estimates of the cost required to perform
+the department's duties.
+(b) The commissioner shall:
+- 15 - 001943
+
+(1) By October 15, 2031, and every two (2) years thereafter, submit a
+report to the governor, to the chairman and ranking minority member of the
+senate energy, agriculture and natural resources committee, and the chairman
+and ranking minority member of the committee of house of representatives with
+subject jurisdiction over solid waste. The report must contain:
+(A) A summary of the implementation, administration, and
+enforcement of this part;
+(B) A summary of the most current needs assessment described
+in § 68-211-1206(a);
+(C) An internet link to a universal resource locator or other
+internet address where the reports filed under § 68-211-1207 are
+published;
+(D) Recommendations for policy, statutory, or regulatory changes
+to the producer responsibility program;
+(E) An analysis of the impacts of exempting certain materials from
+the definition of covered materials and of exempting certain persons from
+the definition of producer;
+(F) A list of efforts undertaken by the commissioner to enforce
+and secure compliance with this part; and
+(G) Any other information the commissioner deems to be
+relevant; and
+(2) Promulgate rules necessary to implement and administer this part.
+All rules must be promulgated in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5.
+68-211-1205.
+- 16 - 001943
+
+(a) By July 1, 2026, a producer shall establish a PRO.
+(b) By July 1, 2026, the governing body of the PRO shall apply for approval to
+the department describing how the PRO meets the requirements to be an approved
+PRO by submitting the following:
+(1) Contact information for a person responsible for implementing an
+approved stewardship plan;
+(2) A list of current member producers that have entered into written
+agreements to operate under an approved stewardship plan administered by the
+PRO;
+(3) A plan for recruiting additional member producers and executing
+written agreements confirming producers will operate under an approved
+stewardship plan administered by the PRO;
+(4) A list of current board members and the executive director, if different
+than the person identified pursuant to subdivision (b)(1);
+(5) Documentation demonstrating adequate financial responsibility and
+financial controls to ensure the proper management of funds; and
+(6) Payment of an implementation fee set by rule of the commissioner.
+(c) The PRO shall:
+(1) Facilitate at least one (1) needs assessment, as described in § 68-
+211-1206, every five (5) years conducted by an independent third party approved
+by the department using a consultation process to obtain recommendations from
+the advisory board, local governments, service providers, PROs, and other
+interested parties regarding the type and scope of information that should be
+collected and analyzed in the needs assessment;
+- 17 - 001943
+
+(2) Engage with local governments to increase participation under this
+part;
+(3) Consult with the advisory board and the department in the
+development of the producer responsibility plan proposal;
+(4) Submit a producer responsibility plan proposal that covers a period of
+five (5) years to the department and the advisory board; and
+(5) Operate and administer the department-approved producer
+responsibility plan as the producer responsibility program.
+(d) By January 1, 2027, a producer must be a member of a PRO approved in
+this state.
+(e) By July 1, 2027, a PRO shall submit the results of a preliminary needs
+assessment to the department and the advisory board.
+(f) By July 1, 2028, a PRO shall submit the results of the initial needs
+assessment to the department and the advisory board.
+(g) By July 1, 2029, a PRO shall submit an initial producer responsibility plan
+proposal to the department and the advisory board. When approved by the department,
+the PRO shall begin implementation of the producer responsibility plan within six (6)
+months of approval.
+68-211-1206.
+(a) The needs assessments required under § 68-211-1205(c)(1) must include:
+(1) The service availability, capacity, performance, and gaps in the reuse,
+composting, and recycling services provided to covered entities throughout this
+state and the prices paid for reuse, composting, and recycling services;
+(2) The documented cost of reuse, composting, and recycling services
+incurred by public and private service providers to provide recycling services;
+- 18 - 001943
+
+(3) The processing capacity of existing infrastructure, the additional
+infrastructure needed to meet or exceed the recycling, reuse, and composting
+levels set by the producer responsibility plan proposal, and opportunities for the
+use of innovative new technologies for sorting and collection to improve that
+capacity;
+(4) An assessment of the level and causes of contamination of source-
+separated recyclable materials, source-separated compostable materials, and
+collected reusables, and the impacts of contamination on service providers,
+including the cost to manage that contamination;
+(5) An evaluation of the opportunities and costs of various service
+methods to increase reuse, composting, and recycling rates overall;
+(6) The education needs in this state pertaining to composting, reuse,
+and recycling; and
+(7) Assessment and identification of materials for recommendation for
+inclusion on the minimum recyclable and compostable materials lists maintained
+under § 68-211-1204(a)(8).
+(b) The producer responsibility plan proposal required under § 68-211-
+1205(c)(4) must:
+(1) Include a list of participating producers;
+(2) Describe how the producer responsibility plan proposal will address
+and implement the findings of the needs assessment in a fair and balanced
+manner;
+(3) Provide a financing mechanism in accordance with subsection (c) that
+supports, to the extent possible, that recycling and composting services for
+- 19 - 001943
+
+materials listed on the minimum recyclables and compostables lists are as
+convenient as mixed municipal solid waste collection;
+(4) Describe how staffing and administering the implementation of the
+producer responsibility plan will be handled;
+(5) Describe the manner in which the PRO solicited and considered input
+from stakeholders;
+(6) Describe how the PRO will track compliance amongst producers and
+will bring producers into compliance;
+(7) Establish a financing mechanism based on PRO dues, as described
+in subsection (c), which includes the following components:
+(A) Varied PRO dues based on:
+(i) The quantity of covered materials a producer sells,
+distributes, or imports in this state;
+(ii) Whether or not the covered materials are reusable,
+compostable, or readily recyclable, which determination must
+account for associated impacts as well as the extent to which
+recycling or composting services for a covered material are
+accessible to the consumer; and
+(iii) The use of recycled content in covered materials so
+that dues are lower for producers who use covered materials that
+contain higher amounts of recycled content than other producers;
+(B) Prioritize reuse by charging covered materials that are
+managed through a reuse system only once, upon initial entry into the
+marketplace;
+- 20 - 001943
+
+(C) Reduce the amount of packaging per individual covered
+material that is necessary to efficiently deliver a product without damage
+or spoilage and without reducing its ability to be recycled;
+(D) Incentivize using materials and design attributes that reduce
+the environmental impacts and human health impacts of covered
+materials; and
+(E) Prohibit the use of PRO dues for lobbying;
+(8) Describe the strategy for reducing the quantity of covered materials in
+this state, including how producers participating in a producer responsibility plan
+will work together to reduce packaging through product design and program
+innovations;
+(9) Describe the strategy for increasing packaging reuse in this state,
+including how producers will work together to design and implement innovative
+reuse processes;
+(10) Describe the strategy for increasing packaging composting in this
+state, as appropriate and technologically feasible for certain covered materials;
+(11) Describe performance standards for recycling, composting, and
+reuse service providers as applicable to the service provided, including, but not
+limited to:
+(A) The quality of collected covered materials based upon the
+service provided; and
+(B) Employee safety programs, employee health benefits, living
+wages, and other labor standards and safety practices;
+- 21 - 001943
+
+(12) Describe how the program will reimburse service providers under an
+approved producer responsibility plan, including, but not limited to, a description
+of:
+(A) How the program will provide a methodology to calculate
+differentiated reimbursement rates as provided under subsection (c);
+(B) A process for service providers to submit invoices and be
+reimbursed for recycling, composting, or reuse services; and
+(C) Clear and reasonable timelines for reimbursement, at
+intervals no longer than monthly unless agreed to by a service provider
+and a PRO;
+(13) Describe the actions taken or that will be taken for public outreach,
+education, and communication concerning the recycling, reuse, or composting of
+covered materials;
+(14) Describe the process by which recycling, reuse, or composting
+service providers may request reimbursement for costs associated with
+transporting, collecting, and processing covered materials that are identified in
+the producer responsibility plan;
+(15) Describe how the PRO will work with recycling, reuse, and
+composting service providers to utilize and expand on existing recycling, reuse,
+and composting service providers and infrastructure to the greatest extent
+possible, including, but not limited to:
+(A) If the PRO intends to develop new collection and recycling
+infrastructure, it must state why and how this may impact the existing
+infrastructure and how it may impact collection and recycling of covered
+materials on a statewide basis; and
+- 22 - 001943
+
+(B) Describe how a PRO will use competitive bidding processes
+for infrastructure investments included in an approved stewardship plan;
+(16) Describe how covered materials will be collected and processed in a
+manner that retains their value for their highest use;
+(17) Describe how the plan will provide or facilitate the deployment of
+innovative recycling and reuse systems within a recycling center or materials
+recovery facility that utilizes innovative technology to improve the identification
+and sorting of covered materials, where feasible;
+(18) Describe how the plan will utilize innovative technologies to improve
+data collection of covered materials collected and processed and the disposition
+of such materials throughout the materials recovery facility or recycling center;
+(19) A description of how producers can purchase postconsumer
+materials from service providers at market prices if the producer is interested in
+obtaining recycled feedstock to achieve minimum postconsumer recycled content
+performance targets and statewide requirements;
+(20) A description of how the PRO has engaged with nonparticipating
+local governments to facilitate and encourage participation under the producer
+responsibility plan;
+(21) A description of how local governments may begin operating under
+an existing producer responsibility plan; and
+(22) Include additional information as required by the advisory board and
+the department.
+(c) The PRO may charge each member producer dues according to each
+producer's unit-, weight-, volume-, or sales-based market share, or by another method
+the PRO determines to be an equitable determination of each producer's payment
+- 23 - 001943
+
+obligation, so that the aggregate dues charged to member producers is sufficient to pay
+the commissioner's estimated costs under § 68-211-1204(a)(9) and (10) in full.
+(d) In implementing the approved producer responsibility plan, the PRO shall
+use a financing method that:
+(1) Provides a methodology for reimbursement rates for covered services
+for covered materials, exclusive of exempt materials. The methodology for
+reimbursement rates must consider estimated revenue received by service
+providers from the sale of covered materials based upon relevant material
+indices and incorporate relevant cost information identified by the needs
+assessment. Reimbursement rates must be annually updated and reflect the net
+costs for covered services for covered materials from covered entities, at a
+minimum. Reimbursement rates must be established equivalent to net costs as
+established by a methodology in an approved plan;
+(2) Calculates reimbursement rates per ton, by household, or by another
+appropriate unit of measurement;
+(3) Provides a formula for reimbursement rates for recycling, composting,
+or reuse services for covered materials. Reimbursement rates must be
+established equivalent to net costs pursuant to the methodology required by
+subdivision (d)(1) for reasonable covered services costs;
+(4) Bases reimbursement rates on the following, as applicable by the
+service provided:
+(A) The cost to collect covered material for recycling, a
+proportional share of composting, or reuse adjusted to reflect conditions
+that affect those costs, varied by region or jurisdiction in which the
+covered services are provided, including, but not limited to:
+- 24 - 001943
+
+(i) The number and type of covered entities;
+(ii) Population density;
+(iii) Collection methods employed;
+(iv) Distance traveled by collection vehicles to
+consolidation or transfer facilities; to reuse, recycling, or
+composting facilities; and to responsible markets;
+(v) Other factors that may contribute to regional or
+jurisdictional cost differences;
+(vi) The proportion of covered compostable materials
+within all source-separated compostable materials collected or
+managed through composting; and
+(vii) The general quality of covered materials collected by
+service providers;
+(B) The cost to transfer collected covered materials from
+consolidation or transfer facilities to reuse, processing, recycling, or
+composting facilities or to responsible markets to the extent not previously
+factored in under subdivision (c)(4)(A)(iv);
+(C) The cost to:
+(i) Sort and process covered materials for sale or use and
+remove contamination from covered materials by a recycling or
+composting facility, less the average fair market value for that
+covered material based on market indices for the region; and
+(ii) Manage contamination removed from collected
+covered material;
+- 25 - 001943
+
+(D) The costs of covered services for a refill system or covered
+services provided for reusable covered materials and management of
+contamination; and
+(E) Administrative costs of service providers, including education,
+public awareness campaigns, and outreach program costs, as applicable.
+(e) A producer responsibility organization must describe a dispute resolution
+process utilizing third-party mediators for disputes related to reimbursements.
+(f) The PRO shall establish performance goals for each covered material type at
+five-, ten-, and fifteen-year rolling intervals and demonstrate continual improvement in
+reducing environmental impacts and human health impacts of covered materials over
+time. The performance goals must be informed by PRO experience and knowledge and
+include postconsumer recycled content goals, recyclability and recycling rate goals,
+reuse goals, packaging reduction goals, composting goals, contamination reduction rate
+goals, and any other goals required by the advisory board or the department. The PRO
+shall review existing rates and dates for performance goals from other programs to use
+in establishing a minimum that aims to exceed the national average.
+(g) This part does not prohibit a PRO from establishing alternative systems as a
+strategy for increasing the capture and reuse or recycling of covered materials.
+(h) A producer responsibility plan expires five (5) years from the date that the
+department approves the plan, unless the plan is renegotiated, renewed, or amended
+and approved by the department.
+68-211-1207.
+(a) The PRO shall annually report to the department and the advisory board on
+the progress toward meeting producer responsibility plan requirements and goals for the
+immediately preceding year.
+- 26 - 001943
+
+(b) The progress report required by subsection (a) must include:
+(1) A detailed description of the reimbursement methods used for
+collecting, transporting, and processing covered materials;
+(2) The status of achieving the performance goals established under §
+68-211-1206(f), and if the goals have not been achieved, a description of the
+actions proposed to achieve the goals;
+(3) The amount of each covered material type collected in this state,
+including the method of disposition of each covered material type;
+(4) The amount of each collected covered material type exported from
+this state for processing broken down by destination and disposition;
+(5) The amount and disposition of each covered material not recycled as
+a result of excessive contamination;
+(6) The total cost of implementing the producer responsibility plan, as
+determined by an independent financial auditor;
+(7) Samples of all educational materials provided to consumers or other
+entities pursuant to this part;
+(8) A detailed description of the actions taken, and an evaluation of the
+methods used, to disseminate educational materials, including
+recommendations, if any, for how the educational component of the producer
+responsibility plan can be improved;
+(9) A detailed description of investments made in market development for
+improving reuse, contamination reduction, and recycling infrastructure;
+(10) A copy of a financial audit of program operations conducted by an
+independent auditor;
+(11) Changes to the PRO dues structure; and
+- 27 - 001943
+
+(12) Other information as required by the advisory board or the
+department.
+(c) A PRO shall maintain a website that uses best practices for accessibility and
+contains at a minimum contact information for the PRO, PRO reports, needs
+assessments, educational materials, and any other information required by the
+department.
+68-211-1208.
+(a) By January 1, 2026, and annually thereafter, a service provider seeking
+reimbursement for services provided under an approved producer responsibility plan
+according to § 68-211-1206 must register with the commissioner by submitting the
+following information:
+(1) The contact information for a person representing the service
+provider;
+(2) The address of the service provider; and
+(3) If applicable to services provided, a report of the total amount billed
+for collection for covered entities, processing services, and transfer station
+operations provided during the preceding calendar year and, when possible,
+values must be separated for collection, transfer, and processing.
+(b) The reimbursements provided to service providers under § 68-211-1206,
+under an approved producer responsibility plan, must only be provided to service
+providers that meet the performance standards established under an approved producer
+responsibility plan.
+68-211-1209.
+(a) As an alternative method for participating in the producer responsibility
+program, a producer may submit to the advisory board and the department an individual
+- 28 - 001943
+
+producer responsibility program plan proposal if they provide a unique ability to manage
+a defined subgroup of covered materials, and if the producer notifies the department of
+its intent to submit an individual plan no later than July 1, 2028, and by July 1 of each
+subsequent year. An individual producer responsibility program plan proposal must:
+(1) Comply with the requirements of § 68-211-1206(b);
+(2) Describe how the producer participating in the individual program will
+contribute to the department's cost of overseeing the program; and
+(3) Describe any alternative collection programs operated by the
+producer and their recycling, reuse, or composting rates.
+(b) The producer must report annually in compliance with the requirements of §
+68-211-1207.
+(c) The advisory board shall review an individual producer responsibility program
+plan proposal submitted under subsection (a) and make a recommendation concerning
+approval of the proposal to the department.
+68-211-1210.
+(a) On or after January 1, 2030, if the department has approved a producer
+responsibility plan, a producer shall not sell or distribute any products packaged in
+covered materials in this state unless the producer is participating in the PRO producer
+responsibility plan or an individual producer responsibility plan.
+(b) A person that is not a PRO or a producer that violates this part is liable for a
+civil penalty not to exceed twenty-five thousand dollars ($25,000) per day of violation.
+(c) A PRO or a producer that violates this part or the requirements of a
+stewardship plan approved by the commissioner is liable for a civil penalty in the
+following amount:
+- 29 - 001943
+
+(1) For a first violation, a civil penalty not to exceed twenty-five thousand
+dollars ($25,000) per day of violation;
+(2) For a second violation, a civil penalty not to exceed fifty thousand
+dollars ($50,000) per day of violation; and
+(3) For a third or subsequent violation, a civil penalty not to exceed one
+hundred thousand dollars ($100,000) per day of violation.
+(d) The department may rescind approval for a PRO producer responsibility plan
+or individual producer responsibility program plan at any time for good cause. If the
+department rescinds a plan, the PRO or individual producer may amend and resubmit
+the plan for approval.
+(e) If, based upon the annual report, goals have not been met, the department
+may require the PRO to amend the producer responsibility plan or a producer to amend
+its individual producer responsibility program plan.
+68-211-1211.
+A PRO that arranges collection, recycling, composting, waste reduction, or reuse
+services under this part may engage in anticompetitive conduct to the extent necessary
+to plan and implement collection, recycling, composting, waste reduction, or reuse
+systems to meet the obligations under this part and is immune from liability under state
+laws relating to antitrust, restraint of trade, and unfair trade practices.
+68-211-1212.
+(a) Subject to subsection (b), this part must not be construed to require a local
+government to agree to operate under a producer responsibility plan, nor does it restrict
+the authority of a local government to provide waste management services to residents
+or to contract with any entity to provide waste management services. A local
+government that is also a service provider is eligible to be registered with the
+- 30 - 001943
+
+commissioner and reimbursed at the rates and schedule established in accordance with
+an approved producer responsibility plan.
+(b)
+(1) A county having a population greater than two hundred thousand
+(200,000), according to the 2020 federal census or a subsequent federal census,
+shall operate under a producer responsibility plan as a service provider.
+(2) A county having a population of two hundred thousand (200,000) or
+less, according to the 2020 federal census or a subsequent federal census, may
+choose to operate as a service provider under a producer responsibility plan.
+(3) A municipality located in a non-participating county may choose to be
+a service provider separate from the county.
+68-211-1213.
+(a) A producer who claims that package materials are not covered materials
+under § 68-211-1202(5)(B)(3) must report the type, quantity, and disposition of the
+materials to the department annually.
+(b) A service provider must provide its PRO with data necessary to complete the
+needs assessment and reports required by this part upon request of the PRO.
+SECTION 2. Tennessee Code Annotated, Section 4-29-249(a), is amended by inserting
+the following as a new subdivision:
+( ) Producer responsibility program advisory board, created by § 68-211-1203;
+SECTION 3. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2025, the
+public welfare requiring it.
+- 31 - 001943
+
+[DELETED: WWS6((((]
+[DELETED:  -0((6A(((((((]
+[DELETED:  -0(((((((((((((]
+[DELETED:  -0(((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((((()()()]
+[DELETED:  -0()()()()()()()()()(()()(]
+[DELETED:  -0(((((((()()]
+[DELETED:  -0((((((((((]
+[DELETED:  -0((((((((((6(]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((((((6(((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(((((((((6]
+[DELETED:  -0((((((((((]
+[DELETED:  -0((((((((6(((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0((((((6(]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0((6(((((6(]
+[DELETED:  -0(((((6(((]
+[DELETED:  -0(((((6A6(]
+[DELETED:  -0((((6((S(S]

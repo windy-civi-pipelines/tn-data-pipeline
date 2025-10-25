@@ -1,0 +1,61 @@
+Title: AMEND S e n ate Bill No. 196* House Bill No. 392
+Official Title: AMEND S e n ate Bill No. 196* House Bill No. 392
+Number of Sections: 3
+Source: versions - Amendment SA0127
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate Education 1
+Amendment No. 1 to SB0196
+White
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-1-228, is amended by adding the
+following as a new subsection:
+The department of education shall not exclude from the calculation of a school
+letter grade:
+(1) The data of any group of students within a school if the department
+collects, aggregates, and reports the data, and if the group of students has at
+least twenty (20) valid test scores in math or English language arts for at least
+one (1) grade band; and
+(2) Data for the college and career readiness indicator if the school has
+at least twenty (20) students in a graduating cohort.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SA0127
+004940
+- 1 -
+[DELETED:  a HST((S]
+
+
+================================================================================
+
+Raw Text:
+Senate Education 1
+Amendment No. 1 to SB0196
+White
+Signature of Sponsor
+AMEND S e n ate Bill No. 196* House Bill No. 392
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 49-1-228, is amended by adding the
+following as a new subsection:
+The department of education shall not exclude from the calculation of a school
+letter grade:
+(1) The data of any group of students within a school if the department
+collects, aggregates, and reports the data, and if the group of students has at
+least twenty (20) valid test scores in math or English language arts for at least
+one (1) grade band; and
+(2) Data for the college and career readiness indicator if the school has
+at least twenty (20) students in a graduating cohort.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SA0127
+004940
+- 1 -
+
+[DELETED:  a HST((S]

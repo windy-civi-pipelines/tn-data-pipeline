@@ -1,0 +1,446 @@
+Title: SENATE BILL 534
+Official Title: SENATE BILL 534
+Number of Sections: 18
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+By Stevens
+HOUSE BILL 817
+By Garrett
+AN ACT to amend Tennessee Code Annotated, Title 30
+and Title 35, relative to trusts.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 30-1-404(b), is amended by deleting
+the language "Should any person entitled to serve as trustee" and substituting "Should any
+person entitled to serve or currently serving as trustee", and by deleting the language ",
+provided that the then market value of the trust estate does not exceed one hundred thousand
+dollars ($100,000)".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 30-1-404(b)(2), is amended by
+deleting the subdivision and substituting:
+(2) The instrument does not contain provisions for the appointment of a
+successor or substitute, or such provision is unable to be implemented, and the then-
+serving trustee does not, or an adult income beneficiary or vested remainderman do not
+petition for the appointment of a successor or substitute trustee within three (3) months
+after there is a vacancy in office or all sooner waive this right; or
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 35-15-104(a), is amended by adding
+the following new subdivision:
+(4) Has reason to know of it because the fact is accessible by the person
+through electronic means, such person provided consent to receive information by
+electronic means in a record, as defined in § 47-10-102, and such consent has not been
+revoked. Such information is deemed to be accessible by the person through electronic
+HB0817
+000657
+- 1 -
+means if the information was available through electronic means for at least sixty (60)
+days and if:
+(A) The means of electronic access were provided in the record; or
+(B) It can be shown that the electronic access was actually utilized at any
+time.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 35-15-109(a), is amended by
+deleting the subsection and substituting:
+(a)
+(1) Notice to a person under this chapter or the sending of a document to
+a person under this chapter must be accomplished in a manner reasonably
+suitable under the circumstances and likely to result in receipt of the notice or
+document.
+(2) Permissible methods of notice or for sending a document include:
+(A) First-class mail;
+(B) Personal delivery;
+(C) Delivery to the person's last known place of residence or
+place of business;
+(D) A properly directed electronic message; or
+(E) Providing the notice or document through electronic means
+when such person provided consent to receive information by electronic
+means in a record, as defined in § 47-10-102, and such consent has not
+been revoked. A notice or document is deemed to be accessible by the
+person through electronic means if:
+(i) The means of electronic access were provided in the
+record; or
+- 2 - 000657
+(ii) It can be shown that the electronic access was actually
+utilized at any time.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Title 35, Chapter 15, Part 2, is amended by
+adding the following as a new section:
+35-15-206.
+(a) A judicial proceeding to contest whether a revocable trust or any amendment
+thereto, or an irrevocable trust was validly created may be commenced at any time
+following its execution, but shall not be commenced later than the first to occur of:
+(1) Two (2) years after the date of the settlor's death;
+(2) One hundred twenty (120) days after the date that the trustee notified
+in writing the person who is contesting the trust of the trust's existence, of the
+trustee's name and address, of whether such person is a beneficiary, and of the
+time allowed under this section for commencing a proceeding to contest the
+validity of the trust. However, a trustee does not have any liability under the trust
+instrument or to any third party or otherwise for failure to provide any such written
+notice. For purposes of this subdivision (a)(2), notice has been given when sent
+to the person to whom notice was given. Absent evidence to the contrary, it is
+presumed that notice was received by the person seven (7) days after it was sent
+to such person in accordance with § 35-15-109; or
+(3) The date the person's right to contest was precluded by adjudication,
+consent, or other limitation.
+(b) In the event a trust or trust provision is adjudged to be invalid, or if a
+distribution is adjudged to have been made in error, by the final judgment of a court
+having jurisdiction, which judgment is subject to no further appeal, any beneficiary
+having received an improper distribution shall, upon receipt of a copy of such order,
+- 3 - 000657
+return the improper distribution to the court. If the beneficiary fails to return the improper
+distribution to the court, then the beneficiary is liable for costs, including reasonable
+attorney fees, incurred to recover the improper distribution from the beneficiary.
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Section 35-15-817(h)(1), is amended by
+deleting "§ 35-15-604" and substituting "§ 35-15-206".
+
+Section 8:
+SECTION 7. Tennessee Code Annotated, Section 35-15-301, is amended by adding
+the following new subsection:
+(e) Notice, information, accountings, or reports given to a person who may
+represent and bind another person under this chapter may serve as a substitute for and
+have the same effect as providing notice, information, accountings, or reports directly to
+the person being represented.
+
+Section 9:
+SECTION 8. Tennessee Code Annotated, Section 35-15-402(d), is amended by
+deleting the word "and" immediately following the semicolon at the end of subdivision (1), by
+deleting the language "describing the asset with particularity in the trust instrument." from
+subdivision (2) and substituting "describing the asset; and", and by adding the following new
+subdivision:
+(3) Tangible personal property other than money, an evidence of indebtedness,
+a document of title, a security, and property used in a trade or business may be
+assigned to a trust, either during the grantor's life or after the grantor's death, by delivery
+of a written instrument that:
+(A) Is signed by the transferor;
+(B) Identifies the tangible personal property in general terms; and
+(C) Specifically identifies the trust.
+
+Section 10:
+SECTION 9. Tennessee Code Annotated, Section 35-15-402, is amended by
+designating subsection (d) as subdivision (d)(1) and adding the following as subdivision (d)(2):
+- 4 - 000657
+(2) Subdivision (d)(1) applies to such tangible personal property that is owned
+when such written instrument is signed, and to property that is subsequently acquired by
+the transferor.
+
+Section 11:
+SECTION 10. Tennessee Code Annotated, Section 35-15-604, is amended by deleting
+subsections (a) and (c).
+
+Section 12:
+SECTION 11. Tennessee Code Annotated, Section 35-15-709(b), is amended by
+deleting the subsection and substituting:
+(b) An advance, either by the trustee, trust advisor, or trust protector or by a
+person named in § 35-15-701(c)(1), of money gives rise to a lien against trust property to
+secure reimbursement with reasonable interest. Failure to pay to or reimburse a trustee
+for expenses incurred pursuant to subsection (a) gives rise to a lien against all trust
+property for the payment of all sums due or to become due for services, expenses,
+advances, and the costs and expenses of enforcing such payment or reimbursement.
+
+Section 13:
+SECTION 12. Tennessee Code Annotated, Title 35, Chapter 15, Part 8, is amended by
+adding the following as a new section:
+(a) Unless the terms of a trust instrument expressly provide that a settlor shall
+not be reimbursed by a trust for the settlor's personal income tax liability attributable to
+the trust, if the settlor of a trust is treated under 26 U.S.C. § 671 et seq. as the owner of
+all or part of the trust, then a disinterested trustee, in the disinterested trustee's sole
+discretion, or another trustee at the direction of a trust advisor or trust protector who
+would be treated as a disinterested trustee and otherwise has the power to direct
+discretionary distributions under the trust instrument, may reimburse the settlor for any
+amount of the settlor's personal federal, state, local, foreign, or other income tax liability
+that is attributable to the inclusion of the trust's income, capital gains, deductions, and
+credits in the calculation of the settlor's taxable income under principals of 26 U.S.C. §
+- 5 - 000657
+671 et seq. The trustee may pay such amount to the settlor directly, or may pay the
+amount to an appropriate taxing authority on the settlor's behalf, as the trustee
+determines in the trustee's sole discretion. This power shall in all cases be exercised in
+the sole and absolute discretion of a disinterested trustee or trust advisor or protector
+who would be treated as a disinterested trustee, and no settlor or other person may
+compel the exercise of this power or enter into an express or implied agreement or
+understanding regarding the exercise of such power. No policy of insurance on the
+settlor's life held in the trust nor the cash value of any such policy, nor the proceeds of
+any loan secured by an interest in the policy may be used to reimburse the settlor or to
+pay an appropriate taxing authority on the settlor's behalf. Neither the trustee's power to
+make payments to, or for the benefit of, the settlor under this section, nor the trustee's
+decision to exercise such power in favor of the settlor, causes the settlor to be treated as
+a beneficiary of the trust for any purpose.
+(b) This section does not apply if the application of this section would disqualify a
+trust for, or reduce the amount of, a marital deduction, a charitable deduction, or another
+specific tax benefit otherwise available to any person for state or federal income, gift,
+estate, or generation-skipping transfer tax purposes.
+
+Section 14:
+SECTION 13. Tennessee Code Annotated, Section 35-15-1005, is amended by adding
+the following new subsection:
+(f) For purposes of this section, a person is deemed to have actual knowledge of
+information that is accessible by the person through electronic means if the person
+provided consent to receive information by electronic means in a record, as defined in §
+47-10-102, and such consent has not been revoked. The information is deemed to be
+accessible by the person if:
+(1) The means of electronic access were provided in the record; or
+- 6 - 000657
+(2) It can be shown that the electronic access was actually utilized at any
+time.
+
+Section 15:
+SECTION 14. Tennessee Code Annotated, Section 35-15-1102, is amended by deleting
+the last sentence and substituting "However, the execution of an inter vivos trust instrument, a
+document to transfer an asset to or from a trust, or a consent, release, ratification, modification,
+termination, or settlement agreement pursuant to § 35-15-109, § 35-15-111, § 35-15-411, or §
+35-15-412 is considered a transaction for purposes of § 47-10-103.".
+
+Section 16:
+SECTION 15. Tennessee Code Annotated, Section 35-15-1202, is amended by deleting
+the section and substituting:
+(a) A trust advisor or trust protector, other than a beneficiary, is a fiduciary with
+respect to each power granted to such trust advisor or trust protector. In exercising a
+power or refraining from exercising a power, a trust advisor or trust protector acting as a
+fiduciary shall act in good faith and in accordance with the terms and purposes of the
+trust and the interests of the beneficiaries.
+(b) A trust advisor or trust protector is an excluded fiduciary, regardless of
+whether the trust advisor or trust protector is serving in a fiduciary capacity, with respect
+to each power granted or reserved exclusively to any one (1) or more other trustees,
+trust advisors, or trust protectors.
+(c) Notwithstanding subsection (a), a trust advisor or trust protector may serve in
+a nonfiduciary capacity when specifically appointed in such capacity, and when acting in
+such capacity is liable only for acting in bad faith or with reckless indifference.
+
+Section 17:
+SECTION 16. The Tennessee Code Commission is requested to publish in Tennessee
+Code Annotated the revisions required to conform to the current state of the law the official
+comments for Chapter 1 of Title 30 and Chapter 15 of Title 35 that are filed with the executive
+- 7 - 000657
+secretary of the Tennessee Code Commission by May 19, 2025, by duly authorized
+representatives of the Trust Committee of the Tennessee Bankers Association.
+
+Section 18:
+SECTION 17. This act takes effect July 1, 2025, the public welfare requiring it.
+- 8 - 000657
+[DELETED: SS(S(]
+[DELETED:  -0((S(((((((((]
+[DELETED:  -0(S3(((((]
+[DELETED:  -0SS(S((((S]
+[DELETED:  -0(SS(S(]
+[DELETED:  -0(S((]
+[DELETED:  -0(SS(((S]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 534
+By Stevens
+HOUSE BILL 817
+By Garrett
+AN ACT to amend Tennessee Code Annotated, Title 30
+and Title 35, relative to trusts.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 30-1-404(b), is amended by deleting
+the language "Should any person entitled to serve as trustee" and substituting "Should any
+person entitled to serve or currently serving as trustee", and by deleting the language ",
+provided that the then market value of the trust estate does not exceed one hundred thousand
+dollars ($100,000)".
+SECTION 2. Tennessee Code Annotated, Section 30-1-404(b)(2), is amended by
+deleting the subdivision and substituting:
+(2) The instrument does not contain provisions for the appointment of a
+successor or substitute, or such provision is unable to be implemented, and the then-
+serving trustee does not, or an adult income beneficiary or vested remainderman do not
+petition for the appointment of a successor or substitute trustee within three (3) months
+after there is a vacancy in office or all sooner waive this right; or
+SECTION 3. Tennessee Code Annotated, Section 35-15-104(a), is amended by adding
+the following new subdivision:
+(4) Has reason to know of it because the fact is accessible by the person
+through electronic means, such person provided consent to receive information by
+electronic means in a record, as defined in § 47-10-102, and such consent has not been
+revoked. Such information is deemed to be accessible by the person through electronic
+HB0817
+000657
+- 1 -
+
+means if the information was available through electronic means for at least sixty (60)
+days and if:
+(A) The means of electronic access were provided in the record; or
+(B) It can be shown that the electronic access was actually utilized at any
+time.
+SECTION 4. Tennessee Code Annotated, Section 35-15-109(a), is amended by
+deleting the subsection and substituting:
+(a)
+(1) Notice to a person under this chapter or the sending of a document to
+a person under this chapter must be accomplished in a manner reasonably
+suitable under the circumstances and likely to result in receipt of the notice or
+document.
+(2) Permissible methods of notice or for sending a document include:
+(A) First-class mail;
+(B) Personal delivery;
+(C) Delivery to the person's last known place of residence or
+place of business;
+(D) A properly directed electronic message; or
+(E) Providing the notice or document through electronic means
+when such person provided consent to receive information by electronic
+means in a record, as defined in § 47-10-102, and such consent has not
+been revoked. A notice or document is deemed to be accessible by the
+person through electronic means if:
+(i) The means of electronic access were provided in the
+record; or
+- 2 - 000657
+
+(ii) It can be shown that the electronic access was actually
+utilized at any time.
+SECTION 5. Tennessee Code Annotated, Title 35, Chapter 15, Part 2, is amended by
+adding the following as a new section:
+35-15-206.
+(a) A judicial proceeding to contest whether a revocable trust or any amendment
+thereto, or an irrevocable trust was validly created may be commenced at any time
+following its execution, but shall not be commenced later than the first to occur of:
+(1) Two (2) years after the date of the settlor's death;
+(2) One hundred twenty (120) days after the date that the trustee notified
+in writing the person who is contesting the trust of the trust's existence, of the
+trustee's name and address, of whether such person is a beneficiary, and of the
+time allowed under this section for commencing a proceeding to contest the
+validity of the trust. However, a trustee does not have any liability under the trust
+instrument or to any third party or otherwise for failure to provide any such written
+notice. For purposes of this subdivision (a)(2), notice has been given when sent
+to the person to whom notice was given. Absent evidence to the contrary, it is
+presumed that notice was received by the person seven (7) days after it was sent
+to such person in accordance with § 35-15-109; or
+(3) The date the person's right to contest was precluded by adjudication,
+consent, or other limitation.
+(b) In the event a trust or trust provision is adjudged to be invalid, or if a
+distribution is adjudged to have been made in error, by the final judgment of a court
+having jurisdiction, which judgment is subject to no further appeal, any beneficiary
+having received an improper distribution shall, upon receipt of a copy of such order,
+- 3 - 000657
+
+return the improper distribution to the court. If the beneficiary fails to return the improper
+distribution to the court, then the beneficiary is liable for costs, including reasonable
+attorney fees, incurred to recover the improper distribution from the beneficiary.
+SECTION 6. Tennessee Code Annotated, Section 35-15-817(h)(1), is amended by
+deleting "§ 35-15-604" and substituting "§ 35-15-206".
+SECTION 7. Tennessee Code Annotated, Section 35-15-301, is amended by adding
+the following new subsection:
+(e) Notice, information, accountings, or reports given to a person who may
+represent and bind another person under this chapter may serve as a substitute for and
+have the same effect as providing notice, information, accountings, or reports directly to
+the person being represented.
+SECTION 8. Tennessee Code Annotated, Section 35-15-402(d), is amended by
+deleting the word "and" immediately following the semicolon at the end of subdivision (1), by
+deleting the language "describing the asset with particularity in the trust instrument." from
+subdivision (2) and substituting "describing the asset; and", and by adding the following new
+subdivision:
+(3) Tangible personal property other than money, an evidence of indebtedness,
+a document of title, a security, and property used in a trade or business may be
+assigned to a trust, either during the grantor's life or after the grantor's death, by delivery
+of a written instrument that:
+(A) Is signed by the transferor;
+(B) Identifies the tangible personal property in general terms; and
+(C) Specifically identifies the trust.
+SECTION 9. Tennessee Code Annotated, Section 35-15-402, is amended by
+designating subsection (d) as subdivision (d)(1) and adding the following as subdivision (d)(2):
+- 4 - 000657
+
+(2) Subdivision (d)(1) applies to such tangible personal property that is owned
+when such written instrument is signed, and to property that is subsequently acquired by
+the transferor.
+SECTION 10. Tennessee Code Annotated, Section 35-15-604, is amended by deleting
+subsections (a) and (c).
+SECTION 11. Tennessee Code Annotated, Section 35-15-709(b), is amended by
+deleting the subsection and substituting:
+(b) An advance, either by the trustee, trust advisor, or trust protector or by a
+person named in § 35-15-701(c)(1), of money gives rise to a lien against trust property to
+secure reimbursement with reasonable interest. Failure to pay to or reimburse a trustee
+for expenses incurred pursuant to subsection (a) gives rise to a lien against all trust
+property for the payment of all sums due or to become due for services, expenses,
+advances, and the costs and expenses of enforcing such payment or reimbursement.
+SECTION 12. Tennessee Code Annotated, Title 35, Chapter 15, Part 8, is amended by
+adding the following as a new section:
+(a) Unless the terms of a trust instrument expressly provide that a settlor shall
+not be reimbursed by a trust for the settlor's personal income tax liability attributable to
+the trust, if the settlor of a trust is treated under 26 U.S.C. § 671 et seq. as the owner of
+all or part of the trust, then a disinterested trustee, in the disinterested trustee's sole
+discretion, or another trustee at the direction of a trust advisor or trust protector who
+would be treated as a disinterested trustee and otherwise has the power to direct
+discretionary distributions under the trust instrument, may reimburse the settlor for any
+amount of the settlor's personal federal, state, local, foreign, or other income tax liability
+that is attributable to the inclusion of the trust's income, capital gains, deductions, and
+credits in the calculation of the settlor's taxable income under principals of 26 U.S.C. §
+- 5 - 000657
+
+671 et seq. The trustee may pay such amount to the settlor directly, or may pay the
+amount to an appropriate taxing authority on the settlor's behalf, as the trustee
+determines in the trustee's sole discretion. This power shall in all cases be exercised in
+the sole and absolute discretion of a disinterested trustee or trust advisor or protector
+who would be treated as a disinterested trustee, and no settlor or other person may
+compel the exercise of this power or enter into an express or implied agreement or
+understanding regarding the exercise of such power. No policy of insurance on the
+settlor's life held in the trust nor the cash value of any such policy, nor the proceeds of
+any loan secured by an interest in the policy may be used to reimburse the settlor or to
+pay an appropriate taxing authority on the settlor's behalf. Neither the trustee's power to
+make payments to, or for the benefit of, the settlor under this section, nor the trustee's
+decision to exercise such power in favor of the settlor, causes the settlor to be treated as
+a beneficiary of the trust for any purpose.
+(b) This section does not apply if the application of this section would disqualify a
+trust for, or reduce the amount of, a marital deduction, a charitable deduction, or another
+specific tax benefit otherwise available to any person for state or federal income, gift,
+estate, or generation-skipping transfer tax purposes.
+SECTION 13. Tennessee Code Annotated, Section 35-15-1005, is amended by adding
+the following new subsection:
+(f) For purposes of this section, a person is deemed to have actual knowledge of
+information that is accessible by the person through electronic means if the person
+provided consent to receive information by electronic means in a record, as defined in §
+47-10-102, and such consent has not been revoked. The information is deemed to be
+accessible by the person if:
+(1) The means of electronic access were provided in the record; or
+- 6 - 000657
+
+(2) It can be shown that the electronic access was actually utilized at any
+time.
+SECTION 14. Tennessee Code Annotated, Section 35-15-1102, is amended by deleting
+the last sentence and substituting "However, the execution of an inter vivos trust instrument, a
+document to transfer an asset to or from a trust, or a consent, release, ratification, modification,
+termination, or settlement agreement pursuant to § 35-15-109, § 35-15-111, § 35-15-411, or §
+35-15-412 is considered a transaction for purposes of § 47-10-103.".
+SECTION 15. Tennessee Code Annotated, Section 35-15-1202, is amended by deleting
+the section and substituting:
+(a) A trust advisor or trust protector, other than a beneficiary, is a fiduciary with
+respect to each power granted to such trust advisor or trust protector. In exercising a
+power or refraining from exercising a power, a trust advisor or trust protector acting as a
+fiduciary shall act in good faith and in accordance with the terms and purposes of the
+trust and the interests of the beneficiaries.
+(b) A trust advisor or trust protector is an excluded fiduciary, regardless of
+whether the trust advisor or trust protector is serving in a fiduciary capacity, with respect
+to each power granted or reserved exclusively to any one (1) or more other trustees,
+trust advisors, or trust protectors.
+(c) Notwithstanding subsection (a), a trust advisor or trust protector may serve in
+a nonfiduciary capacity when specifically appointed in such capacity, and when acting in
+such capacity is liable only for acting in bad faith or with reckless indifference.
+SECTION 16. The Tennessee Code Commission is requested to publish in Tennessee
+Code Annotated the revisions required to conform to the current state of the law the official
+comments for Chapter 1 of Title 30 and Chapter 15 of Title 35 that are filed with the executive
+- 7 - 000657
+
+secretary of the Tennessee Code Commission by May 19, 2025, by duly authorized
+representatives of the Trust Committee of the Tennessee Bankers Association.
+SECTION 17. This act takes effect July 1, 2025, the public welfare requiring it.
+- 8 - 000657
+
+[DELETED: SS(S(]
+[DELETED:  -0((S(((((((((]
+[DELETED:  -0(S3(((((]
+[DELETED:  -0SS(S((((S]
+[DELETED:  -0(SS(S(]
+[DELETED:  -0(S((]
+[DELETED:  -0(SS(((S]
+[DELETED:  -0S]

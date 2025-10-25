@@ -1,0 +1,47 @@
+Title: SENATE BILL 443
+Official Title: SENATE BILL 443
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Jackson
+HOUSE BILL 483
+By Moody
+AN ACT to amend Tennessee Code Annotated, Title 8,
+relative to district attorneys general.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 8-7-103(5), is amended by deleting
+"ninety (90) days" and substituting "one hundred twenty (120) days".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0483
+000402
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 443
+By Jackson
+HOUSE BILL 483
+By Moody
+AN ACT to amend Tennessee Code Annotated, Title 8,
+relative to district attorneys general.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 8-7-103(5), is amended by deleting
+"ninety (90) days" and substituting "one hundred twenty (120) days".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0483
+000402
+- 1 -
+
+[DELETED: SS]

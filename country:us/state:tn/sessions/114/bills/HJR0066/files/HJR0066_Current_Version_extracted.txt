@@ -1,0 +1,98 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 66
+By Cepicky
+A RESOLUTION to encourage each local education agency that
+operates a high school to participate in the
+Armed Services Vocational Aptitude Battery
+Career Exploration Program.
+WHEREAS, the Armed Services Vocational Aptitude Battery or ASVAB tests are
+designed to measure aptitudes via ten tests in four domains: verbal, math, science, and
+technical, and spatial with all testing completed in an average time of ninety minutes; and
+WHEREAS, many students in Tennessee may not know they have the opportunity to
+take the ASVAB and consider the many meaningful career options available in the armed forces
+of the United States or the Tennessee Army and Air National Guard; and
+WHEREAS, while most ASVAB testing is conducted at a Military Entrance Processing
+Station, or satellite stations, the ASVAB is also offered to high school and post-secondary
+students as part of the Department of Defense sponsored ASVAB Career Exploration Program
+(CEP); and
+WHEREAS, participation in this program does not cost the school districts anything; and
+WHEREAS, the ASVAB CEP offers students a chance to explore all paths to careers,
+including college, certifications, apprenticeships, licensure programs, and the military in one
+place; and
+WHEREAS, ASVAB participation is encouraged through both state and federal
+accountability measures for college and career readiness for every school district; and
+WHEREAS, encouraging students to participate in this career aptitude assessment
+provides the student and parent valuable insight into career paths in either civilian or military life;
+now, therefore,
+HJR0066
+002125
+- 1 -
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we encourage each and every local education agency that operates a high
+school to participate in the Armed Services Vocational Aptitude Battery Career Exploration
+Program and make the Armed Services Vocational Aptitude Battery tests widely available to all
+high school students in Tennessee.
+BE IT FURTHER RESOLVED, that a copy of this resolution is transmitted to the
+Tennessee Organization of School Superintendents, and the Tennessee School Boards
+Association for distribution to their members with this final clause omitted.
+- 2 - 002125
+[DELETED: W]
+[DELETED:  -0BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 66
+By Cepicky
+A RESOLUTION to encourage each local education agency that
+operates a high school to participate in the
+Armed Services Vocational Aptitude Battery
+Career Exploration Program.
+WHEREAS, the Armed Services Vocational Aptitude Battery or ASVAB tests are
+designed to measure aptitudes via ten tests in four domains: verbal, math, science, and
+technical, and spatial with all testing completed in an average time of ninety minutes; and
+WHEREAS, many students in Tennessee may not know they have the opportunity to
+take the ASVAB and consider the many meaningful career options available in the armed forces
+of the United States or the Tennessee Army and Air National Guard; and
+WHEREAS, while most ASVAB testing is conducted at a Military Entrance Processing
+Station, or satellite stations, the ASVAB is also offered to high school and post-secondary
+students as part of the Department of Defense sponsored ASVAB Career Exploration Program
+(CEP); and
+WHEREAS, participation in this program does not cost the school districts anything; and
+WHEREAS, the ASVAB CEP offers students a chance to explore all paths to careers,
+including college, certifications, apprenticeships, licensure programs, and the military in one
+place; and
+WHEREAS, ASVAB participation is encouraged through both state and federal
+accountability measures for college and career readiness for every school district; and
+WHEREAS, encouraging students to participate in this career aptitude assessment
+provides the student and parent valuable insight into career paths in either civilian or military life;
+now, therefore,
+HJR0066
+002125
+- 1 -
+
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we encourage each and every local education agency that operates a high
+school to participate in the Armed Services Vocational Aptitude Battery Career Exploration
+Program and make the Armed Services Vocational Aptitude Battery tests widely available to all
+high school students in Tennessee.
+BE IT FURTHER RESOLVED, that a copy of this resolution is transmitted to the
+Tennessee Organization of School Superintendents, and the Tennessee School Boards
+Association for distribution to their members with this final clause omitted.
+- 2 - 002125
+
+[DELETED: W]
+[DELETED:  -0BB]

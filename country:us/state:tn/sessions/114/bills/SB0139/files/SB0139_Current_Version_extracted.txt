@@ -1,0 +1,147 @@
+Title: HOUSE BILL 144
+Official Title: HOUSE BILL 144
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Zachary
+SENATE BILL 139
+By Lowe
+AN ACT to amend Tennessee Code Annotated, Title 33;
+Title 68 and Title 71, relative to healthcare.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+(a)
+(1) Each hospital that accepts medicaid must include on a patient's
+admission or registration forms a provision for the patient or the patient's
+representative to indicate whether the patient is:
+(A) A citizen of the United States;
+(B) Lawfully present in the United States; or
+(C) Not lawfully present in the United States.
+(2) The provision must be followed by a statement that the response will
+not affect patient care or result in a report of the patient's citizenship status to law
+enforcement or to the bureau of immigration and customs enforcement of the
+United States department of homeland security.
+(b) Within thirty (30) calendar days after the end of each quarter, each hospital
+that accepts medicaid shall submit a report to the department of health with the number
+of hospital admissions and emergency department visits within the previous quarter that
+were made by a patient who:
+(1) Was:
+SB0139
+001193
+- 1 -
+(A) A citizen of the United States or lawfully present in the United
+States; and
+(B) Not lawfully present in the United States; and
+(2) Declined to answer.
+(c)
+(1) On or before July 1, 2026, and on or before July 1 of each
+subsequent year, the department of health shall submit to the governor, the
+speaker of the senate, and the speaker of the house of representatives a report
+of the total number of hospital admissions and emergency department visits for
+the previous year for which the patient or patient's representative reported that
+the patient:
+(A) Was:
+(i) A citizen of the United States or lawfully present in the
+United States; and
+(ii) Not lawfully present in the United States; and
+(B) Declined to answer.
+(2) The report must describe information relating to the costs of
+uncompensated care for a person who is not lawfully present in the United
+States, the impact of uncompensated care on the cost or ability of hospitals to
+provide services to the public, hospital funding needs, and other related
+information.
+(d) The department of health is authorized to promulgate rules to effectuate this
+
+Section 3:
+section. The rules must be promulgated in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5. Any rules promulgated by the department
+- 2 - 001193
+of health to effectuate this section must not require the disclosure of patient names or
+other personal identifying information to the department of health.
+
+Section 4:
+SECTION 2. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2025, the
+public welfare requiring it.
+- 3 - 001193
+[DELETED: S((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 144
+By Zachary
+SENATE BILL 139
+By Lowe
+AN ACT to amend Tennessee Code Annotated, Title 33;
+Title 68 and Title 71, relative to healthcare.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+(a)
+(1) Each hospital that accepts medicaid must include on a patient's
+admission or registration forms a provision for the patient or the patient's
+representative to indicate whether the patient is:
+(A) A citizen of the United States;
+(B) Lawfully present in the United States; or
+(C) Not lawfully present in the United States.
+(2) The provision must be followed by a statement that the response will
+not affect patient care or result in a report of the patient's citizenship status to law
+enforcement or to the bureau of immigration and customs enforcement of the
+United States department of homeland security.
+(b) Within thirty (30) calendar days after the end of each quarter, each hospital
+that accepts medicaid shall submit a report to the department of health with the number
+of hospital admissions and emergency department visits within the previous quarter that
+were made by a patient who:
+(1) Was:
+SB0139
+001193
+- 1 -
+
+(A) A citizen of the United States or lawfully present in the United
+States; and
+(B) Not lawfully present in the United States; and
+(2) Declined to answer.
+(c)
+(1) On or before July 1, 2026, and on or before July 1 of each
+subsequent year, the department of health shall submit to the governor, the
+speaker of the senate, and the speaker of the house of representatives a report
+of the total number of hospital admissions and emergency department visits for
+the previous year for which the patient or patient's representative reported that
+the patient:
+(A) Was:
+(i) A citizen of the United States or lawfully present in the
+United States; and
+(ii) Not lawfully present in the United States; and
+(B) Declined to answer.
+(2) The report must describe information relating to the costs of
+uncompensated care for a person who is not lawfully present in the United
+States, the impact of uncompensated care on the cost or ability of hospitals to
+provide services to the public, hospital funding needs, and other related
+information.
+(d) The department of health is authorized to promulgate rules to effectuate this
+section. The rules must be promulgated in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5. Any rules promulgated by the department
+- 2 - 001193
+
+of health to effectuate this section must not require the disclosure of patient names or
+other personal identifying information to the department of health.
+SECTION 2. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2025, the
+public welfare requiring it.
+- 3 - 001193
+
+[DELETED: S((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0S]

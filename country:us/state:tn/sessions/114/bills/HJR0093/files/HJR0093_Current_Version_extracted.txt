@@ -1,0 +1,69 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 93
+By Hale
+A RESOLUTION requesting actions to reduce the administrative
+burden on public schools.
+WHEREAS, the administrative burdens placed on local education agencies often
+redirect valuable resources, including the time of school staff, from the mission of providing
+every student with a high-quality education; and
+WHEREAS, the executive branch of state government is uniquely situated to identify
+administrative burdens that are duplicative and unnecessary; and
+WHEREAS, the legislative branch of state government is uniquely situated to alleviate
+administrative burdens; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that the governor, the Department of Education, and appropriate committees of
+the General Assembly, as determined by the speaker of the senate and speaker of the house of
+representatives, are requested to conduct an examination of ways in which to reduce the
+administrative burdens on local education agencies and to submit recommendations to the
+General Assembly for making such reductions by December 31, 2025.
+BE IT FURTHER RESOLVED, that the governor is requested to actively solicit the input
+of public school parents, teachers, and administrators concerning the reduction of the
+administrative burdens on local education agencies and to incorporate such input into the
+recommendations submitted to the General Assembly.
+HJR0093
+002772
+- 1 -
+[DELETED: WWWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 93
+By Hale
+A RESOLUTION requesting actions to reduce the administrative
+burden on public schools.
+WHEREAS, the administrative burdens placed on local education agencies often
+redirect valuable resources, including the time of school staff, from the mission of providing
+every student with a high-quality education; and
+WHEREAS, the executive branch of state government is uniquely situated to identify
+administrative burdens that are duplicative and unnecessary; and
+WHEREAS, the legislative branch of state government is uniquely situated to alleviate
+administrative burdens; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that the governor, the Department of Education, and appropriate committees of
+the General Assembly, as determined by the speaker of the senate and speaker of the house of
+representatives, are requested to conduct an examination of ways in which to reduce the
+administrative burdens on local education agencies and to submit recommendations to the
+General Assembly for making such reductions by December 31, 2025.
+BE IT FURTHER RESOLVED, that the governor is requested to actively solicit the input
+of public school parents, teachers, and administrators concerning the reduction of the
+administrative burdens on local education agencies and to incorporate such input into the
+recommendations submitted to the General Assembly.
+HJR0093
+002772
+- 1 -
+
+[DELETED: WWWBB]
