@@ -1,0 +1,51 @@
+Title: HOUSE BILL 991
+Official Title: HOUSE BILL 991
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Hale
+SENATE BILL 551
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 29; Title 63 and Title 68, relative to the
+board of medical examiners.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 63-6-102(a)(4), is amended by
+deleting the language "The governor shall consult" and substituting the language "The governor
+may consult".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0551
+000887
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 991
+By Hale
+SENATE BILL 551
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 29; Title 63 and Title 68, relative to the
+board of medical examiners.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 63-6-102(a)(4), is amended by
+deleting the language "The governor shall consult" and substituting the language "The governor
+may consult".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0551
+000887
+- 1 -
+
+[DELETED: SS]

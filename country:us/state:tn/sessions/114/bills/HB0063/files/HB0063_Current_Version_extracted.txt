@@ -1,0 +1,291 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 63
+By Cepicky
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 9; Title 13 and Title 71, Chapter 5, relative to
+housing programs.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 5, is amended by adding
+the following as a new part:
+71-5-1601.
+There is created the Housing Opportunity and Pathways to Education (HOPE)
+pilot program. The purposes of the pilot program are to:
+(1) Support homeless families and those at risk of homelessness;
+(2) Develop a comprehensive support system to transition families from
+street-level homelessness to stable, permanent housing;
+(3) Partner with local nonprofit organizations to address the housing,
+educational, healthcare, economic, and community integration needs of
+participants in the program; and
+(4) Coordinate services for participants from the various federal, state,
+and local entities that support homeless families.
+71-5-1602.
+The Tennessee housing development agency shall develop and manage the
+HOPE pilot program.
+71-5-1603.
+HB0063
+000039
+- 1 -
+The Tennessee housing development agency shall establish a facility in each
+county in which the HOPE pilot program is implemented. The facility must include space
+for:
+(1) A clinic for health appointments, including mental health and therapy;
+(2) A community room for supportive meetings;
+(3) Classrooms for adult learning programs;
+(4) Tutoring rooms for children; and
+(5) A child-safe room.
+71-5-1604.
+(a) The Tennessee housing development agency shall:
+(1) Hire skilled, clinically licensed social workers for case management;
+(2) Develop eligibility requirements for participants;
+(3) Develop an application form; and
+(4) Create four (4) levels of graduated services to be provided to
+participants based on need and each participant's progress through the program.
+(b) The levels of services created pursuant to subdivision (a)(4) must include,
+but are not limited to:
+(1) Level one:
+(A) Assistance with obtaining identification documentation;
+(B) Food and clothing assistance;
+(C) Creation of an extreme weather plan for the participant;
+(D) Provision of mail services;
+(E) Access to a locker, shower, and laundry facilities;
+(F) Access to a mobile clinic for primary care, mental health care,
+dental care, and vision care;
+- 2 - 000039
+(G) Contacts for legal aid services; and
+(H) Voluntary child placement;
+(2) Level two:
+(A) Provision of transitional housing, including pet-friendly
+housing;
+(B) Community participation;
+(C) Food and clothing assistance;
+(D) Life coaching;
+(E) Transportation;
+(F) Access to a mobile clinic for primary care, mental health care,
+dental care, and vision care; and
+(G) Voluntary child placement;
+(3) Level three:
+(A) Supportive housing;
+(B) Community participation;
+(C) Food and clothing assistance;
+(D) Life coaching;
+(E) Transportation;
+(F) Employment assistance;
+(G) Established primary care; and
+(H) Reintegration with children, if placed in some other custodial
+environment, with educational support; and
+(4) Level four:
+(A) Stable, permanent housing;
+(B) Establishment of an escrow account;
+- 3 - 000039
+(C) Community participation;
+(D) Food and clothing assistance;
+(E) Life coaching;
+(F) Transportation;
+(G) Employment assistance and job training;
+(H) Mental health services;
+(I) Continued health care;
+(J) An education plan; and
+(K) Reintegration with children, if placed in some other custodial
+environment, with educational support.
+71-5-1605.
+Subject to appropriations, the Tennessee housing development agency shall
+provide grants to local nonprofit organizations for participation in the HOPE pilot
+program.
+71-5-1606.
+(a) Upon receipt of a completed application form, the Tennessee housing
+development agency shall determine if the applicant meets the eligibility requirements
+within five (5) business days.
+(b) Once an applicant has been accepted for participation in the HOPE pilot
+program, each state and local entity and each participating nonprofit organization shall
+respond to requests for services from the Tennessee housing development agency
+within five (5) business days of the request.
+71-5-1607.
+- 4 - 000039
+(a) The Tennessee housing development agency shall, in coordination with the
+department of safety, establish a streamlined identification documentation process for
+participants in the program.
+(b) A participant in the program may use the address of the central program
+facility as the participant's official address for purposes of acquiring identification
+documentation for the duration of the participant's involvement in the program.
+(c) The Tennessee housing development agency shall assign a post office box
+within the central program facility for each participant in the program if the participant is
+using the central program facility as an address.
+(d) Central program facility staff shall assist participants in gathering and
+verifying necessary documentation for obtaining identification.
+(e) A designated liaison at the central program facility shall oversee the
+identification documentation application process, ensuring all applications are complete
+and accurate before submission.
+(f) If additional documentation is required, the liaison shall assist participants in
+obtaining the necessary documents promptly.
+(g) Central program facility staff shall maintain records of all identification
+documentation applications and follow up on any pending or delayed applications.
+71-5-1608.
+The pilot program created pursuant to this part expires July 1, 2030.
+71-5-1609.
+This part applies in a county with a population of not less than one hundred
+thousand (100,000) and not more than one hundred one thousand (101,000), according
+to the 2020 or a subsequent federal census.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 5 - 000039
+[DELETED: S]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 63
+By Cepicky
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 9; Title 13 and Title 71, Chapter 5, relative to
+housing programs.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 5, is amended by adding
+the following as a new part:
+71-5-1601.
+There is created the Housing Opportunity and Pathways to Education (HOPE)
+pilot program. The purposes of the pilot program are to:
+(1) Support homeless families and those at risk of homelessness;
+(2) Develop a comprehensive support system to transition families from
+street-level homelessness to stable, permanent housing;
+(3) Partner with local nonprofit organizations to address the housing,
+educational, healthcare, economic, and community integration needs of
+participants in the program; and
+(4) Coordinate services for participants from the various federal, state,
+and local entities that support homeless families.
+71-5-1602.
+The Tennessee housing development agency shall develop and manage the
+HOPE pilot program.
+71-5-1603.
+HB0063
+000039
+- 1 -
+
+The Tennessee housing development agency shall establish a facility in each
+county in which the HOPE pilot program is implemented. The facility must include space
+for:
+(1) A clinic for health appointments, including mental health and therapy;
+(2) A community room for supportive meetings;
+(3) Classrooms for adult learning programs;
+(4) Tutoring rooms for children; and
+(5) A child-safe room.
+71-5-1604.
+(a) The Tennessee housing development agency shall:
+(1) Hire skilled, clinically licensed social workers for case management;
+(2) Develop eligibility requirements for participants;
+(3) Develop an application form; and
+(4) Create four (4) levels of graduated services to be provided to
+participants based on need and each participant's progress through the program.
+(b) The levels of services created pursuant to subdivision (a)(4) must include,
+but are not limited to:
+(1) Level one:
+(A) Assistance with obtaining identification documentation;
+(B) Food and clothing assistance;
+(C) Creation of an extreme weather plan for the participant;
+(D) Provision of mail services;
+(E) Access to a locker, shower, and laundry facilities;
+(F) Access to a mobile clinic for primary care, mental health care,
+dental care, and vision care;
+- 2 - 000039
+
+(G) Contacts for legal aid services; and
+(H) Voluntary child placement;
+(2) Level two:
+(A) Provision of transitional housing, including pet-friendly
+housing;
+(B) Community participation;
+(C) Food and clothing assistance;
+(D) Life coaching;
+(E) Transportation;
+(F) Access to a mobile clinic for primary care, mental health care,
+dental care, and vision care; and
+(G) Voluntary child placement;
+(3) Level three:
+(A) Supportive housing;
+(B) Community participation;
+(C) Food and clothing assistance;
+(D) Life coaching;
+(E) Transportation;
+(F) Employment assistance;
+(G) Established primary care; and
+(H) Reintegration with children, if placed in some other custodial
+environment, with educational support; and
+(4) Level four:
+(A) Stable, permanent housing;
+(B) Establishment of an escrow account;
+- 3 - 000039
+
+(C) Community participation;
+(D) Food and clothing assistance;
+(E) Life coaching;
+(F) Transportation;
+(G) Employment assistance and job training;
+(H) Mental health services;
+(I) Continued health care;
+(J) An education plan; and
+(K) Reintegration with children, if placed in some other custodial
+environment, with educational support.
+71-5-1605.
+Subject to appropriations, the Tennessee housing development agency shall
+provide grants to local nonprofit organizations for participation in the HOPE pilot
+program.
+71-5-1606.
+(a) Upon receipt of a completed application form, the Tennessee housing
+development agency shall determine if the applicant meets the eligibility requirements
+within five (5) business days.
+(b) Once an applicant has been accepted for participation in the HOPE pilot
+program, each state and local entity and each participating nonprofit organization shall
+respond to requests for services from the Tennessee housing development agency
+within five (5) business days of the request.
+71-5-1607.
+- 4 - 000039
+
+(a) The Tennessee housing development agency shall, in coordination with the
+department of safety, establish a streamlined identification documentation process for
+participants in the program.
+(b) A participant in the program may use the address of the central program
+facility as the participant's official address for purposes of acquiring identification
+documentation for the duration of the participant's involvement in the program.
+(c) The Tennessee housing development agency shall assign a post office box
+within the central program facility for each participant in the program if the participant is
+using the central program facility as an address.
+(d) Central program facility staff shall assist participants in gathering and
+verifying necessary documentation for obtaining identification.
+(e) A designated liaison at the central program facility shall oversee the
+identification documentation application process, ensuring all applications are complete
+and accurate before submission.
+(f) If additional documentation is required, the liaison shall assist participants in
+obtaining the necessary documents promptly.
+(g) Central program facility staff shall maintain records of all identification
+documentation applications and follow up on any pending or delayed applications.
+71-5-1608.
+The pilot program created pursuant to this part expires July 1, 2030.
+71-5-1609.
+This part applies in a county with a population of not less than one hundred
+thousand (100,000) and not more than one hundred one thousand (101,000), according
+to the 2020 or a subsequent federal census.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 5 - 000039
+
+[DELETED: S]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0S]

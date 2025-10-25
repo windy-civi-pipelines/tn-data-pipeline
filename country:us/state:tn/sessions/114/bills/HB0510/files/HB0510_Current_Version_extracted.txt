@@ -1,0 +1,51 @@
+Title: SENATE BILL 554
+Official Title: SENATE BILL 554
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Reeves
+HOUSE BILL 510
+By Terry
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 49; Title 63 and Title 68, relative to health
+care.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 63-1-108(c), is amended by deleting
+the language "within thirty (30) days thereafter" and substituting "within sixty (60) days
+thereafter".
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0510
+002080
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 554
+By Reeves
+HOUSE BILL 510
+By Terry
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 49; Title 63 and Title 68, relative to health
+care.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 63-1-108(c), is amended by deleting
+the language "within thirty (30) days thereafter" and substituting "within sixty (60) days
+thereafter".
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0510
+002080
+- 1 -
+
+[DELETED: SS]

@@ -1,0 +1,130 @@
+Title: SENATE BILL 1125
+Official Title: SENATE BILL 1125
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Yager
+HOUSE BILL 1011
+By Fritts
+AN ACT to amend Tennessee Code Annotated, Title 45
+and Title 47, Chapter 18, relative to online
+payment systems.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, Part 1, is amended by
+adding the following as a new section:
+47-18-136.
+(a) As used in this section:
+(1) "Online payment system":
+(A) Means an online or mobile system that facilitates the
+exchange of currency through the internet, including a money transfer or
+payment; and
+(B) Does not include an online or mobile system provided by:
+(i) A state or national bank;
+(ii) A state or federal savings and loan association; or
+(iii) A state or federal credit union; and
+(2) "User":
+(A) Means an individual or entity utilizing an online payment
+system; and
+(B) Includes an individual or entity that:
+(i) Has or does not have an account with the online
+payment system; and
+HB1011
+002425
+- 1 -
+(ii) Uses the online payment system to send money,
+receive money, or both.
+(b) Except as provided in subsection (c), an operator of an online payment
+system shall not freeze the funds of a user without first providing the affected user with
+written notice of the online payment system's intent to freeze the user's funds. The
+operator shall provide the notice required by this subsection (b) to all users involved in
+an affected transaction, including the user attempting to send money and the user who is
+the intended recipient of the money.
+(c) If an operator of an online payment system has a reasonable belief that
+financial exploitation, as defined in § 45-2-1202, may have occurred, may have been
+attempted, or is being attempted, or that fraud or a violation of another law or regulation
+has occurred or is occurring, then the operator of the online payment system shall
+provide notice as described in subsection (b) within thirty (30) days of freezing the funds.
+Notice given pursuant to this subsection (c) must be limited or otherwise provided in a
+manner that complies with 31 CFR 1022.320 and 31 U.S.C. § 5318, if applicable.
+(d) A violation of this section by an online payment system constitutes an unfair
+or deceptive act prohibited under § 47-18-104, and is punishable as provided in this part.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 47-18-104(b), is amended by adding
+the following as a new subdivision:
+( ) A violation of § 47-18-136;
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to contracts or agreements entered into, amended, or renewed on or after that date.
+- 2 - 002425
+[DELETED: S4((((((]
+[DELETED:  -0(((S(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1125
+By Yager
+HOUSE BILL 1011
+By Fritts
+AN ACT to amend Tennessee Code Annotated, Title 45
+and Title 47, Chapter 18, relative to online
+payment systems.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, Part 1, is amended by
+adding the following as a new section:
+47-18-136.
+(a) As used in this section:
+(1) "Online payment system":
+(A) Means an online or mobile system that facilitates the
+exchange of currency through the internet, including a money transfer or
+payment; and
+(B) Does not include an online or mobile system provided by:
+(i) A state or national bank;
+(ii) A state or federal savings and loan association; or
+(iii) A state or federal credit union; and
+(2) "User":
+(A) Means an individual or entity utilizing an online payment
+system; and
+(B) Includes an individual or entity that:
+(i) Has or does not have an account with the online
+payment system; and
+HB1011
+002425
+- 1 -
+
+(ii) Uses the online payment system to send money,
+receive money, or both.
+(b) Except as provided in subsection (c), an operator of an online payment
+system shall not freeze the funds of a user without first providing the affected user with
+written notice of the online payment system's intent to freeze the user's funds. The
+operator shall provide the notice required by this subsection (b) to all users involved in
+an affected transaction, including the user attempting to send money and the user who is
+the intended recipient of the money.
+(c) If an operator of an online payment system has a reasonable belief that
+financial exploitation, as defined in § 45-2-1202, may have occurred, may have been
+attempted, or is being attempted, or that fraud or a violation of another law or regulation
+has occurred or is occurring, then the operator of the online payment system shall
+provide notice as described in subsection (b) within thirty (30) days of freezing the funds.
+Notice given pursuant to this subsection (c) must be limited or otherwise provided in a
+manner that complies with 31 CFR 1022.320 and 31 U.S.C. § 5318, if applicable.
+(d) A violation of this section by an online payment system constitutes an unfair
+or deceptive act prohibited under § 47-18-104, and is punishable as provided in this part.
+SECTION 2. Tennessee Code Annotated, Section 47-18-104(b), is amended by adding
+the following as a new subdivision:
+( ) A violation of § 47-18-136;
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to contracts or agreements entered into, amended, or renewed on or after that date.
+- 2 - 002425
+
+[DELETED: S4((((((]
+[DELETED:  -0(((S(S]

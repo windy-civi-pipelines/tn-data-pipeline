@@ -1,0 +1,45 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 6005
+By Johnson
+A RESOLUTION to provide for the adjournment sine die of the
+First Extraordinary Session of the One Hundred
+Fourteenth General Assembly.
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that the First Extraordinary Session of the One Hundred
+Fourteenth General Assembly stand in adjournment sine die at the close of business in both
+houses on Thursday, January 30, 2025.
+SJR6005
+002572
+- 1 -
+[DELETED: B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 6005
+By Johnson
+A RESOLUTION to provide for the adjournment sine die of the
+First Extraordinary Session of the One Hundred
+Fourteenth General Assembly.
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that the First Extraordinary Session of the One Hundred
+Fourteenth General Assembly stand in adjournment sine die at the close of business in both
+houses on Thursday, January 30, 2025.
+SJR6005
+002572
+- 1 -
+
+[DELETED: B]

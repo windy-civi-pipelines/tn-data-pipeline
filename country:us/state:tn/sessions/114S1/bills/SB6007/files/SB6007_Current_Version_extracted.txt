@@ -1,0 +1,138 @@
+Title: HOUSE BILL 6007
+Official Title: HOUSE BILL 6007
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Faison
+SENATE BILL 6007
+By Crowe
+AN ACT to amend Tennessee Code Annotated, Title 58,
+Chapter 8 and Title 67, Chapter 5, relative to
+emergency events.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 67, Chapter 5, Part 6, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Property":
+(A) Means all real or personal property that is subject to taxation
+under this chapter; and
+(B) Does not include:
+(i) Intangible personal property, as defined in § 67-5-
+501(5); or
+(ii) Public utility property, as defined in § 67-5-501(9); and
+(2) "Qualified disaster" means any disaster certified by the federal
+emergency management agency (FEMA) occurring on or after September 26,
+2024, and before September 30, 2024.
+(b) In connection with a qualified disaster in order to promote the general
+welfare, subject to the requirements of this section and subject to an appropriation by the
+general assembly, the comptroller shall disburse payments directly to owners of
+property:
+(1) Whose property:
+SB6007
+001511
+- 1 -
+(A) Was destroyed or damaged by a qualified disaster, as
+determined by the assessor of property by January 28, 2025; and
+(B) Is located in a county included in the FEMA declaration; and
+(2) Who owned the affected property at the time of the qualified disaster.
+(c) The payments disbursed pursuant to subsection (b) must be in an amount
+equal to the total amount of the tax levied on the property for tax year 2024 plus thirty
+percent (30%).
+(d) By June 30, 2025, owners of property who are eligible for payment under
+subsection (b) shall provide to the comptroller of the treasury all information and
+correctly completed documentation necessary for payment disbursement, as determined
+by the comptroller of the treasury. The comptroller shall determine the means by which
+owners of property must submit the necessary documentation and information. Failure
+to provide all necessary information and correctly completed documentation under this
+subsection (d) must result in forfeiture of eligibility for payment under this section.
+(e) This section applies regardless of whether the property was restored or
+replaced by December 31, 2024.
+(f) This section is deleted on December 31, 2025.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 58-8-106, is amended by deleting the
+
+Section 4:
+section and substituting instead:
+Upon receiving a request for mutual aid in an occurrence or for assistance from a
+requesting party in a municipal, county, state, or federal state of emergency, a
+participating governmental entity may, subject to the approval of the chief executive
+officer of the governmental entity, send its personnel and equipment outside its
+boundaries and into any other jurisdiction necessary to respond to the request.
+
+Section 5:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 001511
+[DELETED: (]
+[DELETED:  -0SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 6007
+By Faison
+SENATE BILL 6007
+By Crowe
+AN ACT to amend Tennessee Code Annotated, Title 58,
+Chapter 8 and Title 67, Chapter 5, relative to
+emergency events.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 67, Chapter 5, Part 6, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Property":
+(A) Means all real or personal property that is subject to taxation
+under this chapter; and
+(B) Does not include:
+(i) Intangible personal property, as defined in § 67-5-
+501(5); or
+(ii) Public utility property, as defined in § 67-5-501(9); and
+(2) "Qualified disaster" means any disaster certified by the federal
+emergency management agency (FEMA) occurring on or after September 26,
+2024, and before September 30, 2024.
+(b) In connection with a qualified disaster in order to promote the general
+welfare, subject to the requirements of this section and subject to an appropriation by the
+general assembly, the comptroller shall disburse payments directly to owners of
+property:
+(1) Whose property:
+SB6007
+001511
+- 1 -
+
+(A) Was destroyed or damaged by a qualified disaster, as
+determined by the assessor of property by January 28, 2025; and
+(B) Is located in a county included in the FEMA declaration; and
+(2) Who owned the affected property at the time of the qualified disaster.
+(c) The payments disbursed pursuant to subsection (b) must be in an amount
+equal to the total amount of the tax levied on the property for tax year 2024 plus thirty
+percent (30%).
+(d) By June 30, 2025, owners of property who are eligible for payment under
+subsection (b) shall provide to the comptroller of the treasury all information and
+correctly completed documentation necessary for payment disbursement, as determined
+by the comptroller of the treasury. The comptroller shall determine the means by which
+owners of property must submit the necessary documentation and information. Failure
+to provide all necessary information and correctly completed documentation under this
+subsection (d) must result in forfeiture of eligibility for payment under this section.
+(e) This section applies regardless of whether the property was restored or
+replaced by December 31, 2024.
+(f) This section is deleted on December 31, 2025.
+SECTION 2. Tennessee Code Annotated, Section 58-8-106, is amended by deleting the
+section and substituting instead:
+Upon receiving a request for mutual aid in an occurrence or for assistance from a
+requesting party in a municipal, county, state, or federal state of emergency, a
+participating governmental entity may, subject to the approval of the chief executive
+officer of the governmental entity, send its personnel and equipment outside its
+boundaries and into any other jurisdiction necessary to respond to the request.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 001511
+
+[DELETED: (]
+[DELETED:  -0SS]

@@ -1,0 +1,102 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 457
+By Seal
+A RESOLUTION to honor and commend Cadet Josh Stoll upon
+his selection for a Judge Advocate General
+internship.
+WHEREAS, it is fitting that the members of this General Assembly should recognize
+those exemplary individuals who, through their academic excellence and dedication to service,
+bring honor to the State of Tennessee; and
+WHEREAS, Cadet Josh Stoll, a student at Carson-Newman University and a member of
+the school's U.S. Army ROTC Eagle Battalion, has been selected for a competitive Judge
+Advocate General (JAG) internship for the summer of 2025; and
+WHEREAS, currently one of the program's MS4s, Cadet Stoll has demonstrated
+outstanding leadership in his roles as S2, S3 Future Operations, and currently as S5, where he
+oversees media responsibilities for the battalion; and
+WHEREAS, a native of Summertown, Josh Stoll is pursuing a degree in political science
+at Carson-Newman University and plans to continue his education at the Lincoln Memorial
+University Duncan School of Law, with aspirations of serving his country through the legal
+profession; and
+WHEREAS, the JAG internship program offers invaluable experience in military legal
+affairs, and Cadet Stoll's selection is a testament to his exceptional qualifications and
+commitment to the principles of justice and service; and
+WHEREAS, Josh Stoll's achievement reflects the high standards of Carson-Newman
+University and its ROTC program and serves as an inspiration to his peers and future cadets;
+and
+SJR0457
+007597
+- 1 -
+WHEREAS, Cadet Stoll is an impressive young man who exemplifies the values of
+leadership, dedication, and excellence, and it is fitting that he be recognized; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and commend Cadet Josh Stoll upon his
+selection to the Judge Advocate General internship program, extend our congratulations on this
+significant accomplishment, and offer our best wishes for much continued success in his future
+endeavors.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 007597
+[DELETED: WWWWWW]
+[DELETED:  -0WBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 457
+By Seal
+A RESOLUTION to honor and commend Cadet Josh Stoll upon
+his selection for a Judge Advocate General
+internship.
+WHEREAS, it is fitting that the members of this General Assembly should recognize
+those exemplary individuals who, through their academic excellence and dedication to service,
+bring honor to the State of Tennessee; and
+WHEREAS, Cadet Josh Stoll, a student at Carson-Newman University and a member of
+the school's U.S. Army ROTC Eagle Battalion, has been selected for a competitive Judge
+Advocate General (JAG) internship for the summer of 2025; and
+WHEREAS, currently one of the program's MS4s, Cadet Stoll has demonstrated
+outstanding leadership in his roles as S2, S3 Future Operations, and currently as S5, where he
+oversees media responsibilities for the battalion; and
+WHEREAS, a native of Summertown, Josh Stoll is pursuing a degree in political science
+at Carson-Newman University and plans to continue his education at the Lincoln Memorial
+University Duncan School of Law, with aspirations of serving his country through the legal
+profession; and
+WHEREAS, the JAG internship program offers invaluable experience in military legal
+affairs, and Cadet Stoll's selection is a testament to his exceptional qualifications and
+commitment to the principles of justice and service; and
+WHEREAS, Josh Stoll's achievement reflects the high standards of Carson-Newman
+University and its ROTC program and serves as an inspiration to his peers and future cadets;
+and
+SJR0457
+007597
+- 1 -
+
+WHEREAS, Cadet Stoll is an impressive young man who exemplifies the values of
+leadership, dedication, and excellence, and it is fitting that he be recognized; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and commend Cadet Josh Stoll upon his
+selection to the Judge Advocate General internship program, extend our congratulations on this
+significant accomplishment, and offer our best wishes for much continued success in his future
+endeavors.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 007597
+
+[DELETED: WWWWWW]
+[DELETED:  -0WBB]

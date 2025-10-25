@@ -1,0 +1,167 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 290
+By Gant
+AN ACT to amend Tennessee Code Annotated, Title 49
+and Chapter 944 of the Public Acts of 2024,
+relative to school safety alert grants.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-1-225, is amended by deleting the
+
+Section 3:
+section and substituting the following:
+(a) As used in this section, unless the context otherwise requires:
+(1) "Fund" means the school safety alert grant fund for First Alert
+Systems, as created by this section; and
+(2) "Local education agency" or "LEA" means a county, city, or special
+school district, unified school district, or school district of a metropolitan
+government.
+(b)
+(1) The department of education shall establish and administer a school
+safety alert grant pilot program. The purpose of the pilot program is to award
+school safety grants to LEAs, public charter schools, private schools, and church-
+related schools for the purchase of mobile panic alert systems described in § 49-
+6-804(a). The alert systems funded through the pilot program must be approved
+by the department of education, in consultation with the department of safety.
+(2) Effective July 1, 2025, the school safety alert grant pilot program
+created pursuant to subdivision (b)(1) is renamed the school safety alert grant
+program. The department of education shall continue to administer the grant
+HB0290
+001789
+- 1 -
+program for the same purpose, and subject to the same approval requirement, as
+described in subdivision (b)(1).
+(c)
+(1) There is created a separate fund within the general fund to be known
+as the school safety alert grant pilot fund.
+(2) There is created a separate fund within the general fund to be known
+as the school safety alert grant fund. Effective July 1, 2025, funds remaining in
+the school safety alert grant pilot fund must be transferred to the school safety
+alert grant fund, at which time the school safety alert grant pilot fund ceases to
+exist.
+(d)
+(1) Subject to appropriations and the availability of funds, the department
+shall allocate and disperse grants for fiscal years 2025-2026 and 2026-2027, to
+LEAs, public charter schools, private schools, and church-related schools.
+(2) The grants must be awarded as follows:
+(A) The first grant must be awarded on a first-come, first-served
+basis to the first LEA or school that applies;
+(B) The second grant must be awarded on a first-come, first-
+served basis to an LEA or school that is located in a different grand
+division of this state than the recipient of the grant awarded under
+subdivision (d)(2)(B);
+(C) The third grant must be awarded on a first-come, first-served
+basis to an LEA or school that is located in a different grand division of
+this state than the recipients of the grants awarded under subdivisions
+(d)(2)(A) and (d)(2)(B); and
+- 2 - 001789
+(D) The fourth and any subsequent grants must be awarded on a
+first-come, first-served basis to an LEA or school that is located in a grand
+division of this state, following the order of awards as established under
+subdivisions (d)(2)(A)-(C).
+(3) A grant awarded under this section is limited to eight thousand dollars
+($8,000) per school in a fiscal year.
+(e) The commissioner of education may promulgate rules to effectuate the
+purposes of this section in accordance with the Uniform Administrative Procedures Act,
+compiled in title 4, chapter 5.
+(f) By July 1, 2026, and by July 1, 2027, the department shall prepare and
+submit to the general assembly a report detailing all funds received and payments made
+through the school safety alert grant fund.
+(g) This section is deleted July 1, 2027.
+
+Section 4:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 001789
+[DELETED: S((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 290
+By Gant
+AN ACT to amend Tennessee Code Annotated, Title 49
+and Chapter 944 of the Public Acts of 2024,
+relative to school safety alert grants.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-1-225, is amended by deleting the
+section and substituting the following:
+(a) As used in this section, unless the context otherwise requires:
+(1) "Fund" means the school safety alert grant fund for First Alert
+Systems, as created by this section; and
+(2) "Local education agency" or "LEA" means a county, city, or special
+school district, unified school district, or school district of a metropolitan
+government.
+(b)
+(1) The department of education shall establish and administer a school
+safety alert grant pilot program. The purpose of the pilot program is to award
+school safety grants to LEAs, public charter schools, private schools, and church-
+related schools for the purchase of mobile panic alert systems described in § 49-
+6-804(a). The alert systems funded through the pilot program must be approved
+by the department of education, in consultation with the department of safety.
+(2) Effective July 1, 2025, the school safety alert grant pilot program
+created pursuant to subdivision (b)(1) is renamed the school safety alert grant
+program. The department of education shall continue to administer the grant
+HB0290
+001789
+- 1 -
+
+program for the same purpose, and subject to the same approval requirement, as
+described in subdivision (b)(1).
+(c)
+(1) There is created a separate fund within the general fund to be known
+as the school safety alert grant pilot fund.
+(2) There is created a separate fund within the general fund to be known
+as the school safety alert grant fund. Effective July 1, 2025, funds remaining in
+the school safety alert grant pilot fund must be transferred to the school safety
+alert grant fund, at which time the school safety alert grant pilot fund ceases to
+exist.
+(d)
+(1) Subject to appropriations and the availability of funds, the department
+shall allocate and disperse grants for fiscal years 2025-2026 and 2026-2027, to
+LEAs, public charter schools, private schools, and church-related schools.
+(2) The grants must be awarded as follows:
+(A) The first grant must be awarded on a first-come, first-served
+basis to the first LEA or school that applies;
+(B) The second grant must be awarded on a first-come, first-
+served basis to an LEA or school that is located in a different grand
+division of this state than the recipient of the grant awarded under
+subdivision (d)(2)(B);
+(C) The third grant must be awarded on a first-come, first-served
+basis to an LEA or school that is located in a different grand division of
+this state than the recipients of the grants awarded under subdivisions
+(d)(2)(A) and (d)(2)(B); and
+- 2 - 001789
+
+(D) The fourth and any subsequent grants must be awarded on a
+first-come, first-served basis to an LEA or school that is located in a grand
+division of this state, following the order of awards as established under
+subdivisions (d)(2)(A)-(C).
+(3) A grant awarded under this section is limited to eight thousand dollars
+($8,000) per school in a fiscal year.
+(e) The commissioner of education may promulgate rules to effectuate the
+purposes of this section in accordance with the Uniform Administrative Procedures Act,
+compiled in title 4, chapter 5.
+(f) By July 1, 2026, and by July 1, 2027, the department shall prepare and
+submit to the general assembly a report detailing all funds received and payments made
+through the school safety alert grant fund.
+(g) This section is deleted July 1, 2027.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 001789
+
+[DELETED: S((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((S]

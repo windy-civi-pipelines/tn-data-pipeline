@@ -1,0 +1,214 @@
+Title: AMEND S e n ate Bill No. 133 House Bill No. 69*
+Official Title: AMEND S e n ate Bill No. 133 House Bill No. 69*
+Number of Sections: 7
+Source: versions - Amendment HA0138
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+House State & Local Government 1
+Amendment No. 1 to HB0069
+Crawford
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 2, Chapter 2, is amended by creating
+the following as a new part:
+Part 4. Verification of Voter Eligibility.
+2-2-401. Verification of eligibility to vote based upon United States citizenship.
+(a) The coordinator of elections, in collaboration with the department of safety,
+shall, prior to January 1, 2028, create a secure, electronic portal through which each
+county administrator of elections may access information to verify, prior to processing an
+applicant's application to register to vote, whether the applicant is a non-United States
+citizen based upon records on file.
+(b) In carrying out subsection (a), the coordinator of elections and department:
+(1) Shall identify the parameters of information of an applicant to register
+to vote that may be submitted and received through the portal by an
+administrator;
+(2) Shall ensure that, upon submission of such information by an
+administrator, the administrator receives accurate and current information
+regarding the citizenship status of the applicant on file with the department
+without undue delay;
+(3) Shall ensure that the portal has the capacity to respond to a high
+volume of daily submissions of applicant information by administrators across
+this state as specified by the coordinator of elections; and
+HA0138
+004931
+- 1 -
+(4) May develop a temporary alternative method for the verification of
+citizenship by an administrator in the event that the portal is offline, inaccessible,
+malfunctioning, or undergoing maintenance.
+(c) If a county administrator rejects an application based upon information
+received pursuant to this section, the administrator shall provide written notice to the
+applicant of the applicant's right to appeal the decision in accordance with § 2-2-125.
+2-2-402. Verification of eligibility to vote based upon felony conviction.
+(a) The coordinator of elections, in collaboration with the Tennessee bureau of
+investigation (TBI), shall, prior to January 1, 2028, create a secure, electronic portal
+through which each county administrator of elections may access information to verify,
+prior to processing an applicant's application to register to vote, whether the applicant is
+ineligible to vote based upon records on file as the result of a Tennessee felony
+conviction, or alternatively, whether a person is eligible to vote.
+(b) In carrying out subsection (a), the coordinator of elections and TBI:
+(1) Shall identify the parameters of information of a person to register to
+vote that may be submitted and received through the portal by an administrator;
+(2) Shall ensure that, upon submission of such information by an
+administrator, the administrator receives accurate and current information
+regarding the eligibility status of the person without undue delay;
+(3) Shall ensure that the portal has the capacity to respond to a high
+volume of daily submissions of information by administrators across this state as
+specified by the coordinator of elections; and
+(4) May develop a temporary alternative method for the verification of
+eligibility by an administrator in the event that the portal is offline, inaccessible,
+malfunctioning, or undergoing maintenance.
+- 2 - 004931
+(c) If a county administrator rejects an application based upon information
+received pursuant to this section, the administrator shall provide written notice to the
+applicant of the applicant's right to appeal the decision in accordance with § 2-2-125.
+(d) Any county administrator who accesses the portal for a purpose other than
+verifying a person's eligibility to register to vote or to vote shall lose access to the portal.
+In consultation with the coordinator of elections, access may be reinstated at the
+discretion of the bureau.
+2-2-403. Severability.
+If a provision of this part or its application to a person or circumstance is held
+invalid, then the invalidity does not affect other provisions or applications of the part that
+can be given effect without the invalid provision or application, and to that end, the
+provisions of this part are severable.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 2-2-125, is amended by deleting
+subsection (b) and substituting instead the following:
+(b) The administrator shall provide written notice to the registrant that the
+registrant has a right to appeal the decision to the commission within ten (10) days from
+the date the notice was sent. The administrator shall include with such notice an appeal
+form.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 38-6-118(d), is amended by adding
+the following as a new subdivision:
+(3) Notwithstanding subdivision (d)(1), the bureau shall share expunged
+information with the coordinator of elections, upon request, for the purposes of
+determining a person's eligibility to register to vote or to vote.
+
+Section 5:
+SECTION 4. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+- 3 - 004931
+
+Section 6:
+SECTION 5. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+
+Section 7:
+SECTION 6. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 004931
+[DELETED:  a HS((((]
+[DELETED:  -0((((((]
+[DELETED:  -02IS(]
+[DELETED:  -0SS]
+
+
+================================================================================
+
+Raw Text:
+House State & Local Government 1
+Amendment No. 1 to HB0069
+Crawford
+Signature of Sponsor
+AMEND S e n ate Bill No. 133 House Bill No. 69*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 2, Chapter 2, is amended by creating
+the following as a new part:
+Part 4. Verification of Voter Eligibility.
+2-2-401. Verification of eligibility to vote based upon United States citizenship.
+(a) The coordinator of elections, in collaboration with the department of safety,
+shall, prior to January 1, 2028, create a secure, electronic portal through which each
+county administrator of elections may access information to verify, prior to processing an
+applicant's application to register to vote, whether the applicant is a non-United States
+citizen based upon records on file.
+(b) In carrying out subsection (a), the coordinator of elections and department:
+(1) Shall identify the parameters of information of an applicant to register
+to vote that may be submitted and received through the portal by an
+administrator;
+(2) Shall ensure that, upon submission of such information by an
+administrator, the administrator receives accurate and current information
+regarding the citizenship status of the applicant on file with the department
+without undue delay;
+(3) Shall ensure that the portal has the capacity to respond to a high
+volume of daily submissions of applicant information by administrators across
+this state as specified by the coordinator of elections; and
+HA0138
+004931
+- 1 -
+
+(4) May develop a temporary alternative method for the verification of
+citizenship by an administrator in the event that the portal is offline, inaccessible,
+malfunctioning, or undergoing maintenance.
+(c) If a county administrator rejects an application based upon information
+received pursuant to this section, the administrator shall provide written notice to the
+applicant of the applicant's right to appeal the decision in accordance with § 2-2-125.
+2-2-402. Verification of eligibility to vote based upon felony conviction.
+(a) The coordinator of elections, in collaboration with the Tennessee bureau of
+investigation (TBI), shall, prior to January 1, 2028, create a secure, electronic portal
+through which each county administrator of elections may access information to verify,
+prior to processing an applicant's application to register to vote, whether the applicant is
+ineligible to vote based upon records on file as the result of a Tennessee felony
+conviction, or alternatively, whether a person is eligible to vote.
+(b) In carrying out subsection (a), the coordinator of elections and TBI:
+(1) Shall identify the parameters of information of a person to register to
+vote that may be submitted and received through the portal by an administrator;
+(2) Shall ensure that, upon submission of such information by an
+administrator, the administrator receives accurate and current information
+regarding the eligibility status of the person without undue delay;
+(3) Shall ensure that the portal has the capacity to respond to a high
+volume of daily submissions of information by administrators across this state as
+specified by the coordinator of elections; and
+(4) May develop a temporary alternative method for the verification of
+eligibility by an administrator in the event that the portal is offline, inaccessible,
+malfunctioning, or undergoing maintenance.
+- 2 - 004931
+
+(c) If a county administrator rejects an application based upon information
+received pursuant to this section, the administrator shall provide written notice to the
+applicant of the applicant's right to appeal the decision in accordance with § 2-2-125.
+(d) Any county administrator who accesses the portal for a purpose other than
+verifying a person's eligibility to register to vote or to vote shall lose access to the portal.
+In consultation with the coordinator of elections, access may be reinstated at the
+discretion of the bureau.
+2-2-403. Severability.
+If a provision of this part or its application to a person or circumstance is held
+invalid, then the invalidity does not affect other provisions or applications of the part that
+can be given effect without the invalid provision or application, and to that end, the
+provisions of this part are severable.
+SECTION 2. Tennessee Code Annotated, Section 2-2-125, is amended by deleting
+subsection (b) and substituting instead the following:
+(b) The administrator shall provide written notice to the registrant that the
+registrant has a right to appeal the decision to the commission within ten (10) days from
+the date the notice was sent. The administrator shall include with such notice an appeal
+form.
+SECTION 3. Tennessee Code Annotated, Section 38-6-118(d), is amended by adding
+the following as a new subdivision:
+(3) Notwithstanding subdivision (d)(1), the bureau shall share expunged
+information with the coordinator of elections, upon request, for the purposes of
+determining a person's eligibility to register to vote or to vote.
+SECTION 4. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+- 3 - 004931
+
+SECTION 5. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 6. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 004931
+
+[DELETED:  a HS((((]
+[DELETED:  -0((((((]
+[DELETED:  -02IS(]
+[DELETED:  -0SS]

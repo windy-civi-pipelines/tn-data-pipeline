@@ -1,0 +1,53 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 894
+By Stevens
+AN ACT to amend Tennessee Code Annotated, Title 62,
+Chapter 6, relative to professional licensing.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 62-6-116(a), is amended by deleting
+the language "twenty-fourth month" and substituting "forty-eighth month".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 62-6-116(e), is amended by deleting
+the language "two (2) years" and substituting "four (4) years".
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to the renewal of licenses set to expire on or after that date.
+SB0894
+001482
+- 1 -
+[DELETED: SSS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 894
+By Stevens
+AN ACT to amend Tennessee Code Annotated, Title 62,
+Chapter 6, relative to professional licensing.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 62-6-116(a), is amended by deleting
+the language "twenty-fourth month" and substituting "forty-eighth month".
+SECTION 2. Tennessee Code Annotated, Section 62-6-116(e), is amended by deleting
+the language "two (2) years" and substituting "four (4) years".
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to the renewal of licenses set to expire on or after that date.
+SB0894
+001482
+- 1 -
+
+[DELETED: SSS]

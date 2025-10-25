@@ -1,0 +1,106 @@
+Title: HOUSE BILL 141
+Official Title: HOUSE BILL 141
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Hale
+SENATE BILL 41
+By Haile
+AN ACT to amend Tennessee Code Annotated, Title 7;
+Title 47 and Title 65, relative to consumer billing.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Billing cycle" means the defined period of time between billing
+statements or invoices on which a consumer's payment amount for services is
+based under an agreement or contract for covered services;
+(2) "Covered services" means telephone, cable television, internet,
+broadband services, or any combination of such services; and
+(3) "Service provider" means an entity, whether a for-profit, nonprofit, or
+government entity, that provides covered services to consumers for a fee.
+(b) On and after July 1, 2025, if a consumer terminates an agreement or contract
+for covered services pursuant to the terms of the agreement or contract, then:
+(1) If the date of termination occurs within the first half (1/2) of a billing
+cycle, then the service provider may only bill the consumer for the remainder of
+that billing cycle and shall not bill the consumer for any subsequent billing cycle;
+and
+(2) If the date of termination occurs within the second half (1/2) of a
+billing cycle, then the service provider may bill the consumer for the remainder of
+that billing cycle and up to one (1) subsequent billing cycle.
+SB0041
+000518
+- 1 -
+(c) This section does not prohibit a service provider from including in a service
+agreement or contract a term or period of minimum duration.
+(d) A violation of this section constitutes a violation of the Tennessee Consumer
+Protection Act of 1977, compiled in this part. A violation of this section constitutes an
+unfair or deceptive act or practice affecting trade or commerce and is subject to the
+penalties and remedies as provided in this part.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 47-18-104(b), is amended by adding
+the following new subdivision:
+( ) A violation of SECTION 1.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 000518
+[DELETED: S(((((((]
+[DELETED:  -0((S(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 141
+By Hale
+SENATE BILL 41
+By Haile
+AN ACT to amend Tennessee Code Annotated, Title 7;
+Title 47 and Title 65, relative to consumer billing.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Billing cycle" means the defined period of time between billing
+statements or invoices on which a consumer's payment amount for services is
+based under an agreement or contract for covered services;
+(2) "Covered services" means telephone, cable television, internet,
+broadband services, or any combination of such services; and
+(3) "Service provider" means an entity, whether a for-profit, nonprofit, or
+government entity, that provides covered services to consumers for a fee.
+(b) On and after July 1, 2025, if a consumer terminates an agreement or contract
+for covered services pursuant to the terms of the agreement or contract, then:
+(1) If the date of termination occurs within the first half (1/2) of a billing
+cycle, then the service provider may only bill the consumer for the remainder of
+that billing cycle and shall not bill the consumer for any subsequent billing cycle;
+and
+(2) If the date of termination occurs within the second half (1/2) of a
+billing cycle, then the service provider may bill the consumer for the remainder of
+that billing cycle and up to one (1) subsequent billing cycle.
+SB0041
+000518
+- 1 -
+
+(c) This section does not prohibit a service provider from including in a service
+agreement or contract a term or period of minimum duration.
+(d) A violation of this section constitutes a violation of the Tennessee Consumer
+Protection Act of 1977, compiled in this part. A violation of this section constitutes an
+unfair or deceptive act or practice affecting trade or commerce and is subject to the
+penalties and remedies as provided in this part.
+SECTION 2. Tennessee Code Annotated, Section 47-18-104(b), is amended by adding
+the following new subdivision:
+( ) A violation of SECTION 1.
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 000518
+
+[DELETED: S(((((((]
+[DELETED:  -0((S(S]

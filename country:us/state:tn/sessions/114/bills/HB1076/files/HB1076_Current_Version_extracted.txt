@@ -1,0 +1,47 @@
+Title: SENATE BILL 711
+Official Title: SENATE BILL 711
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Taylor
+HOUSE BILL 1076
+By Kumar
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 56 and Title 71, relative to insurance.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 56-5-105(a), is amended by deleting
+"thirty (30) days" and substituting "twenty-one (21) days".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1076
+002654
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 711
+By Taylor
+HOUSE BILL 1076
+By Kumar
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 56 and Title 71, relative to insurance.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 56-5-105(a), is amended by deleting
+"thirty (30) days" and substituting "twenty-one (21) days".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1076
+002654
+- 1 -
+
+[DELETED: SS]

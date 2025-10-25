@@ -1,0 +1,77 @@
+Title: HOUSE BILL 537
+Official Title: HOUSE BILL 537
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Camper
+SENATE BILL 228
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 38
+and Title 55, relative to motor vehicle registration.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. This act is known and may be cited as the "Law Enforcement's Safer
+Tennessee Electronic Registration (LESTER) Act".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 55-4-138, is amended by deleting the
+following language:
+If a person displays the evidence in an electronic format pursuant to this section, the
+person is not consenting for law enforcement to access any other contents of the
+electronic device.
+and substituting instead the following:
+If a person displays the evidence in an electronic format pursuant to this section, then
+the evidence must be accepted by law enforcement as proof of registration, and such
+display is not consent for law enforcement to access any other contents of the electronic
+device.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 55-10-312(a), is amended by
+deleting the language "motor-propelled vehicle" and "motor propelled vehicle" wherever it
+appears and substituting instead the language "motor vehicle".
+
+Section 5:
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0228
+000575
+- 1 -
+[DELETED: SSSS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 537
+By Camper
+SENATE BILL 228
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 38
+and Title 55, relative to motor vehicle registration.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as the "Law Enforcement's Safer
+Tennessee Electronic Registration (LESTER) Act".
+SECTION 2. Tennessee Code Annotated, Section 55-4-138, is amended by deleting the
+following language:
+If a person displays the evidence in an electronic format pursuant to this section, the
+person is not consenting for law enforcement to access any other contents of the
+electronic device.
+and substituting instead the following:
+If a person displays the evidence in an electronic format pursuant to this section, then
+the evidence must be accepted by law enforcement as proof of registration, and such
+display is not consent for law enforcement to access any other contents of the electronic
+device.
+SECTION 3. Tennessee Code Annotated, Section 55-10-312(a), is amended by
+deleting the language "motor-propelled vehicle" and "motor propelled vehicle" wherever it
+appears and substituting instead the language "motor vehicle".
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0228
+000575
+- 1 -
+
+[DELETED: SSSS]

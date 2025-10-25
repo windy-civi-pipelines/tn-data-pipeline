@@ -1,0 +1,100 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 79
+By Bowling
+A RESOLUTION to propose an amendment to Article XI, Section
+12 of the Constitution of Tennessee, relative to
+parental rights.
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that a majority of all the members of each house
+concurring, as shown by the yeas and nays entered on their journals, that it is proposed that
+Article XI, Section 12 of the Constitution of Tennessee be amended by adding the following
+language, each as its own paragraph, immediately following the first paragraph:
+A parent has the inherent and fundamental right to direct the upbringing of the
+parent's child, including, but not limited to, the right to direct the education of the parent's
+child.
+The State, nor any political subdivision thereof, shall not interfere with a parent's
+right to make decisions for the upbringing of their own child through the adoption or
+enforcement of any law or rule that abridges, infringes upon, or otherwise restricts a
+parent's right to provide home-based education for their own child. The State, nor any
+political subdivision thereof, shall not impose any regulatory requirements upon any such
+home-based education.
+The rights defined herein shall not be forfeited or waived by the acceptance of
+any publicly funded education scholarship, grant, stipend, or voucher provided by the
+State or any political subdivision thereof.
+This section shall not be construed to permit the State, or any subdivision
+thereof, to compel attendance at any specific educational institution, nor to impose
+SJR0079
+002793
+- 1 -
+compulsory attendance laws that restrict or limit a parent's right to educate their child in
+the home.
+BE IT FURTHER RESOLVED, that the foregoing amendment be referred to the One
+Hundred Fifteenth General Assembly and that this resolution proposing such amendment be
+published by the Secretary of State in accordance with Article XI, Section 3 of the Constitution
+of Tennessee by posting such amendment on the official website of the Secretary of State and
+on the official website of the General Assembly.
+BE IT FURTHER RESOLVED, that the Clerk of the Senate is directed to deliver a copy
+of this resolution to the Secretary of State, with this final resolving clause being deleted from
+such copies.
+- 2 - 002793
+[DELETED: ATTT]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 79
+By Bowling
+A RESOLUTION to propose an amendment to Article XI, Section
+12 of the Constitution of Tennessee, relative to
+parental rights.
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that a majority of all the members of each house
+concurring, as shown by the yeas and nays entered on their journals, that it is proposed that
+Article XI, Section 12 of the Constitution of Tennessee be amended by adding the following
+language, each as its own paragraph, immediately following the first paragraph:
+A parent has the inherent and fundamental right to direct the upbringing of the
+parent's child, including, but not limited to, the right to direct the education of the parent's
+child.
+The State, nor any political subdivision thereof, shall not interfere with a parent's
+right to make decisions for the upbringing of their own child through the adoption or
+enforcement of any law or rule that abridges, infringes upon, or otherwise restricts a
+parent's right to provide home-based education for their own child. The State, nor any
+political subdivision thereof, shall not impose any regulatory requirements upon any such
+home-based education.
+The rights defined herein shall not be forfeited or waived by the acceptance of
+any publicly funded education scholarship, grant, stipend, or voucher provided by the
+State or any political subdivision thereof.
+This section shall not be construed to permit the State, or any subdivision
+thereof, to compel attendance at any specific educational institution, nor to impose
+SJR0079
+002793
+- 1 -
+
+compulsory attendance laws that restrict or limit a parent's right to educate their child in
+the home.
+BE IT FURTHER RESOLVED, that the foregoing amendment be referred to the One
+Hundred Fifteenth General Assembly and that this resolution proposing such amendment be
+published by the Secretary of State in accordance with Article XI, Section 3 of the Constitution
+of Tennessee by posting such amendment on the official website of the Secretary of State and
+on the official website of the General Assembly.
+BE IT FURTHER RESOLVED, that the Clerk of the Senate is directed to deliver a copy
+of this resolution to the Secretary of State, with this final resolving clause being deleted from
+such copies.
+- 2 - 002793
+
+[DELETED: ATTT]
+[DELETED:  -0]

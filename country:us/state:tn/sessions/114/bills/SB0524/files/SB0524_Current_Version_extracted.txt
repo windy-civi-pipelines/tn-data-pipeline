@@ -1,0 +1,106 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 524
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 3,
+relative to the general assembly.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 3-1-107, is amended by deleting
+subdivision (a)(1) and substituting:
+(1) Beginning with the election of the One Hundred Fifteenth General Assembly,
+each member shall receive an annual salary of forty-eight thousand nine hundred ninety-
+nine dollars ($48,999), payable in equal monthly installments and subject to adjustment
+pursuant to subsection (c).
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 3-1-107, is amended by deleting
+subsection (c) and substituting:
+(c) For the fiscal year beginning in 2027, and for each subsequent fiscal year,
+the base salary fixed in subdivision (a)(1) must be adjusted to reflect the average
+percentage pay increase provided for state employees by the general appropriations act.
+However, any adjustments occurring during a term of the general assembly must not
+take effect until the election of the next general assembly. On or before November 1 of
+each year, the comptroller of the treasury shall certify to the office of legislative
+administration such average increase in state employee's compensation during that
+fiscal year.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 3-1-106(f), is amended by deleting
+from subdivision (1) the language "one thousand two hundred fifty dollars ($1,250)" and
+substituting "two thousand dollars ($2,000)", and is further amended by deleting from
+SB0524
+000745
+- 1 -
+subdivision (3) the language "On the date of the statewide general election in 2024" and
+substituting "On the date of the statewide general election in 2026".
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 3-1-106, is amended by deleting
+subsection (g) and substituting:
+(g) Beginning with the election of the One Hundred Fifteenth General Assembly,
+the base reimbursement amount for expense and mileage allowances authorized under
+this section for members of the general assembly must be increased by twenty-five
+percent (25%).
+
+Section 6:
+SECTION 5. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 000745
+[DELETED: S(S(S]
+[DELETED:  -0S(S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 524
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 3,
+relative to the general assembly.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 3-1-107, is amended by deleting
+subdivision (a)(1) and substituting:
+(1) Beginning with the election of the One Hundred Fifteenth General Assembly,
+each member shall receive an annual salary of forty-eight thousand nine hundred ninety-
+nine dollars ($48,999), payable in equal monthly installments and subject to adjustment
+pursuant to subsection (c).
+SECTION 2. Tennessee Code Annotated, Section 3-1-107, is amended by deleting
+subsection (c) and substituting:
+(c) For the fiscal year beginning in 2027, and for each subsequent fiscal year,
+the base salary fixed in subdivision (a)(1) must be adjusted to reflect the average
+percentage pay increase provided for state employees by the general appropriations act.
+However, any adjustments occurring during a term of the general assembly must not
+take effect until the election of the next general assembly. On or before November 1 of
+each year, the comptroller of the treasury shall certify to the office of legislative
+administration such average increase in state employee's compensation during that
+fiscal year.
+SECTION 3. Tennessee Code Annotated, Section 3-1-106(f), is amended by deleting
+from subdivision (1) the language "one thousand two hundred fifty dollars ($1,250)" and
+substituting "two thousand dollars ($2,000)", and is further amended by deleting from
+SB0524
+000745
+- 1 -
+
+subdivision (3) the language "On the date of the statewide general election in 2024" and
+substituting "On the date of the statewide general election in 2026".
+SECTION 4. Tennessee Code Annotated, Section 3-1-106, is amended by deleting
+subsection (g) and substituting:
+(g) Beginning with the election of the One Hundred Fifteenth General Assembly,
+the base reimbursement amount for expense and mileage allowances authorized under
+this section for members of the general assembly must be increased by twenty-five
+percent (25%).
+SECTION 5. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 000745
+
+[DELETED: S(S(S]
+[DELETED:  -0S(S]

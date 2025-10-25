@@ -1,0 +1,47 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 1093
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 56; Title 63; Title 68 and Title 71, relative to
+health care.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 63-15-104(f), is amended by deleting
+"2026" and substituting "2027".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1093
+003301
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 1093
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 56; Title 63; Title 68 and Title 71, relative to
+health care.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 63-15-104(f), is amended by deleting
+"2026" and substituting "2027".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1093
+003301
+- 1 -
+
+[DELETED: SS]

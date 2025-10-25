@@ -1,0 +1,163 @@
+Title: AMEND S e n ate Bill No. 1382 House Bill No. 858*
+Official Title: AMEND S e n ate Bill No. 1382 House Bill No. 858*
+Number of Sections: 6
+Source: versions - Amendment HA0149
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+House Insurance 1
+Amendment No. 1 to HB0858
+Kumar
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 56-7-3501, is amended by adding
+the following as new subdivisions:
+( ) "Associated conditions" means the symptoms or side effects associated with
+stage 4 advanced metastatic cancer, blood cancer, or treatment of such cancers and
+which, in the judgment of the healthcare provider, further jeopardizes the health of a
+patient if left untreated;
+( ) "Stage 4 advanced metastatic cancer" means cancer that has spread from
+the primary or original site of the cancer to nearby tissues, lymph nodes, or other areas
+or parts of the body;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 56-7-3502, is amended by adding
+the following as a new subsection:
+(h)
+(1) Notwithstanding this section, and except as provided in subdivision
+(h)(3), a health benefit plan that provides coverage for stage 4 advanced
+metastatic cancer, blood cancer, and associated conditions shall not require use
+of a step therapy protocol before the health benefit plan provides coverage of an
+approved prescription drug to an enrollee who has received a diagnosis of stage
+4 advanced metastatic cancer or blood cancer.
+(2) For an approved prescription drug prescribed for an associated
+condition in this section, the treating healthcare provider shall inform the health
+HA0149
+006264
+- 1 -
+benefit plan that the condition is an associated condition of stage 4 advanced
+metastatic cancer or blood cancer when requesting authorization.
+(3) This subsection (h) does not apply to the group insurance plans
+offered under title 8, chapter 27.
+(4) This subsection (h) does not prevent a health carrier, health benefit
+plan, or utilization review organization from requiring a patient to try an AB-rated
+generic equivalent product, interchangeable biological product, or biosimilar
+product prior to providing coverage for the equivalent branded prescription drug.
+(5) Each treating healthcare provider who prescribes an approved
+prescription drug to a patient pursuant to this section shall submit an annual
+report to the department of health by such date and in such manner as the
+commissioner of health may prescribe by rule, that includes the number of stage
+4 advanced metastatic cancer and blood cancer cases treated, the approved
+prescription drug involved in treatment, and the overall six-month survival rate for
+the cases treated.
+(6) As used in this subsection (h), "approved prescription drug" means a
+prescription drug that is:
+(A) Approved by the United States food and drug administration;
+(B) Consistent with best practices for the treatment of stage 4
+advanced metastatic cancer or blood cancer;
+(C) Supported by peer-reviewed, evidence-based literature
+consistent with the National Comprehensive Cancer Network Drugs and
+Biologics Compendium for the treatment of stage 4 advanced metastatic
+cancer or blood cancer; and
+(D) On the health benefit plan's prescription drug formulary.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 56-7-3504(a), is amended by
+deleting "and includes a state or local insurance program, under title 8, chapter 27" and
+- 2 - 006264
+substituting "and, except as provided in § 56-7-3502(h)(3), includes a state or local insurance
+program, under title 8, chapter 27".
+
+Section 5:
+SECTION 4. The commissioner of commerce and insurance and the commissioner of
+health may promulgate rules to effectuate this act. The rules must be promulgated in
+accordance with the Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+
+Section 6:
+SECTION 5. This act takes effect January 1, 2026, the public welfare requiring it, and
+applies to policies or agreements entered into, renewed, or amended on or after that date.
+- 3 - 006264
+[DELETED:  a HS((S(((]
+[DELETED:  -0((((((S]
+[DELETED:  -0SS]
+
+
+================================================================================
+
+Raw Text:
+House Insurance 1
+Amendment No. 1 to HB0858
+Kumar
+Signature of Sponsor
+AMEND S e n ate Bill No. 1382 House Bill No. 858*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 56-7-3501, is amended by adding
+the following as new subdivisions:
+( ) "Associated conditions" means the symptoms or side effects associated with
+stage 4 advanced metastatic cancer, blood cancer, or treatment of such cancers and
+which, in the judgment of the healthcare provider, further jeopardizes the health of a
+patient if left untreated;
+( ) "Stage 4 advanced metastatic cancer" means cancer that has spread from
+the primary or original site of the cancer to nearby tissues, lymph nodes, or other areas
+or parts of the body;
+SECTION 2. Tennessee Code Annotated, Section 56-7-3502, is amended by adding
+the following as a new subsection:
+(h)
+(1) Notwithstanding this section, and except as provided in subdivision
+(h)(3), a health benefit plan that provides coverage for stage 4 advanced
+metastatic cancer, blood cancer, and associated conditions shall not require use
+of a step therapy protocol before the health benefit plan provides coverage of an
+approved prescription drug to an enrollee who has received a diagnosis of stage
+4 advanced metastatic cancer or blood cancer.
+(2) For an approved prescription drug prescribed for an associated
+condition in this section, the treating healthcare provider shall inform the health
+HA0149
+006264
+- 1 -
+
+benefit plan that the condition is an associated condition of stage 4 advanced
+metastatic cancer or blood cancer when requesting authorization.
+(3) This subsection (h) does not apply to the group insurance plans
+offered under title 8, chapter 27.
+(4) This subsection (h) does not prevent a health carrier, health benefit
+plan, or utilization review organization from requiring a patient to try an AB-rated
+generic equivalent product, interchangeable biological product, or biosimilar
+product prior to providing coverage for the equivalent branded prescription drug.
+(5) Each treating healthcare provider who prescribes an approved
+prescription drug to a patient pursuant to this section shall submit an annual
+report to the department of health by such date and in such manner as the
+commissioner of health may prescribe by rule, that includes the number of stage
+4 advanced metastatic cancer and blood cancer cases treated, the approved
+prescription drug involved in treatment, and the overall six-month survival rate for
+the cases treated.
+(6) As used in this subsection (h), "approved prescription drug" means a
+prescription drug that is:
+(A) Approved by the United States food and drug administration;
+(B) Consistent with best practices for the treatment of stage 4
+advanced metastatic cancer or blood cancer;
+(C) Supported by peer-reviewed, evidence-based literature
+consistent with the National Comprehensive Cancer Network Drugs and
+Biologics Compendium for the treatment of stage 4 advanced metastatic
+cancer or blood cancer; and
+(D) On the health benefit plan's prescription drug formulary.
+SECTION 3. Tennessee Code Annotated, Section 56-7-3504(a), is amended by
+deleting "and includes a state or local insurance program, under title 8, chapter 27" and
+- 2 - 006264
+
+substituting "and, except as provided in § 56-7-3502(h)(3), includes a state or local insurance
+program, under title 8, chapter 27".
+SECTION 4. The commissioner of commerce and insurance and the commissioner of
+health may promulgate rules to effectuate this act. The rules must be promulgated in
+accordance with the Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+SECTION 5. This act takes effect January 1, 2026, the public welfare requiring it, and
+applies to policies or agreements entered into, renewed, or amended on or after that date.
+- 3 - 006264
+
+[DELETED:  a HS((S(((]
+[DELETED:  -0((((((S]
+[DELETED:  -0SS]

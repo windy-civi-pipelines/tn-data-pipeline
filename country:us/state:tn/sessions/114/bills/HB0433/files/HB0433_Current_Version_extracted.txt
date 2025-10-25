@@ -1,0 +1,59 @@
+Title: SENATE BILL 404
+Official Title: SENATE BILL 404
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Lamar
+HOUSE BILL 433
+By Jones J
+AN ACT to amend Tennessee Code Annotated, Title 39,
+relative to unlawful images.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 39-17-318(a)(1), is amended by
+deleting the subdivision and substituting:
+(1)
+(A) The image was photographed or recorded under circumstances
+where the parties agreed or understood that the image would remain private; or
+(B) The image of an identifiable person was created or modified by
+means of a computer software program, artificial intelligence application, or other
+digital editing tools; and
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0433
+002047
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 404
+By Lamar
+HOUSE BILL 433
+By Jones J
+AN ACT to amend Tennessee Code Annotated, Title 39,
+relative to unlawful images.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 39-17-318(a)(1), is amended by
+deleting the subdivision and substituting:
+(1)
+(A) The image was photographed or recorded under circumstances
+where the parties agreed or understood that the image would remain private; or
+(B) The image of an identifiable person was created or modified by
+means of a computer software program, artificial intelligence application, or other
+digital editing tools; and
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0433
+002047
+- 1 -
+
+[DELETED: SS]

@@ -1,0 +1,96 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 169
+By Seal
+A RESOLUTION to honor and recognize Mariah Canfield, Art
+Student of the Week at Jefferson County High
+School.
+WHEREAS, it is fitting that the members of this General Assembly should pause to pay
+tribute to those students who, through their natural talents and unflagging commitment to
+academic excellence, have distinguished themselves in the classroom; and
+WHEREAS, Mariah Canfield is one such exceptional student, who was recently named
+the Art Student of the Week at Jefferson County High School; and
+WHEREAS, through diligent study, consistent leadership, and steadfast commitment of
+time and talent, Ms. Canfield has achieved outstanding success and joined the ranks of the best
+and brightest students in Tennessee and our country; and
+WHEREAS, Mariah has already been recognized for her aesthetic capabilities, and her
+drawing of a wolf collected honors at the Congressional Art Competition Reception in 2024 and
+now hangs in the office of a state congresswoman; and
+WHEREAS, her display of artistic aptitude and ambition surely bodes well for her future
+success as a student and a creator; and
+WHEREAS, Mariah Canfield's noteworthy achievement is a tremendous source of pride
+for her family, her school, and her community; and
+WHEREAS, Mariah Canfield's dedication to excellence is clearly deserving of the
+respect, admiration, and commendation of the members of this General Assembly; now,
+therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+SJR0169
+003801
+- 1 -
+REPRESENTATIVES CONCURRING, that we hereby commend and honor Mariah Canfield
+upon being named the Jefferson County High School Art Student of the Week, salute her
+impressive artistic achievement, and extend to her our best wishes for a happy, successful
+future.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 003801
+[DELETED: WWWWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 169
+By Seal
+A RESOLUTION to honor and recognize Mariah Canfield, Art
+Student of the Week at Jefferson County High
+School.
+WHEREAS, it is fitting that the members of this General Assembly should pause to pay
+tribute to those students who, through their natural talents and unflagging commitment to
+academic excellence, have distinguished themselves in the classroom; and
+WHEREAS, Mariah Canfield is one such exceptional student, who was recently named
+the Art Student of the Week at Jefferson County High School; and
+WHEREAS, through diligent study, consistent leadership, and steadfast commitment of
+time and talent, Ms. Canfield has achieved outstanding success and joined the ranks of the best
+and brightest students in Tennessee and our country; and
+WHEREAS, Mariah has already been recognized for her aesthetic capabilities, and her
+drawing of a wolf collected honors at the Congressional Art Competition Reception in 2024 and
+now hangs in the office of a state congresswoman; and
+WHEREAS, her display of artistic aptitude and ambition surely bodes well for her future
+success as a student and a creator; and
+WHEREAS, Mariah Canfield's noteworthy achievement is a tremendous source of pride
+for her family, her school, and her community; and
+WHEREAS, Mariah Canfield's dedication to excellence is clearly deserving of the
+respect, admiration, and commendation of the members of this General Assembly; now,
+therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+SJR0169
+003801
+- 1 -
+
+REPRESENTATIVES CONCURRING, that we hereby commend and honor Mariah Canfield
+upon being named the Jefferson County High School Art Student of the Week, salute her
+impressive artistic achievement, and extend to her our best wishes for a happy, successful
+future.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 003801
+
+[DELETED: WWWWWWWB]
+[DELETED:  -0B]

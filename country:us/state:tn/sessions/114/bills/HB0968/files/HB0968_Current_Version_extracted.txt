@@ -1,0 +1,694 @@
+Title: SENATE BILL 763
+Official Title: SENATE BILL 763
+Number of Sections: 11
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+By Yager
+HOUSE BILL 968
+By Hawk
+AN ACT to amend Tennessee Code Annotated, Title 10,
+Chapter 7, Part 5; Title 39, Chapter 17, Part 15;
+Title 47, Chapter 25; Title 67, Chapter 4, Part 10
+and Title 67, Chapter 4, Part 26, relative to
+regulated consumable products.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 39-17-1504(d), is amended by
+deleting the language "if an ordinary person would conclude on the basis of appearance that the
+prospective purchaser or recipient may be under thirty (30) years of age".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 67-4-1001(24)(A), is amended by
+deleting the language "and snuff" and substituting instead the language "snuff, and vapor
+products".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 67-4-1001, is amended by adding
+the following as new, appropriately designated subdivisions:
+( ) "Closed-system vapor product" means:
+(A) A disposable container or cartridge prefilled with consumable material
+and sealed by the manufacturer, not easily refillable or intended or designed to
+be refillable, and intended or used to dispense consumable material when
+connected to a device that is designed to be reused; and
+(B) Any single unit vapor product which is prefilled with consumable
+material and sealed by the manufacturer, not intended to be refillable, and
+intended to be disposed of once the consumable material has been depleted;
+( ) "Consumable material" means any liquid nicotine solution intended for use in
+a vapor product;
+HB0968
+002878
+- 1 -
+( ) "Open-system vapor product" means:
+(A) A vapor product that can be filled and refilled with consumable
+material by a consumer; and
+(B) Any consumable material that is intended to be used with the vapor
+product described in subdivision ( )(A);
+( ) "Vapor product":
+(A) Means a noncombustible product containing nicotine, whether natural
+or synthetic, that employs a mechanical heating element, battery, electronic
+circuit, or other mechanism, regardless of shape or size, that can be used to
+produce or emit a visible or non-visible vapor;
+(B) Includes an electronic cigarette, electronic cigar, electronic cigarillo,
+electronic pipe, or similar product, and any vapor cartridge containing
+consumable material or other container of consumable material that is intended
+to be used with or in an electronic cigarette, electronic cigar, electronic cigarillo,
+electronic pipe, or similar product; and
+(C) Does not include a product regulated under Chapter V of the Food,
+Drug, and Cosmetic Act (21 U.S.C. § 351 et seq.);
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 67-4-1005, is amended by deleting
+the section and substituting instead the following:
+(a) The rate on all other tobacco products, including, but not limited to, cigars,
+cheroots, stogies, beedies, bidis, manufactured tobacco, and snuff of all descriptions
+made of tobacco or any substitute for tobacco, but not on vapor products, is six and six-
+tenths percent (6.6%) of the wholesale cost price.
+- 2 - 002878
+(b) The rate on closed-system vapor products is seven cents ($0.07) per milliliter
+of consumable material contained in the vapor product, and a like rate on all fractional
+parts of a milliliter of consumable material.
+(c) The rate on open-system vapor products is ten percent (10%) of the
+wholesale cost price.
+(d) This section does not apply to smokeless nicotine products.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 67-4-1025(a), is amended by adding
+the language ", other than vapor products," immediately after the language "All of the taxes on
+tobacco products".
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Section 67-4-1025, is amended by adding
+the following as a new subsection:
+(f) All of the revenue from taxes on vapor products collected under this part must
+be deposited in a special account in the state general fund to be used exclusively for
+administration and enforcement of § 67-4-1034. Any unexpended funds do not revert to
+the general fund and must be held in the account for use in accordance with this section.
+
+Section 8:
+SECTION 7. Tennessee Code Annotated, Title 67, Chapter 4, Part 10, is amended by
+adding the following as a new section:
+67-4-1034. Vapor product directory.
+(a) For purposes of this section, "timely filed premarket tobacco product
+application" means an application pursuant to 21 U.S.C. § 387j for a vapor product
+containing nicotine derived from tobacco, marketed in the United States as of August 8,
+2016, that was submitted to the United States food and drug administration on or before
+September 9, 2020, and accepted for filing.
+(b) By August 1, 2025, and annually thereafter, each manufacturer of a vapor
+product that is sold for retail sale in this state, whether directly or through an importer,
+- 3 - 002878
+wholesaler, distributor, retailer, or similar intermediary or intermediaries, shall execute
+and deliver to the department a certification, under penalty of perjury on a form and in a
+manner prescribed by the department, that the manufacturer is compliant with this
+
+Section 9:
+section and that, for each vapor product sold for retail sale in this state:
+(1) The manufacturer has received a marketing granted order for the
+vapor product from the United States food and drug administration (FDA)
+pursuant to 21 U.S.C. § 387j;
+(2) The manufacturer submitted a timely filed premarket tobacco product
+application for the vapor product to the FDA pursuant to 21 U.S.C. § 387j, and
+the application either:
+(A) Remains under review by the FDA; or
+(B) Has received a denial order that has been and remains:
+(i) Stayed by the FDA or court order;
+(ii) Rescinded by the FDA; or
+(iii) Vacated by a court; or
+(3) The manufacturer is not required to submit an additional marketing
+granted order or premarket tobacco product application for the vapor product
+because the vapor product merely reflects changes to the name, brand style, or
+packaging of a vapor product that is covered under subdivision (b)(1) or (b)(2).
+(c) The following must be indicated on the certification for each vapor product
+that is sold in this state:
+(1) Brand name;
+(2) Category, such as consumable material, power unit, device, vapor
+cartridge, pod, or disposable;
+(3) Product name; and
+- 4 - 002878
+(4) Flavor.
+(d) Each annual certification form must be accompanied by:
+(1) A copy of:
+(A) The marketing granted order issued by the FDA pursuant to
+21 U.S.C. Section 387j;
+(B) The acceptance letter issued by the FDA pursuant to 21
+U.S.C. § 387j for a timely filed premarket tobacco product application; or
+(C) A document issued by the FDA or by a court confirming that
+the premarket tobacco product application has received a denial order
+that has been and remains stayed by FDA or court order, rescinded by
+the FDA, or vacated by a court; and
+(2) Payment of a fee of twenty-five dollars ($25.00) for each vapor
+product each time a manufacturer submits an annual certification form for that
+vapor product.
+(e) The information submitted by the manufacturer pursuant to subdivision (d)(1)
+is confidential and not subject to the open records law compiled in title 10, chapter 7.
+The manufacturer may redact proprietary information provided under subdivision (d)(1).
+The department shall not disclose such information, except as required or authorized by
+law. As used in this subsection (e), "proprietary information" means commercial or
+financial information that is used either directly or indirectly in the business of any person
+or company and that gives such person an advantage or an opportunity to obtain an
+advantage over competitors who do not know or use such information.
+(f) A manufacturer that is required to submit a certification form pursuant to this
+
+Section 10:
+section shall notify the department within thirty (30) calendar days of any material
+change to the certification form, including the issuance or denial of a marketing
+- 5 - 002878
+authorization or other order by the FDA pursuant to 21 U.S.C. § 387j, or any other order
+or action by the FDA or any court that affects the ability of the vapor product to be
+introduced or delivered into interstate commerce for commercial distribution in the United
+States.
+(g) Starting January 1, 2026, the department shall maintain and make publicly
+available on the department's website a directory that lists all vapor product
+manufacturers, brand names, categories, product names, and flavors for which
+certification forms have been submitted and approved by the department. The
+department shall update the directory at least monthly to ensure accuracy. The
+department shall establish a process to provide retailers and licensed distributors and
+wholesalers notice of the initial publication of the directory and changes made to the
+directory from the prior month.
+(h) A manufacturer or the manufacturer's vapor products must not be included or
+retained in the directory if the department determines that any of the following apply:
+(1) The manufacturer failed to provide a complete and accurate
+certification as required by subsection (b);
+(2) The manufacturer submitted a certification that does not comply with
+the requirements of subsection (c) and (d);
+(3) The manufacturer failed to include with its certification the payment
+required by subdivision (d)(2);
+(4) The manufacturer sold products in this state that are required to be
+certified under this section during a period when either the manufacturer or the
+product had not been certified and listed on the directory; or
+- 6 - 002878
+(5) The information provided by the manufacturer in its certification is
+determined by the department to contain false information or contains material
+misrepresentations or omissions.
+(i)
+(1) The department shall provide manufacturers with a written notice of
+deficiencies and an opportunity to cure those deficiencies before taking action to
+remove manufacturers or products from the directory.
+(2) The department shall not remove the manufacturer or its products
+from the directory until at least thirty (30) business days after the manufacturer
+has been given notice of an intended action setting forth the reasons for the
+removal. Notice is deemed sufficient and immediately received by a
+manufacturer if the notice is sent either electronically or by facsimile to an
+electronic mail address or facsimile number, as the case may be, that was
+provided by the manufacturer in its most recently filed certification.
+(3) A vapor product manufacturer has fifteen (15) business days from the
+date of service of the notice of the department's intended action to cure the noted
+deficiencies or otherwise establish that the vapor product manufacturer or its
+products should be included in the directory.
+(4) Retailers have a thirty-day period following the removal of a
+manufacturer or its products from the directory in which the retailer is authorized
+to sell such products that were in the retailer's inventory as of the date of
+removal. A retailer is not authorized to sell the identified products after the
+expiration of the thirty-day period.
+(5) After thirty (30) calendar days following removal from the directory,
+the vapor products of a manufacturer identified in the notice of removal and
+- 7 - 002878
+intended for sale in this state are subject to seizure, forfeiture, and destruction,
+and may not be purchased or sold for retail sale in this state. The cost of the
+seizure, forfeiture, and destruction must be borne by the business or person from
+whom the products are confiscated, except that no products may be seized from
+a consumer who has made a bona fide purchase of such product. The
+department may store and dispose of the seized products as appropriate, in
+accordance with federal, state, and local laws pertaining to storage and disposal
+of such products.
+(j)
+(1) Except as provided in subdivisions (j)(2) and (3), beginning January
+1, 2026, or on the date that the department first makes the directory available for
+public inspection on its website, whichever is later, vapor products not included in
+the directory shall not be sold for retail sale in this state, either directly or through
+an importer, distributor, wholesaler, retailer, or similar intermediary or
+intermediaries.
+(2) A retailer has sixty (60) calendar days from the date that the
+department first makes the directory available for inspection on its website to sell
+products that were in its inventory and not included in the directory or remove
+those products from inventory.
+(3) A distributor or wholesaler has sixty (60) calendar days from the date
+that the department first makes the directory available for inspection on its
+website to remove those products intended for sale in this state that were not
+included in the directory from its inventory.
+(4) After sixty (60) calendar days following publication of the directory,
+vapor products not listed in the directory and intended for sale in this state are
+- 8 - 002878
+subject to seizure, forfeiture, and destruction, and shall not be purchased or sold
+for retail sale except as provided in subsection (i). The cost of the seizure,
+forfeiture, and destruction must be borne by the business or person from whom
+the products are confiscated, except that no products may be seized from a
+consumer who has made a bona fide purchase of such product.
+(5) Retailers are authorized to purchase vapor products only from
+licensed distributors or wholesalers of tobacco products.
+(k)
+(1) The following penalties apply to violations of this section:
+(A)
+(i) A retailer, distributor, wholesaler, or importer who sells
+or offers for sale a vapor product for retail sale in this state that is
+not included in the directory is subject to a civil penalty of up to
+five hundred dollars ($500) for each individual vapor product
+offered for sale in violation of this section;
+(ii) The civil penalty for a second violation under this
+subdivision (k)(1) within a twelve-month period is at least seven
+hundred fifty dollars ($750) but not more than one thousand
+dollars ($1,000) per product, and the suspension of the license of
+the retailer, distributor, wholesaler, or importer for thirty (30)
+calendar days; and
+(iii) The civil penalty for a third violation under this
+subdivision (k)(1) within a twelve-month period is at least one
+thousand dollars ($1,000) but not more than one thousand five
+- 9 - 002878
+hundred dollars ($1,500) per product, and the revocation of the
+license of the retailer, distributor, wholesaler, or importer; and
+(B) A manufacturer whose vapor products are not listed in the
+directory and who causes the products that are not listed to be sold for
+retail sale in this state, whether directly or through an importer, distributor,
+wholesaler, retailer, or similar intermediary or intermediaries, is subject to
+a civil penalty of ten thousand dollars ($10,000) for each individual vapor
+product offered for sale in violation of this section. In addition, a
+manufacturer that knowingly and falsely represents any information
+required by a certification form commits a Class A misdemeanor. Each
+false representation is a separate offense.
+(2) In an action to enforce this section, the state is entitled to recover
+costs, including the costs of investigation, expert witness fees, and reasonable
+attorney fees.
+(3) Notwithstanding this section to the contrary, a repeated violation of
+this section constitutes a deceptive trade practice under § 47-18-104.
+(l)
+(1) A manufacturer not registered to do business in the state shall, as a
+condition precedent to having the manufacturer's name or products listed and
+retained in the directory, appoint, and continually engage without interruption, a
+registered agent in this state for service of process on whom all process and any
+action or proceeding arising out of the enforcement of this section may be
+served. The manufacturer shall provide to the department the name, address,
+and telephone number of its agent for service of process and provide any other
+information relating to its agent as may be requested by the department.
+- 10 - 002878
+(2) A manufacturer located outside of the United States shall, as an
+additional condition precedent to having the manufacturer's products listed or
+retained in the directory, cause each of the importers of any of the manufacturer's
+products to be sold in this state to appoint, and continually engage without
+interruption, the services of an agent in this state in accordance with this section.
+All obligations of a manufacturer imposed by this section with respect to
+appointment of its agent also apply to the importers with respect to appointment
+of their agents.
+(3) A manufacturer shall provide written notice to the department not later
+than thirty (30) calendar days prior to the termination of the authority of an agent
+appointed pursuant to subdivision (l)(1) or (l)(2). Not less than five (5) calendar
+days prior to the termination of an existing agent appointment, a manufacturer
+shall provide to the department the name, address, and telephone number of the
+manufacturers newly appointed agent for service of process and provide any
+other information relating to the new appointment as may be requested by the
+department. In the event an agent terminates an agency appointment, the
+manufacturer shall notify the department of the termination within five (5)
+calendar days and include proof to the satisfaction of the department of the
+appointment of a new agent.
+(m) A retailer, distributor, or wholesaler that sells or distributes vapor products in
+this state is subject to at least two (2) unannounced compliance checks by the
+department or its designee, including any state or local law enforcement official, annually
+for purposes of enforcing this section. Such compliance checks must take place during
+business hours. Unannounced follow-up compliance checks of all noncompliant
+retailers, distributors, and wholesalers must be conducted within thirty (30) calendar
+- 11 - 002878
+days after any violation of this section. The department shall publish the results of all
+compliance checks at least annually and make the results available to the public on
+request.
+(n) If the department elects not to include a vapor product or vapor product
+manufacturer on the directory, or if the department removes a vapor product or vapor
+product manufacturer from the directory, then that action is subject to review in the
+manner provided by § 67-1-105 and in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5. In the event of a conflict between § 67-1-
+105 and the Uniform Administrative Procedures Act, the Uniform Administrative
+Procedures Act governs.
+(o) The department may promulgate rules necessary to effectuate this section.
+Rules must be promulgated in accordance with the Uniform Administrative Procedures
+Act, compiled in title 4, chapter 5.
+(p) All fees and penalties collected by the department pursuant to this section
+must be used for the administration and enforcement of this section. Funds collected
+pursuant to this section must be placed in a special account within the general fund and
+do not revert to the general fund at the end of a fiscal year.
+(q) The department shall submit a report to the chief clerks of the senate and the
+house of representatives, the office of legislative budget analysis, and the legislative
+librarian regarding the status of the directory, manufacturers, and products included in
+the directory, revenue and expenditures related to administration of this section, and
+enforcement activities undertaken pursuant to this section. The initial report must be
+submitted by July 1, 2026, and subsequent annual reports must be submitted by each
+July 1 thereafter.
+
+Section 11:
+SECTION 8. This act takes effect July 1, 2025, the public welfare requiring it.
+- 12 - 002878
+[DELETED: SSS((((]
+[DELETED:  -0(((((((S(]
+[DELETED:  -0(((SS(S6((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((((]
+[DELETED:  -0(((]
+[DELETED:  -0((((]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 763
+By Yager
+HOUSE BILL 968
+By Hawk
+AN ACT to amend Tennessee Code Annotated, Title 10,
+Chapter 7, Part 5; Title 39, Chapter 17, Part 15;
+Title 47, Chapter 25; Title 67, Chapter 4, Part 10
+and Title 67, Chapter 4, Part 26, relative to
+regulated consumable products.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 39-17-1504(d), is amended by
+deleting the language "if an ordinary person would conclude on the basis of appearance that the
+prospective purchaser or recipient may be under thirty (30) years of age".
+SECTION 2. Tennessee Code Annotated, Section 67-4-1001(24)(A), is amended by
+deleting the language "and snuff" and substituting instead the language "snuff, and vapor
+products".
+SECTION 3. Tennessee Code Annotated, Section 67-4-1001, is amended by adding
+the following as new, appropriately designated subdivisions:
+( ) "Closed-system vapor product" means:
+(A) A disposable container or cartridge prefilled with consumable material
+and sealed by the manufacturer, not easily refillable or intended or designed to
+be refillable, and intended or used to dispense consumable material when
+connected to a device that is designed to be reused; and
+(B) Any single unit vapor product which is prefilled with consumable
+material and sealed by the manufacturer, not intended to be refillable, and
+intended to be disposed of once the consumable material has been depleted;
+( ) "Consumable material" means any liquid nicotine solution intended for use in
+a vapor product;
+HB0968
+002878
+- 1 -
+
+( ) "Open-system vapor product" means:
+(A) A vapor product that can be filled and refilled with consumable
+material by a consumer; and
+(B) Any consumable material that is intended to be used with the vapor
+product described in subdivision ( )(A);
+( ) "Vapor product":
+(A) Means a noncombustible product containing nicotine, whether natural
+or synthetic, that employs a mechanical heating element, battery, electronic
+circuit, or other mechanism, regardless of shape or size, that can be used to
+produce or emit a visible or non-visible vapor;
+(B) Includes an electronic cigarette, electronic cigar, electronic cigarillo,
+electronic pipe, or similar product, and any vapor cartridge containing
+consumable material or other container of consumable material that is intended
+to be used with or in an electronic cigarette, electronic cigar, electronic cigarillo,
+electronic pipe, or similar product; and
+(C) Does not include a product regulated under Chapter V of the Food,
+Drug, and Cosmetic Act (21 U.S.C. § 351 et seq.);
+SECTION 4. Tennessee Code Annotated, Section 67-4-1005, is amended by deleting
+the section and substituting instead the following:
+(a) The rate on all other tobacco products, including, but not limited to, cigars,
+cheroots, stogies, beedies, bidis, manufactured tobacco, and snuff of all descriptions
+made of tobacco or any substitute for tobacco, but not on vapor products, is six and six-
+tenths percent (6.6%) of the wholesale cost price.
+- 2 - 002878
+
+(b) The rate on closed-system vapor products is seven cents ($0.07) per milliliter
+of consumable material contained in the vapor product, and a like rate on all fractional
+parts of a milliliter of consumable material.
+(c) The rate on open-system vapor products is ten percent (10%) of the
+wholesale cost price.
+(d) This section does not apply to smokeless nicotine products.
+SECTION 5. Tennessee Code Annotated, Section 67-4-1025(a), is amended by adding
+the language ", other than vapor products," immediately after the language "All of the taxes on
+tobacco products".
+SECTION 6. Tennessee Code Annotated, Section 67-4-1025, is amended by adding
+the following as a new subsection:
+(f) All of the revenue from taxes on vapor products collected under this part must
+be deposited in a special account in the state general fund to be used exclusively for
+administration and enforcement of § 67-4-1034. Any unexpended funds do not revert to
+the general fund and must be held in the account for use in accordance with this section.
+SECTION 7. Tennessee Code Annotated, Title 67, Chapter 4, Part 10, is amended by
+adding the following as a new section:
+67-4-1034. Vapor product directory.
+(a) For purposes of this section, "timely filed premarket tobacco product
+application" means an application pursuant to 21 U.S.C. § 387j for a vapor product
+containing nicotine derived from tobacco, marketed in the United States as of August 8,
+2016, that was submitted to the United States food and drug administration on or before
+September 9, 2020, and accepted for filing.
+(b) By August 1, 2025, and annually thereafter, each manufacturer of a vapor
+product that is sold for retail sale in this state, whether directly or through an importer,
+- 3 - 002878
+
+wholesaler, distributor, retailer, or similar intermediary or intermediaries, shall execute
+and deliver to the department a certification, under penalty of perjury on a form and in a
+manner prescribed by the department, that the manufacturer is compliant with this
+section and that, for each vapor product sold for retail sale in this state:
+(1) The manufacturer has received a marketing granted order for the
+vapor product from the United States food and drug administration (FDA)
+pursuant to 21 U.S.C. § 387j;
+(2) The manufacturer submitted a timely filed premarket tobacco product
+application for the vapor product to the FDA pursuant to 21 U.S.C. § 387j, and
+the application either:
+(A) Remains under review by the FDA; or
+(B) Has received a denial order that has been and remains:
+(i) Stayed by the FDA or court order;
+(ii) Rescinded by the FDA; or
+(iii) Vacated by a court; or
+(3) The manufacturer is not required to submit an additional marketing
+granted order or premarket tobacco product application for the vapor product
+because the vapor product merely reflects changes to the name, brand style, or
+packaging of a vapor product that is covered under subdivision (b)(1) or (b)(2).
+(c) The following must be indicated on the certification for each vapor product
+that is sold in this state:
+(1) Brand name;
+(2) Category, such as consumable material, power unit, device, vapor
+cartridge, pod, or disposable;
+(3) Product name; and
+- 4 - 002878
+
+(4) Flavor.
+(d) Each annual certification form must be accompanied by:
+(1) A copy of:
+(A) The marketing granted order issued by the FDA pursuant to
+21 U.S.C. Section 387j;
+(B) The acceptance letter issued by the FDA pursuant to 21
+U.S.C. § 387j for a timely filed premarket tobacco product application; or
+(C) A document issued by the FDA or by a court confirming that
+the premarket tobacco product application has received a denial order
+that has been and remains stayed by FDA or court order, rescinded by
+the FDA, or vacated by a court; and
+(2) Payment of a fee of twenty-five dollars ($25.00) for each vapor
+product each time a manufacturer submits an annual certification form for that
+vapor product.
+(e) The information submitted by the manufacturer pursuant to subdivision (d)(1)
+is confidential and not subject to the open records law compiled in title 10, chapter 7.
+The manufacturer may redact proprietary information provided under subdivision (d)(1).
+The department shall not disclose such information, except as required or authorized by
+law. As used in this subsection (e), "proprietary information" means commercial or
+financial information that is used either directly or indirectly in the business of any person
+or company and that gives such person an advantage or an opportunity to obtain an
+advantage over competitors who do not know or use such information.
+(f) A manufacturer that is required to submit a certification form pursuant to this
+section shall notify the department within thirty (30) calendar days of any material
+change to the certification form, including the issuance or denial of a marketing
+- 5 - 002878
+
+authorization or other order by the FDA pursuant to 21 U.S.C. § 387j, or any other order
+or action by the FDA or any court that affects the ability of the vapor product to be
+introduced or delivered into interstate commerce for commercial distribution in the United
+States.
+(g) Starting January 1, 2026, the department shall maintain and make publicly
+available on the department's website a directory that lists all vapor product
+manufacturers, brand names, categories, product names, and flavors for which
+certification forms have been submitted and approved by the department. The
+department shall update the directory at least monthly to ensure accuracy. The
+department shall establish a process to provide retailers and licensed distributors and
+wholesalers notice of the initial publication of the directory and changes made to the
+directory from the prior month.
+(h) A manufacturer or the manufacturer's vapor products must not be included or
+retained in the directory if the department determines that any of the following apply:
+(1) The manufacturer failed to provide a complete and accurate
+certification as required by subsection (b);
+(2) The manufacturer submitted a certification that does not comply with
+the requirements of subsection (c) and (d);
+(3) The manufacturer failed to include with its certification the payment
+required by subdivision (d)(2);
+(4) The manufacturer sold products in this state that are required to be
+certified under this section during a period when either the manufacturer or the
+product had not been certified and listed on the directory; or
+- 6 - 002878
+
+(5) The information provided by the manufacturer in its certification is
+determined by the department to contain false information or contains material
+misrepresentations or omissions.
+(i)
+(1) The department shall provide manufacturers with a written notice of
+deficiencies and an opportunity to cure those deficiencies before taking action to
+remove manufacturers or products from the directory.
+(2) The department shall not remove the manufacturer or its products
+from the directory until at least thirty (30) business days after the manufacturer
+has been given notice of an intended action setting forth the reasons for the
+removal. Notice is deemed sufficient and immediately received by a
+manufacturer if the notice is sent either electronically or by facsimile to an
+electronic mail address or facsimile number, as the case may be, that was
+provided by the manufacturer in its most recently filed certification.
+(3) A vapor product manufacturer has fifteen (15) business days from the
+date of service of the notice of the department's intended action to cure the noted
+deficiencies or otherwise establish that the vapor product manufacturer or its
+products should be included in the directory.
+(4) Retailers have a thirty-day period following the removal of a
+manufacturer or its products from the directory in which the retailer is authorized
+to sell such products that were in the retailer's inventory as of the date of
+removal. A retailer is not authorized to sell the identified products after the
+expiration of the thirty-day period.
+(5) After thirty (30) calendar days following removal from the directory,
+the vapor products of a manufacturer identified in the notice of removal and
+- 7 - 002878
+
+intended for sale in this state are subject to seizure, forfeiture, and destruction,
+and may not be purchased or sold for retail sale in this state. The cost of the
+seizure, forfeiture, and destruction must be borne by the business or person from
+whom the products are confiscated, except that no products may be seized from
+a consumer who has made a bona fide purchase of such product. The
+department may store and dispose of the seized products as appropriate, in
+accordance with federal, state, and local laws pertaining to storage and disposal
+of such products.
+(j)
+(1) Except as provided in subdivisions (j)(2) and (3), beginning January
+1, 2026, or on the date that the department first makes the directory available for
+public inspection on its website, whichever is later, vapor products not included in
+the directory shall not be sold for retail sale in this state, either directly or through
+an importer, distributor, wholesaler, retailer, or similar intermediary or
+intermediaries.
+(2) A retailer has sixty (60) calendar days from the date that the
+department first makes the directory available for inspection on its website to sell
+products that were in its inventory and not included in the directory or remove
+those products from inventory.
+(3) A distributor or wholesaler has sixty (60) calendar days from the date
+that the department first makes the directory available for inspection on its
+website to remove those products intended for sale in this state that were not
+included in the directory from its inventory.
+(4) After sixty (60) calendar days following publication of the directory,
+vapor products not listed in the directory and intended for sale in this state are
+- 8 - 002878
+
+subject to seizure, forfeiture, and destruction, and shall not be purchased or sold
+for retail sale except as provided in subsection (i). The cost of the seizure,
+forfeiture, and destruction must be borne by the business or person from whom
+the products are confiscated, except that no products may be seized from a
+consumer who has made a bona fide purchase of such product.
+(5) Retailers are authorized to purchase vapor products only from
+licensed distributors or wholesalers of tobacco products.
+(k)
+(1) The following penalties apply to violations of this section:
+(A)
+(i) A retailer, distributor, wholesaler, or importer who sells
+or offers for sale a vapor product for retail sale in this state that is
+not included in the directory is subject to a civil penalty of up to
+five hundred dollars ($500) for each individual vapor product
+offered for sale in violation of this section;
+(ii) The civil penalty for a second violation under this
+subdivision (k)(1) within a twelve-month period is at least seven
+hundred fifty dollars ($750) but not more than one thousand
+dollars ($1,000) per product, and the suspension of the license of
+the retailer, distributor, wholesaler, or importer for thirty (30)
+calendar days; and
+(iii) The civil penalty for a third violation under this
+subdivision (k)(1) within a twelve-month period is at least one
+thousand dollars ($1,000) but not more than one thousand five
+- 9 - 002878
+
+hundred dollars ($1,500) per product, and the revocation of the
+license of the retailer, distributor, wholesaler, or importer; and
+(B) A manufacturer whose vapor products are not listed in the
+directory and who causes the products that are not listed to be sold for
+retail sale in this state, whether directly or through an importer, distributor,
+wholesaler, retailer, or similar intermediary or intermediaries, is subject to
+a civil penalty of ten thousand dollars ($10,000) for each individual vapor
+product offered for sale in violation of this section. In addition, a
+manufacturer that knowingly and falsely represents any information
+required by a certification form commits a Class A misdemeanor. Each
+false representation is a separate offense.
+(2) In an action to enforce this section, the state is entitled to recover
+costs, including the costs of investigation, expert witness fees, and reasonable
+attorney fees.
+(3) Notwithstanding this section to the contrary, a repeated violation of
+this section constitutes a deceptive trade practice under § 47-18-104.
+(l)
+(1) A manufacturer not registered to do business in the state shall, as a
+condition precedent to having the manufacturer's name or products listed and
+retained in the directory, appoint, and continually engage without interruption, a
+registered agent in this state for service of process on whom all process and any
+action or proceeding arising out of the enforcement of this section may be
+served. The manufacturer shall provide to the department the name, address,
+and telephone number of its agent for service of process and provide any other
+information relating to its agent as may be requested by the department.
+- 10 - 002878
+
+(2) A manufacturer located outside of the United States shall, as an
+additional condition precedent to having the manufacturer's products listed or
+retained in the directory, cause each of the importers of any of the manufacturer's
+products to be sold in this state to appoint, and continually engage without
+interruption, the services of an agent in this state in accordance with this section.
+All obligations of a manufacturer imposed by this section with respect to
+appointment of its agent also apply to the importers with respect to appointment
+of their agents.
+(3) A manufacturer shall provide written notice to the department not later
+than thirty (30) calendar days prior to the termination of the authority of an agent
+appointed pursuant to subdivision (l)(1) or (l)(2). Not less than five (5) calendar
+days prior to the termination of an existing agent appointment, a manufacturer
+shall provide to the department the name, address, and telephone number of the
+manufacturers newly appointed agent for service of process and provide any
+other information relating to the new appointment as may be requested by the
+department. In the event an agent terminates an agency appointment, the
+manufacturer shall notify the department of the termination within five (5)
+calendar days and include proof to the satisfaction of the department of the
+appointment of a new agent.
+(m) A retailer, distributor, or wholesaler that sells or distributes vapor products in
+this state is subject to at least two (2) unannounced compliance checks by the
+department or its designee, including any state or local law enforcement official, annually
+for purposes of enforcing this section. Such compliance checks must take place during
+business hours. Unannounced follow-up compliance checks of all noncompliant
+retailers, distributors, and wholesalers must be conducted within thirty (30) calendar
+- 11 - 002878
+
+days after any violation of this section. The department shall publish the results of all
+compliance checks at least annually and make the results available to the public on
+request.
+(n) If the department elects not to include a vapor product or vapor product
+manufacturer on the directory, or if the department removes a vapor product or vapor
+product manufacturer from the directory, then that action is subject to review in the
+manner provided by § 67-1-105 and in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5. In the event of a conflict between § 67-1-
+105 and the Uniform Administrative Procedures Act, the Uniform Administrative
+Procedures Act governs.
+(o) The department may promulgate rules necessary to effectuate this section.
+Rules must be promulgated in accordance with the Uniform Administrative Procedures
+Act, compiled in title 4, chapter 5.
+(p) All fees and penalties collected by the department pursuant to this section
+must be used for the administration and enforcement of this section. Funds collected
+pursuant to this section must be placed in a special account within the general fund and
+do not revert to the general fund at the end of a fiscal year.
+(q) The department shall submit a report to the chief clerks of the senate and the
+house of representatives, the office of legislative budget analysis, and the legislative
+librarian regarding the status of the directory, manufacturers, and products included in
+the directory, revenue and expenditures related to administration of this section, and
+enforcement activities undertaken pursuant to this section. The initial report must be
+submitted by July 1, 2026, and subsequent annual reports must be submitted by each
+July 1 thereafter.
+SECTION 8. This act takes effect July 1, 2025, the public welfare requiring it.
+- 12 - 002878
+
+[DELETED: SSS((((]
+[DELETED:  -0(((((((S(]
+[DELETED:  -0(((SS(S6((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((((]
+[DELETED:  -0(((]
+[DELETED:  -0((((]

@@ -1,0 +1,98 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE RESOLUTION 138
+By Haile
+A RESOLUTION to commend Austin Parker for exemplary service
+as a legislative intern.
+WHEREAS, each legislative session, this body is pleased to recognize certain persons
+who have committed themselves, through their adroit service, to the betterment of the legislative
+process; and
+WHEREAS, Austin Parker is one such individual, who has distinguished himself in his
+role as a legislative intern for Senator Ferrell Haile; Mr. Parker's work has resulted in
+innumerable benefits for the legislators he assisted and the General Assembly as a whole; and
+WHEREAS, a student at Lipscomb University, where he is highly regarded by his peers,
+Austin Parker has achieved academic success while majoring in political science with a minor in
+history, in addition to serving as a founding officer of the Alpha Delta fraternity, a member of Pi
+Sigma Alpha, and a peer tutor for the Writing Studio at Lipscomb University; and
+WHEREAS, with an indefatigable industriousness, Mr. Parker has further fostered his
+wealth of skills by serving as a legal intern with Massingill Attorneys and Counselors at Law in
+Austin, Texas, and as a Lex Fellow in Washington, D.C.; and
+WHEREAS, a dedicated member of his community, Mr. Parker has volunteered with the
+Nashville Dolphins to give swimming lessons to children with mental and physical disabilities;
+and
+WHEREAS, eager to familiarize himself with the characteristics and complexities of
+Tennessee State government and to further his studies, Mr. Parker brought his many abilities
+and singular expertise to Capitol Hill for the 2025 session of the One Hundred Fourteenth
+General Assembly; and
+SR0138
+007152
+- 1 -
+WHEREAS, throughout the 2025 legislative session, Austin Parker has surpassed all
+criteria that define a devoted and conscientious legislative intern; and
+WHEREAS, Austin Parker has performed his many duties with extraordinary insight and
+rare decorum; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby commend Austin
+Parker for outstanding service as a legislative intern for Senator Ferrell Haile and extend to him
+our best wishes for every future success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 007152
+[DELETED: WWWWW]
+[DELETED:  -0WWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE RESOLUTION 138
+By Haile
+A RESOLUTION to commend Austin Parker for exemplary service
+as a legislative intern.
+WHEREAS, each legislative session, this body is pleased to recognize certain persons
+who have committed themselves, through their adroit service, to the betterment of the legislative
+process; and
+WHEREAS, Austin Parker is one such individual, who has distinguished himself in his
+role as a legislative intern for Senator Ferrell Haile; Mr. Parker's work has resulted in
+innumerable benefits for the legislators he assisted and the General Assembly as a whole; and
+WHEREAS, a student at Lipscomb University, where he is highly regarded by his peers,
+Austin Parker has achieved academic success while majoring in political science with a minor in
+history, in addition to serving as a founding officer of the Alpha Delta fraternity, a member of Pi
+Sigma Alpha, and a peer tutor for the Writing Studio at Lipscomb University; and
+WHEREAS, with an indefatigable industriousness, Mr. Parker has further fostered his
+wealth of skills by serving as a legal intern with Massingill Attorneys and Counselors at Law in
+Austin, Texas, and as a Lex Fellow in Washington, D.C.; and
+WHEREAS, a dedicated member of his community, Mr. Parker has volunteered with the
+Nashville Dolphins to give swimming lessons to children with mental and physical disabilities;
+and
+WHEREAS, eager to familiarize himself with the characteristics and complexities of
+Tennessee State government and to further his studies, Mr. Parker brought his many abilities
+and singular expertise to Capitol Hill for the 2025 session of the One Hundred Fourteenth
+General Assembly; and
+SR0138
+007152
+- 1 -
+
+WHEREAS, throughout the 2025 legislative session, Austin Parker has surpassed all
+criteria that define a devoted and conscientious legislative intern; and
+WHEREAS, Austin Parker has performed his many duties with extraordinary insight and
+rare decorum; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby commend Austin
+Parker for outstanding service as a legislative intern for Senator Ferrell Haile and extend to him
+our best wishes for every future success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 007152
+
+[DELETED: WWWWW]
+[DELETED:  -0WWBB]

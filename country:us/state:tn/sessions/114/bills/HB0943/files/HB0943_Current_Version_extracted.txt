@@ -1,0 +1,73 @@
+Title: SENATE BILL 630
+Official Title: SENATE BILL 630
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Campbell
+HOUSE BILL 943
+By Mitchell
+AN ACT to amend Tennessee Code Annotated, Title 2,
+relative to nominating petitions.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 2-5-102(a), is amended by deleting
+the following language:
+I hereby direct that my name appear on the official ballot as follows:
+PRINT NAME
+and substituting instead:
+I hereby direct that my name appear on the official ballot as follows:
+PRINT NAME AS IT APPEARS ON VOTER REGISTRATION RECORD
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 2-5-102, is amended by adding the
+following as a new subsection:
+(c) The candidate's name that will be shown on the ballot must match the
+candidate's name as it appears on the candidate's voter registration record. Nicknames,
+abbreviations, and variations in spelling are not authorized. The coordinator of elections
+shall provide guidelines and examples to potential candidates to aid in compliance with
+this subsection (c).
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0943
+001979
+- 1 -
+[DELETED: SPPSS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 630
+By Campbell
+HOUSE BILL 943
+By Mitchell
+AN ACT to amend Tennessee Code Annotated, Title 2,
+relative to nominating petitions.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 2-5-102(a), is amended by deleting
+the following language:
+I hereby direct that my name appear on the official ballot as follows:
+PRINT NAME
+and substituting instead:
+I hereby direct that my name appear on the official ballot as follows:
+PRINT NAME AS IT APPEARS ON VOTER REGISTRATION RECORD
+SECTION 2. Tennessee Code Annotated, Section 2-5-102, is amended by adding the
+following as a new subsection:
+(c) The candidate's name that will be shown on the ballot must match the
+candidate's name as it appears on the candidate's voter registration record. Nicknames,
+abbreviations, and variations in spelling are not authorized. The coordinator of elections
+shall provide guidelines and examples to potential candidates to aid in compliance with
+this subsection (c).
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0943
+001979
+- 1 -
+
+[DELETED: SPPSS]

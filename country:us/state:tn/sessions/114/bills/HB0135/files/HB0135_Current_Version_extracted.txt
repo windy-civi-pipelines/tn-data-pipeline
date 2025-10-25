@@ -1,0 +1,75 @@
+Title: SENATE BILL 13
+Official Title: SENATE BILL 13
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Walley
+HOUSE BILL 135
+By Bricken
+AN ACT to amend Tennessee Code Annotated, Title 4 and
+Title 7, Chapter 86, Part 3, relative to the
+emergency communications board.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 7-86-302(b)(1), is amended by
+deleting "The board shall be composed of nine (9) members" and substituting "The board shall
+be composed of eleven (11) members".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 7-86-302(b)(1), is amended by
+deleting subdivisions (C) and (D) and substituting:
+(C) Two (2) representatives of county government, appointed by the speaker of
+the senate;
+(D) Two (2) representatives of city government, appointed by the speaker of the
+house of representatives;
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 7-86-302(h), is amended by deleting
+the subsection and substituting:
+A quorum shall consist of six (6) or more members, and all official action of the
+board requires a quorum.
+
+Section 5:
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0135
+000217
+- 1 -
+[DELETED: S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 13
+By Walley
+HOUSE BILL 135
+By Bricken
+AN ACT to amend Tennessee Code Annotated, Title 4 and
+Title 7, Chapter 86, Part 3, relative to the
+emergency communications board.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 7-86-302(b)(1), is amended by
+deleting "The board shall be composed of nine (9) members" and substituting "The board shall
+be composed of eleven (11) members".
+SECTION 2. Tennessee Code Annotated, Section 7-86-302(b)(1), is amended by
+deleting subdivisions (C) and (D) and substituting:
+(C) Two (2) representatives of county government, appointed by the speaker of
+the senate;
+(D) Two (2) representatives of city government, appointed by the speaker of the
+house of representatives;
+SECTION 3. Tennessee Code Annotated, Section 7-86-302(h), is amended by deleting
+the subsection and substituting:
+A quorum shall consist of six (6) or more members, and all official action of the
+board requires a quorum.
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0135
+000217
+- 1 -
+
+[DELETED: S]

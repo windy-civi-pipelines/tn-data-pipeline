@@ -1,0 +1,102 @@
+Title: SENATE BILL 426
+Official Title: SENATE BILL 426
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Reeves
+HOUSE BILL 9
+By Hale
+AN ACT to amend Tennessee Code Annotated, Title 49,
+Chapter 3, relative to the Tennessee investment in
+student achievement formula.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-3-105(b), is amended by deleting
+the language "five percent (5%)" in subdivision (3) and substituting instead the language "ten
+percent (10%)" and by redesignating subdivision (5) as subdivision (6) and adding the following
+as a new subdivision (5):
+(5) The weighted allocation for a student who resides in an LEA with a
+membership of:
+(A) Between four thousand (4,000) and four thousand nine hundred
+ninety-nine (4,999) students, both inclusive, is one percent (1%);
+(B) Between three thousand (3,000) and three thousand nine hundred
+ninety-nine (3,999) students, both inclusive, is two percent (2%);
+(C) Between two thousand (2,000) and two thousand nine hundred
+ninety-nine (2,999) students, both inclusive, is three percent (3%); and
+(D) Between one thousand (1,000) and one thousand nine hundred
+ninety-nine (1,999) students, both inclusive, is four percent (4%); and
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 49-3-104(18), is amended by
+deleting the language "one thousand (1,000) or fewer students" and substituting instead the
+language "fewer than one thousand (1,000) students".
+HB0009
+000089
+- 1 -
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 49-3-105, is amended by designating
+the existing language of subsection (c) as subdivision (c)(1) and adding the following as a new
+subdivision (c)(2):
+(2) A student generates a direct allocation for the LEA in which the student is a
+member in the amount of fifty dollars ($50.00) for maintenance and infrastructure.
+
+Section 5:
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to the Tennessee investment in student achievement formula for the 2025-2026
+school year and each school year thereafter.
+- 2 - 000089
+[DELETED: S(S]
+[DELETED:  -0S(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 426
+By Reeves
+HOUSE BILL 9
+By Hale
+AN ACT to amend Tennessee Code Annotated, Title 49,
+Chapter 3, relative to the Tennessee investment in
+student achievement formula.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-3-105(b), is amended by deleting
+the language "five percent (5%)" in subdivision (3) and substituting instead the language "ten
+percent (10%)" and by redesignating subdivision (5) as subdivision (6) and adding the following
+as a new subdivision (5):
+(5) The weighted allocation for a student who resides in an LEA with a
+membership of:
+(A) Between four thousand (4,000) and four thousand nine hundred
+ninety-nine (4,999) students, both inclusive, is one percent (1%);
+(B) Between three thousand (3,000) and three thousand nine hundred
+ninety-nine (3,999) students, both inclusive, is two percent (2%);
+(C) Between two thousand (2,000) and two thousand nine hundred
+ninety-nine (2,999) students, both inclusive, is three percent (3%); and
+(D) Between one thousand (1,000) and one thousand nine hundred
+ninety-nine (1,999) students, both inclusive, is four percent (4%); and
+SECTION 2. Tennessee Code Annotated, Section 49-3-104(18), is amended by
+deleting the language "one thousand (1,000) or fewer students" and substituting instead the
+language "fewer than one thousand (1,000) students".
+HB0009
+000089
+- 1 -
+
+SECTION 3. Tennessee Code Annotated, Section 49-3-105, is amended by designating
+the existing language of subsection (c) as subdivision (c)(1) and adding the following as a new
+subdivision (c)(2):
+(2) A student generates a direct allocation for the LEA in which the student is a
+member in the amount of fifty dollars ($50.00) for maintenance and infrastructure.
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to the Tennessee investment in student achievement formula for the 2025-2026
+school year and each school year thereafter.
+- 2 - 000089
+
+[DELETED: S(S]
+[DELETED:  -0S(S]

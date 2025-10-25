@@ -1,0 +1,49 @@
+Title: SENATE BILL 757
+Official Title: SENATE BILL 757
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Yager
+HOUSE BILL 174
+By Gant
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to school lunch.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 6, Part 23, is amended by
+adding the following as a new section:
+An LEA shall publish the school lunch menu on the LEA's website.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0174
+001715
+- 1 -
+[DELETED: SAS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 757
+By Yager
+HOUSE BILL 174
+By Gant
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to school lunch.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 6, Part 23, is amended by
+adding the following as a new section:
+An LEA shall publish the school lunch menu on the LEA's website.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0174
+001715
+- 1 -
+
+[DELETED: SAS]

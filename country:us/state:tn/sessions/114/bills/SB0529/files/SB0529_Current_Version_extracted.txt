@@ -1,0 +1,244 @@
+Title: HOUSE BILL 911
+Official Title: HOUSE BILL 911
+Number of Sections: 16
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Garrett
+SENATE BILL 529
+By Stevens
+AN ACT to amend Tennessee Code Annotated, Title 47,
+relative to consumer protection.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 47-18-104(b)(27), is amended by
+deleting "any other act or practice which is deceptive to the consumer" and substituting "any
+other act or practice which is deceptive or unfair to the consumer".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 47-18-104(b), is amended by
+deleting subdivision (43) and substituting:
+(43) The act or practice of directly or indirectly:
+(A) Making representations that a person will pay or reimburse for a
+motor vehicle traffic citation for any person who purchases a device or
+mechanism, passive or active, that can detect or interfere with a radar, laser, or
+other device used to measure the speed of motor vehicles; or
+(B) Advertising, promoting, selling, or offering for sale any radar jamming
+device that includes any active or passive device, instrument, mechanism, or
+equipment that interferes with, disrupts, or scrambles the radar or laser that is
+used by law enforcement agencies and officers to measure the speed of motor
+vehicles;
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 47-18-107(a), is amended by
+deleting "The assurance shall be in writing and shall be filed with and subject to the approval of
+the circuit or chancery court of Davidson County.".
+SB0529
+001740
+- 1 -
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 47-18-108, is amended by adding
+the following new subsections:
+(d) In any action brought by the attorney general and reporter under subsection
+(a), the attorney general and reporter is the sole party for discovery purposes and is
+deemed to lack possession, custody, or control over documents possessed by the
+general assembly, other state officers, or any state agencies or institutions. If such an
+action is asserted on behalf of a political subdivision or agency, then the attorney
+general and reporter may facilitate nonparty discovery from that political subdivision or
+agency as an instrumentality with an interest in the litigation consistent with § 8-6-109.
+(e) In any action brought by the attorney general and reporter under subsection
+(a), where the attorney general and reporter does not seek to recover for an injury
+suffered by a state governmental branch or office, official, agency, political subdivision,
+or other instrumentality, nonparty discovery of that entity is presumptively unreasonable
+and unduly burdensome.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 47-18-111(a)(2), is amended by
+deleting the language "on behalf of others without notification" and substituting "on behalf of
+others and where the claim concerns the underlying published content's violation of this part,
+without notification".
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Section 47-18-131(c)(4), is amended by
+deleting subdivision (A) and substituting:
+(A) Failing to provide the disclosure described in subdivision (c)(4)(B) in Times
+New Roman typeface, either in the largest font type on the entire advertisement, but in
+no event smaller than bold fourteen (14) point black type, when offering documents,
+information, or services that are available free of charge or at a lesser price from a
+governmental entity, or when offering to take any action on behalf of another that could
+- 2 - 001740
+otherwise be taken free of charge or at a lesser price by interacting directly with a
+governmental entity:
+(i) For mailers: on the front and outside of the mailing envelope and on
+the top page of any included advertisement;
+(ii) For emails: at the top of the email message;
+(iii) For web pages: on each web page; or
+(iv) For any other format: on the top of each page of any advertisement;
+
+Section 8:
+SECTION 7. Tennessee Code Annotated, Section 47-18-131(c)(4)(B), is amended by
+deleting "documents" and substituting "documents, information, or services".
+
+Section 9:
+SECTION 8. Tennessee Code Annotated, Section 47-25-106(a), is amended by
+deleting the language "may sue for and recover" and substituting "may individually sue for and
+recover".
+
+Section 10:
+SECTION 9. Tennessee Code Annotated, Section 47-50-120, is amended by adding
+the following subsection:
+(e) A violation of this section is a violation of the Tennessee Consumer
+Protection Act of 1977, compiled in chapter 18, part 1 of this title. A violation of this
+
+Section 11:
+section constitutes an unfair or deceptive act or practice affecting trade or commerce
+and is subject to the penalties and remedies as provided in the Tennessee Consumer
+Protection Act of 1977.
+
+Section 12:
+SECTION 10. Tennessee Code Annotated, Section 47-50-121, is amended by adding
+the following subsection:
+(e) A violation of this section is a violation of the Tennessee Consumer
+Protection Act of 1977, compiled in chapter 18, part 1 of this title. A violation of this
+
+Section 13:
+section constitutes an unfair or deceptive act or practice affecting trade or commerce
+- 3 - 001740
+and is subject to the penalties and remedies as provided in the Tennessee Consumer
+Protection Act of 1977.
+
+Section 14:
+SECTION 11. Tennessee Code Annotated, Section 47-18-104(b), is amended by
+adding the following as new subdivisions:
+( ) Violating § 47-50-120;
+( ) Violating § 47-50-121;
+
+Section 15:
+SECTION 12. Tennessee Code Annotated, Section 47-18-104(b), is amended by
+adding the following as a new subdivision:
+( ) Advertising, promoting, selling, or offering for sale a good or service that is
+illegal or unlawful to sell in this state;
+
+Section 16:
+SECTION 13. SECTIONS 3, 6, 7, and 9-11 take effect July 1, 2025, the public welfare
+requiring it. SECTIONS 1, 2, 4, 5, 8, and 12 take effect upon becoming a law, the public welfare
+requiring it, and apply retroactively to causes of action arising prior to this act's taking effect and
+to pending litigation.
+- 4 - 001740
+[DELETED: S]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0(((]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 911
+By Garrett
+SENATE BILL 529
+By Stevens
+AN ACT to amend Tennessee Code Annotated, Title 47,
+relative to consumer protection.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 47-18-104(b)(27), is amended by
+deleting "any other act or practice which is deceptive to the consumer" and substituting "any
+other act or practice which is deceptive or unfair to the consumer".
+SECTION 2. Tennessee Code Annotated, Section 47-18-104(b), is amended by
+deleting subdivision (43) and substituting:
+(43) The act or practice of directly or indirectly:
+(A) Making representations that a person will pay or reimburse for a
+motor vehicle traffic citation for any person who purchases a device or
+mechanism, passive or active, that can detect or interfere with a radar, laser, or
+other device used to measure the speed of motor vehicles; or
+(B) Advertising, promoting, selling, or offering for sale any radar jamming
+device that includes any active or passive device, instrument, mechanism, or
+equipment that interferes with, disrupts, or scrambles the radar or laser that is
+used by law enforcement agencies and officers to measure the speed of motor
+vehicles;
+SECTION 3. Tennessee Code Annotated, Section 47-18-107(a), is amended by
+deleting "The assurance shall be in writing and shall be filed with and subject to the approval of
+the circuit or chancery court of Davidson County.".
+SB0529
+001740
+- 1 -
+
+SECTION 4. Tennessee Code Annotated, Section 47-18-108, is amended by adding
+the following new subsections:
+(d) In any action brought by the attorney general and reporter under subsection
+(a), the attorney general and reporter is the sole party for discovery purposes and is
+deemed to lack possession, custody, or control over documents possessed by the
+general assembly, other state officers, or any state agencies or institutions. If such an
+action is asserted on behalf of a political subdivision or agency, then the attorney
+general and reporter may facilitate nonparty discovery from that political subdivision or
+agency as an instrumentality with an interest in the litigation consistent with § 8-6-109.
+(e) In any action brought by the attorney general and reporter under subsection
+(a), where the attorney general and reporter does not seek to recover for an injury
+suffered by a state governmental branch or office, official, agency, political subdivision,
+or other instrumentality, nonparty discovery of that entity is presumptively unreasonable
+and unduly burdensome.
+SECTION 5. Tennessee Code Annotated, Section 47-18-111(a)(2), is amended by
+deleting the language "on behalf of others without notification" and substituting "on behalf of
+others and where the claim concerns the underlying published content's violation of this part,
+without notification".
+SECTION 6. Tennessee Code Annotated, Section 47-18-131(c)(4), is amended by
+deleting subdivision (A) and substituting:
+(A) Failing to provide the disclosure described in subdivision (c)(4)(B) in Times
+New Roman typeface, either in the largest font type on the entire advertisement, but in
+no event smaller than bold fourteen (14) point black type, when offering documents,
+information, or services that are available free of charge or at a lesser price from a
+governmental entity, or when offering to take any action on behalf of another that could
+- 2 - 001740
+
+otherwise be taken free of charge or at a lesser price by interacting directly with a
+governmental entity:
+(i) For mailers: on the front and outside of the mailing envelope and on
+the top page of any included advertisement;
+(ii) For emails: at the top of the email message;
+(iii) For web pages: on each web page; or
+(iv) For any other format: on the top of each page of any advertisement;
+SECTION 7. Tennessee Code Annotated, Section 47-18-131(c)(4)(B), is amended by
+deleting "documents" and substituting "documents, information, or services".
+SECTION 8. Tennessee Code Annotated, Section 47-25-106(a), is amended by
+deleting the language "may sue for and recover" and substituting "may individually sue for and
+recover".
+SECTION 9. Tennessee Code Annotated, Section 47-50-120, is amended by adding
+the following subsection:
+(e) A violation of this section is a violation of the Tennessee Consumer
+Protection Act of 1977, compiled in chapter 18, part 1 of this title. A violation of this
+section constitutes an unfair or deceptive act or practice affecting trade or commerce
+and is subject to the penalties and remedies as provided in the Tennessee Consumer
+Protection Act of 1977.
+SECTION 10. Tennessee Code Annotated, Section 47-50-121, is amended by adding
+the following subsection:
+(e) A violation of this section is a violation of the Tennessee Consumer
+Protection Act of 1977, compiled in chapter 18, part 1 of this title. A violation of this
+section constitutes an unfair or deceptive act or practice affecting trade or commerce
+- 3 - 001740
+
+and is subject to the penalties and remedies as provided in the Tennessee Consumer
+Protection Act of 1977.
+SECTION 11. Tennessee Code Annotated, Section 47-18-104(b), is amended by
+adding the following as new subdivisions:
+( ) Violating § 47-50-120;
+( ) Violating § 47-50-121;
+SECTION 12. Tennessee Code Annotated, Section 47-18-104(b), is amended by
+adding the following as a new subdivision:
+( ) Advertising, promoting, selling, or offering for sale a good or service that is
+illegal or unlawful to sell in this state;
+SECTION 13. SECTIONS 3, 6, 7, and 9-11 take effect July 1, 2025, the public welfare
+requiring it. SECTIONS 1, 2, 4, 5, 8, and 12 take effect upon becoming a law, the public welfare
+requiring it, and apply retroactively to causes of action arising prior to this act's taking effect and
+to pending litigation.
+- 4 - 001740
+
+[DELETED: S]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0(((]

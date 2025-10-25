@@ -1,0 +1,61 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 1364
+By Watson
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 5; Title 6; Title 7 and Title 8, relative to
+immigration.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 7-68-105(b), is amended by deleting
+the first sentence and substituting:
+Each law enforcement agency shall negotiate the terms of a memorandum of
+agreement between the law enforcement agency and the appropriate federal official
+authorizing the law enforcement agency to participate in the 287(g) program under 8
+U.S.C. § 1357(g), concerning the enforcement of federal immigration laws, and
+authorizing law enforcement officers of the agency to participate in the warrant service
+officer program under the bureau of immigration and customs enforcement of the United
+States department of homeland security.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1364
+001443
+- 1 -
+[DELETED: SES]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 1364
+By Watson
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 5; Title 6; Title 7 and Title 8, relative to
+immigration.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 7-68-105(b), is amended by deleting
+the first sentence and substituting:
+Each law enforcement agency shall negotiate the terms of a memorandum of
+agreement between the law enforcement agency and the appropriate federal official
+authorizing the law enforcement agency to participate in the 287(g) program under 8
+U.S.C. § 1357(g), concerning the enforcement of federal immigration laws, and
+authorizing law enforcement officers of the agency to participate in the warrant service
+officer program under the bureau of immigration and customs enforcement of the United
+States department of homeland security.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1364
+001443
+- 1 -
+
+[DELETED: SES]

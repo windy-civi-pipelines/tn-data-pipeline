@@ -1,0 +1,47 @@
+Title: HOUSE BILL 116
+Official Title: HOUSE BILL 116
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Lamberth
+SENATE BILL 1294
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 55,
+relative to registration of motor vehicles.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 55-4-132, is amended by deleting
+subsections (d) and (e).
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1294
+000182
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 116
+By Lamberth
+SENATE BILL 1294
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 55,
+relative to registration of motor vehicles.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 55-4-132, is amended by deleting
+subsections (d) and (e).
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1294
+000182
+- 1 -
+
+[DELETED: SS]

@@ -1,0 +1,69 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE RESOLUTION 9
+By Sexton
+A RESOLUTION to confirm the appointment of Ina F. Maxwell,
+Ph.D., to the State Board of Education.
+WHEREAS, Tennessee Code Annotated, Section 49-1-301, provides for the creation of
+the State Board of Education; and
+WHEREAS, Tennessee Code Annotated, Section 49-1-301(a)(3)(A)(ii), provides that the
+Speaker of the House of Representatives shall appoint three members to the State Board of
+Education representing the 2nd, 6th, and 8th congressional districts; and
+WHEREAS, Speaker Cameron Sexton has appointed Ina F. Maxwell, Ph.D., to the State
+Board of Education for a term that will expire on March 31, 2029, as a member representing the
+6th Congressional District; and
+WHEREAS, Ina F. Maxwell, Ph.D., is a person of integrity and an active citizen whose
+benevolence, acumen, and strong commitment to public service have helped to enhance the
+well-being of this State and its citizens; and
+WHEREAS, Tennessee Code Annotated, Section 49-1-301, provides that each member
+appointed by the Speaker of the House of Representatives to the State Board of Education shall
+be confirmed by resolution of the House of Representatives; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that this body does
+hereby confirm the appointment of Ina F. Maxwell, Ph.D., to the State Board of Education for a
+term that will expire on March 31, 2029.
+HR0009
+000885
+- 1 -
+[DELETED: WW2,6,8 dthtW WWB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE RESOLUTION 9
+By Sexton
+A RESOLUTION to confirm the appointment of Ina F. Maxwell,
+Ph.D., to the State Board of Education.
+WHEREAS, Tennessee Code Annotated, Section 49-1-301, provides for the creation of
+the State Board of Education; and
+WHEREAS, Tennessee Code Annotated, Section 49-1-301(a)(3)(A)(ii), provides that the
+Speaker of the House of Representatives shall appoint three members to the State Board of
+Education representing the 2nd, 6th, and 8th congressional districts; and
+WHEREAS, Speaker Cameron Sexton has appointed Ina F. Maxwell, Ph.D., to the State
+Board of Education for a term that will expire on March 31, 2029, as a member representing the
+6th Congressional District; and
+WHEREAS, Ina F. Maxwell, Ph.D., is a person of integrity and an active citizen whose
+benevolence, acumen, and strong commitment to public service have helped to enhance the
+well-being of this State and its citizens; and
+WHEREAS, Tennessee Code Annotated, Section 49-1-301, provides that each member
+appointed by the Speaker of the House of Representatives to the State Board of Education shall
+be confirmed by resolution of the House of Representatives; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that this body does
+hereby confirm the appointment of Ina F. Maxwell, Ph.D., to the State Board of Education for a
+term that will expire on March 31, 2029.
+HR0009
+000885
+- 1 -
+
+[DELETED: WW2,6,8 dthtW WWB]

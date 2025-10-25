@@ -1,0 +1,88 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE RESOLUTION 58
+By Walley
+A RESOLUTION to congratulate Byron Conaway upon his
+induction into the Tennessee Aviation Hall of
+Fame.
+WHEREAS, it is fitting that we should salute those citizens who, through their
+remarkable efforts, have distinguished themselves as community leaders of whom we can all be
+proud; and
+WHEREAS, one such estimable individual is Byron Conaway of Savannah, who has
+been inducted into the Tennessee Aviation Hall of Fame, a testament to the important role he
+has played in the history and advancement of aviation in Tennessee; and
+WHEREAS, born and raised in Adamsville, Byron Conaway is a lifelong aviation
+enthusiast and pilot, and he is the proud owner and operator of the Sibley Aviation Museum at
+the Robert Sibley Airport in Selmer; and
+WHEREAS, Mr. Conaway uses the museum to reach many youth in the area and
+introduce them to aviation; in addition to educating them on this important and most interesting
+topic, he has no doubt influenced the life paths of countless young Tennesseans; and
+WHEREAS, he has also served his community as a philanthropist, supporting veterans
+and underprivileged citizens in West Tennessee; and
+WHEREAS, the success of this State, the strength of our communities, and the overall
+vitality of American society depend, in great measure, upon the dedication of people such as
+Byron Conaway, who use their considerable talents and resources to serve others and who
+should be specially recognized for their public and community service; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we recognize and congratulate
+SR0058
+005910
+- 1 -
+Byron Conaway upon his induction into the Tennessee Aviation Hall of Fame, extending our
+best wishes for much continued success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 005910
+[DELETED: WB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE RESOLUTION 58
+By Walley
+A RESOLUTION to congratulate Byron Conaway upon his
+induction into the Tennessee Aviation Hall of
+Fame.
+WHEREAS, it is fitting that we should salute those citizens who, through their
+remarkable efforts, have distinguished themselves as community leaders of whom we can all be
+proud; and
+WHEREAS, one such estimable individual is Byron Conaway of Savannah, who has
+been inducted into the Tennessee Aviation Hall of Fame, a testament to the important role he
+has played in the history and advancement of aviation in Tennessee; and
+WHEREAS, born and raised in Adamsville, Byron Conaway is a lifelong aviation
+enthusiast and pilot, and he is the proud owner and operator of the Sibley Aviation Museum at
+the Robert Sibley Airport in Selmer; and
+WHEREAS, Mr. Conaway uses the museum to reach many youth in the area and
+introduce them to aviation; in addition to educating them on this important and most interesting
+topic, he has no doubt influenced the life paths of countless young Tennesseans; and
+WHEREAS, he has also served his community as a philanthropist, supporting veterans
+and underprivileged citizens in West Tennessee; and
+WHEREAS, the success of this State, the strength of our communities, and the overall
+vitality of American society depend, in great measure, upon the dedication of people such as
+Byron Conaway, who use their considerable talents and resources to serve others and who
+should be specially recognized for their public and community service; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we recognize and congratulate
+SR0058
+005910
+- 1 -
+
+Byron Conaway upon his induction into the Tennessee Aviation Hall of Fame, extending our
+best wishes for much continued success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 005910
+
+[DELETED: WB]
+[DELETED:  -0B]

@@ -1,0 +1,110 @@
+Title: HOUSE BILL 1345
+Official Title: HOUSE BILL 1345
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Reeves
+SENATE BILL 1088
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 66,
+relative to rental agreements.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 66-28-505(a)(2), is amended by
+deleting "fourteen (14) days" and substituting "seven (7) days".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 66-28-505(a)(3), is amended by
+deleting "fourteen (14) days" and substituting "seven (7) days".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 66-7-109(a)(1), is amended by
+deleting the subdivision and substituting:
+(1) Except as provided in this section:
+(A) Seven (7) days' notice by a landlord is sufficient notice of termination
+of tenancy for the purpose of eviction of a residential tenant, if the termination of
+tenancy is for one (1) of the following reasons:
+(i) Tenant neglect or refusal to pay rent that is due and is in
+arrears, upon demand; or
+(ii) The tenant or any other person on the premises with the
+tenant's consent willfully or intentionally commits a violent act or behaves
+in a manner which constitutes or threatens to be a real and present
+danger to the health, safety, or welfare of the life or property of other
+tenants, the landlord, the landlord's representatives, or other persons on
+the premises; and
+SB1088
+001079
+- 1 -
+(B) Fourteen (14) days' notice by a landlord is sufficient notice of
+termination of tenancy for the purpose of eviction of a residential tenant, if the
+termination of tenancy is for damage beyond normal wear and tear to the
+premises by the tenant, members of the household, or guests.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 66-7-109(a)(2), is amended by
+deleting the language "subdivision (a)(1)(A) or (a)(1)(B)" and substituting "subdivision
+(a)(1)(A)(i) or (a)(1)(B)" and by deleting the language "upon at least fourteen (14) days' written
+notice" and substituting "upon at least seven (7) days' written notice for a breach of subdivision
+(a)(1)(A)(i) or at least fourteen (14) days' notice for a breach of subdivision (a)(1)(B) and".
+
+Section 6:
+SECTION 5. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to rental agreements entered into, amended, or renewed on or after that date.
+- 2 - 001079
+[DELETED: SSS((((]
+[DELETED:  -0(SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1345
+By Reeves
+SENATE BILL 1088
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 66,
+relative to rental agreements.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 66-28-505(a)(2), is amended by
+deleting "fourteen (14) days" and substituting "seven (7) days".
+SECTION 2. Tennessee Code Annotated, Section 66-28-505(a)(3), is amended by
+deleting "fourteen (14) days" and substituting "seven (7) days".
+SECTION 3. Tennessee Code Annotated, Section 66-7-109(a)(1), is amended by
+deleting the subdivision and substituting:
+(1) Except as provided in this section:
+(A) Seven (7) days' notice by a landlord is sufficient notice of termination
+of tenancy for the purpose of eviction of a residential tenant, if the termination of
+tenancy is for one (1) of the following reasons:
+(i) Tenant neglect or refusal to pay rent that is due and is in
+arrears, upon demand; or
+(ii) The tenant or any other person on the premises with the
+tenant's consent willfully or intentionally commits a violent act or behaves
+in a manner which constitutes or threatens to be a real and present
+danger to the health, safety, or welfare of the life or property of other
+tenants, the landlord, the landlord's representatives, or other persons on
+the premises; and
+SB1088
+001079
+- 1 -
+
+(B) Fourteen (14) days' notice by a landlord is sufficient notice of
+termination of tenancy for the purpose of eviction of a residential tenant, if the
+termination of tenancy is for damage beyond normal wear and tear to the
+premises by the tenant, members of the household, or guests.
+SECTION 4. Tennessee Code Annotated, Section 66-7-109(a)(2), is amended by
+deleting the language "subdivision (a)(1)(A) or (a)(1)(B)" and substituting "subdivision
+(a)(1)(A)(i) or (a)(1)(B)" and by deleting the language "upon at least fourteen (14) days' written
+notice" and substituting "upon at least seven (7) days' written notice for a breach of subdivision
+(a)(1)(A)(i) or at least fourteen (14) days' notice for a breach of subdivision (a)(1)(B) and".
+SECTION 5. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to rental agreements entered into, amended, or renewed on or after that date.
+- 2 - 001079
+
+[DELETED: SSS((((]
+[DELETED:  -0(SS]

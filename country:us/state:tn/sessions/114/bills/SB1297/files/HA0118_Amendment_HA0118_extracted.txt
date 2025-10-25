@@ -1,0 +1,157 @@
+Title: AMEND S e n ate Bill No. 1297* House Bill No. 1316
+Official Title: AMEND S e n ate Bill No. 1297* House Bill No. 1316
+Number of Sections: 2
+Source: versions - Amendment HA0118
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+House Transportation 1
+Amendment No. 1 to HB1316
+Howell
+Signature of Sponsor
+by deleting the amendatory language of SECTION 6 and substituting instead the following:
+In lieu of a physical driver license, a person who participates in the system may
+present or submit evidence of possession of a valid driver license in a digital format,
+which may be accepted as such evidence for identification and other purposes, including
+upon the request of a law enforcement officer, a seller of alcoholic beverages, or any
+other person; except, that to verify the person's identification for the purpose of voting,
+the person shall not present or submit evidence of possession of a valid driver license in
+a digital format, and a digital driver license must not be accepted as such evidence.
+AND FURTHER AMEND by deleting SECTION 8 and substituting instead the following:
+
+Section 2:
+SECTION 8. Tennessee Code Annotated, Section 55-50-306 is amended by adding
+the following new subsections:
+(g)
+(1) As used in this subsection (g):
+(A) "Biometric identifier" means a retina or iris scan, fingerprint,
+voiceprint, or record of hand or face geometry; and
+(B) "Geolocation data" means internet protocol addresses or
+other information that describes the location of a cellular telephone or
+other type of portable electronic device, computer, computer system, or
+computer network from which a person accesses the digital driver license
+system.
+HA0118
+004004
+- 1 -
+(2) An entity contracting with the department to provide a mobile software
+application or other method for utilizing a digital driver license system shall not
+capture or retain a biometric identifier of a person for purposes of the digital
+driver license system unless the entity is capturing a photograph for the sole
+purpose of comparing that photograph to a driver license photograph already on
+file to confirm the person seeking a digital driver license is the same person who
+holds the physical driver license.
+(3) Neither the department nor an entity contracting with the department
+to provide a mobile software application or other method for utilizing a digital
+driver license system shall capture or retain geolocation data of a person for
+purposes of the digital driver license system.
+(h) Any data, including a photograph, provided by a person to an entity
+contracting with the department to provide a mobile software application or other method
+for utilizing a digital driver license system is personally identifiable information of the
+person and must not be sold, redisclosed, or otherwise utilized by the entity, except as
+otherwise provided in subdivision (f)(2).
+(i)
+(1) A person participating in the digital driver license system is not
+required to use a digital driver license in lieu of a physical driver license for
+identification or other purposes.
+(2) A private or public entity shall not require, or provide preferential
+service based on, a person's use of a digital driver license in lieu of a physical
+driver license.
+(j)
+(1) The department shall disable, suspend, or terminate a person's
+participation in the digital driver license system if:
+- 2 - 004004
+(A) The physical driver license issued to the participant has been
+cancelled, revoked, or suspended as provided in this chapter; or
+(B) The participant reports that the participant's electronic device
+has been lost or stolen.
+(2) The digital driver license must be disabled at the time of suspension,
+cancellation, or revocation of the physical driver license, and must be removed
+from the device within twenty (20) days if the physical driver license has not been
+restored.
+(k) For purposes of this section, "driver license" includes a photo identification
+license issued under § 55-50-336.
+- 3 - 004004
+[DELETED:  a HIS]
+[DELETED:  -0]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+House Transportation 1
+Amendment No. 1 to HB1316
+Howell
+Signature of Sponsor
+AMEND S e n ate Bill No. 1297* House Bill No. 1316
+by deleting the amendatory language of SECTION 6 and substituting instead the following:
+In lieu of a physical driver license, a person who participates in the system may
+present or submit evidence of possession of a valid driver license in a digital format,
+which may be accepted as such evidence for identification and other purposes, including
+upon the request of a law enforcement officer, a seller of alcoholic beverages, or any
+other person; except, that to verify the person's identification for the purpose of voting,
+the person shall not present or submit evidence of possession of a valid driver license in
+a digital format, and a digital driver license must not be accepted as such evidence.
+AND FURTHER AMEND by deleting SECTION 8 and substituting instead the following:
+SECTION 8. Tennessee Code Annotated, Section 55-50-306 is amended by adding
+the following new subsections:
+(g)
+(1) As used in this subsection (g):
+(A) "Biometric identifier" means a retina or iris scan, fingerprint,
+voiceprint, or record of hand or face geometry; and
+(B) "Geolocation data" means internet protocol addresses or
+other information that describes the location of a cellular telephone or
+other type of portable electronic device, computer, computer system, or
+computer network from which a person accesses the digital driver license
+system.
+HA0118
+004004
+- 1 -
+
+(2) An entity contracting with the department to provide a mobile software
+application or other method for utilizing a digital driver license system shall not
+capture or retain a biometric identifier of a person for purposes of the digital
+driver license system unless the entity is capturing a photograph for the sole
+purpose of comparing that photograph to a driver license photograph already on
+file to confirm the person seeking a digital driver license is the same person who
+holds the physical driver license.
+(3) Neither the department nor an entity contracting with the department
+to provide a mobile software application or other method for utilizing a digital
+driver license system shall capture or retain geolocation data of a person for
+purposes of the digital driver license system.
+(h) Any data, including a photograph, provided by a person to an entity
+contracting with the department to provide a mobile software application or other method
+for utilizing a digital driver license system is personally identifiable information of the
+person and must not be sold, redisclosed, or otherwise utilized by the entity, except as
+otherwise provided in subdivision (f)(2).
+(i)
+(1) A person participating in the digital driver license system is not
+required to use a digital driver license in lieu of a physical driver license for
+identification or other purposes.
+(2) A private or public entity shall not require, or provide preferential
+service based on, a person's use of a digital driver license in lieu of a physical
+driver license.
+(j)
+(1) The department shall disable, suspend, or terminate a person's
+participation in the digital driver license system if:
+- 2 - 004004
+
+(A) The physical driver license issued to the participant has been
+cancelled, revoked, or suspended as provided in this chapter; or
+(B) The participant reports that the participant's electronic device
+has been lost or stolen.
+(2) The digital driver license must be disabled at the time of suspension,
+cancellation, or revocation of the physical driver license, and must be removed
+from the device within twenty (20) days if the physical driver license has not been
+restored.
+(k) For purposes of this section, "driver license" includes a photo identification
+license issued under § 55-50-336.
+- 3 - 004004
+
+[DELETED:  a HIS]
+[DELETED:  -0]
+[DELETED:  -0]

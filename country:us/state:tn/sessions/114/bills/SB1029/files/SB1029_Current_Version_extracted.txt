@@ -1,0 +1,613 @@
+Title: HOUSE BILL 851
+Official Title: HOUSE BILL 851
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+By Reneau
+SENATE BILL 1029
+By Bowling
+AN ACT to amend Tennessee Code Annotated, Title 2,
+Chapter 6, Part 5, relative to absentee ballots.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 2, Chapter 6, Part 5, is amended by
+adding the following as a new section:
+As used in this part:
+(1) "Civilian overseas voter" means a United States citizen who:
+(A) Was last domiciled in this state;
+(B) Temporarily resides outside of the United States or is
+temporarily absent from the United States during the period when the
+polls are open;
+(C) Is not registered to vote in another state;
+(D) Maintains a residence in this state; and
+(E) Otherwise satisfies the voter eligibility requirements in this
+state;
+(2) "Federal-only voter" means a United States citizen who:
+(A) Was last domiciled in this state;
+(B) Indefinitely or permanently resides outside of the United
+States; and
+(C) Before establishing a principal place of residence outside the
+United States, established a principal place of residence in this state;
+SB1029
+002136
+- 1 -
+(D) Did not, after leaving this state, register to vote in another
+state other or establish a principal place of residence in another state;
+and
+(E) Otherwise satisfies the voter eligibility requirements in this
+state;
+(3) "Military voter" means United States citizen who:
+(A) Is:
+(i) A member of the:
+(a) Active or reserve components of the army,
+navy, air force, marine corps, space force, or coast guard
+of the United States;
+(b) National guard or the Tennessee national
+guard; or
+(c) Merchant marine of the United States; or
+(ii) Is a spouse or dependent of a person identified in
+subdivision (3)(A)(i);
+(B) Maintains a residence in this state; and
+(C) Otherwise satisfies the voter eligibility requirements in this
+state; and
+(4) "UOCAVA ballot" means an absentee ballot issued to an eligible voter
+pursuant to the Uniformed and Overseas Citizens Absentee Voting Act (52
+U.S.C.A. § 20301 et seq.).
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 2-6-502, is amended by adding the
+following new subsections:
+(h)
+- 2 - 002136
+(1) An application for temporary registration must include a copy of
+documentary proof of United States citizenship and, if the voter is a civilian
+overseas voter or a federal-only voter, documentary proof of overseas residence.
+(2) As used in this subsection (h), "documentary proof of United States
+citizenship" means:
+(A) A form of identification issued consistent with the
+requirements of the REAL ID Act of 2005 (Public Law 109-13) that
+indicates the applicant is a citizen of the United States;
+(B) A valid, unexpired United States passport;
+(C) The applicant's official United States military identification
+card, together with a United States military record of service showing that
+the applicant's place of birth was in the United States;
+(D) A valid government-issued photo identification card issued by
+a federal, state, or tribal government showing that the applicant’s place of
+birth was in the United States;
+(E) A valid government-issued photo identification card issued by
+a federal, state, or tribal government other than an identification described
+in subdivisions (h)(2)(A) – (D), but only if presented together with one (1)
+or more of the following:
+(i) A certified birth certificate issued by a state, a unit of
+local government in a state, or a tribal government that:
+(a) Was issued by the state, unit of local
+government, or tribal government in which the applicant
+was born;
+- 3 - 002136
+(b) Was filed with the office responsible for keeping
+vital records in the state;
+(c) Includes the full name, date of birth, and place
+of birth of the applicant;
+(d) Lists the full names of one (1) or both of the
+parents of the applicant;
+(e) Has the signature of an individual who is
+authorized to sign birth certificates on behalf of the state,
+unit of local government, or tribal government in which the
+applicant was born;
+(f) Includes the date that the certificate was filed
+with the office responsible for keeping vital records in the
+state; and
+(g) Has the seal of the state, unit of local
+government, or tribal government that issued the birth
+certificate;
+(ii) A final adoption decree showing the applicant's name
+and that the applicant's place of birth was in the United States;
+(iii) A consular report of birth abroad of a citizen of the
+United States or a certification of the applicant's report of birth of a
+United States citizen issued by the United States secretary of
+state;
+(iv) A naturalization certificate or certificate of citizenship
+issued by the United States secretary of homeland security or any
+other document or method of proof of United States citizenship
+- 4 - 002136
+issued by the federal government pursuant to the Immigration and
+Nationality Act (8 U.S.C. § 1101-1537); or
+(v) An American Indian card issued by the department of
+homeland security with the classification "KIC".
+(3) As used in this subsection (h), "documentary proof of overseas
+residence," with respect to a civilian overseas voter or a federal-only voter,
+includes:
+(A) A copy of a current, valid lease or title to a residence not
+located in the United States, bearing the name and overseas address of
+the applicant;
+(B) A copy of financial records, such as a bank account, tax
+return, or other record from a financial agency or institution bearing the
+name and overseas address of the applicant; and
+(C) A document or official record of a foreign government bearing
+the name and overseas address of the applicant.
+(4) The secretary of state shall notify the federal voting assistance
+program administrator that the proof of citizenship requirement for voter
+registration must be added to state specific instructions of the federal post card
+application for this state.
+(i) If the application is missing a Tennessee residency address, overseas/current
+mailing address, identification, or documentary proof of citizenship, the county election
+commission shall notify the applicant of the application deficiency. If the application
+includes an email address or phone number, the county election commission must make
+a reasonable effort to contact the applicant by email or phone and document such
+attempts. The deficiency must be recorded and a written report prepared, including the
+- 5 - 002136
+name of the administrator at the time the voter registration was filed, the nature of the
+deficiency, and date of contact attempts.
+(j) If the applicant is ineligible to register to vote or does not provide
+documentary proof of United State citizenship or overseas residency, or if the application
+is not timely received, the county election commission shall deny the application by
+writing the reason for rejection in the proper space on the application and shall promptly
+notify the applicant in writing of the ground of ineligibility, a copy of which notification
+must be retained on file in the county election commission for at least two (2) years.
+(k)
+(1) A UOCAVA absentee ballot application must not be accepted if the
+applicant's voter registration application was rejected for failure to provide the
+required documentary proof of citizenship or overseas residency.
+(2) A UOCAVA absentee ballot application must not be rejected solely
+due to a mismatch between the identifying information of the elector on the
+application and the identifying information of the elector on file with the county
+election commission. In such cases, the county election commission shall send
+the applicant a provisional absentee ballot with the designation "Provisional
+Ballot" on the outer envelope and prominently displayed on the UOCAVA affidavit
+and information prepared by the secretary of state as to the process to be
+followed to cure the discrepancy.
+(3) If such ballot is returned to the election official prior to the closing of
+the polls on the day of the primary or election, the elector may cure the
+discrepancy by submitting an affidavit to the election official along with a copy of
+documentary proof of United States citizenship or overseas residency, as defined
+in subsection (h), before the close of the period for verifying provisional ballots.
+- 6 - 002136
+(4) If the election official finds the affidavit and identification to be
+sufficient, the UOCAVA absentee ballot must be counted as other absentee
+ballots. If the election official finds the affidavit and identification to be
+insufficient, then the ballot must be rejected and the applicant notified of the
+reason for rejection.
+(l) The secretary of state shall establish procedures that allow a military voter,
+civilian overseas voter, federal-only voter, or an eligible dependent thereof, to apply by
+electronic means to the county election commission of the county in which the person's
+voting residence is located for an absentee ballot.
+(m) The applicants must complete all required sections of the federal postcard
+application and provide the documents necessary for verification of identity and eligibility
+for voter registration and UOCAVA voting privileges.
+(n) The federal postcard application shall be processed as follows:
+(1) A federal postcard application marked to request delivery of
+the absentee ballot by email must be processed as a request for
+electronic delivery of the blank absentee ballot;
+(2) A federal postcard application marked to request delivery of
+the absentee ballot by mail or fax must be processed as a request for
+delivery by United States mail of the blank absentee ballot;
+(3) A voter who chooses to have the blank absentee ballot
+transmitted electronically must designate that choice on the federal
+postcard application or on the state prescribed absentee ballot
+application. If the voter does not make such designation, the blank
+absentee ballot shall be delivered to the voter by mail.
+- 7 - 002136
+(4) If the voter requests to have the blank absentee ballot
+transmitted electronically, the county election commission shall:
+(A) Verify the voter registration status of the applicant;
+(B) Record that the voter made the request for the
+UOCAVA absentee ballot and the category of the applicant:
+military, civilian overseas, federal-only, or dependent thereof;
+(C) Deliver to the voter the blank UOCAVA ballot by
+electronic transmission utilizing email or a secure electronic blank
+ballot transmission system approved by the secretary of state; and
+(D) Notify the voter that to be properly cast and counted,
+the voted absentee ballot must be received by the county election
+commission by the close of the polls on election day. Ballots
+received after the deadline will not be counted.
+(o) The secretary of state, in coordination with the county election commissions,
+shall establish a free access system by which a military voter, civilian overseas voter,
+federal-only voter, or an eligible dependent thereof, may determine the following:
+(1) Whether that person's request for an absentee ballot was received
+and processed;
+(2) If the person's request was received and processed, when the
+UOCAVA ballot was sent;
+(3) Whether any UOCAVA ballot returned by that person has been
+received by election officials;
+(4) Whether the board of elections found any error on the identification
+envelope containing the person's returned UOCAVA ballot and, if so, how the
+person may correct any error; and
+- 8 - 002136
+(5) Whether the eligible person's UOCAVA absentee ballot was counted.
+(p)
+(1) The coordinator of elections shall create, by rule, an affidavit to
+include with each absentee ballot delivered to a voter pursuant to this section.
+(2) The instructions to the voter regarding signing and witnessing of the
+UOCAVA affidavit shall read:
+IF YOUR AFFIDAVIT IS NOT SIGNED (OR MARKED), AND IF
+YOUR AFFIDAVIT IS NOT WITNESSED BY TWO WITNESSES
+18 YEARS OF AGE OR OLDER, PRIOR TO BEING DELIVERED
+OR MAILED TO THE ABSENTEE ELECTION OFFICE, YOUR
+BALLOT WILL NOT BE COUNTED.
+(3) The affidavit does not need to be witnessed by a notary public.
+(4) The affidavit must include:
+I AM ENTITLED TO VOTE AN ABSENTEE BALLOT BECAUSE I
+AM A MEMBER OF OR A SPOUSE OR DEPENDENT OF A
+MEMBER OF THE ARMED FORCES OF THE UNITED STATES
+OR AM OTHERWISE ENTITLED TO VOTE PURSUANT TO THE
+FEDERAL UNIFORMED AND OVERSEAS CITIZENS
+ABSENTEE VOTING ACT, 52 U.S.C.A. § 20301, et seq.
+(5) For voters requesting electronic transmission of the absentee ballot,
+the affidavit must be provided in electronic format to the voter; otherwise, the
+affidavit must be provided printed on the ballot return envelope.
+(q) After the voter marks the ballot, the voter shall:
+(1) Complete the affidavit, including the section for witnesses as required
+by subsection (p);
+- 9 - 002136
+(2) If the voter has requested electronic transmission of the blank
+absentee ballot, insert and seal the ballot in a blank envelope for secrecy and not
+write any personally identifying information on the envelope and then insert and
+seal the blank envelope containing the voted ballot and the completed affidavit
+into a second envelope to be used for returning the absentee ballot to the
+appropriate county election commission by United States mail, or commercial air
+or ground carrier;
+(3) If the voter has requested that the absentee ballot be delivered by
+mail or hand-delivery, insert and seal the voter's ballot into the secrecy envelope
+and then insert and seal the secrecy envelope into the envelope on which is
+printed the affidavit and which is used as the return envelope for delivering the
+ballot to the appropriate county election commission by United States mail, or
+commercial air or ground carrier; and
+(4) Return the absentee ballot by United States mail, or commercial air or
+ground carrier, to the appropriate county election commission using the address
+information provided with the UOCAVA ballot.
+(r) If a voter does not place the absentee ballot inside a secrecy envelope, the
+absentee election manager shall, immediately upon discovery, insert and seal the voter's
+ballot into a secrecy envelope and place inside an envelope of sufficient size the secrecy
+envelope, the UOCAVA affidavit, and the envelope used by the voter to deliver the
+ballot.
+(s) In order to be valid and counted, the UOCAVA ballot and affidavit must be
+received by the county election commission not later than the close of the polls on
+election day.
+- 10 - 002136
+(t) No person shall return by electronic means to the secretary of state, a board
+of elections, or any other entity a completed or UOCAVA absentee ballot. If a ballot is
+returned electronically, the ballot shall not be accepted, processed, or counted.
+(u)
+(1) All ballots sent and received under this section must be recorded to
+denote the defined category of such voters:
+(A) Military personnel or dependent;
+(B) Overseas individual/voter; or
+(C) Federal-only voter.
+(2) The numbers recorded for each category of voter's ballot in this
+subsection (u), including rejected ballots, must be available for public inspection.
+(3) The recorded vote totals by candidate or ballot question must be
+reported as a separate tally tape for UOCAVA ballots only or coded in such a
+manner as to make the results visible.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 2-6-502(b), is amended by deleting
+the language "Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. § 1973ff et
+seq.)" and substituting instead "Uniformed and Overseas Citizens Absentee Voting Act (52
+U.S.C.A. § 20301 et seq.)".
+
+Section 5:
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+- 11 - 002136
+[DELETED: S]
+[DELETED:  -0()))]
+[DELETED:  -0)]
+[DELETED:  -0))))))]
+[DELETED:  -0(]
+[DELETED:  -0(((]
+[DELETED:  -0(((]
+[DELETED:  -0]
+[DELETED:  -0(((((]
+[DELETED:  -0(((((]
+[DELETED:  -0((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 851
+By Reneau
+SENATE BILL 1029
+By Bowling
+AN ACT to amend Tennessee Code Annotated, Title 2,
+Chapter 6, Part 5, relative to absentee ballots.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 2, Chapter 6, Part 5, is amended by
+adding the following as a new section:
+As used in this part:
+(1) "Civilian overseas voter" means a United States citizen who:
+(A) Was last domiciled in this state;
+(B) Temporarily resides outside of the United States or is
+temporarily absent from the United States during the period when the
+polls are open;
+(C) Is not registered to vote in another state;
+(D) Maintains a residence in this state; and
+(E) Otherwise satisfies the voter eligibility requirements in this
+state;
+(2) "Federal-only voter" means a United States citizen who:
+(A) Was last domiciled in this state;
+(B) Indefinitely or permanently resides outside of the United
+States; and
+(C) Before establishing a principal place of residence outside the
+United States, established a principal place of residence in this state;
+SB1029
+002136
+- 1 -
+
+(D) Did not, after leaving this state, register to vote in another
+state other or establish a principal place of residence in another state;
+and
+(E) Otherwise satisfies the voter eligibility requirements in this
+state;
+(3) "Military voter" means United States citizen who:
+(A) Is:
+(i) A member of the:
+(a) Active or reserve components of the army,
+navy, air force, marine corps, space force, or coast guard
+of the United States;
+(b) National guard or the Tennessee national
+guard; or
+(c) Merchant marine of the United States; or
+(ii) Is a spouse or dependent of a person identified in
+subdivision (3)(A)(i);
+(B) Maintains a residence in this state; and
+(C) Otherwise satisfies the voter eligibility requirements in this
+state; and
+(4) "UOCAVA ballot" means an absentee ballot issued to an eligible voter
+pursuant to the Uniformed and Overseas Citizens Absentee Voting Act (52
+U.S.C.A. § 20301 et seq.).
+SECTION 2. Tennessee Code Annotated, Section 2-6-502, is amended by adding the
+following new subsections:
+(h)
+- 2 - 002136
+
+(1) An application for temporary registration must include a copy of
+documentary proof of United States citizenship and, if the voter is a civilian
+overseas voter or a federal-only voter, documentary proof of overseas residence.
+(2) As used in this subsection (h), "documentary proof of United States
+citizenship" means:
+(A) A form of identification issued consistent with the
+requirements of the REAL ID Act of 2005 (Public Law 109-13) that
+indicates the applicant is a citizen of the United States;
+(B) A valid, unexpired United States passport;
+(C) The applicant's official United States military identification
+card, together with a United States military record of service showing that
+the applicant's place of birth was in the United States;
+(D) A valid government-issued photo identification card issued by
+a federal, state, or tribal government showing that the applicant’s place of
+birth was in the United States;
+(E) A valid government-issued photo identification card issued by
+a federal, state, or tribal government other than an identification described
+in subdivisions (h)(2)(A) – (D), but only if presented together with one (1)
+or more of the following:
+(i) A certified birth certificate issued by a state, a unit of
+local government in a state, or a tribal government that:
+(a) Was issued by the state, unit of local
+government, or tribal government in which the applicant
+was born;
+- 3 - 002136
+
+(b) Was filed with the office responsible for keeping
+vital records in the state;
+(c) Includes the full name, date of birth, and place
+of birth of the applicant;
+(d) Lists the full names of one (1) or both of the
+parents of the applicant;
+(e) Has the signature of an individual who is
+authorized to sign birth certificates on behalf of the state,
+unit of local government, or tribal government in which the
+applicant was born;
+(f) Includes the date that the certificate was filed
+with the office responsible for keeping vital records in the
+state; and
+(g) Has the seal of the state, unit of local
+government, or tribal government that issued the birth
+certificate;
+(ii) A final adoption decree showing the applicant's name
+and that the applicant's place of birth was in the United States;
+(iii) A consular report of birth abroad of a citizen of the
+United States or a certification of the applicant's report of birth of a
+United States citizen issued by the United States secretary of
+state;
+(iv) A naturalization certificate or certificate of citizenship
+issued by the United States secretary of homeland security or any
+other document or method of proof of United States citizenship
+- 4 - 002136
+
+issued by the federal government pursuant to the Immigration and
+Nationality Act (8 U.S.C. § 1101-1537); or
+(v) An American Indian card issued by the department of
+homeland security with the classification "KIC".
+(3) As used in this subsection (h), "documentary proof of overseas
+residence," with respect to a civilian overseas voter or a federal-only voter,
+includes:
+(A) A copy of a current, valid lease or title to a residence not
+located in the United States, bearing the name and overseas address of
+the applicant;
+(B) A copy of financial records, such as a bank account, tax
+return, or other record from a financial agency or institution bearing the
+name and overseas address of the applicant; and
+(C) A document or official record of a foreign government bearing
+the name and overseas address of the applicant.
+(4) The secretary of state shall notify the federal voting assistance
+program administrator that the proof of citizenship requirement for voter
+registration must be added to state specific instructions of the federal post card
+application for this state.
+(i) If the application is missing a Tennessee residency address, overseas/current
+mailing address, identification, or documentary proof of citizenship, the county election
+commission shall notify the applicant of the application deficiency. If the application
+includes an email address or phone number, the county election commission must make
+a reasonable effort to contact the applicant by email or phone and document such
+attempts. The deficiency must be recorded and a written report prepared, including the
+- 5 - 002136
+
+name of the administrator at the time the voter registration was filed, the nature of the
+deficiency, and date of contact attempts.
+(j) If the applicant is ineligible to register to vote or does not provide
+documentary proof of United State citizenship or overseas residency, or if the application
+is not timely received, the county election commission shall deny the application by
+writing the reason for rejection in the proper space on the application and shall promptly
+notify the applicant in writing of the ground of ineligibility, a copy of which notification
+must be retained on file in the county election commission for at least two (2) years.
+(k)
+(1) A UOCAVA absentee ballot application must not be accepted if the
+applicant's voter registration application was rejected for failure to provide the
+required documentary proof of citizenship or overseas residency.
+(2) A UOCAVA absentee ballot application must not be rejected solely
+due to a mismatch between the identifying information of the elector on the
+application and the identifying information of the elector on file with the county
+election commission. In such cases, the county election commission shall send
+the applicant a provisional absentee ballot with the designation "Provisional
+Ballot" on the outer envelope and prominently displayed on the UOCAVA affidavit
+and information prepared by the secretary of state as to the process to be
+followed to cure the discrepancy.
+(3) If such ballot is returned to the election official prior to the closing of
+the polls on the day of the primary or election, the elector may cure the
+discrepancy by submitting an affidavit to the election official along with a copy of
+documentary proof of United States citizenship or overseas residency, as defined
+in subsection (h), before the close of the period for verifying provisional ballots.
+- 6 - 002136
+
+(4) If the election official finds the affidavit and identification to be
+sufficient, the UOCAVA absentee ballot must be counted as other absentee
+ballots. If the election official finds the affidavit and identification to be
+insufficient, then the ballot must be rejected and the applicant notified of the
+reason for rejection.
+(l) The secretary of state shall establish procedures that allow a military voter,
+civilian overseas voter, federal-only voter, or an eligible dependent thereof, to apply by
+electronic means to the county election commission of the county in which the person's
+voting residence is located for an absentee ballot.
+(m) The applicants must complete all required sections of the federal postcard
+application and provide the documents necessary for verification of identity and eligibility
+for voter registration and UOCAVA voting privileges.
+(n) The federal postcard application shall be processed as follows:
+(1) A federal postcard application marked to request delivery of
+the absentee ballot by email must be processed as a request for
+electronic delivery of the blank absentee ballot;
+(2) A federal postcard application marked to request delivery of
+the absentee ballot by mail or fax must be processed as a request for
+delivery by United States mail of the blank absentee ballot;
+(3) A voter who chooses to have the blank absentee ballot
+transmitted electronically must designate that choice on the federal
+postcard application or on the state prescribed absentee ballot
+application. If the voter does not make such designation, the blank
+absentee ballot shall be delivered to the voter by mail.
+- 7 - 002136
+
+(4) If the voter requests to have the blank absentee ballot
+transmitted electronically, the county election commission shall:
+(A) Verify the voter registration status of the applicant;
+(B) Record that the voter made the request for the
+UOCAVA absentee ballot and the category of the applicant:
+military, civilian overseas, federal-only, or dependent thereof;
+(C) Deliver to the voter the blank UOCAVA ballot by
+electronic transmission utilizing email or a secure electronic blank
+ballot transmission system approved by the secretary of state; and
+(D) Notify the voter that to be properly cast and counted,
+the voted absentee ballot must be received by the county election
+commission by the close of the polls on election day. Ballots
+received after the deadline will not be counted.
+(o) The secretary of state, in coordination with the county election commissions,
+shall establish a free access system by which a military voter, civilian overseas voter,
+federal-only voter, or an eligible dependent thereof, may determine the following:
+(1) Whether that person's request for an absentee ballot was received
+and processed;
+(2) If the person's request was received and processed, when the
+UOCAVA ballot was sent;
+(3) Whether any UOCAVA ballot returned by that person has been
+received by election officials;
+(4) Whether the board of elections found any error on the identification
+envelope containing the person's returned UOCAVA ballot and, if so, how the
+person may correct any error; and
+- 8 - 002136
+
+(5) Whether the eligible person's UOCAVA absentee ballot was counted.
+(p)
+(1) The coordinator of elections shall create, by rule, an affidavit to
+include with each absentee ballot delivered to a voter pursuant to this section.
+(2) The instructions to the voter regarding signing and witnessing of the
+UOCAVA affidavit shall read:
+IF YOUR AFFIDAVIT IS NOT SIGNED (OR MARKED), AND IF
+YOUR AFFIDAVIT IS NOT WITNESSED BY TWO WITNESSES
+18 YEARS OF AGE OR OLDER, PRIOR TO BEING DELIVERED
+OR MAILED TO THE ABSENTEE ELECTION OFFICE, YOUR
+BALLOT WILL NOT BE COUNTED.
+(3) The affidavit does not need to be witnessed by a notary public.
+(4) The affidavit must include:
+I AM ENTITLED TO VOTE AN ABSENTEE BALLOT BECAUSE I
+AM A MEMBER OF OR A SPOUSE OR DEPENDENT OF A
+MEMBER OF THE ARMED FORCES OF THE UNITED STATES
+OR AM OTHERWISE ENTITLED TO VOTE PURSUANT TO THE
+FEDERAL UNIFORMED AND OVERSEAS CITIZENS
+ABSENTEE VOTING ACT, 52 U.S.C.A. § 20301, et seq.
+(5) For voters requesting electronic transmission of the absentee ballot,
+the affidavit must be provided in electronic format to the voter; otherwise, the
+affidavit must be provided printed on the ballot return envelope.
+(q) After the voter marks the ballot, the voter shall:
+(1) Complete the affidavit, including the section for witnesses as required
+by subsection (p);
+- 9 - 002136
+
+(2) If the voter has requested electronic transmission of the blank
+absentee ballot, insert and seal the ballot in a blank envelope for secrecy and not
+write any personally identifying information on the envelope and then insert and
+seal the blank envelope containing the voted ballot and the completed affidavit
+into a second envelope to be used for returning the absentee ballot to the
+appropriate county election commission by United States mail, or commercial air
+or ground carrier;
+(3) If the voter has requested that the absentee ballot be delivered by
+mail or hand-delivery, insert and seal the voter's ballot into the secrecy envelope
+and then insert and seal the secrecy envelope into the envelope on which is
+printed the affidavit and which is used as the return envelope for delivering the
+ballot to the appropriate county election commission by United States mail, or
+commercial air or ground carrier; and
+(4) Return the absentee ballot by United States mail, or commercial air or
+ground carrier, to the appropriate county election commission using the address
+information provided with the UOCAVA ballot.
+(r) If a voter does not place the absentee ballot inside a secrecy envelope, the
+absentee election manager shall, immediately upon discovery, insert and seal the voter's
+ballot into a secrecy envelope and place inside an envelope of sufficient size the secrecy
+envelope, the UOCAVA affidavit, and the envelope used by the voter to deliver the
+ballot.
+(s) In order to be valid and counted, the UOCAVA ballot and affidavit must be
+received by the county election commission not later than the close of the polls on
+election day.
+- 10 - 002136
+
+(t) No person shall return by electronic means to the secretary of state, a board
+of elections, or any other entity a completed or UOCAVA absentee ballot. If a ballot is
+returned electronically, the ballot shall not be accepted, processed, or counted.
+(u)
+(1) All ballots sent and received under this section must be recorded to
+denote the defined category of such voters:
+(A) Military personnel or dependent;
+(B) Overseas individual/voter; or
+(C) Federal-only voter.
+(2) The numbers recorded for each category of voter's ballot in this
+subsection (u), including rejected ballots, must be available for public inspection.
+(3) The recorded vote totals by candidate or ballot question must be
+reported as a separate tally tape for UOCAVA ballots only or coded in such a
+manner as to make the results visible.
+SECTION 3. Tennessee Code Annotated, Section 2-6-502(b), is amended by deleting
+the language "Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. § 1973ff et
+seq.)" and substituting instead "Uniformed and Overseas Citizens Absentee Voting Act (52
+U.S.C.A. § 20301 et seq.)".
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+- 11 - 002136
+
+[DELETED: S]
+[DELETED:  -0()))]
+[DELETED:  -0)]
+[DELETED:  -0))))))]
+[DELETED:  -0(]
+[DELETED:  -0(((]
+[DELETED:  -0(((]
+[DELETED:  -0]
+[DELETED:  -0(((((]
+[DELETED:  -0(((((]
+[DELETED:  -0((S]

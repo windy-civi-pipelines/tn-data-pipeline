@@ -1,0 +1,65 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 2
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 307
+By Johnson
+A RESOLUTION to call a joint convention of the Senate and
+House of Representatives for the purpose of
+voting on the confirmation of Judge Valerie
+Smith to the Tennessee Court of Appeals,
+Western Section, and Judge Steven Sword to
+the Tennessee Court of Appeals, Eastern
+
+Section 2:
+Section, pursuant to Article VI, Section 3 of the
+Constitution of Tennessee and Tennessee Code
+Annotated, Title 17, Chapter 4.
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that the House of Representatives and the Senate meet
+in joint convention on Monday, March 24, 2025, at 3:30 p.m. (CDT) in the chamber of the House
+of Representatives to vote on the confirmation of Judge Valerie Smith to the Tennessee Court
+of Appeals, Western Section, and to vote on the confirmation of Judge Steven Sword to the
+Tennessee Court of Appeals, Eastern Section, pursuant to Article VI, Section 3 of the
+Constitution of Tennessee and Tennessee Code Annotated, Title 17, Chapter 4.
+SJR0307
+005435
+- 1 -
+[DELETED: B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 307
+By Johnson
+A RESOLUTION to call a joint convention of the Senate and
+House of Representatives for the purpose of
+voting on the confirmation of Judge Valerie
+Smith to the Tennessee Court of Appeals,
+Western Section, and Judge Steven Sword to
+the Tennessee Court of Appeals, Eastern
+Section, pursuant to Article VI, Section 3 of the
+Constitution of Tennessee and Tennessee Code
+Annotated, Title 17, Chapter 4.
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that the House of Representatives and the Senate meet
+in joint convention on Monday, March 24, 2025, at 3:30 p.m. (CDT) in the chamber of the House
+of Representatives to vote on the confirmation of Judge Valerie Smith to the Tennessee Court
+of Appeals, Western Section, and to vote on the confirmation of Judge Steven Sword to the
+Tennessee Court of Appeals, Eastern Section, pursuant to Article VI, Section 3 of the
+Constitution of Tennessee and Tennessee Code Annotated, Title 17, Chapter 4.
+SJR0307
+005435
+- 1 -
+
+[DELETED: B]

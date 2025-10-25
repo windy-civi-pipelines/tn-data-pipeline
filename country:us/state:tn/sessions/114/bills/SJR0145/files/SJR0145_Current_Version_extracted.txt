@@ -1,0 +1,196 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 145
+By McNally
+A RESOLUTION to honor the memory of W.J. Michael Cody of
+Memphis.
+WHEREAS, the members of this General Assembly were deeply saddened to learn of
+the death of W.J. Michael Cody of Memphis, a highly respected attorney and public servant who
+was known as a model of integrity, fairness, and courage; and
+WHEREAS, a former Attorney General and Reporter for the State of Tennessee,
+Michael Cody also served as the United States Attorney for the Western District of Tennessee
+and, as a young attorney, represented Dr. Martin Luther King, Jr., during his 1968 visit to
+Memphis to support the striking sanitation workers; and
+WHEREAS, born on March 13, 1936, in Memphis, Mr. Cody was educated in the public
+schools of Memphis, received his Bachelor of Arts degree with distinction from Rhodes College
+in 1958, and earned his Juris Doctor degree from the University of Virginia School of Law in
+1961; and
+WHEREAS, a military veteran, he ably served his nation as a member of the United
+States Army Reserve, where he attained the rank of First Lieutenant; and
+WHEREAS, a partner at Burch Porter & Johnson since 1961, Mr. Cody was instrumental
+in the legal team representing Dr. Martin Luther King, Jr.'s work in Memphis, successfully
+convincing a judge to lift an injunction preventing the strikers from marching; he met with the
+civil rights leader at the Lorraine Motel not long before Dr. King was assassinated on the
+balcony outside his hotel room; and
+WHEREAS, following Dr. King's death, Mr. Cody and Pastor James Lawson formed a
+neighborhood legal services operation to offer free aid to the sanitation workers. The idea
+blossomed into the organization now known as Memphis Legal Services; and
+SJR0145
+000094
+- 1 -
+WHEREAS, seeking to improve the lives of his fellow Memphians, Mike Cody offered
+himself for public service and won election to an at-large seat on the Memphis City Council in
+1975 and unsuccessfully ran for mayor of Memphis in 1982; and
+WHEREAS, in 1977, he was nominated by President Jimmy Carter to serve as the
+United States Attorney for the Western District of Tennessee; as the chief federal prosecutor in
+West Tennessee, he played a prominent role in the prosecution and conviction of corruption
+charges against a number of powerful and prominent public officials at both the State and local
+levels; and
+WHEREAS, in 1984, Michael Cody was appointed by the Tennessee Supreme Court to
+serve as Attorney General and Reporter for the State of Tennessee, during which time he
+argued four cases before the United States Supreme Court; and
+WHEREAS, he served with distinction on a number of State entities, including the
+Tennessee Code Commission, the Tennessee Judicial Council, and the Tennessee Sentencing
+Commission; and
+WHEREAS, the co-author of the 1992 book Honest Government: An Ethics Guide for
+Public Service, Mike Cody was appointed by Governor Phil Bredesen to serve as co-chair of the
+Tennessee Commission on Ethics to recommend revisions to state ethics laws in 2005; and
+WHEREAS, an esteemed member of the legal profession, Mr. Cody was a member of
+the Memphis and Shelby County Bar Association, the Tennessee Bar Association, the American
+Bar Association, the Federal Bar Association, and Phi Delta Phi legal fraternity; and
+WHEREAS, he was a former member of the Attorney General's Advisory Committee of
+United States Attorneys, the Southern Association of Attorneys General, and the National
+Association of Attorneys General; and
+WHEREAS, no stranger to awards and accolades, Mike Cody received a number of
+national and local honors and served on the boards of many significant organizations, including
+the National Civil Rights Museum and the Memphis in May International Festival; and
+- 2 - 000094
+WHEREAS, a gentleman of many pursuits, Mr. Cody was an avid runner who logged
+more than 80,000 miles and participated in more than a dozen Boston Marathons; he once
+completed a two-day, seventy-mile run along the Appalachian Trail; and
+WHEREAS, a member of the Tennessee Sports Hall of Fame, Mike Cody was captain of
+the track and basketball teams at East High School in Memphis and ran cross country and
+played basketball at Rhodes College; and
+WHEREAS, Mike Cody enjoyed the loving companionship of his beloved wife of forty-
+two years, Suzanna Marten Cody. He was the proud father of two daughters, Jane Cody and
+Mia Cody, and a son, Michael Cody, and loving grandfather of three grandchildren and two
+great-grandchildren; and
+WHEREAS, committed to the highest ideals of public service, Mike Cody leaves behind
+an indelible legacy of integrity and probity in public life, compassion and loyalty in private life,
+and diligence and dedication in all his chosen endeavors; and
+WHEREAS, it is fitting that this General Assembly should pause to remember the
+bountiful life of this exceptional public servant and human being, whose contributions to the
+government and citizens of Tennessee stand as a monument to a job well done; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor the memory of W.J. Michael Cody,
+reflecting fondly upon his impeccable character and his stalwart commitment to living the
+examined life with courage and conviction.
+BE IT FURTHER RESOLVED, that we express our sympathy and offer our condolences
+to the family of Mr. Cody.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 000094
+- 4 - 000094
+[DELETED: W]
+[DELETED:  -0WWWWW]
+[DELETED:  -0WWWWWBBB]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 145
+By McNally
+A RESOLUTION to honor the memory of W.J. Michael Cody of
+Memphis.
+WHEREAS, the members of this General Assembly were deeply saddened to learn of
+the death of W.J. Michael Cody of Memphis, a highly respected attorney and public servant who
+was known as a model of integrity, fairness, and courage; and
+WHEREAS, a former Attorney General and Reporter for the State of Tennessee,
+Michael Cody also served as the United States Attorney for the Western District of Tennessee
+and, as a young attorney, represented Dr. Martin Luther King, Jr., during his 1968 visit to
+Memphis to support the striking sanitation workers; and
+WHEREAS, born on March 13, 1936, in Memphis, Mr. Cody was educated in the public
+schools of Memphis, received his Bachelor of Arts degree with distinction from Rhodes College
+in 1958, and earned his Juris Doctor degree from the University of Virginia School of Law in
+1961; and
+WHEREAS, a military veteran, he ably served his nation as a member of the United
+States Army Reserve, where he attained the rank of First Lieutenant; and
+WHEREAS, a partner at Burch Porter & Johnson since 1961, Mr. Cody was instrumental
+in the legal team representing Dr. Martin Luther King, Jr.'s work in Memphis, successfully
+convincing a judge to lift an injunction preventing the strikers from marching; he met with the
+civil rights leader at the Lorraine Motel not long before Dr. King was assassinated on the
+balcony outside his hotel room; and
+WHEREAS, following Dr. King's death, Mr. Cody and Pastor James Lawson formed a
+neighborhood legal services operation to offer free aid to the sanitation workers. The idea
+blossomed into the organization now known as Memphis Legal Services; and
+SJR0145
+000094
+- 1 -
+
+WHEREAS, seeking to improve the lives of his fellow Memphians, Mike Cody offered
+himself for public service and won election to an at-large seat on the Memphis City Council in
+1975 and unsuccessfully ran for mayor of Memphis in 1982; and
+WHEREAS, in 1977, he was nominated by President Jimmy Carter to serve as the
+United States Attorney for the Western District of Tennessee; as the chief federal prosecutor in
+West Tennessee, he played a prominent role in the prosecution and conviction of corruption
+charges against a number of powerful and prominent public officials at both the State and local
+levels; and
+WHEREAS, in 1984, Michael Cody was appointed by the Tennessee Supreme Court to
+serve as Attorney General and Reporter for the State of Tennessee, during which time he
+argued four cases before the United States Supreme Court; and
+WHEREAS, he served with distinction on a number of State entities, including the
+Tennessee Code Commission, the Tennessee Judicial Council, and the Tennessee Sentencing
+Commission; and
+WHEREAS, the co-author of the 1992 book Honest Government: An Ethics Guide for
+Public Service, Mike Cody was appointed by Governor Phil Bredesen to serve as co-chair of the
+Tennessee Commission on Ethics to recommend revisions to state ethics laws in 2005; and
+WHEREAS, an esteemed member of the legal profession, Mr. Cody was a member of
+the Memphis and Shelby County Bar Association, the Tennessee Bar Association, the American
+Bar Association, the Federal Bar Association, and Phi Delta Phi legal fraternity; and
+WHEREAS, he was a former member of the Attorney General's Advisory Committee of
+United States Attorneys, the Southern Association of Attorneys General, and the National
+Association of Attorneys General; and
+WHEREAS, no stranger to awards and accolades, Mike Cody received a number of
+national and local honors and served on the boards of many significant organizations, including
+the National Civil Rights Museum and the Memphis in May International Festival; and
+- 2 - 000094
+
+WHEREAS, a gentleman of many pursuits, Mr. Cody was an avid runner who logged
+more than 80,000 miles and participated in more than a dozen Boston Marathons; he once
+completed a two-day, seventy-mile run along the Appalachian Trail; and
+WHEREAS, a member of the Tennessee Sports Hall of Fame, Mike Cody was captain of
+the track and basketball teams at East High School in Memphis and ran cross country and
+played basketball at Rhodes College; and
+WHEREAS, Mike Cody enjoyed the loving companionship of his beloved wife of forty-
+two years, Suzanna Marten Cody. He was the proud father of two daughters, Jane Cody and
+Mia Cody, and a son, Michael Cody, and loving grandfather of three grandchildren and two
+great-grandchildren; and
+WHEREAS, committed to the highest ideals of public service, Mike Cody leaves behind
+an indelible legacy of integrity and probity in public life, compassion and loyalty in private life,
+and diligence and dedication in all his chosen endeavors; and
+WHEREAS, it is fitting that this General Assembly should pause to remember the
+bountiful life of this exceptional public servant and human being, whose contributions to the
+government and citizens of Tennessee stand as a monument to a job well done; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor the memory of W.J. Michael Cody,
+reflecting fondly upon his impeccable character and his stalwart commitment to living the
+examined life with courage and conviction.
+BE IT FURTHER RESOLVED, that we express our sympathy and offer our condolences
+to the family of Mr. Cody.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 000094
+
+- 4 - 000094
+
+[DELETED: W]
+[DELETED:  -0WWWWW]
+[DELETED:  -0WWWWWBBB]
+[DELETED:  -0]

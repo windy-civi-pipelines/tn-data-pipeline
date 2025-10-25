@@ -1,0 +1,200 @@
+Title: AMEND S e n ate Bill No. 1413* House Bill No. 1376
+Official Title: AMEND S e n ate Bill No. 1413* House Bill No. 1376
+Number of Sections: 1
+Source: versions - Amendment HA0359
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+Amendment No. 11 to HB1376
+Cochran
+Signature of Sponsor
+by deleting § 57-7-102(3) in SECTION 2 and substituting:
+(3) "Hemp-derived cannabinoid":
+(A) Means:
+(i) A cannabinoid other than delta-9 tetrahydrocannabinol, or an isomer
+derived from such cannabinoid, that is derived from hemp in a concentration of
+more than one-tenth of one percent (0.1%);
+(ii) A hemp-derived product containing delta-9 tetrahydrocannabinol in a
+concentration of not more than three-tenths of one percent (0.3%) on a dry
+weight basis; or
+(iii) A hemp-derived product containing a total THC content or a total
+theoretical THC content of not more than three-tenths of one percent (0.3%) on a
+dry weight basis;
+(B) Includes, but is not limited to:
+(i) Delta-8 tetrahydrocannabinol;
+(ii) Delta-10 tetrahydrocannabinol;
+(iii) Hexahydrocannabinol; and
+(iv) Tetrahydrocannabivarin (THCv); and
+(C) Does not include:
+(i) Cannabichromene (CBC/CBCa/CBCv);
+(ii) Cannabicitran (CBT/CBTa);
+(iii) Cannabicyclol (CBL/CBLa);
+HA0359
+006994
+- 1 -
+(iv) Cannabidiol (CBD/CBDa/CBDv/CBDp);
+(v) Cannabielsoin (CBE/CBEa);
+(vi) Cannabigerol (CBG/CBGa/CBGv/CBGm);
+(vii) Cannabinol (CBN/CBNa);
+(viii) Cannabivarin (CBV/CBVa);
+(ix) Hemp-derived feed products allowed under title 44, chapter 6;
+(x) Hemp-derived fiber, grain, or stalk; provided, that the product does
+not contain a hemp-derived cannabinoid in a concentration of more than three-
+tenths of one percent (0.3%) on a dry weight basis;
+(xi) Tetrahydrocannabinolic acid (THCa) in a concentration greater than
+three-tenths of one percent (0.3%) on a dry weight basis;
+(xii) Tetrahydrocannabiphorol (THCp);
+(xiii) A synthetic cannabinoid; or
+(xiv) A substance that is categorized as a Schedule I controlled
+substance on or after July 1, 2023, including a substance that may be identified
+in subdivision (3)(B);
+AND FURTHER AMEND by deleting subdivisions (10) and (11) in § 57-7-102 in SECTION 2
+and substituting:
+(10) "Synthetic cannabinoid" means a substance with an identical or substantially
+similar chemical structure to or the pharmacological activity of a cannabinoid, but that is not
+extracted from hemp or hemp plant parts or derived from hemp or hemp plant parts;
+(11) "Tetrahydrocannabinolic acid" or "THCa" is the precursor of delta-9 THC;
+(12) "THC" means a tetrahydrocannabinol, tetrahydrocannabinolic acid, a THC
+component, or any derivative thereof;
+(13) "THC component" means a naturally occurring cannabinoid component of industrial
+hemp or hemp;
+- 2 - 006994
+(14) "Total THC" means a hemp-derived cannabinoid or a combination of
+tetrahydrocannabinol, tetrahydrocannabinolic acid, a THC component, or a derivative thereof;
+(15) "Total theoretical tetrahydrocannabinol content" or "total theoretical THC content" is
+the maximum amount of possible delta-9 tetrahydrocannabinol if total conversion were to occur,
+calculated as the sum of the concentration of delta-9 tetrahydrocannabinol added to the amount
+of tetrahydrocannabinolic acid after such amount is multiplied by eight hundred seventy-seven
+thousandths (0.877) on a dry weight basis and reported to two (2) significant figures, and
+expressed in a mathematical formula as follows:
+Total theoretical THC = ([delta 9 THC] + ([THCa] x 0.877)); and
+(16) "Wholesaler" means a person or entity that purchases finished and packaged for
+consumption HDCPs, not considered intermediate products still in the pre-packaging stage, from
+suppliers licensed under this chapter, or from other wholesalers licensed under this chapter, and
+that sells HDCPs for resale and not for consumption.
+AND FURTHER AMEND by deleting § 57-7-114(a) in SECTION 2 and substituting:
+(a) It is an offense to manufacture, cultivate, produce, or sell in this state:
+(1) Hemp, harvested hemp, hemp plant parts, HDCPs, or another product that
+contains a total THC content, or a total theoretical THC content, in excess of three-
+tenths of one percent (0.3%) on a dry weight basis;
+(2) A synthetic cannabinoid, or an HDCP or any other product, which contains a
+synthetic cannabinoid; or
+(3) A derivative of hemp or an HDCP that contains tetrahydrocannabiphorol
+(THCp).
+AND FURTHER AMEND by deleting § 57-7-107(d)(4) and substituting:
+(4) Sample and analyze HDCPs produced, distributed, and offered for sale in this state
+for cannabinoid concentrations, tested according to protocols promulgated by rule of the
+commission. Commission testing must be conducted by post-decarboxylation to determine a
+cannabinoid profile of samples tested, including their THC concentrations. As used in this
+- 3 - 006994
+subdivision (d)(4), "post-decarboxylation" means the quantification by percentage of the
+resulting tetrahydrocannabinol of a sample if carboxyl groups are removed from all molecules
+containing tetrahydrocannabinol within the sample.
+- 4 - 006994
+[DELETED:  a H]
+[DELETED:  -0((]
+[DELETED:  -0((T((((]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+Amendment No. 11 to HB1376
+Cochran
+Signature of Sponsor
+AMEND S e n ate Bill No. 1413* House Bill No. 1376
+by deleting § 57-7-102(3) in SECTION 2 and substituting:
+(3) "Hemp-derived cannabinoid":
+(A) Means:
+(i) A cannabinoid other than delta-9 tetrahydrocannabinol, or an isomer
+derived from such cannabinoid, that is derived from hemp in a concentration of
+more than one-tenth of one percent (0.1%);
+(ii) A hemp-derived product containing delta-9 tetrahydrocannabinol in a
+concentration of not more than three-tenths of one percent (0.3%) on a dry
+weight basis; or
+(iii) A hemp-derived product containing a total THC content or a total
+theoretical THC content of not more than three-tenths of one percent (0.3%) on a
+dry weight basis;
+(B) Includes, but is not limited to:
+(i) Delta-8 tetrahydrocannabinol;
+(ii) Delta-10 tetrahydrocannabinol;
+(iii) Hexahydrocannabinol; and
+(iv) Tetrahydrocannabivarin (THCv); and
+(C) Does not include:
+(i) Cannabichromene (CBC/CBCa/CBCv);
+(ii) Cannabicitran (CBT/CBTa);
+(iii) Cannabicyclol (CBL/CBLa);
+HA0359
+006994
+- 1 -
+
+(iv) Cannabidiol (CBD/CBDa/CBDv/CBDp);
+(v) Cannabielsoin (CBE/CBEa);
+(vi) Cannabigerol (CBG/CBGa/CBGv/CBGm);
+(vii) Cannabinol (CBN/CBNa);
+(viii) Cannabivarin (CBV/CBVa);
+(ix) Hemp-derived feed products allowed under title 44, chapter 6;
+(x) Hemp-derived fiber, grain, or stalk; provided, that the product does
+not contain a hemp-derived cannabinoid in a concentration of more than three-
+tenths of one percent (0.3%) on a dry weight basis;
+(xi) Tetrahydrocannabinolic acid (THCa) in a concentration greater than
+three-tenths of one percent (0.3%) on a dry weight basis;
+(xii) Tetrahydrocannabiphorol (THCp);
+(xiii) A synthetic cannabinoid; or
+(xiv) A substance that is categorized as a Schedule I controlled
+substance on or after July 1, 2023, including a substance that may be identified
+in subdivision (3)(B);
+AND FURTHER AMEND by deleting subdivisions (10) and (11) in § 57-7-102 in SECTION 2
+and substituting:
+(10) "Synthetic cannabinoid" means a substance with an identical or substantially
+similar chemical structure to or the pharmacological activity of a cannabinoid, but that is not
+extracted from hemp or hemp plant parts or derived from hemp or hemp plant parts;
+(11) "Tetrahydrocannabinolic acid" or "THCa" is the precursor of delta-9 THC;
+(12) "THC" means a tetrahydrocannabinol, tetrahydrocannabinolic acid, a THC
+component, or any derivative thereof;
+(13) "THC component" means a naturally occurring cannabinoid component of industrial
+hemp or hemp;
+- 2 - 006994
+
+(14) "Total THC" means a hemp-derived cannabinoid or a combination of
+tetrahydrocannabinol, tetrahydrocannabinolic acid, a THC component, or a derivative thereof;
+(15) "Total theoretical tetrahydrocannabinol content" or "total theoretical THC content" is
+the maximum amount of possible delta-9 tetrahydrocannabinol if total conversion were to occur,
+calculated as the sum of the concentration of delta-9 tetrahydrocannabinol added to the amount
+of tetrahydrocannabinolic acid after such amount is multiplied by eight hundred seventy-seven
+thousandths (0.877) on a dry weight basis and reported to two (2) significant figures, and
+expressed in a mathematical formula as follows:
+Total theoretical THC = ([delta 9 THC] + ([THCa] x 0.877)); and
+(16) "Wholesaler" means a person or entity that purchases finished and packaged for
+consumption HDCPs, not considered intermediate products still in the pre-packaging stage, from
+suppliers licensed under this chapter, or from other wholesalers licensed under this chapter, and
+that sells HDCPs for resale and not for consumption.
+AND FURTHER AMEND by deleting § 57-7-114(a) in SECTION 2 and substituting:
+(a) It is an offense to manufacture, cultivate, produce, or sell in this state:
+(1) Hemp, harvested hemp, hemp plant parts, HDCPs, or another product that
+contains a total THC content, or a total theoretical THC content, in excess of three-
+tenths of one percent (0.3%) on a dry weight basis;
+(2) A synthetic cannabinoid, or an HDCP or any other product, which contains a
+synthetic cannabinoid; or
+(3) A derivative of hemp or an HDCP that contains tetrahydrocannabiphorol
+(THCp).
+AND FURTHER AMEND by deleting § 57-7-107(d)(4) and substituting:
+(4) Sample and analyze HDCPs produced, distributed, and offered for sale in this state
+for cannabinoid concentrations, tested according to protocols promulgated by rule of the
+commission. Commission testing must be conducted by post-decarboxylation to determine a
+cannabinoid profile of samples tested, including their THC concentrations. As used in this
+- 3 - 006994
+
+subdivision (d)(4), "post-decarboxylation" means the quantification by percentage of the
+resulting tetrahydrocannabinol of a sample if carboxyl groups are removed from all molecules
+containing tetrahydrocannabinol within the sample.
+- 4 - 006994
+
+[DELETED:  a H]
+[DELETED:  -0((]
+[DELETED:  -0((T((((]
+[DELETED:  -0]
