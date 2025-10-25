@@ -1,0 +1,97 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE NAMING & DESIGNATING COMMITTEE: Rec. for pass; ref to  Health Committee  2/24/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-24",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "3da2a94a-b151-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HJR 0080",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Barrett",
+      "voter_id": "~{\"name\": \"Barrett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Behn",
+      "voter_id": "~{\"name\": \"Behn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bricken",
+      "voter_id": "~{\"name\": \"Bricken\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bulso",
+      "voter_id": "~{\"name\": \"Bulso\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dixie",
+      "voter_id": "~{\"name\": \"Dixie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fritts",
+      "voter_id": "~{\"name\": \"Fritts\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jones J",
+      "voter_id": "~{\"name\": \"Jones J\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Leatherwood",
+      "voter_id": "~{\"name\": \"Leatherwood\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marsh",
+      "voter_id": "~{\"name\": \"Marsh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Warner",
+      "voter_id": "~{\"name\": \"Warner\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HJR0080&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

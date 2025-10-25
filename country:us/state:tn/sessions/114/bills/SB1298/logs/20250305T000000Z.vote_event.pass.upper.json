@@ -1,0 +1,85 @@
+{
+  "identifier": "",
+  "motion_text": "TRANSPORTATION AND SAFETY COMMITTEE: Recommended for passage, refer to Senate Calendar Committee  3/5/2025  Passed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "ce902b96-b14f-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "SB 1298",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bailey",
+      "voter_id": "~{\"name\": \"Bailey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Briggs",
+      "voter_id": "~{\"name\": \"Briggs\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Campbell",
+      "voter_id": "~{\"name\": \"Campbell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hatcher",
+      "voter_id": "~{\"name\": \"Hatcher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Massey",
+      "voter_id": "~{\"name\": \"Massey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Powers",
+      "voter_id": "~{\"name\": \"Powers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Seal",
+      "voter_id": "~{\"name\": \"Seal\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Taylor",
+      "voter_id": "~{\"name\": \"Taylor\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1298&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

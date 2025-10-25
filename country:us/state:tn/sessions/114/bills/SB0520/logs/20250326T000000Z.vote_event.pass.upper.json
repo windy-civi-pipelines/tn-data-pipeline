@@ -1,0 +1,91 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE ENERGY, AGRICULTURE AND NATURAL RESOURCES COMMITTEE: Recommended for passage, refer to Senate Finance, Ways, and Means Committee  3/26/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-26",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "76adee0e-b14f-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "SB 0520",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bowling",
+      "voter_id": "~{\"name\": \"Bowling\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Campbell",
+      "voter_id": "~{\"name\": \"Campbell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harshbarger",
+      "voter_id": "~{\"name\": \"Harshbarger\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lowe",
+      "voter_id": "~{\"name\": \"Lowe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Oliver",
+      "voter_id": "~{\"name\": \"Oliver\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pody",
+      "voter_id": "~{\"name\": \"Pody\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reeves",
+      "voter_id": "~{\"name\": \"Reeves\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Seal",
+      "voter_id": "~{\"name\": \"Seal\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Walley",
+      "voter_id": "~{\"name\": \"Walley\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0520&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

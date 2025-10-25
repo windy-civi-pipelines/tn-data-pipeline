@@ -1,0 +1,79 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE ELECTIONS & CAMPAIGN FINANCE SUBCOMMITTEE: Failed in s/c  Elections & Campaign Finance Subcommittee of  State & Local Government Committee  3/11/2025  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-11",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "e1fb1df2-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0943",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Powell",
+      "voter_id": "~{\"name\": \"Powell\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bricken",
+      "voter_id": "~{\"name\": \"Bricken\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Howell",
+      "voter_id": "~{\"name\": \"Howell\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Rudd",
+      "voter_id": "~{\"name\": \"Rudd\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Wright",
+      "voter_id": "~{\"name\": \"Wright\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Leatherwood",
+      "voter_id": "~{\"name\": \"Leatherwood\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Moon",
+      "voter_id": "~{\"name\": \"Moon\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 1
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0943&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

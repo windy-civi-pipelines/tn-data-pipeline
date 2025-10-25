@@ -1,0 +1,103 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE FINANCE, WAYS, AND MEANS SUBCOMMITTEE: Rec. for pass by s/c ref. to  Finance, Ways, and Means Committee  4/2/2025  Passed (3)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-02",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "1d21b3aa-b151-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 1323",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Capley",
+      "voter_id": "~{\"name\": \"Capley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chism",
+      "voter_id": "~{\"name\": \"Chism\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cochran",
+      "voter_id": "~{\"name\": \"Cochran\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crawford",
+      "voter_id": "~{\"name\": \"Crawford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gant",
+      "voter_id": "~{\"name\": \"Gant\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hicks G",
+      "voter_id": "~{\"name\": \"Hicks G\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hicks T",
+      "voter_id": "~{\"name\": \"Hicks T\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reeves",
+      "voter_id": "~{\"name\": \"Reeves\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shaw",
+      "voter_id": "~{\"name\": \"Shaw\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Williams",
+      "voter_id": "~{\"name\": \"Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Zachary",
+      "voter_id": "~{\"name\": \"Zachary\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1323&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

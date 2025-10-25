@@ -1,0 +1,95 @@
+{
+  "legislative_session": "114",
+  "identifier": "HB 0750",
+  "title": "Education - As introduced, requires the chief law enforcement officer of each law enforcement agency with law enforcement jurisdiction for a school that has utilized armed school security officers to annually submit a report by September 1 of each year, following the conclusion of each school year. to the governor, the chairs of legislative committees with subject matter jurisdiction over education, and the commissioner of education detailing any school security deficiencies and providing recommendations for security improvements for each such school; authorizes a single, consolidated report for situations where more than one agency within any one county is affected by the reporting requirement. - Amends TCA Title 4; Title 8; Title 49 and Title 68, and to amend Chapter __ of the Public Acts of 2025 (1st Ex. Sess. \u2013 SB 6001 / HB 6004).",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed for introduction",
+      "date": "2025-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:23:07Z"
+      }
+    },
+    {
+      "description": "Withdrawn.",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:23:07Z"
+      }
+    },
+    {
+      "description": "Intro., P1C.",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:23:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Reeves",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Reeves\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current Version",
+      "links": [
+        {
+          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0750.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0750&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tn/government",
+    "name": "Tennessee",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tn"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:23:07Z"
+  }
+}

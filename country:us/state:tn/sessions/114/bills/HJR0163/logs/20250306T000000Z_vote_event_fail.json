@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE CALENDAR & RULES COMMITTEE: H. Placed on Consent Calendar 3/6/2025 (2)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-06",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "48a3e8c2-b151-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HJR 0163",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HJR0163&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

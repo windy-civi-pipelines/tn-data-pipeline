@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed on Second Consideration, refer to Senate Health & Welfare Committee",
+    "date": "2025-03-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR 0327"
+}

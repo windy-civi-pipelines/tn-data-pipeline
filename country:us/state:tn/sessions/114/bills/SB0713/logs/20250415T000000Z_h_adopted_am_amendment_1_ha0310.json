@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "H. adopted am. (Amendment 1 - HA0310)",
+    "date": "2025-04-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0713"
+}

@@ -1,0 +1,91 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE EDUCATION COMMITTEE: Failed in Senate Education Committee  3/26/2025  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-26",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "586ecfd0-b14f-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "SB 0386",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Crowe",
+      "voter_id": "~{\"name\": \"Crowe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lowe",
+      "voter_id": "~{\"name\": \"Lowe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Powers",
+      "voter_id": "~{\"name\": \"Powers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "White",
+      "voter_id": "~{\"name\": \"White\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Akbari",
+      "voter_id": "~{\"name\": \"Akbari\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Haile",
+      "voter_id": "~{\"name\": \"Haile\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hensley",
+      "voter_id": "~{\"name\": \"Hensley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Pody",
+      "voter_id": "~{\"name\": \"Pody\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Roberts",
+      "voter_id": "~{\"name\": \"Roberts\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0386&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

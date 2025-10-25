@@ -1,0 +1,91 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE GOVERNMENT OPERATIONS COMMITTEE: Recommended for passage with amendment/s, refer to Senate Finance, Ways, and Means Committee Ayes 7, Nays 2 PNV 0  4/9/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "9ef90a6a-b14f-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "SB 0861",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bowling",
+      "voter_id": "~{\"name\": \"Bowling\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crowe",
+      "voter_id": "~{\"name\": \"Crowe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hatcher",
+      "voter_id": "~{\"name\": \"Hatcher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jackson",
+      "voter_id": "~{\"name\": \"Jackson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rose",
+      "voter_id": "~{\"name\": \"Rose\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Seal",
+      "voter_id": "~{\"name\": \"Seal\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Southerland",
+      "voter_id": "~{\"name\": \"Southerland\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kyle",
+      "voter_id": "~{\"name\": \"Kyle\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Oliver",
+      "voter_id": "~{\"name\": \"Oliver\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0861&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

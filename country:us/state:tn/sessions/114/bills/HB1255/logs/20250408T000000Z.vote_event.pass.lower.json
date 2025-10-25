@@ -1,0 +1,145 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE JUDICIARY COMMITTEE: Rec. for pass. if am., ref. to  Calendar & Rules Committee  4/8/2025  Passed (2)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "1534cfd8-b151-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 1255",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Alexander",
+      "voter_id": "~{\"name\": \"Alexander\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Atchley",
+      "voter_id": "~{\"name\": \"Atchley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bulso",
+      "voter_id": "~{\"name\": \"Bulso\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davis",
+      "voter_id": "~{\"name\": \"Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Doggett",
+      "voter_id": "~{\"name\": \"Doggett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eldridge",
+      "voter_id": "~{\"name\": \"Eldridge\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Farmer",
+      "voter_id": "~{\"name\": \"Farmer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hardaway",
+      "voter_id": "~{\"name\": \"Hardaway\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harris",
+      "voter_id": "~{\"name\": \"Harris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keisling",
+      "voter_id": "~{\"name\": \"Keisling\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lamberth",
+      "voter_id": "~{\"name\": \"Lamberth\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Littleton",
+      "voter_id": "~{\"name\": \"Littleton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Salinas",
+      "voter_id": "~{\"name\": \"Salinas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scarbrough",
+      "voter_id": "~{\"name\": \"Scarbrough\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Todd",
+      "voter_id": "~{\"name\": \"Todd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Towns",
+      "voter_id": "~{\"name\": \"Towns\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Travis",
+      "voter_id": "~{\"name\": \"Travis\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1255&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,61 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE K-12 SUBCOMMITTEE: Failed in s/c  K-12 Subcommittee of  Education Committee  3/26/2025  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-26",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "99825df6-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0409",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Maberry",
+      "voter_id": "~{\"name\": \"Maberry\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hakeem",
+      "voter_id": "~{\"name\": \"Hakeem\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "McKenzie",
+      "voter_id": "~{\"name\": \"McKenzie\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Slater",
+      "voter_id": "~{\"name\": \"Slater\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 1
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0409&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

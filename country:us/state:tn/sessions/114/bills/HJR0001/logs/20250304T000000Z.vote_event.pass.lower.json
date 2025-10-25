@@ -1,0 +1,145 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE HEALTH COMMITTEE: Rec. for pass; ref to  Calendar & Rules Committee  3/4/2025  Passed (3)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-04",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "3f0dae24-b151-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HJR 0001",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Brooks",
+      "voter_id": "~{\"name\": \"Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Capley",
+      "voter_id": "~{\"name\": \"Capley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Clemmons",
+      "voter_id": "~{\"name\": \"Clemmons\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gant",
+      "voter_id": "~{\"name\": \"Gant\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gillespie",
+      "voter_id": "~{\"name\": \"Gillespie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Helton-Haynes",
+      "voter_id": "~{\"name\": \"Helton-Haynes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hemmer",
+      "voter_id": "~{\"name\": \"Hemmer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hicks G",
+      "voter_id": "~{\"name\": \"Hicks G\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hill",
+      "voter_id": "~{\"name\": \"Hill\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Leatherwood",
+      "voter_id": "~{\"name\": \"Leatherwood\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Martin B",
+      "voter_id": "~{\"name\": \"Martin B\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mitchell",
+      "voter_id": "~{\"name\": \"Mitchell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rudder",
+      "voter_id": "~{\"name\": \"Rudder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sherrell",
+      "voter_id": "~{\"name\": \"Sherrell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Terry",
+      "voter_id": "~{\"name\": \"Terry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Travis",
+      "voter_id": "~{\"name\": \"Travis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "White",
+      "voter_id": "~{\"name\": \"White\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Williams",
+      "voter_id": "~{\"name\": \"Williams\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HJR0001&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

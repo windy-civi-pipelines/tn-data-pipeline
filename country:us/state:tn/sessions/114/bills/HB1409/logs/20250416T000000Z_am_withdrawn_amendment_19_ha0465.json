@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Am. withdrawn. (Amendment 19 - HA0465)",
+    "date": "2025-04-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1409"
+}

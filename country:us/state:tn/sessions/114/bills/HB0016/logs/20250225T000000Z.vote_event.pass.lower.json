@@ -1,0 +1,139 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE TRANSPORTATION COMMITTEE: Rec. for pass. if am., ref. to  Government Operations Committee  2/25/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "5d9fabd6-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0016",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Atchley",
+      "voter_id": "~{\"name\": \"Atchley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Behn",
+      "voter_id": "~{\"name\": \"Behn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Butler",
+      "voter_id": "~{\"name\": \"Butler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Glynn",
+      "voter_id": "~{\"name\": \"Glynn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hawk",
+      "voter_id": "~{\"name\": \"Hawk\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Howell",
+      "voter_id": "~{\"name\": \"Howell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Maberry",
+      "voter_id": "~{\"name\": \"Maberry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marsh",
+      "voter_id": "~{\"name\": \"Marsh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McCalmon",
+      "voter_id": "~{\"name\": \"McCalmon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reneau",
+      "voter_id": "~{\"name\": \"Reneau\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rudd",
+      "voter_id": "~{\"name\": \"Rudd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Russell",
+      "voter_id": "~{\"name\": \"Russell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sherrell",
+      "voter_id": "~{\"name\": \"Sherrell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stevens",
+      "voter_id": "~{\"name\": \"Stevens\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Vital",
+      "voter_id": "~{\"name\": \"Vital\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wright",
+      "voter_id": "~{\"name\": \"Wright\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Todd",
+      "voter_id": "~{\"name\": \"Todd\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 16
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0016&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

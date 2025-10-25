@@ -1,0 +1,91 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE TRANSPORTATION SUBCOMMITTEE: Rec for pass if am by s/c ref. to  Transportation Committee  3/18/2025  Passed (2)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-18",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "ab5f7d7e-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0537",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Atchley",
+      "voter_id": "~{\"name\": \"Atchley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Behn",
+      "voter_id": "~{\"name\": \"Behn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Butler",
+      "voter_id": "~{\"name\": \"Butler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hawk",
+      "voter_id": "~{\"name\": \"Hawk\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Howell",
+      "voter_id": "~{\"name\": \"Howell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McCalmon",
+      "voter_id": "~{\"name\": \"McCalmon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reneau",
+      "voter_id": "~{\"name\": \"Reneau\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Russell",
+      "voter_id": "~{\"name\": \"Russell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wright",
+      "voter_id": "~{\"name\": \"Wright\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0537&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

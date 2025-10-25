@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Action def. in  Finance, Ways, and Means Committee to Next Calendar",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1344"
+}

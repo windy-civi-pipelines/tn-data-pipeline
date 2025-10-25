@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Reset on Senate Regular Calendar #2 4/22/25",
+    "date": "2025-04-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 0963"
+}

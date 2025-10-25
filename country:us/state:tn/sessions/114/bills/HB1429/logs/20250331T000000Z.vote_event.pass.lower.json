@@ -1,0 +1,97 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE PRIVATE ACTS COMMITTEE: Rec. for pass; ref to  State & Local Government Committee  3/31/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-31",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "2f325536-b151-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 1429",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Doggett",
+      "voter_id": "~{\"name\": \"Doggett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hulsey",
+      "voter_id": "~{\"name\": \"Hulsey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Powers",
+      "voter_id": "~{\"name\": \"Powers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sherrell",
+      "voter_id": "~{\"name\": \"Sherrell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stevens",
+      "voter_id": "~{\"name\": \"Stevens\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Brooks",
+      "voter_id": "~{\"name\": \"Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Davis",
+      "voter_id": "~{\"name\": \"Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hawk",
+      "voter_id": "~{\"name\": \"Hawk\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hemmer",
+      "voter_id": "~{\"name\": \"Hemmer\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Capley",
+      "voter_id": "~{\"name\": \"Capley\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1429&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,91 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE JUDICIARY COMMITTEE: Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 8, Nays 0 PNV 1  4/1/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-01",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "47d903ac-b14f-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "SB 0290",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Gardenhire",
+      "voter_id": "~{\"name\": \"Gardenhire\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harshbarger",
+      "voter_id": "~{\"name\": \"Harshbarger\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle",
+      "voter_id": "~{\"name\": \"Kyle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roberts",
+      "voter_id": "~{\"name\": \"Roberts\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rose",
+      "voter_id": "~{\"name\": \"Rose\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stevens",
+      "voter_id": "~{\"name\": \"Stevens\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Taylor",
+      "voter_id": "~{\"name\": \"Taylor\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "White",
+      "voter_id": "~{\"name\": \"White\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Lamar",
+      "voter_id": "~{\"name\": \"Lamar\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0290&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

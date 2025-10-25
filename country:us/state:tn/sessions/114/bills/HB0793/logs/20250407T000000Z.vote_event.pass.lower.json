@@ -1,0 +1,127 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE GOVERNMENT OPERATIONS COMMITTEE: Rec. for pass; ref to  Finance, Ways, and Means Committee  4/7/2025  Passed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "ca8a4ada-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0793",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Fritts",
+      "voter_id": "~{\"name\": \"Fritts\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lafferty",
+      "voter_id": "~{\"name\": \"Lafferty\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lamberth",
+      "voter_id": "~{\"name\": \"Lamberth\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Maberry",
+      "voter_id": "~{\"name\": \"Maberry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reedy",
+      "voter_id": "~{\"name\": \"Reedy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reneau",
+      "voter_id": "~{\"name\": \"Reneau\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rudder",
+      "voter_id": "~{\"name\": \"Rudder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sherrell",
+      "voter_id": "~{\"name\": \"Sherrell\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Clemmons",
+      "voter_id": "~{\"name\": \"Clemmons\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Faison",
+      "voter_id": "~{\"name\": \"Faison\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Glynn",
+      "voter_id": "~{\"name\": \"Glynn\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hardaway",
+      "voter_id": "~{\"name\": \"Hardaway\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "McKenzie",
+      "voter_id": "~{\"name\": \"McKenzie\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Parkinson",
+      "voter_id": "~{\"name\": \"Parkinson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Towns",
+      "voter_id": "~{\"name\": \"Towns\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 7
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0793&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conference Committee appointed.",
+    "date": "2025-04-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1097"
+}

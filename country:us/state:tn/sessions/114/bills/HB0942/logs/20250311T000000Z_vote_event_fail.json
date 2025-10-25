@@ -1,0 +1,79 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE DEPARTMENTS & AGENCIES SUBCOMMITTEE: Failed in s/c  Departments & Agencies Subcommittee of  State & Local Government Committee  3/11/2025  Failed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-11",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "e1607c7a-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0942",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Chism",
+      "voter_id": "~{\"name\": \"Chism\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Miller",
+      "voter_id": "~{\"name\": \"Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Burkhart",
+      "voter_id": "~{\"name\": \"Burkhart\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Carringer",
+      "voter_id": "~{\"name\": \"Carringer\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Eldridge",
+      "voter_id": "~{\"name\": \"Eldridge\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Martin G",
+      "voter_id": "~{\"name\": \"Martin G\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Powers",
+      "voter_id": "~{\"name\": \"Powers\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 2
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0942&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

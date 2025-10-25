@@ -1,0 +1,73 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE CIVIL JUSTICE SUBCOMMITTEE: Rec for pass if am by s/c ref. to  Judiciary Committee  4/2/2025  Passed (3)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-02",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "d5dd1610-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0873",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Davis",
+      "voter_id": "~{\"name\": \"Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Farmer",
+      "voter_id": "~{\"name\": \"Farmer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Russell",
+      "voter_id": "~{\"name\": \"Russell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Todd",
+      "voter_id": "~{\"name\": \"Todd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Travis",
+      "voter_id": "~{\"name\": \"Travis\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0873&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

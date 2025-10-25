@@ -1,0 +1,85 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE PRIVATE ACTS COMMITTEE: Rec. for pass; ref to  State & Local Government Committee  3/17/2025  Passed (4)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "2cede038-b151-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 1418",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Brooks",
+      "voter_id": "~{\"name\": \"Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davis",
+      "voter_id": "~{\"name\": \"Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Doggett",
+      "voter_id": "~{\"name\": \"Doggett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hemmer",
+      "voter_id": "~{\"name\": \"Hemmer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hulsey",
+      "voter_id": "~{\"name\": \"Hulsey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Powers",
+      "voter_id": "~{\"name\": \"Powers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sherrell",
+      "voter_id": "~{\"name\": \"Sherrell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stevens",
+      "voter_id": "~{\"name\": \"Stevens\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1418&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

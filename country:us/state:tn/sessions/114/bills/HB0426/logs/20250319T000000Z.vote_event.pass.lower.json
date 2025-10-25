@@ -1,0 +1,67 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE CITIES & COUNTIES SUBCOMMITTEE: Returned to the Clerk's Desk.  3/19/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-19",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "94f10972-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0426",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Butler",
+      "voter_id": "~{\"name\": \"Butler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crawford",
+      "voter_id": "~{\"name\": \"Crawford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Littleton",
+      "voter_id": "~{\"name\": \"Littleton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moon",
+      "voter_id": "~{\"name\": \"Moon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wright",
+      "voter_id": "~{\"name\": \"Wright\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0426&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

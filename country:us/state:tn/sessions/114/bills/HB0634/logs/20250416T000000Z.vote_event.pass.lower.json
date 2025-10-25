@@ -1,0 +1,115 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE GOVERNMENT OPERATIONS COMMITTEE: Rec. for pass; ref to  Calendar & Rules Committee  4/16/2025  Passed (2)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-16",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "bca21c86-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0634",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Clemmons",
+      "voter_id": "~{\"name\": \"Clemmons\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crawford",
+      "voter_id": "~{\"name\": \"Crawford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fritts",
+      "voter_id": "~{\"name\": \"Fritts\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Glynn",
+      "voter_id": "~{\"name\": \"Glynn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hardaway",
+      "voter_id": "~{\"name\": \"Hardaway\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Helton-Haynes",
+      "voter_id": "~{\"name\": \"Helton-Haynes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lafferty",
+      "voter_id": "~{\"name\": \"Lafferty\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Maberry",
+      "voter_id": "~{\"name\": \"Maberry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Parkinson",
+      "voter_id": "~{\"name\": \"Parkinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reedy",
+      "voter_id": "~{\"name\": \"Reedy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reneau",
+      "voter_id": "~{\"name\": \"Reneau\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rudder",
+      "voter_id": "~{\"name\": \"Rudder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sherrell",
+      "voter_id": "~{\"name\": \"Sherrell\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0634&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

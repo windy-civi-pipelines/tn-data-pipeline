@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Am. withdrawn. (Amendment 1 - HA0155)",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1140"
+}

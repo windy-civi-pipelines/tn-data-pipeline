@@ -1,0 +1,199 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE FINANCE, WAYS, AND MEANS COMMITTEE: Rec. for pass; ref to  Calendar & Rules Committee  4/14/2025  Passed (2)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-14",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "7018accc-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0194",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Baum",
+      "voter_id": "~{\"name\": \"Baum\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Boyd",
+      "voter_id": "~{\"name\": \"Boyd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Camper",
+      "voter_id": "~{\"name\": \"Camper\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Capley",
+      "voter_id": "~{\"name\": \"Capley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chism",
+      "voter_id": "~{\"name\": \"Chism\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cochran",
+      "voter_id": "~{\"name\": \"Cochran\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crawford",
+      "voter_id": "~{\"name\": \"Crawford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Faison",
+      "voter_id": "~{\"name\": \"Faison\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Freeman",
+      "voter_id": "~{\"name\": \"Freeman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gant",
+      "voter_id": "~{\"name\": \"Gant\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gillespie",
+      "voter_id": "~{\"name\": \"Gillespie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grills",
+      "voter_id": "~{\"name\": \"Grills\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hale",
+      "voter_id": "~{\"name\": \"Hale\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hawk",
+      "voter_id": "~{\"name\": \"Hawk\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hicks G",
+      "voter_id": "~{\"name\": \"Hicks G\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hicks T",
+      "voter_id": "~{\"name\": \"Hicks T\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hulsey",
+      "voter_id": "~{\"name\": \"Hulsey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lamberth",
+      "voter_id": "~{\"name\": \"Lamberth\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Love",
+      "voter_id": "~{\"name\": \"Love\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moody",
+      "voter_id": "~{\"name\": \"Moody\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Parkinson",
+      "voter_id": "~{\"name\": \"Parkinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reeves",
+      "voter_id": "~{\"name\": \"Reeves\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shaw",
+      "voter_id": "~{\"name\": \"Shaw\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sparks",
+      "voter_id": "~{\"name\": \"Sparks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Vaughan",
+      "voter_id": "~{\"name\": \"Vaughan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Williams",
+      "voter_id": "~{\"name\": \"Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Zachary",
+      "voter_id": "~{\"name\": \"Zachary\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 27
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0194&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

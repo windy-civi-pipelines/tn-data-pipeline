@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed Senate as amended, Ayes 25, Nays 2",
+    "date": "2025-04-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0621"
+}

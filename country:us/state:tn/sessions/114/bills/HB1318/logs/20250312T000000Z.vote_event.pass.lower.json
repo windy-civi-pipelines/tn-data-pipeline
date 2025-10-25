@@ -1,0 +1,133 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE INSURANCE COMMITTEE: Rec. for pass; ref to  Calendar & Rules Committee  3/12/2025  Passed (2)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "2c0f813a-b151-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 1318",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Cepicky",
+      "voter_id": "~{\"name\": \"Cepicky\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Freeman",
+      "voter_id": "~{\"name\": \"Freeman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grills",
+      "voter_id": "~{\"name\": \"Grills\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hakeem",
+      "voter_id": "~{\"name\": \"Hakeem\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hale",
+      "voter_id": "~{\"name\": \"Hale\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Helton-Haynes",
+      "voter_id": "~{\"name\": \"Helton-Haynes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hill",
+      "voter_id": "~{\"name\": \"Hill\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jones R",
+      "voter_id": "~{\"name\": \"Jones R\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kumar",
+      "voter_id": "~{\"name\": \"Kumar\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lafferty",
+      "voter_id": "~{\"name\": \"Lafferty\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Love",
+      "voter_id": "~{\"name\": \"Love\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Martin B",
+      "voter_id": "~{\"name\": \"Martin B\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scarbrough",
+      "voter_id": "~{\"name\": \"Scarbrough\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Slater",
+      "voter_id": "~{\"name\": \"Slater\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sparks",
+      "voter_id": "~{\"name\": \"Sparks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Terry",
+      "voter_id": "~{\"name\": \"Terry\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 16
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1318&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

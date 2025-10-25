@@ -1,0 +1,91 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE HEALTH AND WELFARE COMMITTEE: Recommended for passage with amendment/s, refer to Senate Finance, Ways & Means Committee Ayes 9, Nays 0 PNV 0  3/12/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "74e2f59c-b14f-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "SB 0576",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Crowe",
+      "voter_id": "~{\"name\": \"Crowe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Haile",
+      "voter_id": "~{\"name\": \"Haile\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harshbarger",
+      "voter_id": "~{\"name\": \"Harshbarger\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hensley",
+      "voter_id": "~{\"name\": \"Hensley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jackson",
+      "voter_id": "~{\"name\": \"Jackson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Massey",
+      "voter_id": "~{\"name\": \"Massey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reeves",
+      "voter_id": "~{\"name\": \"Reeves\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Watson",
+      "voter_id": "~{\"name\": \"Watson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yarbro",
+      "voter_id": "~{\"name\": \"Yarbro\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0576&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,139 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE STATE & LOCAL GOVERNMENT COMMITTEE: Failed in  State & Local Government Committee  4/16/2025  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-16",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "2fe81f92-b151-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 1430",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bricken",
+      "voter_id": "~{\"name\": \"Bricken\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carringer",
+      "voter_id": "~{\"name\": \"Carringer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crawford",
+      "voter_id": "~{\"name\": \"Crawford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Powers",
+      "voter_id": "~{\"name\": \"Powers\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Burkhart",
+      "voter_id": "~{\"name\": \"Burkhart\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Butler",
+      "voter_id": "~{\"name\": \"Butler\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dixie",
+      "voter_id": "~{\"name\": \"Dixie\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Martin G",
+      "voter_id": "~{\"name\": \"Martin G\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "McCalmon",
+      "voter_id": "~{\"name\": \"McCalmon\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Warner",
+      "voter_id": "~{\"name\": \"Warner\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Eldridge",
+      "voter_id": "~{\"name\": \"Eldridge\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Howell",
+      "voter_id": "~{\"name\": \"Howell\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Leatherwood",
+      "voter_id": "~{\"name\": \"Leatherwood\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Littleton",
+      "voter_id": "~{\"name\": \"Littleton\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Moon",
+      "voter_id": "~{\"name\": \"Moon\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Rudder",
+      "voter_id": "~{\"name\": \"Rudder\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Wright",
+      "voter_id": "~{\"name\": \"Wright\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "not voting",
+      "value": 7
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1430&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

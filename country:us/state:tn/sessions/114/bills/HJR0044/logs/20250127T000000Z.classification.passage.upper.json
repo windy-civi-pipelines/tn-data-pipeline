@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Concurred, Ayes 32, Nays 0",
+    "date": "2025-01-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR 0044"
+}

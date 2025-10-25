@@ -1,0 +1,109 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: REGULAR CALENDAR    PASSAGE ON THIRD CONSIDERATION  4/16/2025  Passed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-16",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "e9c8d502-b14f-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "SB 1414",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Freeman",
+      "voter_id": "~{\"name\": \"Freeman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hakeem",
+      "voter_id": "~{\"name\": \"Hakeem\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Helton-Haynes",
+      "voter_id": "~{\"name\": \"Helton-Haynes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jones R",
+      "voter_id": "~{\"name\": \"Jones R\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kumar",
+      "voter_id": "~{\"name\": \"Kumar\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scarbrough",
+      "voter_id": "~{\"name\": \"Scarbrough\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hill",
+      "voter_id": "~{\"name\": \"Hill\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Barrett",
+      "voter_id": "~{\"name\": \"Barrett\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Gant",
+      "voter_id": "~{\"name\": \"Gant\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Lynn",
+      "voter_id": "~{\"name\": \"Lynn\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Todd",
+      "voter_id": "~{\"name\": \"Todd\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Lafferty -- 1. HB1242 by Helton-Haynes",
+      "voter_id": "~{\"name\": \"Lafferty -- 1. HB1242 by Helton-Haynes\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 5
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1414&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,67 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE BANKING AND CONSUMER AFFAIRS SUBCOMMITTEE: Failed in s/c  Banking and Consumer Affairs Subcommittee of  Commerce Committee  3/5/2025  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-05",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "92acdbbe-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0443",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Keisling",
+      "voter_id": "~{\"name\": \"Keisling\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hale",
+      "voter_id": "~{\"name\": \"Hale\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hemmer",
+      "voter_id": "~{\"name\": \"Hemmer\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Marsh",
+      "voter_id": "~{\"name\": \"Marsh\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Vaughan",
+      "voter_id": "~{\"name\": \"Vaughan\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 1
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0443&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,169 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE HEALTH COMMITTEE: Rec. for pass. if am., ref. to  Education Committee  2/25/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "c44501e2-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0760",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Brooks",
+      "voter_id": "~{\"name\": \"Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Capley",
+      "voter_id": "~{\"name\": \"Capley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carringer",
+      "voter_id": "~{\"name\": \"Carringer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Clemmons",
+      "voter_id": "~{\"name\": \"Clemmons\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Farmer",
+      "voter_id": "~{\"name\": \"Farmer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gant",
+      "voter_id": "~{\"name\": \"Gant\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gillespie",
+      "voter_id": "~{\"name\": \"Gillespie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Helton-Haynes",
+      "voter_id": "~{\"name\": \"Helton-Haynes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hemmer",
+      "voter_id": "~{\"name\": \"Hemmer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hicks G",
+      "voter_id": "~{\"name\": \"Hicks G\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hicks T",
+      "voter_id": "~{\"name\": \"Hicks T\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hill",
+      "voter_id": "~{\"name\": \"Hill\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kumar",
+      "voter_id": "~{\"name\": \"Kumar\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Leatherwood",
+      "voter_id": "~{\"name\": \"Leatherwood\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lynn",
+      "voter_id": "~{\"name\": \"Lynn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Martin B",
+      "voter_id": "~{\"name\": \"Martin B\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McKenzie",
+      "voter_id": "~{\"name\": \"McKenzie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mitchell",
+      "voter_id": "~{\"name\": \"Mitchell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rudder",
+      "voter_id": "~{\"name\": \"Rudder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Terry",
+      "voter_id": "~{\"name\": \"Terry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Travis",
+      "voter_id": "~{\"name\": \"Travis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Williams",
+      "voter_id": "~{\"name\": \"Williams\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 22
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0760&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,91 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE GOVERNMENT OPERATIONS COMMITTEE: Recommended for passage with amendment/s, refer to Senate Finance, Ways, and Means Committee Ayes 5, Nays 4 PNV 0  4/9/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "d51de5b6-b14f-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "SB 1245",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Hatcher",
+      "voter_id": "~{\"name\": \"Hatcher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jackson",
+      "voter_id": "~{\"name\": \"Jackson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Oliver",
+      "voter_id": "~{\"name\": \"Oliver\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rose",
+      "voter_id": "~{\"name\": \"Rose\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Seal",
+      "voter_id": "~{\"name\": \"Seal\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bowling",
+      "voter_id": "~{\"name\": \"Bowling\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Crowe",
+      "voter_id": "~{\"name\": \"Crowe\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kyle",
+      "voter_id": "~{\"name\": \"Kyle\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Southerland",
+      "voter_id": "~{\"name\": \"Southerland\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1245&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

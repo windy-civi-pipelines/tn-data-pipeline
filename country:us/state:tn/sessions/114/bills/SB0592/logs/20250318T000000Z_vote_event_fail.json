@@ -1,0 +1,85 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE COMMERCE AND LABOR COMMITTEE: Failed in Senate Commerce and Labor Committee  3/18/2025  Failed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-18",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "7412cd22-b14f-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "SB 0592",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bailey",
+      "voter_id": "~{\"name\": \"Bailey\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Reeves",
+      "voter_id": "~{\"name\": \"Reeves\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Southerland",
+      "voter_id": "~{\"name\": \"Southerland\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Stevens",
+      "voter_id": "~{\"name\": \"Stevens\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Taylor",
+      "voter_id": "~{\"name\": \"Taylor\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Watson",
+      "voter_id": "~{\"name\": \"Watson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Yager",
+      "voter_id": "~{\"name\": \"Yager\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 1
+    },
+    {
+      "option": "no",
+      "value": 7
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0592&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,145 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE INSURANCE COMMITTEE: Failed in  Insurance Committee  3/5/2025  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-05",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "5ce1bd42-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0018",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Freeman",
+      "voter_id": "~{\"name\": \"Freeman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hakeem",
+      "voter_id": "~{\"name\": \"Hakeem\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Love",
+      "voter_id": "~{\"name\": \"Love\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Parkinson",
+      "voter_id": "~{\"name\": \"Parkinson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Cepicky",
+      "voter_id": "~{\"name\": \"Cepicky\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Grills",
+      "voter_id": "~{\"name\": \"Grills\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hale",
+      "voter_id": "~{\"name\": \"Hale\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Helton-Haynes",
+      "voter_id": "~{\"name\": \"Helton-Haynes\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hill",
+      "voter_id": "~{\"name\": \"Hill\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jones R",
+      "voter_id": "~{\"name\": \"Jones R\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kumar",
+      "voter_id": "~{\"name\": \"Kumar\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lafferty",
+      "voter_id": "~{\"name\": \"Lafferty\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Martin B",
+      "voter_id": "~{\"name\": \"Martin B\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Moody",
+      "voter_id": "~{\"name\": \"Moody\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Scarbrough",
+      "voter_id": "~{\"name\": \"Scarbrough\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Slater",
+      "voter_id": "~{\"name\": \"Slater\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Sparks",
+      "voter_id": "~{\"name\": \"Sparks\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Terry",
+      "voter_id": "~{\"name\": \"Terry\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 14
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0018&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

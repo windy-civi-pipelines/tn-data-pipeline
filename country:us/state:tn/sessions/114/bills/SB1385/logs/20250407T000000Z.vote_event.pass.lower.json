@@ -1,0 +1,85 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: REGULAR CALENDAR    PASSAGE ON THIRD CONSIDERATION  4/7/2025  Passed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "dd1fb9c4-b14f-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "SB 1385",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Gant",
+      "voter_id": "~{\"name\": \"Gant\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hill",
+      "voter_id": "~{\"name\": \"Hill\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Leatherwood",
+      "voter_id": "~{\"name\": \"Leatherwood\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Martin B",
+      "voter_id": "~{\"name\": \"Martin B\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McKenzie",
+      "voter_id": "~{\"name\": \"McKenzie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mitchell",
+      "voter_id": "~{\"name\": \"Mitchell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Terry",
+      "voter_id": "~{\"name\": \"Terry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Williams",
+      "voter_id": "~{\"name\": \"Williams\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1385&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

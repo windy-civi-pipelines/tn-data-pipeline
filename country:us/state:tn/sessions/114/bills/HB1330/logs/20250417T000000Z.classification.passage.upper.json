@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed Senate as amended, Ayes 24, Nays 6, PNV 2",
+    "date": "2025-04-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1330"
+}

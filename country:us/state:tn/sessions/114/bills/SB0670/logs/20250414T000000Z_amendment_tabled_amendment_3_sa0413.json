@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment tabled (Amendment 3 - SA0413)",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0670"
+}

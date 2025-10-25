@@ -1,0 +1,175 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE STATE & LOCAL GOVERNMENT COMMITTEE: Rec. for pass; ref to  Calendar & Rules Committee  4/8/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "00246208-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "SJR 0177",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bricken",
+      "voter_id": "~{\"name\": \"Bricken\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Burkhart",
+      "voter_id": "~{\"name\": \"Burkhart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Butler",
+      "voter_id": "~{\"name\": \"Butler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carringer",
+      "voter_id": "~{\"name\": \"Carringer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chism",
+      "voter_id": "~{\"name\": \"Chism\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crawford",
+      "voter_id": "~{\"name\": \"Crawford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dixie",
+      "voter_id": "~{\"name\": \"Dixie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eldridge",
+      "voter_id": "~{\"name\": \"Eldridge\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Howell",
+      "voter_id": "~{\"name\": \"Howell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Leatherwood",
+      "voter_id": "~{\"name\": \"Leatherwood\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Littleton",
+      "voter_id": "~{\"name\": \"Littleton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Martin G",
+      "voter_id": "~{\"name\": \"Martin G\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McCalmon",
+      "voter_id": "~{\"name\": \"McCalmon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Miller",
+      "voter_id": "~{\"name\": \"Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mitchell",
+      "voter_id": "~{\"name\": \"Mitchell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moon",
+      "voter_id": "~{\"name\": \"Moon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Powell",
+      "voter_id": "~{\"name\": \"Powell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Powers",
+      "voter_id": "~{\"name\": \"Powers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rudd",
+      "voter_id": "~{\"name\": \"Rudd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rudder",
+      "voter_id": "~{\"name\": \"Rudder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Salinas",
+      "voter_id": "~{\"name\": \"Salinas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Warner",
+      "voter_id": "~{\"name\": \"Warner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wright",
+      "voter_id": "~{\"name\": \"Wright\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 23
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SJR0177&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Am. tabled. (Amendment 14 - HA6019)",
+    "date": "2025-01-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 6004"
+}

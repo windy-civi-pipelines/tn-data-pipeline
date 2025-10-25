@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Failed for lack of second in: Agriculture & Natural Resources Subcommittee",
+    "date": "2025-02-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 0681"
+}

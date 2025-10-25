@@ -1,0 +1,67 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE EDUCATION INSTRUCTION SUBCOMMITTEE: Rec for pass if am by s/c ref. to  Education Committee  3/4/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-04",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "6bcbdeaa-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0178",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Barrett",
+      "voter_id": "~{\"name\": \"Barrett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cepicky",
+      "voter_id": "~{\"name\": \"Cepicky\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Maberry",
+      "voter_id": "~{\"name\": \"Maberry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reedy",
+      "voter_id": "~{\"name\": \"Reedy\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0178&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,97 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE BUSINESS AND UTILITIES SUBCOMMITTEE: Rec for pass if am by s/c ref. to  Commerce Committee  2/26/2025  Passed (4)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-26",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "951acd16-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0421",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Barrett",
+      "voter_id": "~{\"name\": \"Barrett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Boyd",
+      "voter_id": "~{\"name\": \"Boyd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bricken",
+      "voter_id": "~{\"name\": \"Bricken\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Burkhart",
+      "voter_id": "~{\"name\": \"Burkhart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Camper",
+      "voter_id": "~{\"name\": \"Camper\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Clemmons",
+      "voter_id": "~{\"name\": \"Clemmons\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cochran",
+      "voter_id": "~{\"name\": \"Cochran\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hardaway",
+      "voter_id": "~{\"name\": \"Hardaway\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lafferty",
+      "voter_id": "~{\"name\": \"Lafferty\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Powers",
+      "voter_id": "~{\"name\": \"Powers\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0421&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

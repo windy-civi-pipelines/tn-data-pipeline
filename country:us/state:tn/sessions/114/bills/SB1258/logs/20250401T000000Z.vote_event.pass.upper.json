@@ -1,0 +1,79 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE STATE & LOCAL GOVERNMENT COMMITTEE: Failed in Senate State and Local Government Committee  4/1/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-01",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "cc44360c-b14f-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "SB 1258",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Briggs",
+      "voter_id": "~{\"name\": \"Briggs\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle",
+      "voter_id": "~{\"name\": \"Kyle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Walley",
+      "voter_id": "~{\"name\": \"Walley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yarbro",
+      "voter_id": "~{\"name\": \"Yarbro\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Gardenhire",
+      "voter_id": "~{\"name\": \"Gardenhire\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hatcher",
+      "voter_id": "~{\"name\": \"Hatcher\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jackson",
+      "voter_id": "~{\"name\": \"Jackson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1258&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

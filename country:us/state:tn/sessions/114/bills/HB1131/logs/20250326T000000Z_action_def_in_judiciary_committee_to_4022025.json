@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Action def. in Judiciary Committee to 4/02/2025",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1131"
+}

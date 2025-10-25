@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Rec. for pass; ref to Calendar & Rules Committee of 1st Extraordinary Session",
+    "date": "2025-01-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 6003"
+}

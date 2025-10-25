@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE HIGHER EDUCATION SUBCOMMITTEE: Rec. for pass by s/c ref. to  Education Committee 2/12/2025",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "6637382c-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0148",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0148&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

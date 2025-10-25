@@ -1,0 +1,91 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE JUDICIARY COMMITTEE: Failed in Senate Judiciary Committee  4/1/2025  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-01",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "e854d310-b14f-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "SB 1422",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Gardenhire",
+      "voter_id": "~{\"name\": \"Gardenhire\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle",
+      "voter_id": "~{\"name\": \"Kyle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lamar",
+      "voter_id": "~{\"name\": \"Lamar\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Harshbarger",
+      "voter_id": "~{\"name\": \"Harshbarger\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Roberts",
+      "voter_id": "~{\"name\": \"Roberts\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Rose",
+      "voter_id": "~{\"name\": \"Rose\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Stevens",
+      "voter_id": "~{\"name\": \"Stevens\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Taylor",
+      "voter_id": "~{\"name\": \"Taylor\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "White",
+      "voter_id": "~{\"name\": \"White\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1422&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

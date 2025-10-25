@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Signed by Senate Speaker",
+    "date": "2025-03-07",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR 0152"
+}

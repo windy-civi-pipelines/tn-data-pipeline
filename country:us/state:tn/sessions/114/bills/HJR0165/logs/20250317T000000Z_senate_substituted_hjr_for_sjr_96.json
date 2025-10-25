@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate substituted HJR for SJR 96",
+    "date": "2025-03-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "substitution"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR 0165"
+}

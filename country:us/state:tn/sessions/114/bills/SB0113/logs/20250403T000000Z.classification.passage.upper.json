@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Concurred, Ayes 26, Nays 3, PNV 1 (Amendment 1 - HA0150)",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0113"
+}

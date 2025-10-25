@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment tabled (Amendment 2 - SA0370)",
+    "date": "2025-04-07",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0376"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Sponsor(s) Added.",
+    "date": "2025-01-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "sponsorship"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR 0046"
+}

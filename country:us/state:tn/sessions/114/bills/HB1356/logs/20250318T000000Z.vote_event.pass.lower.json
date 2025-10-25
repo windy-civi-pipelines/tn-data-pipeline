@@ -1,0 +1,73 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE CHILDREN AND FAMILY AFFAIRS SUBCOMMITTEE: Rec for pass if am by s/c ref. to  Judiciary Committee  3/18/2025  Passed (3)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-18",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "1b2b35e4-b151-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 1356",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Alexander",
+      "voter_id": "~{\"name\": \"Alexander\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Doggett",
+      "voter_id": "~{\"name\": \"Doggett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harris",
+      "voter_id": "~{\"name\": \"Harris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keisling",
+      "voter_id": "~{\"name\": \"Keisling\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Littleton",
+      "voter_id": "~{\"name\": \"Littleton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Towns",
+      "voter_id": "~{\"name\": \"Towns\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1356&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

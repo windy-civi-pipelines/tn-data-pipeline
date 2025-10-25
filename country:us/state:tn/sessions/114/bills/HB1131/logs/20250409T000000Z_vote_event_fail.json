@@ -1,0 +1,163 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE JUDICIARY COMMITTEE: Failed in  Judiciary Committee  4/9/2025  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-09",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "08ab93d2-b151-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 1131",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Doggett",
+      "voter_id": "~{\"name\": \"Doggett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hardaway",
+      "voter_id": "~{\"name\": \"Hardaway\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Towns",
+      "voter_id": "~{\"name\": \"Towns\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Alexander",
+      "voter_id": "~{\"name\": \"Alexander\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Atchley",
+      "voter_id": "~{\"name\": \"Atchley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bulso",
+      "voter_id": "~{\"name\": \"Bulso\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Davis",
+      "voter_id": "~{\"name\": \"Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Eldridge",
+      "voter_id": "~{\"name\": \"Eldridge\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Farmer",
+      "voter_id": "~{\"name\": \"Farmer\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Garrett",
+      "voter_id": "~{\"name\": \"Garrett\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Keisling",
+      "voter_id": "~{\"name\": \"Keisling\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lamberth",
+      "voter_id": "~{\"name\": \"Lamberth\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Littleton",
+      "voter_id": "~{\"name\": \"Littleton\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Russell",
+      "voter_id": "~{\"name\": \"Russell\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Salinas",
+      "voter_id": "~{\"name\": \"Salinas\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Scarbrough",
+      "voter_id": "~{\"name\": \"Scarbrough\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Stinnett",
+      "voter_id": "~{\"name\": \"Stinnett\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Todd",
+      "voter_id": "~{\"name\": \"Todd\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Harris",
+      "voter_id": "~{\"name\": \"Harris\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Powell",
+      "voter_id": "~{\"name\": \"Powell\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 16
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1131&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

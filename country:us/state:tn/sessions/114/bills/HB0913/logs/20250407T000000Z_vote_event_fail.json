@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE CALENDAR & RULES COMMITTEE: H. Placed on Consent Calendar for 4/7/2025 4/3/2025 (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-07",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "df2d159e-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0913",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0913&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

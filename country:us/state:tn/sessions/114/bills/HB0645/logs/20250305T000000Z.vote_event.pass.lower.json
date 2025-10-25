@@ -1,0 +1,67 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE HIGHER EDUCATION SUBCOMMITTEE: Rec. for pass by s/c ref. to  Education Committee  3/5/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "b523ff56-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0645",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Glynn",
+      "voter_id": "~{\"name\": \"Glynn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Haston",
+      "voter_id": "~{\"name\": \"Haston\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jones R",
+      "voter_id": "~{\"name\": \"Jones R\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stevens",
+      "voter_id": "~{\"name\": \"Stevens\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Baum",
+      "voter_id": "~{\"name\": \"Baum\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0645&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

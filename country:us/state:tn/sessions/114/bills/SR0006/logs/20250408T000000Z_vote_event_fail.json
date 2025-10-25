@@ -1,0 +1,79 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE JUDICIARY COMMITTEE: Failed in Senate Judiciary Committee  4/8/2025  Failed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-08",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "3c113462-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "SR 0006",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Lamar",
+      "voter_id": "~{\"name\": \"Lamar\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Gardenhire",
+      "voter_id": "~{\"name\": \"Gardenhire\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Harshbarger",
+      "voter_id": "~{\"name\": \"Harshbarger\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Rose",
+      "voter_id": "~{\"name\": \"Rose\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Stevens",
+      "voter_id": "~{\"name\": \"Stevens\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Taylor",
+      "voter_id": "~{\"name\": \"Taylor\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "White",
+      "voter_id": "~{\"name\": \"White\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 1
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SR0006&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

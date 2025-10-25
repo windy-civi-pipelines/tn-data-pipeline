@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "P2C, caption bill, held on desk - pending amdt.",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 0798"
+}

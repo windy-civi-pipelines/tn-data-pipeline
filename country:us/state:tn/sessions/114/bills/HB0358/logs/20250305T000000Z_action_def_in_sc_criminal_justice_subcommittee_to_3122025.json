@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Action Def. in s/c Criminal Justice Subcommittee to 3/12/2025",
+    "date": "2025-03-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 0358"
+}

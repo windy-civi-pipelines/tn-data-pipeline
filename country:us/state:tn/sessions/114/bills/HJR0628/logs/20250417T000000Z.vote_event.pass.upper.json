@@ -1,0 +1,235 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: Motion to Adopt  4/17/2025  Passed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "89e18a1a-b151-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HJR 0628",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Akbari",
+      "voter_id": "~{\"name\": \"Akbari\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bailey",
+      "voter_id": "~{\"name\": \"Bailey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bowling",
+      "voter_id": "~{\"name\": \"Bowling\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Briggs",
+      "voter_id": "~{\"name\": \"Briggs\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Campbell",
+      "voter_id": "~{\"name\": \"Campbell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crowe",
+      "voter_id": "~{\"name\": \"Crowe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gardenhire",
+      "voter_id": "~{\"name\": \"Gardenhire\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Haile",
+      "voter_id": "~{\"name\": \"Haile\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harshbarger",
+      "voter_id": "~{\"name\": \"Harshbarger\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hatcher",
+      "voter_id": "~{\"name\": \"Hatcher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hensley",
+      "voter_id": "~{\"name\": \"Hensley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jackson",
+      "voter_id": "~{\"name\": \"Jackson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle",
+      "voter_id": "~{\"name\": \"Kyle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lamar",
+      "voter_id": "~{\"name\": \"Lamar\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lowe",
+      "voter_id": "~{\"name\": \"Lowe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Massey",
+      "voter_id": "~{\"name\": \"Massey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Oliver",
+      "voter_id": "~{\"name\": \"Oliver\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pody",
+      "voter_id": "~{\"name\": \"Pody\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Powers",
+      "voter_id": "~{\"name\": \"Powers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reeves",
+      "voter_id": "~{\"name\": \"Reeves\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roberts",
+      "voter_id": "~{\"name\": \"Roberts\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rose",
+      "voter_id": "~{\"name\": \"Rose\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Seal",
+      "voter_id": "~{\"name\": \"Seal\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Southerland",
+      "voter_id": "~{\"name\": \"Southerland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stevens",
+      "voter_id": "~{\"name\": \"Stevens\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Taylor",
+      "voter_id": "~{\"name\": \"Taylor\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Walley",
+      "voter_id": "~{\"name\": \"Walley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Watson",
+      "voter_id": "~{\"name\": \"Watson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "White",
+      "voter_id": "~{\"name\": \"White\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yager",
+      "voter_id": "~{\"name\": \"Yager\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yarbro",
+      "voter_id": "~{\"name\": \"Yarbro\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mr. Speaker McNally",
+      "voter_id": "~{\"name\": \"Mr. Speaker McNally\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 33
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HJR0628&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

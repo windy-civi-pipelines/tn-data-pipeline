@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE CALENDAR & RULES COMMITTEE: H. Placed on Consent Calendar for 4/14/2025 4/10/2025 (2)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-14",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "5b10e196-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0035",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0035&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

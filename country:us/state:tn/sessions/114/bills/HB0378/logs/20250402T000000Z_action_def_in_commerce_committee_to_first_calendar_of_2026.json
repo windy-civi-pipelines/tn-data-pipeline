@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Action def. in  Commerce Committee to First Calendar of 2026",
+    "date": "2025-04-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 0378"
+}

@@ -1,0 +1,43 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE CALENDAR & RULES COMMITTEE: H. Placed on Regular Calendar for 4/16/2025  4/15/2025  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-16",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "404ed2d6-b151-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HJR 0049",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Clemmons",
+      "voter_id": "~{\"name\": \"Clemmons\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HJR0049&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

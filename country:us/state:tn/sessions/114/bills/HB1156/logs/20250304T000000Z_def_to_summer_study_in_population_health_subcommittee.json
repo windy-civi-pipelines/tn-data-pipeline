@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Def. to Summer Study in Population Health Subcommittee",
+    "date": "2025-03-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1156"
+}

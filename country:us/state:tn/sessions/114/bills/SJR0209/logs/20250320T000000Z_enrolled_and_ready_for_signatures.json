@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enrolled and ready for signatures",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "enrolled"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR 0209"
+}

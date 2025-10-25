@@ -1,0 +1,67 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE PUBLIC SERVICE SUBCOMMITTEE: Rec for pass if am by s/c ref. to  State & Local Government Committee  3/19/2025  Passed (3)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-19",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "d8bfad5c-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0885",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Burkhart",
+      "voter_id": "~{\"name\": \"Burkhart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eldridge",
+      "voter_id": "~{\"name\": \"Eldridge\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McCalmon",
+      "voter_id": "~{\"name\": \"McCalmon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Salinas",
+      "voter_id": "~{\"name\": \"Salinas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Warner",
+      "voter_id": "~{\"name\": \"Warner\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0885&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

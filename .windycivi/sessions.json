@@ -1,0 +1,66 @@
+{
+  "107": {
+    "name": "107th Regular Session (2011-2012)",
+    "date_folder": "2011-2012"
+  },
+  "108": {
+    "name": "108th Regular Session (2013-2014)",
+    "date_folder": "2013-2014"
+  },
+  "109": {
+    "name": "109th Regular Session (2015-2016)",
+    "date_folder": "2015-2016"
+  },
+  "109s1": {
+    "name": "109th First Extraordinary Session (February 2016)",
+    "date_folder": "2016-2016"
+  },
+  "109s2": {
+    "name": "109th Second Extraordinary Session (September 2016)",
+    "date_folder": "2016-2016"
+  },
+  "110": {
+    "name": "110th Regular Session (2017-2018)",
+    "date_folder": "2017-2018"
+  },
+  "111": {
+    "name": "111th Regular Session (2019-2020)",
+    "date_folder": "2019-2020"
+  },
+  "111S1": {
+    "name": "111th First Extraordinary Session (August 2019)",
+    "date_folder": "2019-2019"
+  },
+  "111S2": {
+    "name": "111th Second Extraordinary Session (August 2020)",
+    "date_folder": "2020-2020"
+  },
+  "112": {
+    "name": "112th Regular Session (2021-2022)",
+    "date_folder": "2021-2021"
+  },
+  "112S2": {
+    "name": "112th Second Extraordinary Session (October 2021)",
+    "date_folder": "2021-2021"
+  },
+  "112S3": {
+    "name": "112th Third Extraordinary Session (October 2021)",
+    "date_folder": "2021-2021"
+  },
+  "113": {
+    "name": "113th Regular Session (2023-2024)",
+    "date_folder": "2023-2024"
+  },
+  "113S1": {
+    "name": "113th First Extraordinary Session (August 2023)",
+    "date_folder": "2023-2023"
+  },
+  "114": {
+    "name": "114th Regular Session (2025-2026)",
+    "date_folder": "2025-2025"
+  },
+  "114S1": {
+    "name": "114th First Extraordinary Session (January 2025)",
+    "date_folder": "2025-2025"
+  }
+}

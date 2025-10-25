@@ -1,0 +1,151 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE EDUCATION COMMITTEE: Rec. for pass. if am., ref. to  Government Operations Committee  4/1/2025  Passed (3)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-01",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "1c0247b4-b151-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 1322",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Barrett",
+      "voter_id": "~{\"name\": \"Barrett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Baum",
+      "voter_id": "~{\"name\": \"Baum\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bulso",
+      "voter_id": "~{\"name\": \"Bulso\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cepicky",
+      "voter_id": "~{\"name\": \"Cepicky\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Haston",
+      "voter_id": "~{\"name\": \"Haston\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hicks T",
+      "voter_id": "~{\"name\": \"Hicks T\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hurt",
+      "voter_id": "~{\"name\": \"Hurt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jones R",
+      "voter_id": "~{\"name\": \"Jones R\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Maberry",
+      "voter_id": "~{\"name\": \"Maberry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Raper",
+      "voter_id": "~{\"name\": \"Raper\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reedy",
+      "voter_id": "~{\"name\": \"Reedy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reeves",
+      "voter_id": "~{\"name\": \"Reeves\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Slater",
+      "voter_id": "~{\"name\": \"Slater\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stevens",
+      "voter_id": "~{\"name\": \"Stevens\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "White",
+      "voter_id": "~{\"name\": \"White\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Glynn",
+      "voter_id": "~{\"name\": \"Glynn\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hakeem",
+      "voter_id": "~{\"name\": \"Hakeem\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "McKenzie",
+      "voter_id": "~{\"name\": \"McKenzie\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 15
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1322&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

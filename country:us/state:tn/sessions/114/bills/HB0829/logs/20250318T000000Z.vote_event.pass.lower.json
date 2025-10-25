@@ -1,0 +1,61 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE TENNCARE SUBCOMMITTEE: Rec for pass if am by s/c ref. to  Insurance Committee  3/18/2025  Passed (4)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-18",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "d3f7679c-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 0829",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Cepicky",
+      "voter_id": "~{\"name\": \"Cepicky\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hale",
+      "voter_id": "~{\"name\": \"Hale\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Love",
+      "voter_id": "~{\"name\": \"Love\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sparks",
+      "voter_id": "~{\"name\": \"Sparks\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0829&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

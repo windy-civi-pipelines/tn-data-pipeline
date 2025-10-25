@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Ref. to Finance, Ways, and Means Committee",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1092"
+}

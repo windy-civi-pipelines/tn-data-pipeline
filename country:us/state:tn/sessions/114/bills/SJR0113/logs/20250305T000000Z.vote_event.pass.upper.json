@@ -1,0 +1,85 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE EDUCATION COMMITTEE: Recommended for adoption by Senate Education Committee, refer Senate Calendar Committee  3/5/2025  Passed (2)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "04aa68c2-b150-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "SJR 0113",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Akbari",
+      "voter_id": "~{\"name\": \"Akbari\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Haile",
+      "voter_id": "~{\"name\": \"Haile\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hensley",
+      "voter_id": "~{\"name\": \"Hensley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lowe",
+      "voter_id": "~{\"name\": \"Lowe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pody",
+      "voter_id": "~{\"name\": \"Pody\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Powers",
+      "voter_id": "~{\"name\": \"Powers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roberts",
+      "voter_id": "~{\"name\": \"Roberts\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "White",
+      "voter_id": "~{\"name\": \"White\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SJR0113&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE CALENDAR & RULES COMMITTEE OF EXTRAORDINARY SESSION: Rec. for pass; ref to Calendar & Rules Committee of 1st Extraordinary Session 1/29/2025 (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-01-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114S1",
+  "bill": "2781902e-b14f-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "HB 6001",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB6001&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

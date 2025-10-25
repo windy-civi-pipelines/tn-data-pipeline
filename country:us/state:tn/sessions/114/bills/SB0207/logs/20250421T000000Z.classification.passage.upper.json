@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Concurred, Ayes 25, Nays 4 (Amendment 1 - HA0216)",
+    "date": "2025-04-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0207"
+}

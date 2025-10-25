@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate refused to concur in amendment",
+    "date": "2025-04-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0102"
+}

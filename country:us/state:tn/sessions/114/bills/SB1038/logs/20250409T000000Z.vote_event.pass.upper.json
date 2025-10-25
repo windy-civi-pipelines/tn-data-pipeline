@@ -1,0 +1,103 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE FINANCE, WAYS AND MEANS COMMITTEE: Recommended for passage, refer to Senate Calendar Committee  4/9/2025  Passed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "b998231a-b14f-11f0-9f78-2a58685e7e53",
+  "bill_action": null,
+  "bill_identifier": "SB 1038",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Haile",
+      "voter_id": "~{\"name\": \"Haile\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hensley",
+      "voter_id": "~{\"name\": \"Hensley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lamar",
+      "voter_id": "~{\"name\": \"Lamar\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Powers",
+      "voter_id": "~{\"name\": \"Powers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rose",
+      "voter_id": "~{\"name\": \"Rose\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stevens",
+      "voter_id": "~{\"name\": \"Stevens\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Walley",
+      "voter_id": "~{\"name\": \"Walley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Watson",
+      "voter_id": "~{\"name\": \"Watson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yager",
+      "voter_id": "~{\"name\": \"Yager\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yarbro",
+      "voter_id": "~{\"name\": \"Yarbro\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1038&GA=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Companion HJR 163 substituted for SJR",
+    "date": "2025-03-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "substitution"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR 0098"
+}

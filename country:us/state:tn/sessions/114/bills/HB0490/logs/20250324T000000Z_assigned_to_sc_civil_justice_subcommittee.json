@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Assigned to s/c Civil Justice Subcommittee",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 0490"
+}

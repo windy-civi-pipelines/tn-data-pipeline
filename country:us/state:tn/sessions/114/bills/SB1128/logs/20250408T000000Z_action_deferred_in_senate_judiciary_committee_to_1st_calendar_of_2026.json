@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Action deferred in Senate Judiciary Committee to 1st Calendar of 2026",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 1128"
+}
