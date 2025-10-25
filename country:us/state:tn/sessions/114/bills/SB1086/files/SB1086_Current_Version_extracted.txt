@@ -1,0 +1,118 @@
+Title: HOUSE BILL 749
+Official Title: HOUSE BILL 749
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Reeves
+SENATE BILL 1086
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 55,
+Chapter 50, relative to driver licenses issued to
+persons without lawful presence.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 55, Chapter 50, Part 3, is amended by
+adding the following as a new section:
+55-50-355.
+Not later than December 1, 2025, the department shall develop and publish on its
+website a list of out-of-state classes of driver licenses issued to illegal aliens that are
+invalid in this state in accordance with SECTION 2. The department shall update the list
+as necessary in order to correct mistakes and to add or remove an out-of-state class of
+driver license to keep the list in conformity with the requirements of SECTION 2.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 55, Chapter 50, Part 3, is amended by
+adding the following as a new section:
+(a) If a driver license is of a class of driver licenses issued by another state
+exclusively to illegal aliens, then the driver license is invalid in this state and does not
+authorize the holder to operate a motor vehicle in this state. For purposes of this
+
+Section 4:
+section, "driver license" includes a permit purporting to authorize the holder to operate a
+motor vehicle on public roadways. The class of driver licenses described in this
+subsection (a) includes driver licenses that are:
+(1) Issued exclusively to illegal aliens; and
+(2) Contain a marking or are designed in such a manner as to be easily
+distinguishable from driver licenses issued to residents of that state who:
+SB1086
+001896
+- 1 -
+(A) Are United States citizens or lawful permanent residents of
+the United States; or
+(B) Have temporary legal presence and a specified period of
+authorized stay in the United States.
+(b) It is an offense for a person to operate a motor vehicle in this state with an
+invalid driver license described in subsection (a). A violation of this subsection (b) is a
+Class B misdemeanor.
+
+Section 5:
+SECTION 3. Tennessee Code Annotated, Section 55-50-304, is amended by adding
+the following at the end of subdivisions (3) and (4) immediately preceding the semicolon:
+, if the nonresident's license is not invalid under SECTION 2
+
+Section 6:
+SECTION 4. Section 1 of this act takes effect upon becoming a law, the public welfare
+requiring it. All remaining sections of this act take effect January 1, 2026, the public welfare
+requiring it.
+- 2 - 001896
+[DELETED: S(]
+[DELETED:  -0(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 749
+By Reeves
+SENATE BILL 1086
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 55,
+Chapter 50, relative to driver licenses issued to
+persons without lawful presence.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 55, Chapter 50, Part 3, is amended by
+adding the following as a new section:
+55-50-355.
+Not later than December 1, 2025, the department shall develop and publish on its
+website a list of out-of-state classes of driver licenses issued to illegal aliens that are
+invalid in this state in accordance with SECTION 2. The department shall update the list
+as necessary in order to correct mistakes and to add or remove an out-of-state class of
+driver license to keep the list in conformity with the requirements of SECTION 2.
+SECTION 2. Tennessee Code Annotated, Title 55, Chapter 50, Part 3, is amended by
+adding the following as a new section:
+(a) If a driver license is of a class of driver licenses issued by another state
+exclusively to illegal aliens, then the driver license is invalid in this state and does not
+authorize the holder to operate a motor vehicle in this state. For purposes of this
+section, "driver license" includes a permit purporting to authorize the holder to operate a
+motor vehicle on public roadways. The class of driver licenses described in this
+subsection (a) includes driver licenses that are:
+(1) Issued exclusively to illegal aliens; and
+(2) Contain a marking or are designed in such a manner as to be easily
+distinguishable from driver licenses issued to residents of that state who:
+SB1086
+001896
+- 1 -
+
+(A) Are United States citizens or lawful permanent residents of
+the United States; or
+(B) Have temporary legal presence and a specified period of
+authorized stay in the United States.
+(b) It is an offense for a person to operate a motor vehicle in this state with an
+invalid driver license described in subsection (a). A violation of this subsection (b) is a
+Class B misdemeanor.
+SECTION 3. Tennessee Code Annotated, Section 55-50-304, is amended by adding
+the following at the end of subdivisions (3) and (4) immediately preceding the semicolon:
+, if the nonresident's license is not invalid under SECTION 2
+SECTION 4. Section 1 of this act takes effect upon becoming a law, the public welfare
+requiring it. All remaining sections of this act take effect January 1, 2026, the public welfare
+requiring it.
+- 2 - 001896
+
+[DELETED: S(]
+[DELETED:  -0(S]

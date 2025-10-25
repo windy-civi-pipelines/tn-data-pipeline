@@ -1,0 +1,96 @@
+Title: HOUSE BILL 1053
+Official Title: HOUSE BILL 1053
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By McKenzie
+SENATE BILL 1119
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 40,
+Chapter 29, relative to voting rights.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 40-29-202, is amended by deleting
+subsection (c) and substituting:
+(c)
+(1) Notwithstanding subsection (a), a person is not eligible to apply for a
+voter registration card and have the right of suffrage restored unless the person
+is current in all child support obligations.
+(2) Notwithstanding subdivision (c)(1), a person is eligible to apply for a
+voter registration card and have the right of suffrage provisionally restored if the
+person enters into a payment plan to become current in all unpaid child support
+obligations.
+(3) If a person willfully fails to adhere to the terms of a payment plan
+entered into pursuant to subdivision (c)(2), then the court that provisionally
+restored the person's right of suffrage shall revoke the person's provisional right
+of suffrage. Prior to revoking a person's provisional right of suffrage, the court
+shall provide the person with court-appointed counsel and offer the person the
+opportunity to be heard and to submit proof of the person's financial inability to
+pay, which may include a signed affidavit of indigency.
+
+Section 3:
+SECTION 2. The secretary of state, in consultation with the department of human
+services and the administrative office of the courts, is authorized to promulgate rules to
+SB1119
+001346
+- 1 -
+effectuate the purposes of this act. The rules must be promulgated in accordance with the
+Uniform Administrative Procedures Act, compiled in Tennessee Code Annotated, Title 4,
+Chapter 5.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to persons applying for a voter registration card on or after that date.
+- 2 - 001346
+[DELETED: S]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1053
+By McKenzie
+SENATE BILL 1119
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 40,
+Chapter 29, relative to voting rights.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-29-202, is amended by deleting
+subsection (c) and substituting:
+(c)
+(1) Notwithstanding subsection (a), a person is not eligible to apply for a
+voter registration card and have the right of suffrage restored unless the person
+is current in all child support obligations.
+(2) Notwithstanding subdivision (c)(1), a person is eligible to apply for a
+voter registration card and have the right of suffrage provisionally restored if the
+person enters into a payment plan to become current in all unpaid child support
+obligations.
+(3) If a person willfully fails to adhere to the terms of a payment plan
+entered into pursuant to subdivision (c)(2), then the court that provisionally
+restored the person's right of suffrage shall revoke the person's provisional right
+of suffrage. Prior to revoking a person's provisional right of suffrage, the court
+shall provide the person with court-appointed counsel and offer the person the
+opportunity to be heard and to submit proof of the person's financial inability to
+pay, which may include a signed affidavit of indigency.
+SECTION 2. The secretary of state, in consultation with the department of human
+services and the administrative office of the courts, is authorized to promulgate rules to
+SB1119
+001346
+- 1 -
+
+effectuate the purposes of this act. The rules must be promulgated in accordance with the
+Uniform Administrative Procedures Act, compiled in Tennessee Code Annotated, Title 4,
+Chapter 5.
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to persons applying for a voter registration card on or after that date.
+- 2 - 001346
+
+[DELETED: S]
+[DELETED:  -0S]

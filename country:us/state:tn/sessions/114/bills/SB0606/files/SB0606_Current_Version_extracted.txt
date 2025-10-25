@@ -1,0 +1,206 @@
+Title: HOUSE BILL 495
+Official Title: HOUSE BILL 495
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Baum
+SENATE BILL 606
+By Bailey
+AN ACT to amend Tennessee Code Annotated, Title 63
+and Title 68, relative to medical records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 68-11-304(a)(2)(A), is amended by
+deleting the subdivision and substituting:
+(2)
+(A) For records other than those involving workers' compensation cases:
+(i) The party requesting the patient's medical records in paper
+format is responsible to the provider or the provider's third-party release
+of information provider for the reasonable costs of copying and mailing
+the patient's records. Such reasonable costs must not exceed:
+(a) Twenty-five dollars ($25.00) for paper copies of
+medical records five (5) pages or less in length;
+(b) Fifty cents (50¢) per page for each page copied after
+the first five (5) pages;
+(c) Twenty dollars ($20.00) per printed film for producing
+radiology images in hard copy; and
+(d) The actual cost of mailing;
+(ii) If a party described in subdivision (a)(2)(A)(i) requests
+certification or notarization, then a certification or notary fee must be
+charged as a flat fee of twenty dollars ($20.00);
+SB0606
+002331
+- 1 -
+(iii) The party requesting the patient's records in electronic format
+is responsible to the provider or the provider's third-party release of
+information provider for the following fees:
+(a) The reasonable fees for fulfilling a patient's request for
+the patient's own records are governed by the Health Insurance
+Portability and Accountability Act (HIPAA) of 1996 (42 U.S.C. §
+1320d et seq.), and the Health Information Technology for
+Economic and Clinical Health (HITECH) Act (42 U.S.C. § 201 et
+seq.), and those acts implementing regulations, which must not
+exceed the cost of the following:
+(1) Labor for copying the protected health
+information requested by the individual;
+(2) Supplies for creating the paper copy, or
+electronic media if the individual requests that the
+electronic copy be provided on portable media; and
+(3) Postage, when the individual has requested the
+copy, summary, or explanation be mailed; and
+(b) For all other requesters, the total fees for electronic
+medical records provided via portable media, electronic mail, or
+medical record portal, must comply with the following:
+(1) The total charges must be no more than five
+dollars ($5.00) for records ten (10) pages or less in length;
+(2) The total charges must be no more than
+twenty-five cents (25¢) per page for each page after the
+first ten (10) pages, up to twenty-five dollars ($25.00);
+- 2 - 002331
+(3) The mailing costs and applicable taxes, if any,
+must be the actual mailing costs and applicable taxes;
+(4) The fee for producing electronic copies of
+radiology images must be no more than twenty-five dollars
+($25.00) per request for CD, DVD, or USB, or fifteen
+dollars ($15.00) per request for electronic files emailed or
+sent via medical record portal;
+(5) If certification or notarization is requested, then
+a certification or notary fee must be charged as a flat fee of
+twenty dollars ($20.00);
+(6) Charges for copying paper records or faxing
+paper records are subject to the limits set in subdivisions
+(a)(2)(A)(i); and
+(7) The fees charged for reproducing records of
+patients involved in a claim or appeal of denial for social
+security disability benefits must be a flat fee of twenty
+dollars ($20.00), only when the records are produced
+electronically;
+(iv) Upon request, a person providing records pursuant to this
+
+Section 3:
+section shall provide the records in electronic form unless the records are
+not kept in electronic form in the usual course of business;
+(v) A third-party release of information provider of record copying
+and related services is subject to the fee limits contained in this section
+and shall not impose a charge or fee for such service in excess of such
+fee limits; and
+- 3 - 002331
+(vi) The fees charged for reproducing records of patients involved
+in a workers' compensation claim are as specified in § 50-6-204.
+
+Section 4:
+SECTION 2. Tennessee Code Annotated, Section 68-11-304(d), is amended by
+deleting the subsection.
+
+Section 5:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+- 4 - 002331
+[DELETED: S(((()()()()(]
+[DELETED:  -0(()()()()()()()]
+[DELETED:  -0()()()()()((]
+[DELETED:  -0(SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 495
+By Baum
+SENATE BILL 606
+By Bailey
+AN ACT to amend Tennessee Code Annotated, Title 63
+and Title 68, relative to medical records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 68-11-304(a)(2)(A), is amended by
+deleting the subdivision and substituting:
+(2)
+(A) For records other than those involving workers' compensation cases:
+(i) The party requesting the patient's medical records in paper
+format is responsible to the provider or the provider's third-party release
+of information provider for the reasonable costs of copying and mailing
+the patient's records. Such reasonable costs must not exceed:
+(a) Twenty-five dollars ($25.00) for paper copies of
+medical records five (5) pages or less in length;
+(b) Fifty cents (50¢) per page for each page copied after
+the first five (5) pages;
+(c) Twenty dollars ($20.00) per printed film for producing
+radiology images in hard copy; and
+(d) The actual cost of mailing;
+(ii) If a party described in subdivision (a)(2)(A)(i) requests
+certification or notarization, then a certification or notary fee must be
+charged as a flat fee of twenty dollars ($20.00);
+SB0606
+002331
+- 1 -
+
+(iii) The party requesting the patient's records in electronic format
+is responsible to the provider or the provider's third-party release of
+information provider for the following fees:
+(a) The reasonable fees for fulfilling a patient's request for
+the patient's own records are governed by the Health Insurance
+Portability and Accountability Act (HIPAA) of 1996 (42 U.S.C. §
+1320d et seq.), and the Health Information Technology for
+Economic and Clinical Health (HITECH) Act (42 U.S.C. § 201 et
+seq.), and those acts implementing regulations, which must not
+exceed the cost of the following:
+(1) Labor for copying the protected health
+information requested by the individual;
+(2) Supplies for creating the paper copy, or
+electronic media if the individual requests that the
+electronic copy be provided on portable media; and
+(3) Postage, when the individual has requested the
+copy, summary, or explanation be mailed; and
+(b) For all other requesters, the total fees for electronic
+medical records provided via portable media, electronic mail, or
+medical record portal, must comply with the following:
+(1) The total charges must be no more than five
+dollars ($5.00) for records ten (10) pages or less in length;
+(2) The total charges must be no more than
+twenty-five cents (25¢) per page for each page after the
+first ten (10) pages, up to twenty-five dollars ($25.00);
+- 2 - 002331
+
+(3) The mailing costs and applicable taxes, if any,
+must be the actual mailing costs and applicable taxes;
+(4) The fee for producing electronic copies of
+radiology images must be no more than twenty-five dollars
+($25.00) per request for CD, DVD, or USB, or fifteen
+dollars ($15.00) per request for electronic files emailed or
+sent via medical record portal;
+(5) If certification or notarization is requested, then
+a certification or notary fee must be charged as a flat fee of
+twenty dollars ($20.00);
+(6) Charges for copying paper records or faxing
+paper records are subject to the limits set in subdivisions
+(a)(2)(A)(i); and
+(7) The fees charged for reproducing records of
+patients involved in a claim or appeal of denial for social
+security disability benefits must be a flat fee of twenty
+dollars ($20.00), only when the records are produced
+electronically;
+(iv) Upon request, a person providing records pursuant to this
+section shall provide the records in electronic form unless the records are
+not kept in electronic form in the usual course of business;
+(v) A third-party release of information provider of record copying
+and related services is subject to the fee limits contained in this section
+and shall not impose a charge or fee for such service in excess of such
+fee limits; and
+- 3 - 002331
+
+(vi) The fees charged for reproducing records of patients involved
+in a workers' compensation claim are as specified in § 50-6-204.
+SECTION 2. Tennessee Code Annotated, Section 68-11-304(d), is amended by
+deleting the subsection.
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+- 4 - 002331
+
+[DELETED: S(((()()()()(]
+[DELETED:  -0(()()()()()()()]
+[DELETED:  -0()()()()()((]
+[DELETED:  -0(SS]

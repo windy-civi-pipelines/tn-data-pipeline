@@ -1,0 +1,189 @@
+Title: HOUSE BILL 1162
+Official Title: HOUSE BILL 1162
+Number of Sections: 11
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Stevens
+SENATE BILL 1020
+By White
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to public charter schools.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-2-140, is amended by adding the
+following as a new subsection:
+(h) A public charter school, as defined in § 49-13-104, that is authorized by a
+county LEA may operate within the geographic boundaries of a municipal LEA pursuant
+to § 49-13-137. Subsections (c)-(g) do not apply to a public charter school that is
+authorized by a county LEA and that is operating within the geographic boundaries of a
+municipal LEA pursuant to § 49-13-137.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 49-13-105(a), is amended by
+deleting the third sentence of the subsection and substituting instead the following:
+Except as provided in § 49-13-137, a public charter school that is authorized by
+the commission must operate within the geographic boundaries of the local board
+of education that denied approval of the initial public charter school application.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 49-13-113(c), is amended by adding
+the language "pursuant to its charter agreement, but not pursuant to § 49-13-137," after the
+language "is located" wherever it appears in the subsection.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 49-13-113(b), is amended by
+deleting the subsection and substituting instead the following:
+(b)
+SB1020
+003166
+- 1 -
+(1) A public charter school authorized by the commission is open to
+students residing within the geographic boundaries of the LEA in which the public
+charter school is authorized to locate in its charter agreement.
+(2) A public charter school that operates, pursuant to § 49-13-137,
+outside the geographic boundaries of the LEA in which the public charter school
+is authorized to locate in its charter agreement is not open to students residing
+within the geographic boundaries of the LEA in which the public charter school is
+operating pursuant to § 49-13-137, unless the LEA in which the public charter
+school is authorized to locate in its charter agreement has a policy allowing out-
+of-district enrollment.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 49-13-113(d)(4)(E), is amended by
+deleting "of the LEA in which the public charter school is located" and substituting instead "of
+the LEA in which the public charter school is authorized to locate in its charter agreement".
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Section 49-13-113(e), is amended by
+designating the existing language as subdivision (1) and adding the following as a new
+subdivision:
+(2) Subdivision (e)(1) does not allow a public charter school authorized by the
+ASD to enroll additional students residing within the geographic boundaries of an LEA in
+which the public charter school is operating pursuant to § 49-13-137.
+
+Section 8:
+SECTION 7. Tennessee Code Annotated, Section 49-13-136(c), is amended by adding
+the following as a new subdivision:
+(7) An LEA in which one (1) or more public charter schools operate, but only
+pursuant to § 49-13-137, is not required to comply with the requirements of this
+subsection (c). This subsection (c) only applies to an LEA in which one (1) or more
+- 2 - 003166
+public charter schools operate pursuant to a charter agreement that authorizes the
+public charter school to locate within the geographic boundaries of that LEA.
+
+Section 9:
+SECTION 8. Tennessee Code Annotated, Title 49, Chapter 13, is amended by adding
+the following as a new section:
+49-13-137. Limited operation outside the geographic boundaries of the LEA.
+A public charter school may operate outside the geographic boundaries of the
+LEA in which the public charter school is authorized to locate in its charter agreement, if:
+(1) The public charter school needs additional space, facilities, or
+buildings to serve the students of the public charter school; and
+(2) The public charter school enters into a written agreement for the
+lease of buildings or facilities, or portions thereof, that are located in the same
+county as the LEA in which the public charter school is authorized to locate in its
+charter agreement; provided, that the buildings or facilities, or portions thereof,
+leased by the public charter school are used for educational purposes.
+
+Section 10:
+SECTION 9. The heading in this act is for reference purposes only and does not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the heading in any compilation or publication containing this act.
+
+Section 11:
+SECTION 10. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to the 2025-2026 school year and each school year thereafter.
+- 3 - 003166
+[DELETED: S(SSS]
+[DELETED:  -0SSS(]
+[DELETED:  -0S4S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1162
+By Stevens
+SENATE BILL 1020
+By White
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to public charter schools.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-2-140, is amended by adding the
+following as a new subsection:
+(h) A public charter school, as defined in § 49-13-104, that is authorized by a
+county LEA may operate within the geographic boundaries of a municipal LEA pursuant
+to § 49-13-137. Subsections (c)-(g) do not apply to a public charter school that is
+authorized by a county LEA and that is operating within the geographic boundaries of a
+municipal LEA pursuant to § 49-13-137.
+SECTION 2. Tennessee Code Annotated, Section 49-13-105(a), is amended by
+deleting the third sentence of the subsection and substituting instead the following:
+Except as provided in § 49-13-137, a public charter school that is authorized by
+the commission must operate within the geographic boundaries of the local board
+of education that denied approval of the initial public charter school application.
+SECTION 3. Tennessee Code Annotated, Section 49-13-113(c), is amended by adding
+the language "pursuant to its charter agreement, but not pursuant to § 49-13-137," after the
+language "is located" wherever it appears in the subsection.
+SECTION 4. Tennessee Code Annotated, Section 49-13-113(b), is amended by
+deleting the subsection and substituting instead the following:
+(b)
+SB1020
+003166
+- 1 -
+
+(1) A public charter school authorized by the commission is open to
+students residing within the geographic boundaries of the LEA in which the public
+charter school is authorized to locate in its charter agreement.
+(2) A public charter school that operates, pursuant to § 49-13-137,
+outside the geographic boundaries of the LEA in which the public charter school
+is authorized to locate in its charter agreement is not open to students residing
+within the geographic boundaries of the LEA in which the public charter school is
+operating pursuant to § 49-13-137, unless the LEA in which the public charter
+school is authorized to locate in its charter agreement has a policy allowing out-
+of-district enrollment.
+SECTION 5. Tennessee Code Annotated, Section 49-13-113(d)(4)(E), is amended by
+deleting "of the LEA in which the public charter school is located" and substituting instead "of
+the LEA in which the public charter school is authorized to locate in its charter agreement".
+SECTION 6. Tennessee Code Annotated, Section 49-13-113(e), is amended by
+designating the existing language as subdivision (1) and adding the following as a new
+subdivision:
+(2) Subdivision (e)(1) does not allow a public charter school authorized by the
+ASD to enroll additional students residing within the geographic boundaries of an LEA in
+which the public charter school is operating pursuant to § 49-13-137.
+SECTION 7. Tennessee Code Annotated, Section 49-13-136(c), is amended by adding
+the following as a new subdivision:
+(7) An LEA in which one (1) or more public charter schools operate, but only
+pursuant to § 49-13-137, is not required to comply with the requirements of this
+subsection (c). This subsection (c) only applies to an LEA in which one (1) or more
+- 2 - 003166
+
+public charter schools operate pursuant to a charter agreement that authorizes the
+public charter school to locate within the geographic boundaries of that LEA.
+SECTION 8. Tennessee Code Annotated, Title 49, Chapter 13, is amended by adding
+the following as a new section:
+49-13-137. Limited operation outside the geographic boundaries of the LEA.
+A public charter school may operate outside the geographic boundaries of the
+LEA in which the public charter school is authorized to locate in its charter agreement, if:
+(1) The public charter school needs additional space, facilities, or
+buildings to serve the students of the public charter school; and
+(2) The public charter school enters into a written agreement for the
+lease of buildings or facilities, or portions thereof, that are located in the same
+county as the LEA in which the public charter school is authorized to locate in its
+charter agreement; provided, that the buildings or facilities, or portions thereof,
+leased by the public charter school are used for educational purposes.
+SECTION 9. The heading in this act is for reference purposes only and does not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the heading in any compilation or publication containing this act.
+SECTION 10. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to the 2025-2026 school year and each school year thereafter.
+- 3 - 003166
+
+[DELETED: S(SSS]
+[DELETED:  -0SSS(]
+[DELETED:  -0S4S]

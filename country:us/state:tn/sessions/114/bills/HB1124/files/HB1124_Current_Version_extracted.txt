@@ -1,0 +1,79 @@
+Title: SENATE BILL 1056
+Official Title: SENATE BILL 1056
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Seal
+HOUSE BILL 1124
+By Farmer
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to dyslexia.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-1-229(a)(4), is amended by
+deleting the subdivision and substituting:
+(4) Dyslexia screening must be provided to every student.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 49-1-229(c), is amended by adding
+the following as a new subdivision:
+(5) If the student is enrolled in grades kindergarten through five (K-5), use the
+Orton-Gillingham method for teaching the student.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 49-1-229(d), is amended by adding ",
+including using the Orton-Gillingham method" after "with dyslexia".
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 49-6-3004(c)(1)(A), is amended by
+deleting "using appropriate scientific research and brain-based multisensory intervention
+methods and strategies" and substituting "using the Orton-Gillingham method".
+
+Section 6:
+SECTION 5. For the purpose of training teachers to use the Orton-Gillingham method,
+this act takes effect upon becoming a law, the public welfare requiring it. For all other purposes,
+this act takes effect upon becoming a law, the public welfare requiring it, and applies to the
+2025-2026 school year and subsequent school years.
+HB1124
+002029
+- 1 -
+[DELETED: S(S(SSS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1056
+By Seal
+HOUSE BILL 1124
+By Farmer
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to dyslexia.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-1-229(a)(4), is amended by
+deleting the subdivision and substituting:
+(4) Dyslexia screening must be provided to every student.
+SECTION 2. Tennessee Code Annotated, Section 49-1-229(c), is amended by adding
+the following as a new subdivision:
+(5) If the student is enrolled in grades kindergarten through five (K-5), use the
+Orton-Gillingham method for teaching the student.
+SECTION 3. Tennessee Code Annotated, Section 49-1-229(d), is amended by adding ",
+including using the Orton-Gillingham method" after "with dyslexia".
+SECTION 4. Tennessee Code Annotated, Section 49-6-3004(c)(1)(A), is amended by
+deleting "using appropriate scientific research and brain-based multisensory intervention
+methods and strategies" and substituting "using the Orton-Gillingham method".
+SECTION 5. For the purpose of training teachers to use the Orton-Gillingham method,
+this act takes effect upon becoming a law, the public welfare requiring it. For all other purposes,
+this act takes effect upon becoming a law, the public welfare requiring it, and applies to the
+2025-2026 school year and subsequent school years.
+HB1124
+002029
+- 1 -
+
+[DELETED: S(S(SSS]

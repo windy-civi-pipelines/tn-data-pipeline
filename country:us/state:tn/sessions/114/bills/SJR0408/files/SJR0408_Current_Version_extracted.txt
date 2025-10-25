@@ -1,0 +1,149 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 408
+By Massey
+A RESOLUTION to recognize Lieutenant Colonel Dean Keck,
+U.S. Marine Corps (Retired) on the occasion of
+his retirement.
+WHEREAS, the members of this General Assembly take great pleasure in paying tribute
+to a dedicated educator and military officer whose outstanding contributions to his students and
+community reflect great credit upon himself and the United States Navy Junior Reserve Officer
+Training Corps (JROTC) program; and
+WHEREAS, one such individual is Lieutenant Colonel Dean Keck, U.S. Marine Corps
+(Retired), who is taking a much-deserved retirement on June 15, 2025, from his position as a
+JROTC Navy instructor, having faithfully served the JROTC program for ten years; and
+WHEREAS, the son of Don and Ede Keck of New Tazewell, Dean Keck was born in
+New Tazewell in 1962 and attended Claiborne County High School, from which he graduated in
+1980; and
+WHEREAS, Lt. Col. Keck joined the United States Marine Corps in January 1984 and
+completed Marine Corps Boot Camp, attaining the rank of Private First Class on March 27,
+1984; and
+WHEREAS, rising through the ranks, he became a Staff Sergeant and applied for and
+won admittance to the Warrant Officer Program, subsequently winning promotion to Warrant
+Officer on February 1, 1996; and
+WHEREAS, after applying to and being selected for the Limited Duty Officer Program,
+he was promoted to the rank of Captain on September 1, 2001; he retired after thirty years of
+distinguished service with the Marines at the rank of Lieutenant Colonel in January 2014; and
+WHEREAS, during his military career, he served four years in Washington, D.C., as the
+22nd Color Sergeant of the Marine Corps and was deployed to Iraq in 2003 as a Captain with the
+2nd Marine Expeditionary Brigade, Task Force Tarawa; and
+SJR0408
+007071
+- 1 -
+WHEREAS, after achieving the rank of Major in 2006, he was again deployed to Iraq,
+where he served with the U.S. Army 82nd Airborne Division; in 2008, he was deployed to
+Afghanistan and served with the 101st Airborne Division at Bagram Airfield. He returned to
+Afghanistan for a final tour of duty in 2009, during which time he served as the Commander for
+Combat Logistics Company 252 at Camp Leatherneck; and
+WHEREAS, after leaving the Marine Corps, Lt. Col. Keck attended ITT Tech, where he
+earned a degree in network systems administration and launched a career as a Navy JROTC
+Instructor in 2015; and
+WHEREAS, sharing his wisdom and experience, Lt. Col. Keck worked at Fulton High
+School as a Navy JROTC Instructor for seven years; spent two years at Union County High
+School, where he helped launch the school's JROTC program and obtain Navy funding; and
+served this last year as the Navy JROTC Instructor at West High School; and
+WHEREAS, his many professional accomplishments aside, Lt. Col. Keck is most
+thankful for the love and support of his wife of twenty-three years, Kathy Keck; and
+WHEREAS, Lt. Col. Dean Keck exemplifies the spirit and allegiance to family and
+community that are characteristic of a true Tennessean; and
+WHEREAS, throughout his estimable career, Lt. Col. Keck has demonstrated the utmost
+professionalism, ability, and integrity, winning the unbridled respect and admiration of his
+colleagues, students, and community; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and commend Lieutenant Colonel Dean
+Keck, U.S. Marine Corps (Retired) on the occasion of his retirement as a Navy JROTC
+Instructor, thank him for his decades of service to both the U.S. Marine Corps and the State of
+Tennessee, and extend to him our heartfelt wishes for a happy and fulfilling retirement and
+every continued success in his future endeavors.
+- 2 - 007071
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 007071
+[DELETED: WWWWWWW2  ]
+[DELETED:  -0W2 1 WWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 408
+By Massey
+A RESOLUTION to recognize Lieutenant Colonel Dean Keck,
+U.S. Marine Corps (Retired) on the occasion of
+his retirement.
+WHEREAS, the members of this General Assembly take great pleasure in paying tribute
+to a dedicated educator and military officer whose outstanding contributions to his students and
+community reflect great credit upon himself and the United States Navy Junior Reserve Officer
+Training Corps (JROTC) program; and
+WHEREAS, one such individual is Lieutenant Colonel Dean Keck, U.S. Marine Corps
+(Retired), who is taking a much-deserved retirement on June 15, 2025, from his position as a
+JROTC Navy instructor, having faithfully served the JROTC program for ten years; and
+WHEREAS, the son of Don and Ede Keck of New Tazewell, Dean Keck was born in
+New Tazewell in 1962 and attended Claiborne County High School, from which he graduated in
+1980; and
+WHEREAS, Lt. Col. Keck joined the United States Marine Corps in January 1984 and
+completed Marine Corps Boot Camp, attaining the rank of Private First Class on March 27,
+1984; and
+WHEREAS, rising through the ranks, he became a Staff Sergeant and applied for and
+won admittance to the Warrant Officer Program, subsequently winning promotion to Warrant
+Officer on February 1, 1996; and
+WHEREAS, after applying to and being selected for the Limited Duty Officer Program,
+he was promoted to the rank of Captain on September 1, 2001; he retired after thirty years of
+distinguished service with the Marines at the rank of Lieutenant Colonel in January 2014; and
+WHEREAS, during his military career, he served four years in Washington, D.C., as the
+22nd Color Sergeant of the Marine Corps and was deployed to Iraq in 2003 as a Captain with the
+2nd Marine Expeditionary Brigade, Task Force Tarawa; and
+SJR0408
+007071
+- 1 -
+
+WHEREAS, after achieving the rank of Major in 2006, he was again deployed to Iraq,
+where he served with the U.S. Army 82nd Airborne Division; in 2008, he was deployed to
+Afghanistan and served with the 101st Airborne Division at Bagram Airfield. He returned to
+Afghanistan for a final tour of duty in 2009, during which time he served as the Commander for
+Combat Logistics Company 252 at Camp Leatherneck; and
+WHEREAS, after leaving the Marine Corps, Lt. Col. Keck attended ITT Tech, where he
+earned a degree in network systems administration and launched a career as a Navy JROTC
+Instructor in 2015; and
+WHEREAS, sharing his wisdom and experience, Lt. Col. Keck worked at Fulton High
+School as a Navy JROTC Instructor for seven years; spent two years at Union County High
+School, where he helped launch the school's JROTC program and obtain Navy funding; and
+served this last year as the Navy JROTC Instructor at West High School; and
+WHEREAS, his many professional accomplishments aside, Lt. Col. Keck is most
+thankful for the love and support of his wife of twenty-three years, Kathy Keck; and
+WHEREAS, Lt. Col. Dean Keck exemplifies the spirit and allegiance to family and
+community that are characteristic of a true Tennessean; and
+WHEREAS, throughout his estimable career, Lt. Col. Keck has demonstrated the utmost
+professionalism, ability, and integrity, winning the unbridled respect and admiration of his
+colleagues, students, and community; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and commend Lieutenant Colonel Dean
+Keck, U.S. Marine Corps (Retired) on the occasion of his retirement as a Navy JROTC
+Instructor, thank him for his decades of service to both the U.S. Marine Corps and the State of
+Tennessee, and extend to him our heartfelt wishes for a happy and fulfilling retirement and
+every continued success in his future endeavors.
+- 2 - 007071
+
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 007071
+
+[DELETED: WWWWWWW2  ]
+[DELETED:  -0W2 1 WWWWWB]
+[DELETED:  -0B]

@@ -1,0 +1,55 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 830
+By Hensley
+AN ACT to amend Tennessee Code Annotated, Title 39,
+relative to reckless endangerment.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 39-13-103(a), is amended by
+redesignating the subsection as subdivision (a)(1) and adding the following new subdivision:
+(2) A person commits an offense under subdivision (a)(1) who recklessly
+discharges a firearm into the air while in a densely populated area. As used in this
+subdivision (a)(2), "densely populated area" may be proven by evidence of the
+population of the city or county, housing density in the immediate area of the offense, the
+number of persons present at the time of the offense, or any other evidence.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0830
+002763
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 830
+By Hensley
+AN ACT to amend Tennessee Code Annotated, Title 39,
+relative to reckless endangerment.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 39-13-103(a), is amended by
+redesignating the subsection as subdivision (a)(1) and adding the following new subdivision:
+(2) A person commits an offense under subdivision (a)(1) who recklessly
+discharges a firearm into the air while in a densely populated area. As used in this
+subdivision (a)(2), "densely populated area" may be proven by evidence of the
+population of the city or county, housing density in the immediate area of the offense, the
+number of persons present at the time of the offense, or any other evidence.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0830
+002763
+- 1 -
+
+[DELETED: SS]

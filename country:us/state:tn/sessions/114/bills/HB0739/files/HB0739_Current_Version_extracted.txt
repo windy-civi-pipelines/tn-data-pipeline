@@ -1,0 +1,57 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 739
+By Hurt
+AN ACT to amend Chapter __ of the Public Acts of 2025
+(1st Ex. Sess. – SB 6001 / HB 6004); and
+Tennessee Code Annotated, Title 49, relative to
+education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-6-304, is amended by adding the
+following as a new subsection:
+(d) In addition to other postings required by this section, each elementary and
+secondary school shall post the toll-free telephone number operated by the department
+of children's services to receive reports of child abuse or neglect on the homepage of the
+school's website.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0739
+002746
+- 1 -
+[DELETED: S(S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 739
+By Hurt
+AN ACT to amend Chapter __ of the Public Acts of 2025
+(1st Ex. Sess. – SB 6001 / HB 6004); and
+Tennessee Code Annotated, Title 49, relative to
+education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-6-304, is amended by adding the
+following as a new subsection:
+(d) In addition to other postings required by this section, each elementary and
+secondary school shall post the toll-free telephone number operated by the department
+of children's services to receive reports of child abuse or neglect on the homepage of the
+school's website.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0739
+002746
+- 1 -
+
+[DELETED: S(S]

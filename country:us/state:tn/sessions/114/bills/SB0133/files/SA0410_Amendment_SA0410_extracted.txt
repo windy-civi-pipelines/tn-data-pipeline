@@ -1,0 +1,112 @@
+Title: AMEND S e n ate Bill No. 133 House Bill No. 69*
+Official Title: AMEND S e n ate Bill No. 133 House Bill No. 69*
+Number of Sections: 2
+Source: versions - Amendment SA0410
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Senate State and Local Government 2
+Amendment No. 2 to SB0133
+Briggs
+Signature of Sponsor
+by deleting § 2-2-401 in SECTION 1 and substituting:
+2-2-401. Verification of eligibility to vote based upon United States citizenship.
+(a) The coordinator of elections, in collaboration with the department of safety,
+shall, prior to January 1, 2028, create a secure, electronic portal through which each
+county administrator of elections may access information to verify, prior to processing an
+applicant's application to register to vote, whether the applicant is a United States citizen
+based upon records on file at the time of issuance of the most recent driver license or
+identification card or other credential from the department of safety.
+(b) In order to create the portal in subsection (a), the coordinator of elections and
+the department shall enter into an agreement that includes:
+(1) The necessary information an administrator must submit through the
+portal for an applicant registering to vote in order to ensure that only the correct
+applicant's information is produced;
+(2) The parameters of information of an applicant that will be produced to
+the administrator, including circumstances under which no record is on file or the
+information submitted by the administrator through the portal results in multiple
+records returned;
+(3) Any temporary alternative method for the verification of citizenship by
+an administrator in the event that the portal is offline, inaccessible,
+malfunctioning, or undergoing maintenance;
+SA0410
+005586
+- 1 -
+(4) Circumstances that constitute misuse of the portal, including, but not
+limited to, accessing information not in connection with an active voter
+registration application; and
+(5) Penalties for misuse of the portal or information from the portal,
+including, but not limited to, termination of access for the administrator, other
+individual, or the county.
+(c) Information sent and received through the portal developed under this
+
+Section 2:
+section is confidential and not available for inspection by the public.
+(d) If a county administrator rejects an application based upon information
+received pursuant to this section, the administrator shall provide written notice to the
+applicant of the applicant's right to appeal the decision in accordance with § 2-2-125.
+AND FURTHER AMEND by adding a new § 2-2-403 under SECTION 1 and redesignating the
+existing § 2-2-403 as § 2-2-404:
+2-2-403. Grant funding.
+It is the intent that this part be funded by federal grant funding. This part has no
+effect until such sufficient funding has been obtained.
+- 2 - 005586
+[DELETED:  a H2(((((]
+[DELETED:  -0((((2I]
+
+
+================================================================================
+
+Raw Text:
+Senate State and Local Government 2
+Amendment No. 2 to SB0133
+Briggs
+Signature of Sponsor
+AMEND S e n ate Bill No. 133 House Bill No. 69*
+by deleting § 2-2-401 in SECTION 1 and substituting:
+2-2-401. Verification of eligibility to vote based upon United States citizenship.
+(a) The coordinator of elections, in collaboration with the department of safety,
+shall, prior to January 1, 2028, create a secure, electronic portal through which each
+county administrator of elections may access information to verify, prior to processing an
+applicant's application to register to vote, whether the applicant is a United States citizen
+based upon records on file at the time of issuance of the most recent driver license or
+identification card or other credential from the department of safety.
+(b) In order to create the portal in subsection (a), the coordinator of elections and
+the department shall enter into an agreement that includes:
+(1) The necessary information an administrator must submit through the
+portal for an applicant registering to vote in order to ensure that only the correct
+applicant's information is produced;
+(2) The parameters of information of an applicant that will be produced to
+the administrator, including circumstances under which no record is on file or the
+information submitted by the administrator through the portal results in multiple
+records returned;
+(3) Any temporary alternative method for the verification of citizenship by
+an administrator in the event that the portal is offline, inaccessible,
+malfunctioning, or undergoing maintenance;
+SA0410
+005586
+- 1 -
+
+(4) Circumstances that constitute misuse of the portal, including, but not
+limited to, accessing information not in connection with an active voter
+registration application; and
+(5) Penalties for misuse of the portal or information from the portal,
+including, but not limited to, termination of access for the administrator, other
+individual, or the county.
+(c) Information sent and received through the portal developed under this
+section is confidential and not available for inspection by the public.
+(d) If a county administrator rejects an application based upon information
+received pursuant to this section, the administrator shall provide written notice to the
+applicant of the applicant's right to appeal the decision in accordance with § 2-2-125.
+AND FURTHER AMEND by adding a new § 2-2-403 under SECTION 1 and redesignating the
+existing § 2-2-403 as § 2-2-404:
+2-2-403. Grant funding.
+It is the intent that this part be funded by federal grant funding. This part has no
+effect until such sufficient funding has been obtained.
+- 2 - 005586
+
+[DELETED:  a H2(((((]
+[DELETED:  -0((((2I]

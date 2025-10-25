@@ -1,0 +1,196 @@
+Title: SENATE BILL 1039
+Official Title: SENATE BILL 1039
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Bowling
+HOUSE BILL 1102
+By Salinas
+AN ACT to amend Tennessee Code Annotated, Title 33;
+Title 63 and Title 68, relative to substance use.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 11, Part 15, is amended by
+adding the following as a new section:
+(a) A healthcare facility licensed under this chapter shall not authorize any
+licensed, certified, or authorized healthcare professional to perform:
+(1) A drug or alcohol test or screen on a patient who is pregnant or less
+than one (1) year postpartum unless:
+(A) The pregnant or postpartum patient provides prior written and
+oral informed consent utilizing a tool or questionnaire specific for the drug
+or alcohol test or screen; and
+(B) The performance of the drug or alcohol test or screen is within
+the scope of medical care being provided to the individual; or
+(2) A drug or alcohol test or screen on a newborn unless:
+(A) The individual authorized to consent for the newborn gives
+prior written and oral informed consent specific to the drug or alcohol test
+or screen; and
+(B) The performance of the drug or alcohol test or screen is within
+the scope of medical care being provided to the newborn.
+(b) The written and oral informed consent to a drug or alcohol test or screen as
+described in subsection (a) must:
+HB1102
+002590
+- 1 -
+(1) Occur at the time of testing in a language understandable to the
+pregnant or postpartum patient;
+(2) Provide the patient sufficient opportunity to consider whether or not to
+authorize the drug or alcohol test or screen;
+(3) Minimize the possibility of coercion or undue influence, and
+(4) Consist of written and oral authorization that is dated and signed, and
+includes the following:
+(A) A statement explaining that consenting to a drug or alcohol
+test or screen is voluntary and requires written and oral informed consent,
+except when conditions as described in subsection (c) are met;
+(B) A statement that testing positive for drugs or alcohol could
+have legal consequences, including potentially being reported to the
+department of children's services and that the patient may want to consult
+with legal counsel prior to or after consenting to a drug or alcohol test or
+screen;
+(C) A statement of the medical purpose of the test or screen;
+(D) The extent of confidentiality of the test or screen results; and
+(E) A general description of the test or screen.
+(c)
+(1) A drug or alcohol test or screen may be performed or authorized
+without the consent of the patient or the individual authorized to consent for the
+newborn when, in the healthcare professional's judgment, an emergency exists
+and the patient or newborn is in immediate need of medical attention, and an
+attempt to secure consent would result in a delay of treatment that could increase
+the risk to the patient's or newborn's life or health.
+- 2 - 002590
+(2) In the case that drug or alcohol testing or screening is performed or
+authorized under this subsection (c), the test or screen results must be discussed
+with the patient or the individual authorized to consent for the newborn in
+language understandable to the patient or individual authorized to consent for the
+newborn and must consist of written and oral notification that is dated and
+signed, and includes a statement:
+(A) That testing or screening positive for drugs or alcohol could
+have legal consequences, including potentially being reported to the
+department of children's services, and that the patient or individual
+authorized to consent for the newborn may want to consult with legal
+counsel;
+(B) In the medical record with a description of the emergency that
+necessitated unconsented drug or alcohol testing or screening; and
+(C) Explaining the extent of confidentiality of the test or screen
+results.
+(d) A healthcare facility licensed under this chapter shall not authorize any
+licensed, certified, or authorized healthcare professional to refuse to treat a pregnant
+patient or a patient who is less than one (1) year postpartum or a newborn because of
+the patient or individual authorized to consent for the newborn's refusal to submit to a
+drug or alcohol test or screen.
+(e) A patient's right to privacy as described in this part must extend to patients in
+the pregnancy and postpartum period and newborns.
+(f) This section does not diminish any other requirement to obtain informed
+consent for a drug or alcohol test or screen or any other procedure.
+- 3 - 002590
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to prohibited conduct occurring on or after such date.
+- 4 - 002590
+[DELETED: S((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1039
+By Bowling
+HOUSE BILL 1102
+By Salinas
+AN ACT to amend Tennessee Code Annotated, Title 33;
+Title 63 and Title 68, relative to substance use.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 11, Part 15, is amended by
+adding the following as a new section:
+(a) A healthcare facility licensed under this chapter shall not authorize any
+licensed, certified, or authorized healthcare professional to perform:
+(1) A drug or alcohol test or screen on a patient who is pregnant or less
+than one (1) year postpartum unless:
+(A) The pregnant or postpartum patient provides prior written and
+oral informed consent utilizing a tool or questionnaire specific for the drug
+or alcohol test or screen; and
+(B) The performance of the drug or alcohol test or screen is within
+the scope of medical care being provided to the individual; or
+(2) A drug or alcohol test or screen on a newborn unless:
+(A) The individual authorized to consent for the newborn gives
+prior written and oral informed consent specific to the drug or alcohol test
+or screen; and
+(B) The performance of the drug or alcohol test or screen is within
+the scope of medical care being provided to the newborn.
+(b) The written and oral informed consent to a drug or alcohol test or screen as
+described in subsection (a) must:
+HB1102
+002590
+- 1 -
+
+(1) Occur at the time of testing in a language understandable to the
+pregnant or postpartum patient;
+(2) Provide the patient sufficient opportunity to consider whether or not to
+authorize the drug or alcohol test or screen;
+(3) Minimize the possibility of coercion or undue influence, and
+(4) Consist of written and oral authorization that is dated and signed, and
+includes the following:
+(A) A statement explaining that consenting to a drug or alcohol
+test or screen is voluntary and requires written and oral informed consent,
+except when conditions as described in subsection (c) are met;
+(B) A statement that testing positive for drugs or alcohol could
+have legal consequences, including potentially being reported to the
+department of children's services and that the patient may want to consult
+with legal counsel prior to or after consenting to a drug or alcohol test or
+screen;
+(C) A statement of the medical purpose of the test or screen;
+(D) The extent of confidentiality of the test or screen results; and
+(E) A general description of the test or screen.
+(c)
+(1) A drug or alcohol test or screen may be performed or authorized
+without the consent of the patient or the individual authorized to consent for the
+newborn when, in the healthcare professional's judgment, an emergency exists
+and the patient or newborn is in immediate need of medical attention, and an
+attempt to secure consent would result in a delay of treatment that could increase
+the risk to the patient's or newborn's life or health.
+- 2 - 002590
+
+(2) In the case that drug or alcohol testing or screening is performed or
+authorized under this subsection (c), the test or screen results must be discussed
+with the patient or the individual authorized to consent for the newborn in
+language understandable to the patient or individual authorized to consent for the
+newborn and must consist of written and oral notification that is dated and
+signed, and includes a statement:
+(A) That testing or screening positive for drugs or alcohol could
+have legal consequences, including potentially being reported to the
+department of children's services, and that the patient or individual
+authorized to consent for the newborn may want to consult with legal
+counsel;
+(B) In the medical record with a description of the emergency that
+necessitated unconsented drug or alcohol testing or screening; and
+(C) Explaining the extent of confidentiality of the test or screen
+results.
+(d) A healthcare facility licensed under this chapter shall not authorize any
+licensed, certified, or authorized healthcare professional to refuse to treat a pregnant
+patient or a patient who is less than one (1) year postpartum or a newborn because of
+the patient or individual authorized to consent for the newborn's refusal to submit to a
+drug or alcohol test or screen.
+(e) A patient's right to privacy as described in this part must extend to patients in
+the pregnancy and postpartum period and newborns.
+(f) This section does not diminish any other requirement to obtain informed
+consent for a drug or alcohol test or screen or any other procedure.
+- 3 - 002590
+
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to prohibited conduct occurring on or after such date.
+- 4 - 002590
+
+[DELETED: S((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0S]

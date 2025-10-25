@@ -1,0 +1,869 @@
+Title: AMEND S e n ate Bill No. 764* House Bill No. 979
+Official Title: AMEND S e n ate Bill No. 764* House Bill No. 979
+Number of Sections: 11
+Source: versions - Amendment SA0264
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+Senate Health and Welfare 1
+Amendment No. 1 to SB0764
+Crowe
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 63-6-204, is amended by deleting
+subdivisions (f)(1), (f)(4), (f)(6), and (f)(7) and substituting:
+(f)
+(1)
+(A) Notwithstanding this section, a hospital licensed under title 68,
+chapter 11, or title 33, chapter 2, or an affiliate of a hospital, may employ
+licensed physicians to provide medical services in:
+(i) A hospital located in a county with a population of one
+hundred five thousand (105,000) or less, according to the 2020
+federal census;
+(ii) A hospital located in a county with a population of more
+than one hundred five thousand (105,000), according to the 2020
+federal census, if such licensed physicians are other than
+radiologists, anesthesiologists, pathologists, or emergency
+physicians; or
+(iii) A hospital if such hospital is a children's hospital;
+provided, that any radiologists, anesthesiologists, pathologists, or
+emergency physicians employed by such children's hospital are
+board certified or board eligible.
+SA0264
+006372
+- 1 -
+(B) A hospital, as described in subdivision (f)(1)(A), may employ
+licensed physicians to provide medical services subject to the following
+conditions:
+(i) An employing entity shall not restrict or interfere with
+medically appropriate diagnostic or treatment decisions;
+(ii) An employing entity shall not restrict or interfere with
+physician referral decisions unless:
+(a) The physician so employed has agreed in
+writing to the specific restrictions at the time that the
+contract is executed;
+(b) The restriction does not, in the reasonable
+medical judgment of the physician, adversely affect the
+health or welfare of the patient; and
+(c) The employing entity discloses any such
+restrictions to the patient; and
+(iii) In the event that there is any dispute relating to
+subdivision (f)(1)(B)(i) or (f)(1)(B)(ii), the employing entity has the
+burden of proof.
+(4) In any event, this section does not prohibit any of the following from
+employing physicians:
+(A) A licensed physician; or
+(B) A group of licensed physicians, including either of the
+following:
+(i) A physicians' professional corporation registered under
+title 48, chapter 101; or
+(ii) A domestic nonprofit public benefit corporation:
+- 2 - 006372
+(a) That is recognized as exempt under § 501(c)(3)
+of the Internal Revenue Code (26 U.S.C. § 501(c)(3)), or
+any successor section;
+(b) A purpose of which is to engage in medical
+education and medical research in conjunction with a
+college or university operating an accredited medical
+school in this state; and
+(c) Whose physician-employees practice through a
+faculty practice plan for purposes of Title XVIII of the
+federal Social Security Act (42 U.S.C., Chapter 7,
+subchapter XVIII), and related promulgated regulations, or
+any wholly owned subsidiary of the foregoing 501(c)(3)
+institution.
+(6)
+(A) Except as set forth in subdivision (f)(1) or in § 68-11-205(b), a
+radiologist, anesthesiologist, pathologist, or emergency physician shall
+not be employed by a hospital or an affiliate of a hospital, and a hospital
+or an affiliate of a hospital shall not employ any physician to provide
+medical services provided by radiologists, anesthesiologists, pathologists,
+or emergency physicians; provided, that a physician may be employed to
+provide emergency medical services if such physician is employed to
+provide other medical services.
+(B) Notwithstanding subdivisions (f)(1) and (f)(6)(A), a research
+hospital may employ radiologists, anesthesiologists, or pathologists under
+the same terms and conditions as other physicians.
+(C) Hospitals that employ anesthesiologists shall comply with
+applicable medicare conditions for payment.
+- 3 - 006372
+(7) As used in this section, unless the context otherwise requires:
+(A) "Affiliate" of a hospital:
+(i) Means an entity that directly or indirectly is controlled
+by, or is under common control with, a hospital licensed under title
+68, chapter 11 or title 33, chapter 2; and
+(ii) Does not include a health maintenance organization
+licensed under the Health Maintenance Organization Act of 1986,
+compiled in title 56, chapter 32;
+(B) "Anesthesiologist" means a physician who has completed a
+residency in anesthesiology and whose practice is primarily limited to
+anesthesiology, including nerve block, pain management, cardiac and
+respiratory resuscitation, respiratory therapy, management of fluids,
+electrolyte and metabolic disturbances, or a dentist licensed in this state
+who completed a residency program in anesthesiology at an accredited
+medical school in years 1963 through 1977;
+(C) "Board certified" means a physician who is board certified in
+the applicable medical specialty by the American Board of Medical
+Specialists or a comparable board;
+(D) "Board eligible" means a physician who has completed an
+approved residency but has not yet completed a medical specialty
+examination given by a board recognized by the American Board of
+Medical Specialists or a comparable board;
+(E) "Children's hospital" means a free-standing hospital that
+serves primarily children seventeen (17) years of age or younger with a
+separate emergency department staffed and equipped to provide
+emergency services to pediatric patients;
+(F) "Emergency physician":
+- 4 - 006372
+(i) Means a physician who has either completed a
+residency in emergency medicine, or practiced emergency
+medicine full time for a three-year period, and whose practice is
+limited to emergency medicine; and
+(ii) Does not include a physician who has been previously
+employed to provide nonemergent medical services and who, over
+a period of twelve (12) months or more, becomes a full-time
+emergency physician and remains employed by mutual
+agreement;
+(G) "Employing entity":
+(i) Means a hospital licensed under title 68, chapter 11, or
+title 33, chapter 2, or an affiliate of such an entity, that employs
+one (1) or more physicians; and
+(ii) Does not include a health maintenance organization
+licensed under the Health Maintenance Organization Act of 1986;
+(H) "Pathologist" means a physician who has completed a
+residency in pathology and whose practice is primarily limited to
+pathology, including, without limitation, anatomic and clinical pathology;
+(I) "Physician" means a person licensed pursuant to this chapter
+or chapter 9 of this title;
+(J) "Psychiatrist" means a physician who has completed a
+residency in psychiatry and whose practice is primarily limited to
+psychiatry;
+(K) "Radiologist" means a physician who has completed a
+residency in radiology and whose practice is primarily limited to radiology,
+including diagnostic radiology, radiation therapy, and radiation oncology;
+and
+- 5 - 006372
+(L) "Research hospital" means a hospital at which fifty percent
+(50%) or more of the inpatients treated during the previous calendar year
+were treated pursuant to research protocols.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 63-9-104(f)(3), is amended by
+deleting the subdivision and substituting:
+(3) For the purposes of this section, the term "employing" does not allow the
+employing of osteopathic physicians with the same specialties as those physicians
+exempted in § 63-6-204(e)(2)(B), except as permitted by § 63-6-204(f)(4).
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Title 63, is amended by adding the following
+as a new chapter:
+63-21-101. Chapter definitions.
+As used in this chapter:
+(1) "Anesthesiologist" means a physician who is licensed pursuant to
+chapter 6 or 9 of this title and who has completed a residency in anesthesiology
+approved by the American Board of Anesthesiology or the American Osteopathic
+Board of Anesthesiology;
+(2) "Anesthesiologist assistant" means a person who meets the
+requirements of § 63-21-103 and is board-approved to assist in the practice of
+medicine under delegation of an anesthesiologist;
+(3) "Assists" means, in regard to an anesthesiologist assistant, that the
+anesthesiologist assistant personally performs those duties and responsibilities
+delegated by the anesthesiologist;
+(4) "Board" means the board of medical examiners established by
+chapter 6, part 1 of this title;
+(5) "Certification examination" means the initial certifying examination
+approved by the board for the certification of anesthesiologist assistants,
+including the examination administered by the National Commission for the
+- 6 - 006372
+Certification of Anesthesiologist Assistants or another national anesthesiologist
+assistant certifying agency that has been reviewed and approved by the board;
+and
+(6) "Supervision" means the availability of an anesthesiologist who can
+delegate, coordinate, direct, consult, or oversee the implementation of the
+anesthesiologist's intentions.
+63-21-102. Boards – Powers and duties.
+(a) The board shall review and determine the qualifications and fitness of all
+persons applying for a license to practice as an anesthesiologist assistant.
+(b) The board shall:
+(1) Grant, deny, renew, revoke, and reinstate licenses;
+(2) Set and collect fees for licensure under this chapter;
+(3) Establish continuing education requirements for anesthesiologist
+assistants;
+(4) Investigate allegations that an anesthesiologist assistant or the
+supervising anesthesiologist has engaged in conduct constituting a ground for
+revocation;
+(5) Conduct informal interviews and hearings;
+(6) Take disciplinary or other administrative action that complies with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5, to enforce
+this chapter;
+(7) Adopt rules governing the licensure and practice of anesthesiologist
+assistants, and such other rules as are necessary to implement and enforce this
+chapter; and
+(8) Retain jurisdiction over only those licensees to whom temporary or
+full licenses are granted pursuant to this chapter, regardless of whether the
+- 7 - 006372
+license has expired or lapsed, been retired, or was relinquished during or after
+any alleged occurrence of conduct.
+63-21-103. Licensure – Unauthorized practice – Use of title – Duplicate license –
+Temporary licensure – Fees.
+(a) A person shall not practice in this state as an anesthesiologist assistant or
+use the title or represent that the person is a certified anesthesiologist assistant,
+anesthesiologist assistant, or use the abbreviations "C.A.A." or "A.A." without having a
+license granted by the board pursuant to this chapter. A violation of this subsection (a)
+is a Class B misdemeanor, punishable by a fine of not more than one thousand dollars
+($1,000) or by a term of imprisonment for not more than one (1) year, or both. Each
+violation of this subsection (a) constitutes a separate offense.
+(b) The board may grant an anesthesiologist assistant license to an applicant
+who:
+(1) Graduated from an anesthesiologist assistant program accredited by
+the Commission on Accreditation of Allied Health Education Programs or its
+predecessor or successor organization;
+(2) Satisfactorily completed a certification examination administered by
+the National Commission for the Certification of Anesthesiologist Assistants or
+another national certifying agency that has been reviewed and approved by the
+board;
+(3) Completes an application form; and
+(4) Pays the required application and licensure fees as prescribed by the
+board in rule.
+(c) The board shall issue a license, other than a temporary license, pursuant to
+rules promulgated in accordance with § 63-21-107.
+- 8 - 006372
+(d) The board may reinstate a lapsed license if the applicant pays a
+reinstatement fee as prescribed by the board in rule and meets the requirements for
+initial licensure.
+(e) The board may issue a temporary license to a person who:
+(1) Completes a temporary license application;
+(2) Pays the required temporary license fee as prescribed by the board in
+rule; and
+(3) Successfully completes a Commission on Accreditation of Allied
+Health Education program or another board-approved program for educating and
+training anesthesiologist assistants but who has not passed a certification
+examination. The person shall take the next available certification examination
+after receiving a temporary license. A temporary license must not be issued for a
+period of more than one (1) year and is subject to other requirements the board
+adopts by rule.
+63-21-104. Scope of practice.
+(a) This section does not apply to a person who is enrolled in an
+anesthesiologist assistant education program approved by the board.
+(b) An anesthesiologist assistant may assist in the practice of medicine only
+under the supervision of an anesthesiologist. The anesthesiologist assistant may
+perform only those duties and responsibilities delegated to the anesthesiologist assistant
+by the supervising anesthesiologist.
+(c) The supervising anesthesiologist shall supervise an anesthesiologist
+assistant in a manner consistent with federal rules or regulations for reimbursement for
+anesthesia services.
+(d) The supervising anesthesiologist must be immediately available to the
+anesthesiologist assistant who assists in the delivery of medical care such that the
+supervising anesthesiologist is able to intervene if needed.
+- 9 - 006372
+(e) An anesthesiologist assistant's practice must not exceed the assistant's
+education and training, and the scope of practice of the supervising anesthesiologist. A
+medical care task assigned by the supervising anesthesiologist to the anesthesiologist
+assistant must not be delegated by the anesthesiologist assistant to another person.
+(f)
+(1) An anesthesiologist assistant must have a supervising agreement
+with a supervising anesthesiologist.
+(2) An anesthesiologist assistant shall maintain a copy of the supervising
+agreement either on paper or electronically at each of the anesthesiologist
+assistant's practice locations and make the supervising agreement available
+upon request by the board or an authorized agent of the board.
+(3)
+(A) A violation of subdivision (f)(1) is a Class B misdemeanor,
+punishable by a fine of not more than one thousand dollars ($1,000).
+(B) Each violation of subdivision (f)(1) constitutes a separate
+offense.
+(g)
+(1) A supervising anesthesiologist shall not employ a person to practice
+as an anesthesiologist assistant who is not licensed pursuant to this chapter.
+(2)
+(A) A violation of subdivision (g)(1) is a Class B misdemeanor,
+punishable by a fine of not more than one thousand dollars ($1,000) or by
+a term of imprisonment for not more than one (1) year, or both.
+(B) Each violation of subdivision (g)(1) constitutes a separate
+offense.
+(h) The board shall establish such other qualifications and the scope of practice
+as the board deems appropriate for an anesthesiologist assistant. The board is
+- 10 - 006372
+authorized to adopt rules to effectuate this section. The rules must be promulgated in
+accordance with the Uniform Administrative Procedures Act, compiled in title 4, chapter
+
+Section 5:
+5.
+63-21-105. Board disciplinary actions.
+(a) The board may refuse to renew and may revoke, suspend, or restrict a
+license or take other disciplinary action, including imposing conditions or restrictions on a
+license pursuant to this chapter and the rules adopted pursuant to this chapter.
+(b) If the board determines that a person is ineligible for licensure, that
+application for licensure should be denied or suspended, or another action should be
+taken on a current license, then the board shall adopt and enter its written order and
+findings. If the board proposes to issue discipline on a current license, then a contested
+case hearing must be conducted pursuant to title 4, chapter 5, part 3.
+63-21-106. Issuance of new license following revocation; requirements.
+(a) The board may issue a new license to an anesthesiologist assistant whose
+license was previously revoked by the board if the applicant applies in writing to the
+board and demonstrates to the board's satisfaction that the applicant is completely
+rehabilitated with respect to the conduct that was the basis for the revocation. In making
+its decision, the board must determine:
+(1) That the applicant has not engaged in conduct during the revocation
+period that would constitute a basis for revocation pursuant to rules adopted by
+the board;
+(2) If a criminal conviction was a basis of the revocation, that the
+applicant's civil rights have been fully restored pursuant to statute or another
+applicable recognized judicial, gubernatorial, or presidential order;
+(3) That the applicant has made restitution to an aggrieved person as
+ordered by a court of competent jurisdiction; and
+- 11 - 006372
+(4) That the applicant demonstrates another standard of rehabilitation the
+board determines is appropriate.
+(b) Except as provided in subsection (c), a person whose license was revoked
+shall not apply for a new license earlier than two (2) years after the date of revocation.
+(c) If a license revocation was based on a conviction of a felony or an offense
+involving moral turpitude and that conviction has been reversed on appeal, then the
+board shall vacate its previous order to revoke the license, and the anesthesiologist
+assistant may apply for a new license after the court enters the reversal.
+(d) An applicant for a new license after revocation shall comply with all initial
+licensure requirements prescribed by this chapter and rules adopted by the board
+pursuant to this chapter.
+63-21-107. Authority to promulgate rules.
+The department of health and the board of medical examiners are authorized to
+promulgate rules to effectuate this chapter. The rules must be promulgated in
+accordance with the Uniform Administrative Procedures Act, compiled in title 4, chapter
+
+Section 6:
+5.
+
+Section 7:
+SECTION 4. Tennessee Code Annotated, Section 63-6-101(a)(2), is amended by
+deleting the subdivision and substituting:
+(2) Three (3) members must be nonphysicians as follows:
+(A) Two (2) members who are consumers of health care and who do not
+own or have any financial or other interest in a healthcare facility, business,
+school of medicine, or other allied healthcare practitioner educational program
+and who represent the public at large; and
+(B) One (1) member who is an anesthesiologist assistant licensed under
+
+Section 8:
+§ 63-21-103, whose initial term begins upon the first expiration of a term of office
+for a nonphysician member who is serving on the board on January 1, 2026.
+- 12 - 006372
+
+Section 9:
+SECTION 5. Tennessee Code Annotated, Section 68-11-205, is amended by deleting
+subdivisions (b)(1), (b)(6), and (b)(9) and substituting:
+(b)
+(1)
+(A) Notwithstanding this section, a hospital licensed under this
+chapter or title 33, chapter 2, or an affiliate of a hospital, may employ
+licensed physicians to provide medical services in:
+(i) A hospital located in a county with a population of one
+hundred five thousand (105,000) or less, according to the 2020
+federal census;
+(ii) A hospital located in a county with a population of more
+than one hundred five thousand (105,000), according to the 2020
+federal census, if such licensed physicians are not radiologists,
+anesthesiologists, pathologists, or emergency physicians; or
+(iii) A hospital if such hospital is a children's hospital;
+provided, that any radiologists, anesthesiologists, pathologists, or
+emergency physicians employed by such children's hospital are
+board certified or board eligible, as defined in § 63-6-204(f)(7).
+(B) A hospital, as described in subdivision (b)(1)(A), may employ
+licensed physicians to provide medical services subject to the following
+conditions:
+(i) An employing entity shall not restrict or interfere with
+medically appropriate diagnostic or treatment decisions;
+(ii) An employing entity shall not restrict or interfere with
+physician referral decisions unless:
+- 13 - 006372
+(a) The physician so employed has agreed in
+writing to the specific restrictions at the time that the
+contract is executed;
+(b) The restriction does not, in the reasonable
+medical judgment of the physician, adversely affect the
+health or welfare of the patient; and
+(c) The employing entity discloses any such
+restrictions to the patient; and
+(iii) In the event that there is any dispute relating to
+subdivision (b)(1)(B)(i) or (b)(1)(B)(ii), the employing entity has the
+burden of proof.
+(C) For purposes of this subdivision (b), "children's hospital"
+means a free-standing hospital that serves primarily children seventeen
+(17) years of age or younger with a separate emergency department
+staffed and equipped to provide emergency services to pediatric patients.
+(6) Except as set forth in subdivision (b)(1) or in § 63-6-204(f), a
+radiologist, anesthesiologist, pathologist, or emergency physician shall not be
+employed by a hospital or an affiliate of a hospital, and a hospital or an affiliate of
+a hospital shall not employ any physician to provide medical services provided by
+radiologists, anesthesiologists, pathologists, or emergency physicians; provided,
+that a physician may be employed to provide emergency medical services if such
+physician is employed to provide other medical services.
+(9)
+(A) Hospitals that employ anesthesiologists shall comply with
+applicable medicare conditions for payment.
+(B) Notwithstanding subdivision (b)(6), a radiologist,
+anesthesiologist, or pathologist may be employed by a research hospital.
+- 14 - 006372
+The radiologist, anesthesiologist, or pathologist must be employed by the
+research hospital under the same terms and conditions as other
+physicians.
+
+Section 10:
+SECTION 6. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 11:
+SECTION 7. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. Sections 3 and 4 take effect January 1, 2026, the public
+welfare requiring it. All remaining sections take effect July 1, 2025, the public welfare requiring
+it.
+- 15 - 006372
+[DELETED:  a HS((((((]
+[DELETED:  -0(((()()()((((((]
+[DELETED:  -0()()()((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(S(S6A(((((]
+[DELETED:  -0(6((((((((((]
+[DELETED:  -06(((((((]
+[DELETED:  -0(((((6((((]
+[DELETED:  -0(((((((((((((]
+[DELETED:  -06((6((((]
+[DELETED:  -0((((6TS(((]
+[DELETED:  -0S(((((((((]
+[DELETED:  -0()()()((((((]
+[DELETED:  -0SS]
+
+
+================================================================================
+
+Raw Text:
+Senate Health and Welfare 1
+Amendment No. 1 to SB0764
+Crowe
+Signature of Sponsor
+AMEND S e n ate Bill No. 764* House Bill No. 979
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 63-6-204, is amended by deleting
+subdivisions (f)(1), (f)(4), (f)(6), and (f)(7) and substituting:
+(f)
+(1)
+(A) Notwithstanding this section, a hospital licensed under title 68,
+chapter 11, or title 33, chapter 2, or an affiliate of a hospital, may employ
+licensed physicians to provide medical services in:
+(i) A hospital located in a county with a population of one
+hundred five thousand (105,000) or less, according to the 2020
+federal census;
+(ii) A hospital located in a county with a population of more
+than one hundred five thousand (105,000), according to the 2020
+federal census, if such licensed physicians are other than
+radiologists, anesthesiologists, pathologists, or emergency
+physicians; or
+(iii) A hospital if such hospital is a children's hospital;
+provided, that any radiologists, anesthesiologists, pathologists, or
+emergency physicians employed by such children's hospital are
+board certified or board eligible.
+SA0264
+006372
+- 1 -
+
+(B) A hospital, as described in subdivision (f)(1)(A), may employ
+licensed physicians to provide medical services subject to the following
+conditions:
+(i) An employing entity shall not restrict or interfere with
+medically appropriate diagnostic or treatment decisions;
+(ii) An employing entity shall not restrict or interfere with
+physician referral decisions unless:
+(a) The physician so employed has agreed in
+writing to the specific restrictions at the time that the
+contract is executed;
+(b) The restriction does not, in the reasonable
+medical judgment of the physician, adversely affect the
+health or welfare of the patient; and
+(c) The employing entity discloses any such
+restrictions to the patient; and
+(iii) In the event that there is any dispute relating to
+subdivision (f)(1)(B)(i) or (f)(1)(B)(ii), the employing entity has the
+burden of proof.
+(4) In any event, this section does not prohibit any of the following from
+employing physicians:
+(A) A licensed physician; or
+(B) A group of licensed physicians, including either of the
+following:
+(i) A physicians' professional corporation registered under
+title 48, chapter 101; or
+(ii) A domestic nonprofit public benefit corporation:
+- 2 - 006372
+
+(a) That is recognized as exempt under § 501(c)(3)
+of the Internal Revenue Code (26 U.S.C. § 501(c)(3)), or
+any successor section;
+(b) A purpose of which is to engage in medical
+education and medical research in conjunction with a
+college or university operating an accredited medical
+school in this state; and
+(c) Whose physician-employees practice through a
+faculty practice plan for purposes of Title XVIII of the
+federal Social Security Act (42 U.S.C., Chapter 7,
+subchapter XVIII), and related promulgated regulations, or
+any wholly owned subsidiary of the foregoing 501(c)(3)
+institution.
+(6)
+(A) Except as set forth in subdivision (f)(1) or in § 68-11-205(b), a
+radiologist, anesthesiologist, pathologist, or emergency physician shall
+not be employed by a hospital or an affiliate of a hospital, and a hospital
+or an affiliate of a hospital shall not employ any physician to provide
+medical services provided by radiologists, anesthesiologists, pathologists,
+or emergency physicians; provided, that a physician may be employed to
+provide emergency medical services if such physician is employed to
+provide other medical services.
+(B) Notwithstanding subdivisions (f)(1) and (f)(6)(A), a research
+hospital may employ radiologists, anesthesiologists, or pathologists under
+the same terms and conditions as other physicians.
+(C) Hospitals that employ anesthesiologists shall comply with
+applicable medicare conditions for payment.
+- 3 - 006372
+
+(7) As used in this section, unless the context otherwise requires:
+(A) "Affiliate" of a hospital:
+(i) Means an entity that directly or indirectly is controlled
+by, or is under common control with, a hospital licensed under title
+68, chapter 11 or title 33, chapter 2; and
+(ii) Does not include a health maintenance organization
+licensed under the Health Maintenance Organization Act of 1986,
+compiled in title 56, chapter 32;
+(B) "Anesthesiologist" means a physician who has completed a
+residency in anesthesiology and whose practice is primarily limited to
+anesthesiology, including nerve block, pain management, cardiac and
+respiratory resuscitation, respiratory therapy, management of fluids,
+electrolyte and metabolic disturbances, or a dentist licensed in this state
+who completed a residency program in anesthesiology at an accredited
+medical school in years 1963 through 1977;
+(C) "Board certified" means a physician who is board certified in
+the applicable medical specialty by the American Board of Medical
+Specialists or a comparable board;
+(D) "Board eligible" means a physician who has completed an
+approved residency but has not yet completed a medical specialty
+examination given by a board recognized by the American Board of
+Medical Specialists or a comparable board;
+(E) "Children's hospital" means a free-standing hospital that
+serves primarily children seventeen (17) years of age or younger with a
+separate emergency department staffed and equipped to provide
+emergency services to pediatric patients;
+(F) "Emergency physician":
+- 4 - 006372
+
+(i) Means a physician who has either completed a
+residency in emergency medicine, or practiced emergency
+medicine full time for a three-year period, and whose practice is
+limited to emergency medicine; and
+(ii) Does not include a physician who has been previously
+employed to provide nonemergent medical services and who, over
+a period of twelve (12) months or more, becomes a full-time
+emergency physician and remains employed by mutual
+agreement;
+(G) "Employing entity":
+(i) Means a hospital licensed under title 68, chapter 11, or
+title 33, chapter 2, or an affiliate of such an entity, that employs
+one (1) or more physicians; and
+(ii) Does not include a health maintenance organization
+licensed under the Health Maintenance Organization Act of 1986;
+(H) "Pathologist" means a physician who has completed a
+residency in pathology and whose practice is primarily limited to
+pathology, including, without limitation, anatomic and clinical pathology;
+(I) "Physician" means a person licensed pursuant to this chapter
+or chapter 9 of this title;
+(J) "Psychiatrist" means a physician who has completed a
+residency in psychiatry and whose practice is primarily limited to
+psychiatry;
+(K) "Radiologist" means a physician who has completed a
+residency in radiology and whose practice is primarily limited to radiology,
+including diagnostic radiology, radiation therapy, and radiation oncology;
+and
+- 5 - 006372
+
+(L) "Research hospital" means a hospital at which fifty percent
+(50%) or more of the inpatients treated during the previous calendar year
+were treated pursuant to research protocols.
+SECTION 2. Tennessee Code Annotated, Section 63-9-104(f)(3), is amended by
+deleting the subdivision and substituting:
+(3) For the purposes of this section, the term "employing" does not allow the
+employing of osteopathic physicians with the same specialties as those physicians
+exempted in § 63-6-204(e)(2)(B), except as permitted by § 63-6-204(f)(4).
+SECTION 3. Tennessee Code Annotated, Title 63, is amended by adding the following
+as a new chapter:
+63-21-101. Chapter definitions.
+As used in this chapter:
+(1) "Anesthesiologist" means a physician who is licensed pursuant to
+chapter 6 or 9 of this title and who has completed a residency in anesthesiology
+approved by the American Board of Anesthesiology or the American Osteopathic
+Board of Anesthesiology;
+(2) "Anesthesiologist assistant" means a person who meets the
+requirements of § 63-21-103 and is board-approved to assist in the practice of
+medicine under delegation of an anesthesiologist;
+(3) "Assists" means, in regard to an anesthesiologist assistant, that the
+anesthesiologist assistant personally performs those duties and responsibilities
+delegated by the anesthesiologist;
+(4) "Board" means the board of medical examiners established by
+chapter 6, part 1 of this title;
+(5) "Certification examination" means the initial certifying examination
+approved by the board for the certification of anesthesiologist assistants,
+including the examination administered by the National Commission for the
+- 6 - 006372
+
+Certification of Anesthesiologist Assistants or another national anesthesiologist
+assistant certifying agency that has been reviewed and approved by the board;
+and
+(6) "Supervision" means the availability of an anesthesiologist who can
+delegate, coordinate, direct, consult, or oversee the implementation of the
+anesthesiologist's intentions.
+63-21-102. Boards – Powers and duties.
+(a) The board shall review and determine the qualifications and fitness of all
+persons applying for a license to practice as an anesthesiologist assistant.
+(b) The board shall:
+(1) Grant, deny, renew, revoke, and reinstate licenses;
+(2) Set and collect fees for licensure under this chapter;
+(3) Establish continuing education requirements for anesthesiologist
+assistants;
+(4) Investigate allegations that an anesthesiologist assistant or the
+supervising anesthesiologist has engaged in conduct constituting a ground for
+revocation;
+(5) Conduct informal interviews and hearings;
+(6) Take disciplinary or other administrative action that complies with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5, to enforce
+this chapter;
+(7) Adopt rules governing the licensure and practice of anesthesiologist
+assistants, and such other rules as are necessary to implement and enforce this
+chapter; and
+(8) Retain jurisdiction over only those licensees to whom temporary or
+full licenses are granted pursuant to this chapter, regardless of whether the
+- 7 - 006372
+
+license has expired or lapsed, been retired, or was relinquished during or after
+any alleged occurrence of conduct.
+63-21-103. Licensure – Unauthorized practice – Use of title – Duplicate license –
+Temporary licensure – Fees.
+(a) A person shall not practice in this state as an anesthesiologist assistant or
+use the title or represent that the person is a certified anesthesiologist assistant,
+anesthesiologist assistant, or use the abbreviations "C.A.A." or "A.A." without having a
+license granted by the board pursuant to this chapter. A violation of this subsection (a)
+is a Class B misdemeanor, punishable by a fine of not more than one thousand dollars
+($1,000) or by a term of imprisonment for not more than one (1) year, or both. Each
+violation of this subsection (a) constitutes a separate offense.
+(b) The board may grant an anesthesiologist assistant license to an applicant
+who:
+(1) Graduated from an anesthesiologist assistant program accredited by
+the Commission on Accreditation of Allied Health Education Programs or its
+predecessor or successor organization;
+(2) Satisfactorily completed a certification examination administered by
+the National Commission for the Certification of Anesthesiologist Assistants or
+another national certifying agency that has been reviewed and approved by the
+board;
+(3) Completes an application form; and
+(4) Pays the required application and licensure fees as prescribed by the
+board in rule.
+(c) The board shall issue a license, other than a temporary license, pursuant to
+rules promulgated in accordance with § 63-21-107.
+- 8 - 006372
+
+(d) The board may reinstate a lapsed license if the applicant pays a
+reinstatement fee as prescribed by the board in rule and meets the requirements for
+initial licensure.
+(e) The board may issue a temporary license to a person who:
+(1) Completes a temporary license application;
+(2) Pays the required temporary license fee as prescribed by the board in
+rule; and
+(3) Successfully completes a Commission on Accreditation of Allied
+Health Education program or another board-approved program for educating and
+training anesthesiologist assistants but who has not passed a certification
+examination. The person shall take the next available certification examination
+after receiving a temporary license. A temporary license must not be issued for a
+period of more than one (1) year and is subject to other requirements the board
+adopts by rule.
+63-21-104. Scope of practice.
+(a) This section does not apply to a person who is enrolled in an
+anesthesiologist assistant education program approved by the board.
+(b) An anesthesiologist assistant may assist in the practice of medicine only
+under the supervision of an anesthesiologist. The anesthesiologist assistant may
+perform only those duties and responsibilities delegated to the anesthesiologist assistant
+by the supervising anesthesiologist.
+(c) The supervising anesthesiologist shall supervise an anesthesiologist
+assistant in a manner consistent with federal rules or regulations for reimbursement for
+anesthesia services.
+(d) The supervising anesthesiologist must be immediately available to the
+anesthesiologist assistant who assists in the delivery of medical care such that the
+supervising anesthesiologist is able to intervene if needed.
+- 9 - 006372
+
+(e) An anesthesiologist assistant's practice must not exceed the assistant's
+education and training, and the scope of practice of the supervising anesthesiologist. A
+medical care task assigned by the supervising anesthesiologist to the anesthesiologist
+assistant must not be delegated by the anesthesiologist assistant to another person.
+(f)
+(1) An anesthesiologist assistant must have a supervising agreement
+with a supervising anesthesiologist.
+(2) An anesthesiologist assistant shall maintain a copy of the supervising
+agreement either on paper or electronically at each of the anesthesiologist
+assistant's practice locations and make the supervising agreement available
+upon request by the board or an authorized agent of the board.
+(3)
+(A) A violation of subdivision (f)(1) is a Class B misdemeanor,
+punishable by a fine of not more than one thousand dollars ($1,000).
+(B) Each violation of subdivision (f)(1) constitutes a separate
+offense.
+(g)
+(1) A supervising anesthesiologist shall not employ a person to practice
+as an anesthesiologist assistant who is not licensed pursuant to this chapter.
+(2)
+(A) A violation of subdivision (g)(1) is a Class B misdemeanor,
+punishable by a fine of not more than one thousand dollars ($1,000) or by
+a term of imprisonment for not more than one (1) year, or both.
+(B) Each violation of subdivision (g)(1) constitutes a separate
+offense.
+(h) The board shall establish such other qualifications and the scope of practice
+as the board deems appropriate for an anesthesiologist assistant. The board is
+- 10 - 006372
+
+authorized to adopt rules to effectuate this section. The rules must be promulgated in
+accordance with the Uniform Administrative Procedures Act, compiled in title 4, chapter
+5.
+63-21-105. Board disciplinary actions.
+(a) The board may refuse to renew and may revoke, suspend, or restrict a
+license or take other disciplinary action, including imposing conditions or restrictions on a
+license pursuant to this chapter and the rules adopted pursuant to this chapter.
+(b) If the board determines that a person is ineligible for licensure, that
+application for licensure should be denied or suspended, or another action should be
+taken on a current license, then the board shall adopt and enter its written order and
+findings. If the board proposes to issue discipline on a current license, then a contested
+case hearing must be conducted pursuant to title 4, chapter 5, part 3.
+63-21-106. Issuance of new license following revocation; requirements.
+(a) The board may issue a new license to an anesthesiologist assistant whose
+license was previously revoked by the board if the applicant applies in writing to the
+board and demonstrates to the board's satisfaction that the applicant is completely
+rehabilitated with respect to the conduct that was the basis for the revocation. In making
+its decision, the board must determine:
+(1) That the applicant has not engaged in conduct during the revocation
+period that would constitute a basis for revocation pursuant to rules adopted by
+the board;
+(2) If a criminal conviction was a basis of the revocation, that the
+applicant's civil rights have been fully restored pursuant to statute or another
+applicable recognized judicial, gubernatorial, or presidential order;
+(3) That the applicant has made restitution to an aggrieved person as
+ordered by a court of competent jurisdiction; and
+- 11 - 006372
+
+(4) That the applicant demonstrates another standard of rehabilitation the
+board determines is appropriate.
+(b) Except as provided in subsection (c), a person whose license was revoked
+shall not apply for a new license earlier than two (2) years after the date of revocation.
+(c) If a license revocation was based on a conviction of a felony or an offense
+involving moral turpitude and that conviction has been reversed on appeal, then the
+board shall vacate its previous order to revoke the license, and the anesthesiologist
+assistant may apply for a new license after the court enters the reversal.
+(d) An applicant for a new license after revocation shall comply with all initial
+licensure requirements prescribed by this chapter and rules adopted by the board
+pursuant to this chapter.
+63-21-107. Authority to promulgate rules.
+The department of health and the board of medical examiners are authorized to
+promulgate rules to effectuate this chapter. The rules must be promulgated in
+accordance with the Uniform Administrative Procedures Act, compiled in title 4, chapter
+5.
+SECTION 4. Tennessee Code Annotated, Section 63-6-101(a)(2), is amended by
+deleting the subdivision and substituting:
+(2) Three (3) members must be nonphysicians as follows:
+(A) Two (2) members who are consumers of health care and who do not
+own or have any financial or other interest in a healthcare facility, business,
+school of medicine, or other allied healthcare practitioner educational program
+and who represent the public at large; and
+(B) One (1) member who is an anesthesiologist assistant licensed under
+§ 63-21-103, whose initial term begins upon the first expiration of a term of office
+for a nonphysician member who is serving on the board on January 1, 2026.
+- 12 - 006372
+
+SECTION 5. Tennessee Code Annotated, Section 68-11-205, is amended by deleting
+subdivisions (b)(1), (b)(6), and (b)(9) and substituting:
+(b)
+(1)
+(A) Notwithstanding this section, a hospital licensed under this
+chapter or title 33, chapter 2, or an affiliate of a hospital, may employ
+licensed physicians to provide medical services in:
+(i) A hospital located in a county with a population of one
+hundred five thousand (105,000) or less, according to the 2020
+federal census;
+(ii) A hospital located in a county with a population of more
+than one hundred five thousand (105,000), according to the 2020
+federal census, if such licensed physicians are not radiologists,
+anesthesiologists, pathologists, or emergency physicians; or
+(iii) A hospital if such hospital is a children's hospital;
+provided, that any radiologists, anesthesiologists, pathologists, or
+emergency physicians employed by such children's hospital are
+board certified or board eligible, as defined in § 63-6-204(f)(7).
+(B) A hospital, as described in subdivision (b)(1)(A), may employ
+licensed physicians to provide medical services subject to the following
+conditions:
+(i) An employing entity shall not restrict or interfere with
+medically appropriate diagnostic or treatment decisions;
+(ii) An employing entity shall not restrict or interfere with
+physician referral decisions unless:
+- 13 - 006372
+
+(a) The physician so employed has agreed in
+writing to the specific restrictions at the time that the
+contract is executed;
+(b) The restriction does not, in the reasonable
+medical judgment of the physician, adversely affect the
+health or welfare of the patient; and
+(c) The employing entity discloses any such
+restrictions to the patient; and
+(iii) In the event that there is any dispute relating to
+subdivision (b)(1)(B)(i) or (b)(1)(B)(ii), the employing entity has the
+burden of proof.
+(C) For purposes of this subdivision (b), "children's hospital"
+means a free-standing hospital that serves primarily children seventeen
+(17) years of age or younger with a separate emergency department
+staffed and equipped to provide emergency services to pediatric patients.
+(6) Except as set forth in subdivision (b)(1) or in § 63-6-204(f), a
+radiologist, anesthesiologist, pathologist, or emergency physician shall not be
+employed by a hospital or an affiliate of a hospital, and a hospital or an affiliate of
+a hospital shall not employ any physician to provide medical services provided by
+radiologists, anesthesiologists, pathologists, or emergency physicians; provided,
+that a physician may be employed to provide emergency medical services if such
+physician is employed to provide other medical services.
+(9)
+(A) Hospitals that employ anesthesiologists shall comply with
+applicable medicare conditions for payment.
+(B) Notwithstanding subdivision (b)(6), a radiologist,
+anesthesiologist, or pathologist may be employed by a research hospital.
+- 14 - 006372
+
+The radiologist, anesthesiologist, or pathologist must be employed by the
+research hospital under the same terms and conditions as other
+physicians.
+SECTION 6. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 7. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. Sections 3 and 4 take effect January 1, 2026, the public
+welfare requiring it. All remaining sections take effect July 1, 2025, the public welfare requiring
+it.
+- 15 - 006372
+
+[DELETED:  a HS((((((]
+[DELETED:  -0(((()()()((((((]
+[DELETED:  -0()()()((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(S(S6A(((((]
+[DELETED:  -0(6((((((((((]
+[DELETED:  -06(((((((]
+[DELETED:  -0(((((6((((]
+[DELETED:  -0(((((((((((((]
+[DELETED:  -06((6((((]
+[DELETED:  -0((((6TS(((]
+[DELETED:  -0S(((((((((]
+[DELETED:  -0()()()((((((]
+[DELETED:  -0SS]

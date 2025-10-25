@@ -1,0 +1,118 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 487
+By Clemmons
+A RESOLUTION to welcome Tennessean Captain Barry "Butch"
+Wilmore back to Earth after completing his
+mission aboard the International Space Station.
+WHEREAS, the members of this General Assembly take great pleasure in recognizing
+an astronaut who served the disciplines of aeronautics and space flight with distinction and
+demonstrated his devotion to his country and his mission during his more than nine-month stay
+aboard the International Space Station (ISS); and
+WHEREAS, after nearly 300 days in orbit, Captain Barry "Butch" Wilmore and his
+colleague, Captain Sunita "Suni" Williams, returned to Earth on March 18, 2025; and
+WHEREAS, departing from Earth as a member of the Boeing's Starliner's first crewed
+mission, Captain Wilmore arrived at the ISS in June 2024 for a scheduled short stay as part of
+its test flight; however, technical issues prevented him and Captain Williams from returning
+home on the spaceship; and
+WHEREAS, NASA decided to keep Captain Wilmore at the ISS for a few extra months
+to maintain staffing levels, later launching the SpaceX Crew-9 mission with only two astronauts,
+instead of the usual four, to provide Captain Wilmore and his colleague with a ride back home;
+and
+WHEREAS, the average person would probably not relish spending more than nine
+months in space, but Captain Wilmore enjoyed his extra time in the cosmos, modestly referring
+to his extended stay as "just part of the job"; and
+WHEREAS, in the early morning of March 18, 2025, Captain Wilmore and Captain
+Williams boarded the SpaceX Dragon at the ISS to return to Earth; after a seventeen-hour
+voyage, the Dragon made a water landing off the Florida coast that evening; and
+HJR0487
+006067
+- 1 -
+WHEREAS, a proud Tennessean, Captain Barry "Butch" Wilmore hails from Mt. Juliet
+and has earned degrees from Tennessee Technological University and the University of
+Tennessee; and
+WHEREAS, selected as an astronaut by NASA in July 2000, Butch Wilmore is a retired
+U.S. Navy captain and a veteran of two spaceflights; he has accumulated more than 8,000 flight
+hours and 663 carrier landings; and
+WHEREAS, Captain Wilmore is to be greatly commended for his dedication to duty in
+the face of adversity; this brave astronaut served an extended stay in space without complaint
+or compunction, and he is worthy of our approbation upon his return home; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we welcome Tennessean Captain Barry "Butch" Wilmore back to Earth
+after completing an extended nine-month mission aboard the International Space Station, thank
+him for his ongoing commitment to space exploration, and wish him all the best in his future
+endeavors.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 006067
+[DELETED: WWWWWW]
+[DELETED:  -0WWWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 487
+By Clemmons
+A RESOLUTION to welcome Tennessean Captain Barry "Butch"
+Wilmore back to Earth after completing his
+mission aboard the International Space Station.
+WHEREAS, the members of this General Assembly take great pleasure in recognizing
+an astronaut who served the disciplines of aeronautics and space flight with distinction and
+demonstrated his devotion to his country and his mission during his more than nine-month stay
+aboard the International Space Station (ISS); and
+WHEREAS, after nearly 300 days in orbit, Captain Barry "Butch" Wilmore and his
+colleague, Captain Sunita "Suni" Williams, returned to Earth on March 18, 2025; and
+WHEREAS, departing from Earth as a member of the Boeing's Starliner's first crewed
+mission, Captain Wilmore arrived at the ISS in June 2024 for a scheduled short stay as part of
+its test flight; however, technical issues prevented him and Captain Williams from returning
+home on the spaceship; and
+WHEREAS, NASA decided to keep Captain Wilmore at the ISS for a few extra months
+to maintain staffing levels, later launching the SpaceX Crew-9 mission with only two astronauts,
+instead of the usual four, to provide Captain Wilmore and his colleague with a ride back home;
+and
+WHEREAS, the average person would probably not relish spending more than nine
+months in space, but Captain Wilmore enjoyed his extra time in the cosmos, modestly referring
+to his extended stay as "just part of the job"; and
+WHEREAS, in the early morning of March 18, 2025, Captain Wilmore and Captain
+Williams boarded the SpaceX Dragon at the ISS to return to Earth; after a seventeen-hour
+voyage, the Dragon made a water landing off the Florida coast that evening; and
+HJR0487
+006067
+- 1 -
+
+WHEREAS, a proud Tennessean, Captain Barry "Butch" Wilmore hails from Mt. Juliet
+and has earned degrees from Tennessee Technological University and the University of
+Tennessee; and
+WHEREAS, selected as an astronaut by NASA in July 2000, Butch Wilmore is a retired
+U.S. Navy captain and a veteran of two spaceflights; he has accumulated more than 8,000 flight
+hours and 663 carrier landings; and
+WHEREAS, Captain Wilmore is to be greatly commended for his dedication to duty in
+the face of adversity; this brave astronaut served an extended stay in space without complaint
+or compunction, and he is worthy of our approbation upon his return home; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we welcome Tennessean Captain Barry "Butch" Wilmore back to Earth
+after completing an extended nine-month mission aboard the International Space Station, thank
+him for his ongoing commitment to space exploration, and wish him all the best in his future
+endeavors.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 006067
+
+[DELETED: WWWWWW]
+[DELETED:  -0WWWBB]

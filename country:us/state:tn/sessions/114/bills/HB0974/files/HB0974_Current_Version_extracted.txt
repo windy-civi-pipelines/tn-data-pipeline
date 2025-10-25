@@ -1,0 +1,51 @@
+Title: SENATE BILL 1069
+Official Title: SENATE BILL 1069
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Pody
+HOUSE BILL 974
+By McCalmon
+AN ACT to amend Tennessee Code Annotated, Title 55,
+Chapter 17 and Title 62, Chapter 19, relative to
+auctions of motor vehicles.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 55-17-120(e)(2), is amended by
+deleting the semicolon at the end of the subdivision and substituting instead:
+, which may be sent electronically;
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0974
+001033
+- 1 -
+[DELETED: S,]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1069
+By Pody
+HOUSE BILL 974
+By McCalmon
+AN ACT to amend Tennessee Code Annotated, Title 55,
+Chapter 17 and Title 62, Chapter 19, relative to
+auctions of motor vehicles.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 55-17-120(e)(2), is amended by
+deleting the semicolon at the end of the subdivision and substituting instead:
+, which may be sent electronically;
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0974
+001033
+- 1 -
+
+[DELETED: S,]

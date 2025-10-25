@@ -1,0 +1,328 @@
+Title: AMEND S e n ate Bill No. 1068 House Bill No. 972*
+Official Title: AMEND S e n ate Bill No. 1068 House Bill No. 972*
+Number of Sections: 1
+Source: versions - Amendment HA0532
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+House Finance, Ways, and Means 3
+Amendment No. 5 to HB0972
+Hicks G
+Signature of Sponsor
+by adding the following new appropriately designated subdivisions to § 55-31-102 in SECTION
+1:
+(_) "Contracted property" means private or public property, including a commercial
+parking lot or property owned by a public institution of higher education, that is located within the
+jurisdiction of a local government that has adopted an ordinance, resolution, regulation, or rule
+in compliance with § 55-31-201(c), and for which the owner or lessee of the property has
+entered into a contract with a licensed parking enforcement vendor for the enforcement of
+parking rules or restrictions on the property or a designated portion of the property;
+(_) "Employee" means a natural person who is required to file a federal form W-2, wage
+and tax statement, with the federal internal revenue service for the compensation the natural
+person receives for work performed;
+(_) "Licensed booting operator" means a natural person who:
+(A) Is an employee of a licensed parking enforcement vendor;
+(B) Holds a valid license issued by a local government pursuant to an ordinance,
+resolution, regulation, or rule adopted in compliance with § 55-31-201(c) and whose
+license has not expired, been suspended, or revoked; and
+(C) Is employed to enforce parking rules or restrictions on contracted property;
+(_) "Licensed parking enforcement vendor" means a person, other than a natural
+person, who:
+HA0532
+008016
+- 1 -
+(A) Holds a valid license issued by a local government pursuant to an ordinance,
+resolution, regulation, or rule adopted in compliance with § 55-31-201(c) and whose
+license has not expired, been suspended, or revoked;
+(B) Is contracted to engage in parking enforcement activities on contracted
+property; and
+(C) Has recorded the required surety bond with the register of deeds in the
+county where the vendor operates as required by the local government pursuant to an
+ordinance, resolution, rule, or regulation adopted in compliance with § 55-31-201(c);
+(_) "Self-releasing device" means a vehicle immobilization device that:
+(A) Allows the vehicle owner or vehicle operator to remove the device without
+third-party assistance;
+(B) Is equipped with an automated or electronic release mechanism that enables
+removal of the device immediately upon payment of the fees described in § 55-31-
+201(b)(5);
+(C) Permits the electronic processing of payment of the fees listed in § 55-31-
+201(b)(5) by credit card or debit card;
+(D) Provides clear, written, and visual instructions for how to make payment of
+fees and for device removal; and
+(E) Ensures the device can be safely removed by the vehicle owner or vehicle
+operator without damaging the vehicle or presenting a hazard;
+AND FURTHER AMEND by deleting § 55-31-201 in SECTION 1 and substituting:
+55-31-201. Booting.
+(a) It is an offense for any person to boot a motor vehicle, including, but not
+limited to, a tractor or trailer, as those terms are defined in § 55-8-101, in this state, if the
+motor vehicle is clearly identifiable by:
+(1) A United States department of transportation (USDOT) number
+issued by the federal motor carrier safety administration (FMCSA);
+- 2 - 008016
+(2) A registration plate issued and attached to the motor vehicle
+described in § 55-4-113(a)(2); or
+(3) A registration plate issued and attached to a trailer described in § 55-
+4-113(a)(5).
+(b) It is an offense for any person to boot any other motor vehicle not described
+in subsection (a) unless:
+(1) The vehicle immobilization device is a self-releasing device;
+(2) The motor vehicle is located on a commercial parking lot or on
+contracted property;
+(3) The person attaching the vehicle immobilization device is an
+employee of a commercial parking lot owner or is a licensed booting operator;
+(4) The commercial parking lot or contracted property posts signage in
+conspicuous locations on the commercial parking lot or contracted property
+bearing notice that:
+(A) Any motor vehicle not authorized to park on the lot or property
+is subject to booting;
+(B) Is designed and placed in a manner that ensures clear
+visibility and readability by consumers parking on the lot or property;
+(C) Is located at each designated entrance and exit of the lot or
+property;
+(D) Contains:
+(i) The phone number that a consumer can call for support
+with removing the vehicle immobilization device and that is
+monitored by a natural person twenty-four (24) hours per day,
+seven (7) days per week; and
+- 3 - 008016
+(ii) The license number issued by the local government to
+the licensed parking enforcement vendor contracted to boot on the
+lot or property, if any; and
+(E) This chapter protects consumers from booting violations and
+that violations may be reported to the attorney general and reporter;
+(5) The cost to remove the vehicle immobilization device is not greater
+than the actual cost of the parking fees owed that led to the attachment of the
+vehicle immobilization device, if any, plus a vehicle immobilization device
+removal fee of not greater than seventy-five dollars ($75.00); and
+(6) A fee is not charged to remove a vehicle immobilization device to a
+person who had paid to park and who was improperly booted.
+(c)
+(1) On or after the effective date of this act, a local government may
+adopt an ordinance, resolution, regulation, or rule to provide for the licensure of
+licensed booting operators and licensed parking enforcement vendors; provided,
+that the ordinance, resolution, regulation, or rule complies with subdivision (c)(2).
+(2) An ordinance, resolution, regulation, or rule adopted pursuant to
+subdivision (c)(1) must:
+(A) Require the annual licensure of licensed booting operators
+and licensed parking enforcement vendors;
+(B) Establish minimum identification standards for licensed
+booting operators to ensure that a person attaching a vehicle
+immobilization device to motor vehicles can be clearly identified as
+licensed by the local government;
+(C) Issue a unique license number to each licensed booting
+operator and each licensed parking enforcement vendor;
+- 4 - 008016
+(D) Establish a method by which consumers may file and track
+complaints against a licensed booting operator or licensed parking
+enforcement vendor;
+(E) Provide for the suspension or revocation of a license for good
+cause shown;
+(F) Require timely investigation of consumer complaints;
+(G) Require, as a condition of licensure, that a licensed parking
+enforcement vendor file a surety bond in an amount of no less than two
+hundred fifty thousand dollars ($250,000) with the local government,
+which must be recorded with the register of deeds in the county where the
+vendor operates;
+(H) Ensure that each commercial parking lot or contracted
+property complies with the signage requirements of subdivision (b)(4);
+(I) Provide for referral of any licensee to the attorney general and
+reporter, a law enforcement agency, or both, for a suspected violation of
+this chapter; and
+(J) Maintain a publicly accessible registry of all licensed booting
+operators and licensed parking enforcement vendors, including license
+number, license status, and contact information.
+(d) Notwithstanding subdivision (b)(5), if a vehicle owner or operator intentionally
+damages a vehicle immobilization device or fails to return the vehicle immobilization
+device to a clearly designated on-site storage location, the vehicle owner or operator
+may be subject to an additional fee not to exceed one hundred dollars ($100).
+(e) If an employee of a commercial parking lot owner or a licensed booting
+operator removes or causes the removal of a vehicle immobilization device from a
+vehicle that has been immobilized on the commercial parking lot or contracted property
+for the purpose of having the motor vehicle towed from the commercial parking lot or
+- 5 - 008016
+contracted property, then the motor vehicle owner or operator must not be assessed the
+vehicle immobilization device removal fee permitted pursuant to subdivision (b)(5). This
+subsection (e) does not prohibit a towing company from charging the owner or operator
+of the motor vehicle any fee authorized by this chapter.
+(f) In addition to the remedies in § 55-31-103, a person injured as a result of a
+violation of this section by a licensed booting operator or licensed parking enforcement
+vendor may file a claim against the surety bond required under subdivision (c)(2)(G) to
+recover actual damages incurred as a result of the violation. The surety must be liable
+up to the amount of the bond for any damages shown to have been caused by a
+licensee's unlawful or negligent conduct while acting within the scope of parking
+enforcement activities on a commercial parking lot or contracted property.
+- 6 - 008016
+[DELETED:  a H(((((((]
+[DELETED:  -0((((((((5((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(]
+
+
+================================================================================
+
+Raw Text:
+House Finance, Ways, and Means 3
+Amendment No. 5 to HB0972
+Hicks G
+Signature of Sponsor
+AMEND S e n ate Bill No. 1068 House Bill No. 972*
+by adding the following new appropriately designated subdivisions to § 55-31-102 in SECTION
+1:
+(_) "Contracted property" means private or public property, including a commercial
+parking lot or property owned by a public institution of higher education, that is located within the
+jurisdiction of a local government that has adopted an ordinance, resolution, regulation, or rule
+in compliance with § 55-31-201(c), and for which the owner or lessee of the property has
+entered into a contract with a licensed parking enforcement vendor for the enforcement of
+parking rules or restrictions on the property or a designated portion of the property;
+(_) "Employee" means a natural person who is required to file a federal form W-2, wage
+and tax statement, with the federal internal revenue service for the compensation the natural
+person receives for work performed;
+(_) "Licensed booting operator" means a natural person who:
+(A) Is an employee of a licensed parking enforcement vendor;
+(B) Holds a valid license issued by a local government pursuant to an ordinance,
+resolution, regulation, or rule adopted in compliance with § 55-31-201(c) and whose
+license has not expired, been suspended, or revoked; and
+(C) Is employed to enforce parking rules or restrictions on contracted property;
+(_) "Licensed parking enforcement vendor" means a person, other than a natural
+person, who:
+HA0532
+008016
+- 1 -
+
+(A) Holds a valid license issued by a local government pursuant to an ordinance,
+resolution, regulation, or rule adopted in compliance with § 55-31-201(c) and whose
+license has not expired, been suspended, or revoked;
+(B) Is contracted to engage in parking enforcement activities on contracted
+property; and
+(C) Has recorded the required surety bond with the register of deeds in the
+county where the vendor operates as required by the local government pursuant to an
+ordinance, resolution, rule, or regulation adopted in compliance with § 55-31-201(c);
+(_) "Self-releasing device" means a vehicle immobilization device that:
+(A) Allows the vehicle owner or vehicle operator to remove the device without
+third-party assistance;
+(B) Is equipped with an automated or electronic release mechanism that enables
+removal of the device immediately upon payment of the fees described in § 55-31-
+201(b)(5);
+(C) Permits the electronic processing of payment of the fees listed in § 55-31-
+201(b)(5) by credit card or debit card;
+(D) Provides clear, written, and visual instructions for how to make payment of
+fees and for device removal; and
+(E) Ensures the device can be safely removed by the vehicle owner or vehicle
+operator without damaging the vehicle or presenting a hazard;
+AND FURTHER AMEND by deleting § 55-31-201 in SECTION 1 and substituting:
+55-31-201. Booting.
+(a) It is an offense for any person to boot a motor vehicle, including, but not
+limited to, a tractor or trailer, as those terms are defined in § 55-8-101, in this state, if the
+motor vehicle is clearly identifiable by:
+(1) A United States department of transportation (USDOT) number
+issued by the federal motor carrier safety administration (FMCSA);
+- 2 - 008016
+
+(2) A registration plate issued and attached to the motor vehicle
+described in § 55-4-113(a)(2); or
+(3) A registration plate issued and attached to a trailer described in § 55-
+4-113(a)(5).
+(b) It is an offense for any person to boot any other motor vehicle not described
+in subsection (a) unless:
+(1) The vehicle immobilization device is a self-releasing device;
+(2) The motor vehicle is located on a commercial parking lot or on
+contracted property;
+(3) The person attaching the vehicle immobilization device is an
+employee of a commercial parking lot owner or is a licensed booting operator;
+(4) The commercial parking lot or contracted property posts signage in
+conspicuous locations on the commercial parking lot or contracted property
+bearing notice that:
+(A) Any motor vehicle not authorized to park on the lot or property
+is subject to booting;
+(B) Is designed and placed in a manner that ensures clear
+visibility and readability by consumers parking on the lot or property;
+(C) Is located at each designated entrance and exit of the lot or
+property;
+(D) Contains:
+(i) The phone number that a consumer can call for support
+with removing the vehicle immobilization device and that is
+monitored by a natural person twenty-four (24) hours per day,
+seven (7) days per week; and
+- 3 - 008016
+
+(ii) The license number issued by the local government to
+the licensed parking enforcement vendor contracted to boot on the
+lot or property, if any; and
+(E) This chapter protects consumers from booting violations and
+that violations may be reported to the attorney general and reporter;
+(5) The cost to remove the vehicle immobilization device is not greater
+than the actual cost of the parking fees owed that led to the attachment of the
+vehicle immobilization device, if any, plus a vehicle immobilization device
+removal fee of not greater than seventy-five dollars ($75.00); and
+(6) A fee is not charged to remove a vehicle immobilization device to a
+person who had paid to park and who was improperly booted.
+(c)
+(1) On or after the effective date of this act, a local government may
+adopt an ordinance, resolution, regulation, or rule to provide for the licensure of
+licensed booting operators and licensed parking enforcement vendors; provided,
+that the ordinance, resolution, regulation, or rule complies with subdivision (c)(2).
+(2) An ordinance, resolution, regulation, or rule adopted pursuant to
+subdivision (c)(1) must:
+(A) Require the annual licensure of licensed booting operators
+and licensed parking enforcement vendors;
+(B) Establish minimum identification standards for licensed
+booting operators to ensure that a person attaching a vehicle
+immobilization device to motor vehicles can be clearly identified as
+licensed by the local government;
+(C) Issue a unique license number to each licensed booting
+operator and each licensed parking enforcement vendor;
+- 4 - 008016
+
+(D) Establish a method by which consumers may file and track
+complaints against a licensed booting operator or licensed parking
+enforcement vendor;
+(E) Provide for the suspension or revocation of a license for good
+cause shown;
+(F) Require timely investigation of consumer complaints;
+(G) Require, as a condition of licensure, that a licensed parking
+enforcement vendor file a surety bond in an amount of no less than two
+hundred fifty thousand dollars ($250,000) with the local government,
+which must be recorded with the register of deeds in the county where the
+vendor operates;
+(H) Ensure that each commercial parking lot or contracted
+property complies with the signage requirements of subdivision (b)(4);
+(I) Provide for referral of any licensee to the attorney general and
+reporter, a law enforcement agency, or both, for a suspected violation of
+this chapter; and
+(J) Maintain a publicly accessible registry of all licensed booting
+operators and licensed parking enforcement vendors, including license
+number, license status, and contact information.
+(d) Notwithstanding subdivision (b)(5), if a vehicle owner or operator intentionally
+damages a vehicle immobilization device or fails to return the vehicle immobilization
+device to a clearly designated on-site storage location, the vehicle owner or operator
+may be subject to an additional fee not to exceed one hundred dollars ($100).
+(e) If an employee of a commercial parking lot owner or a licensed booting
+operator removes or causes the removal of a vehicle immobilization device from a
+vehicle that has been immobilized on the commercial parking lot or contracted property
+for the purpose of having the motor vehicle towed from the commercial parking lot or
+- 5 - 008016
+
+contracted property, then the motor vehicle owner or operator must not be assessed the
+vehicle immobilization device removal fee permitted pursuant to subdivision (b)(5). This
+subsection (e) does not prohibit a towing company from charging the owner or operator
+of the motor vehicle any fee authorized by this chapter.
+(f) In addition to the remedies in § 55-31-103, a person injured as a result of a
+violation of this section by a licensed booting operator or licensed parking enforcement
+vendor may file a claim against the surety bond required under subdivision (c)(2)(G) to
+recover actual damages incurred as a result of the violation. The surety must be liable
+up to the amount of the bond for any damages shown to have been caused by a
+licensee's unlawful or negligent conduct while acting within the scope of parking
+enforcement activities on a commercial parking lot or contracted property.
+- 6 - 008016
+
+[DELETED:  a H(((((((]
+[DELETED:  -0((((((((5((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(]

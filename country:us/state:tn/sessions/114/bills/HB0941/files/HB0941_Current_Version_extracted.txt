@@ -1,0 +1,143 @@
+Title: SENATE BILL 1173
+Official Title: SENATE BILL 1173
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Akbari
+HOUSE BILL 941
+By Mitchell
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 5, Part 7, relative to elderly, low-income
+homeowners.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-5-702(a), is amended by deleting
+subdivision (3) and substituting instead the following:
+(A) Reimbursement must be paid on the assessed value of the property and in
+accordance with subsection (b); provided, that reimbursement must not be paid if the
+assessed value of the property exceeds four hundred thousand dollars ($400,000), or
+such other amount as set forth in the general appropriations act or as adjusted pursuant
+to subdivision (a)(3)(B), in the first year tax relief for the property is claimed by the
+taxpayer. If the assessed value of the property of a taxpayer who received tax relief
+pursuant to this section in the previous year exceeds the upper limit set or adjusted
+pursuant to this subdivision (a)(3) in the subsequent year, then reimbursement must be
+paid on the upper limit.
+(B) Beginning for tax year 2027, and each subsequent tax year, the upper limit
+on the assessed value under subdivision (a)(3)(A) must be increased annually to reflect
+inflation, as measured by the United States bureau of labor statistics consumer price
+index for all urban consumers, and rounded to the nearest one hundred dollars ($100).
+The comptroller of the treasury shall notify taxpayers of any change in dollar amounts
+made pursuant to this subdivision (a)(3)(B) and post the information in a readily
+identifiable location on the comptroller's website. The annual percentage changes used
+HB0941
+001982
+- 1 -
+in this calculation must be not less than zero percent (0%) and not more than three
+percent (3%).
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 67-5-702(b), is amended by deleting
+the subsection and substituting instead the following:
+(1) In determining the amount of relief to a taxpayer:
+(A) Reimbursement is based on the taxpayer's age and must be
+calculated as a percentage of the property tax owed and paid on the assessed
+value; and
+(B) The assessed value must be multiplied by a tax rate that has been
+adjusted to reflect the relationship between appraised value and market value in
+that jurisdiction, as determined by the state board of equalization.
+(2) The assessed value is determined by multiplying the full market value of the
+property by twenty-five percent (25%).
+(3) The full market value of the property is determined by adjusting the
+appraised value of the property as shown on the records of the assessor of property by a
+factor that reflects the relationship between appraised value and market value in that
+jurisdiction, as determined by the state board of equalization.
+(4) The amount of property tax relief available to a taxpayer is as follows:
+(A) If the taxpayer is sixty-five (65) years of age, then the reimbursement
+is ten percent (10%) of the property tax paid;
+(B) Each additional year of age results in an additional ten percent (10%)
+of property tax reimbursement; and
+(C) If the taxpayer is seventy-four (74) years of age or older, then the
+reimbursement is one hundred percent (100%) of the property tax paid.
+- 2 - 001982
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to tax years beginning on or after that date.
+- 3 - 001982
+[DELETED: S((]
+[DELETED:  -0S(((((((((]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1173
+By Akbari
+HOUSE BILL 941
+By Mitchell
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 5, Part 7, relative to elderly, low-income
+homeowners.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-5-702(a), is amended by deleting
+subdivision (3) and substituting instead the following:
+(A) Reimbursement must be paid on the assessed value of the property and in
+accordance with subsection (b); provided, that reimbursement must not be paid if the
+assessed value of the property exceeds four hundred thousand dollars ($400,000), or
+such other amount as set forth in the general appropriations act or as adjusted pursuant
+to subdivision (a)(3)(B), in the first year tax relief for the property is claimed by the
+taxpayer. If the assessed value of the property of a taxpayer who received tax relief
+pursuant to this section in the previous year exceeds the upper limit set or adjusted
+pursuant to this subdivision (a)(3) in the subsequent year, then reimbursement must be
+paid on the upper limit.
+(B) Beginning for tax year 2027, and each subsequent tax year, the upper limit
+on the assessed value under subdivision (a)(3)(A) must be increased annually to reflect
+inflation, as measured by the United States bureau of labor statistics consumer price
+index for all urban consumers, and rounded to the nearest one hundred dollars ($100).
+The comptroller of the treasury shall notify taxpayers of any change in dollar amounts
+made pursuant to this subdivision (a)(3)(B) and post the information in a readily
+identifiable location on the comptroller's website. The annual percentage changes used
+HB0941
+001982
+- 1 -
+
+in this calculation must be not less than zero percent (0%) and not more than three
+percent (3%).
+SECTION 2. Tennessee Code Annotated, Section 67-5-702(b), is amended by deleting
+the subsection and substituting instead the following:
+(1) In determining the amount of relief to a taxpayer:
+(A) Reimbursement is based on the taxpayer's age and must be
+calculated as a percentage of the property tax owed and paid on the assessed
+value; and
+(B) The assessed value must be multiplied by a tax rate that has been
+adjusted to reflect the relationship between appraised value and market value in
+that jurisdiction, as determined by the state board of equalization.
+(2) The assessed value is determined by multiplying the full market value of the
+property by twenty-five percent (25%).
+(3) The full market value of the property is determined by adjusting the
+appraised value of the property as shown on the records of the assessor of property by a
+factor that reflects the relationship between appraised value and market value in that
+jurisdiction, as determined by the state board of equalization.
+(4) The amount of property tax relief available to a taxpayer is as follows:
+(A) If the taxpayer is sixty-five (65) years of age, then the reimbursement
+is ten percent (10%) of the property tax paid;
+(B) Each additional year of age results in an additional ten percent (10%)
+of property tax reimbursement; and
+(C) If the taxpayer is seventy-four (74) years of age or older, then the
+reimbursement is one hundred percent (100%) of the property tax paid.
+- 2 - 001982
+
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to tax years beginning on or after that date.
+- 3 - 001982
+
+[DELETED: S((]
+[DELETED:  -0S(((((((((]
+[DELETED:  -0S]

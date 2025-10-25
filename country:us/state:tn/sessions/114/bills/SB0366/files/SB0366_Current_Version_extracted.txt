@@ -1,0 +1,53 @@
+Title: HOUSE BILL 610
+Official Title: HOUSE BILL 610
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Rudd
+SENATE BILL 366
+By Briggs
+AN ACT to amend Tennessee Code Annotated, Title 2;
+Title 3; Title 4; Title 5; Title 6; Title 7; Title 8; Title
+9; Title 10; Title 17; Title 27; Title 39; Title 40; Title
+49; Title 54; Title 57 and Title 67, relative to
+elections.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 2-1-114(2), is amended by deleting
+"thirty (30) days" and substituting "fifteen (15) days".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0366
+002202
+- 1 -
+[DELETED: S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 610
+By Rudd
+SENATE BILL 366
+By Briggs
+AN ACT to amend Tennessee Code Annotated, Title 2;
+Title 3; Title 4; Title 5; Title 6; Title 7; Title 8; Title
+9; Title 10; Title 17; Title 27; Title 39; Title 40; Title
+49; Title 54; Title 57 and Title 67, relative to
+elections.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 2-1-114(2), is amended by deleting
+"thirty (30) days" and substituting "fifteen (15) days".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0366
+002202
+- 1 -
+
+[DELETED: S]

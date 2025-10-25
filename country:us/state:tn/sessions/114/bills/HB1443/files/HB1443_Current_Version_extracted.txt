@@ -1,0 +1,310 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 1443
+By Jones R
+AN ACT to amend Tennessee Code Annotated, Title 9;
+Title 33; Title 52; Title 67 and Title 68, relative to
+relief for caregivers of individuals with Alzheimer's
+disease or related dementia.
+WHEREAS, one in three senior citizens will die from dementia; and
+WHEREAS, the caregivers of family members with Alzheimer's disease incur
+replacement costs and forgone wages estimated to be $36,667 per person; and
+WHEREAS, financial relief is positively related to the level of service and support
+provided by informal caregivers; and
+WHEREAS, it is fitting and proper that the State create a financial relief program to
+benefit Alzheimer's caregivers; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 52, is amended by adding the following
+as a new chapter:
+52-9-101. Short title.
+This chapter is known and may be cited as the "Caring for Caregivers Act."
+52-9-102. Chapter definitions.
+As used in this chapter:
+(1) "Activities of daily living" or "ADL" means:
+(A) Ambulating, which is the extent of an individual's ability to
+move from one position to another and walk independently;
+(B) Feeding, which is the ability of an individual to feed oneself;
+(C) Dressing, which is the ability to select appropriate clothes and
+to put the clothes on without aid;
+HB1443
+009151
+- 1 -
+(D) Personal hygiene, which is the ability to bathe and groom
+oneself and maintain dental hygiene and nail and hair care;
+(E) Continence, which is the ability to control bladder and bowel
+function; and
+(F) Toileting, which is the ability to get to and from the toilet
+without aid, using it appropriately, and cleaning oneself;
+(2) "Adjusted income" means household income minus fifty percent
+(50%) of the cost of total eligible expenditures for the year;
+(3) "Alzheimer's disease or related dementia" has the same meaning as
+defined in § 52-8-203;
+(4) "Eligible expenditures":
+(A) Means uncompensated expenses paid or incurred by a family
+caregiver that are directly related to assisting the family caregiver in
+providing care to an eligible family member;
+(B) Includes expenses paid or incurred for:
+(i) The improvement or alteration to the family caregiver's
+or eligible family member's primary residence to permit the eligible
+family member to live in the residence and to remain mobile, safe,
+and independent;
+(ii) The family caregiver's purchase or lease of equipment,
+including healthcare equipment, durable medical equipment, or
+technology that is necessary to assist an eligible family member in
+carrying out one (1) or more ADLs; or
+(iii) Respite care; and
+- 2 - 009151
+(C) Does not include the carrying out of general household
+maintenance activities such as painting, plumbing, electrical repairs, or
+exterior maintenance;
+(5) "Eligible family member" means an individual who:
+(A) Requires assistance with at least two (2) ADLs and is
+diagnosed with Alzheimer's disease or related dementia and qualifies as
+an adult child, spouse, parent, or other relative by blood or marriage to a
+family caregiver; and
+(B) Lives in a private residential home and not in an assisted
+living center, nursing facility, or residential care home;
+(6) "Family caregiver" means an individual who:
+(A) Provides care and support for an eligible family member;
+(B) Has incurred eligible expenditures; and
+(C) For calendar year 2027, and each subsequent year, has an
+annual adjusted income from all sources that does not exceed the area or
+state median income, whichever is greater, adjusted for family size;
+(7) "Low income household" has the same meaning as defined in § 13-
+23-103;
+(8) "Respite care" has the same meaning as defined in § 52-8-203; and
+(9) "Very low income household" has the same meaning as defined in §
+13-23-103.
+52-9-103. Family caregiver grant pilot program.
+(a) The department shall establish and administer a family caregiver grant pilot
+program to provide grants to family caregivers of eligible family members in each of the
+- 3 - 009151
+three (3) grand divisions to offset eligible expenditures incurred by the family caregivers.
+The pilot program must be operated from July 1, 2026, to December 31, 2029.
+(b) There is created a separate fund within the general fund to be known as the
+family caregiver grant fund. The fund is composed of:
+(1) Funds appropriated by the general assembly for the fund; and
+(2) Gifts, grants, and other donations received by the department for the
+fund.
+(c) Subject to the availability of funds, the department shall allocate and disperse
+grants each fiscal year of the pilot program period to family caregivers of eligible family
+members giving primary priority to very low income households and secondary priority to
+low income households. A grant awarded under this chapter is limited to six thousand
+dollars ($6,000) per family caregiver in a fiscal year.
+(d) Family caregivers must continue to qualify for a grant while the eligible family
+member is temporarily relocated for health care to a hospital or skilled or intermediate
+care facility if the eligible family member indicates an intent to return to the private
+residential home when recovered sufficiently.
+(e) The state treasurer shall invest moneys in the fund for the benefit of the fund
+in accordance with § 9-4-603. Interest accruing on investments and deposits of the fund
+must be returned to the fund and remain part of the fund. Any unencumbered moneys
+and any unexpended balance of the fund remaining at the end of a fiscal year do not
+revert to the general fund, but must be carried forward until expended in accordance with
+this section.
+52-9-104. Annual adjusted income limit.
+The annual adjusted income limit in § 52-9-102(6)(C) must be adjusted by the
+department on July 1, 2027, and July 1, 2028, to reflect the cost-of-living adjustment for
+- 4 - 009151
+social security recipients as determined by the social security administration and must
+be rounded to the nearest ten dollars ($10.00). The income attributable to the family
+caregiver applying for a grant is the income of the family caregiver and the income of the
+family caregiver's spouse, if applicable.
+52-9-105. Rules.
+The commissioner may promulgate rules to effectuate this chapter in accordance
+with the Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+52-9-106. Report.
+On or before October 1, 2027, and by October 1 of each subsequent year, until
+the close of the pilot program period, the department shall submit a report to the chair of
+the health and welfare committee of the senate and the chair of the committee in the
+house of representatives having jurisdiction over health-related matters on the status of
+the program and on the funds received and payments made by the family caregiver
+grant fund.
+
+Section 3:
+SECTION 2. It is the legislative intent that an initial appropriation in the amount of six
+hundred thousand dollars ($600,000) be appropriated in fiscal year 2026-2027 in the general
+appropriations act for awarding grants from the fund.
+
+Section 4:
+SECTION 3. This act is not an appropriation of funds, and funds must not be obligated
+or expended pursuant to this act unless the funds are specifically appropriated by the general
+appropriations act.
+
+Section 5:
+SECTION 4. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+- 5 - 009151
+
+Section 6:
+SECTION 5. For the purpose of promulgating rules, this act takes effect upon becoming
+a law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2026,
+the public welfare requiring it.
+- 6 - 009151
+[DELETED: WWWSTA((((]
+[DELETED:  -0(((((]
+[DELETED:  -0((((((((((5]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 1443
+By Jones R
+AN ACT to amend Tennessee Code Annotated, Title 9;
+Title 33; Title 52; Title 67 and Title 68, relative to
+relief for caregivers of individuals with Alzheimer's
+disease or related dementia.
+WHEREAS, one in three senior citizens will die from dementia; and
+WHEREAS, the caregivers of family members with Alzheimer's disease incur
+replacement costs and forgone wages estimated to be $36,667 per person; and
+WHEREAS, financial relief is positively related to the level of service and support
+provided by informal caregivers; and
+WHEREAS, it is fitting and proper that the State create a financial relief program to
+benefit Alzheimer's caregivers; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 52, is amended by adding the following
+as a new chapter:
+52-9-101. Short title.
+This chapter is known and may be cited as the "Caring for Caregivers Act."
+52-9-102. Chapter definitions.
+As used in this chapter:
+(1) "Activities of daily living" or "ADL" means:
+(A) Ambulating, which is the extent of an individual's ability to
+move from one position to another and walk independently;
+(B) Feeding, which is the ability of an individual to feed oneself;
+(C) Dressing, which is the ability to select appropriate clothes and
+to put the clothes on without aid;
+HB1443
+009151
+- 1 -
+
+(D) Personal hygiene, which is the ability to bathe and groom
+oneself and maintain dental hygiene and nail and hair care;
+(E) Continence, which is the ability to control bladder and bowel
+function; and
+(F) Toileting, which is the ability to get to and from the toilet
+without aid, using it appropriately, and cleaning oneself;
+(2) "Adjusted income" means household income minus fifty percent
+(50%) of the cost of total eligible expenditures for the year;
+(3) "Alzheimer's disease or related dementia" has the same meaning as
+defined in § 52-8-203;
+(4) "Eligible expenditures":
+(A) Means uncompensated expenses paid or incurred by a family
+caregiver that are directly related to assisting the family caregiver in
+providing care to an eligible family member;
+(B) Includes expenses paid or incurred for:
+(i) The improvement or alteration to the family caregiver's
+or eligible family member's primary residence to permit the eligible
+family member to live in the residence and to remain mobile, safe,
+and independent;
+(ii) The family caregiver's purchase or lease of equipment,
+including healthcare equipment, durable medical equipment, or
+technology that is necessary to assist an eligible family member in
+carrying out one (1) or more ADLs; or
+(iii) Respite care; and
+- 2 - 009151
+
+(C) Does not include the carrying out of general household
+maintenance activities such as painting, plumbing, electrical repairs, or
+exterior maintenance;
+(5) "Eligible family member" means an individual who:
+(A) Requires assistance with at least two (2) ADLs and is
+diagnosed with Alzheimer's disease or related dementia and qualifies as
+an adult child, spouse, parent, or other relative by blood or marriage to a
+family caregiver; and
+(B) Lives in a private residential home and not in an assisted
+living center, nursing facility, or residential care home;
+(6) "Family caregiver" means an individual who:
+(A) Provides care and support for an eligible family member;
+(B) Has incurred eligible expenditures; and
+(C) For calendar year 2027, and each subsequent year, has an
+annual adjusted income from all sources that does not exceed the area or
+state median income, whichever is greater, adjusted for family size;
+(7) "Low income household" has the same meaning as defined in § 13-
+23-103;
+(8) "Respite care" has the same meaning as defined in § 52-8-203; and
+(9) "Very low income household" has the same meaning as defined in §
+13-23-103.
+52-9-103. Family caregiver grant pilot program.
+(a) The department shall establish and administer a family caregiver grant pilot
+program to provide grants to family caregivers of eligible family members in each of the
+- 3 - 009151
+
+three (3) grand divisions to offset eligible expenditures incurred by the family caregivers.
+The pilot program must be operated from July 1, 2026, to December 31, 2029.
+(b) There is created a separate fund within the general fund to be known as the
+family caregiver grant fund. The fund is composed of:
+(1) Funds appropriated by the general assembly for the fund; and
+(2) Gifts, grants, and other donations received by the department for the
+fund.
+(c) Subject to the availability of funds, the department shall allocate and disperse
+grants each fiscal year of the pilot program period to family caregivers of eligible family
+members giving primary priority to very low income households and secondary priority to
+low income households. A grant awarded under this chapter is limited to six thousand
+dollars ($6,000) per family caregiver in a fiscal year.
+(d) Family caregivers must continue to qualify for a grant while the eligible family
+member is temporarily relocated for health care to a hospital or skilled or intermediate
+care facility if the eligible family member indicates an intent to return to the private
+residential home when recovered sufficiently.
+(e) The state treasurer shall invest moneys in the fund for the benefit of the fund
+in accordance with § 9-4-603. Interest accruing on investments and deposits of the fund
+must be returned to the fund and remain part of the fund. Any unencumbered moneys
+and any unexpended balance of the fund remaining at the end of a fiscal year do not
+revert to the general fund, but must be carried forward until expended in accordance with
+this section.
+52-9-104. Annual adjusted income limit.
+The annual adjusted income limit in § 52-9-102(6)(C) must be adjusted by the
+department on July 1, 2027, and July 1, 2028, to reflect the cost-of-living adjustment for
+- 4 - 009151
+
+social security recipients as determined by the social security administration and must
+be rounded to the nearest ten dollars ($10.00). The income attributable to the family
+caregiver applying for a grant is the income of the family caregiver and the income of the
+family caregiver's spouse, if applicable.
+52-9-105. Rules.
+The commissioner may promulgate rules to effectuate this chapter in accordance
+with the Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+52-9-106. Report.
+On or before October 1, 2027, and by October 1 of each subsequent year, until
+the close of the pilot program period, the department shall submit a report to the chair of
+the health and welfare committee of the senate and the chair of the committee in the
+house of representatives having jurisdiction over health-related matters on the status of
+the program and on the funds received and payments made by the family caregiver
+grant fund.
+SECTION 2. It is the legislative intent that an initial appropriation in the amount of six
+hundred thousand dollars ($600,000) be appropriated in fiscal year 2026-2027 in the general
+appropriations act for awarding grants from the fund.
+SECTION 3. This act is not an appropriation of funds, and funds must not be obligated
+or expended pursuant to this act unless the funds are specifically appropriated by the general
+appropriations act.
+SECTION 4. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+- 5 - 009151
+
+SECTION 5. For the purpose of promulgating rules, this act takes effect upon becoming
+a law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2026,
+the public welfare requiring it.
+- 6 - 009151
+
+[DELETED: WWWSTA((((]
+[DELETED:  -0(((((]
+[DELETED:  -0((((((((((5]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]

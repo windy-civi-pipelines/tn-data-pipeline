@@ -1,0 +1,96 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 98
+By Johnson
+A RESOLUTION to confirm the appointment of Phillip Fulmer to
+the board of directors of the Tennessee
+education lottery corporation.
+WHEREAS, Tennessee Code Annotated, Section 4-51-101, provides for the creation of
+the Tennessee education lottery corporation; and
+WHEREAS, Tennessee Code Annotated, Section 4-51-103, provides that the governor
+shall appoint seven members to the board of directors of the Tennessee education lottery
+corporation; and
+WHEREAS, Governor Bill Lee has appointed Phillip Fulmer to serve as a member of the
+board of directors of the Tennessee education lottery corporation for a term that will expire on
+June 30, 2027; and
+WHEREAS, Phillip "Phil" Fulmer, Sr., is a former football player, football coach, athletic
+director, and special advisor to the president at the University of Tennessee; and
+WHEREAS, Phillip Fulmer served as head coach of the University of Tennessee football
+team from 1992-2008, compiling a 152-52 record and leading the Volunteers to a national
+championship, two conference titles, and seven divisional crowns; and
+WHEREAS, truly an icon of the Volunteer State, Coach Fulmer was inducted into the
+College Football Hall of Fame in 2012; and
+WHEREAS, Coach Fulmer has served as the national spokesperson for the Jason
+Foundation, Inc., an organization dedicated to the prevention of youth suicide through
+educational and awareness programs for at-risk youth; and
+WHEREAS, he currently serves as chair of the Tennessee Sports Hall of Fame board of
+directors; and
+SJR0098
+001546
+- 1 -
+WHEREAS, Tennessee Code Annotated, Section 4-51-103(f), provides that each
+member appointed by the governor to the board of directors of the Tennessee education lottery
+corporation shall be confirmed by joint resolution of the general assembly; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we confirm the appointment of Phillip Fulmer to the
+board of directors of the Tennessee education lottery corporation for a term that will expire on
+June 30, 2027.
+- 2 - 001546
+[DELETED: WWWWWW]
+[DELETED:  -0WB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 98
+By Johnson
+A RESOLUTION to confirm the appointment of Phillip Fulmer to
+the board of directors of the Tennessee
+education lottery corporation.
+WHEREAS, Tennessee Code Annotated, Section 4-51-101, provides for the creation of
+the Tennessee education lottery corporation; and
+WHEREAS, Tennessee Code Annotated, Section 4-51-103, provides that the governor
+shall appoint seven members to the board of directors of the Tennessee education lottery
+corporation; and
+WHEREAS, Governor Bill Lee has appointed Phillip Fulmer to serve as a member of the
+board of directors of the Tennessee education lottery corporation for a term that will expire on
+June 30, 2027; and
+WHEREAS, Phillip "Phil" Fulmer, Sr., is a former football player, football coach, athletic
+director, and special advisor to the president at the University of Tennessee; and
+WHEREAS, Phillip Fulmer served as head coach of the University of Tennessee football
+team from 1992-2008, compiling a 152-52 record and leading the Volunteers to a national
+championship, two conference titles, and seven divisional crowns; and
+WHEREAS, truly an icon of the Volunteer State, Coach Fulmer was inducted into the
+College Football Hall of Fame in 2012; and
+WHEREAS, Coach Fulmer has served as the national spokesperson for the Jason
+Foundation, Inc., an organization dedicated to the prevention of youth suicide through
+educational and awareness programs for at-risk youth; and
+WHEREAS, he currently serves as chair of the Tennessee Sports Hall of Fame board of
+directors; and
+SJR0098
+001546
+- 1 -
+
+WHEREAS, Tennessee Code Annotated, Section 4-51-103(f), provides that each
+member appointed by the governor to the board of directors of the Tennessee education lottery
+corporation shall be confirmed by joint resolution of the general assembly; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we confirm the appointment of Phillip Fulmer to the
+board of directors of the Tennessee education lottery corporation for a term that will expire on
+June 30, 2027.
+- 2 - 001546
+
+[DELETED: WWWWWW]
+[DELETED:  -0WB]

@@ -1,0 +1,82 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE RESOLUTION 101
+By Bulso
+A RESOLUTION to honor and congratulate Houston Fulks on
+being named the 2024 WILLCO Awards Male
+Bowler of the Year.
+WHEREAS, we are pleased to recognize and commend those successful high school
+athletes who, through their magnificent exploits, bring honor to Tennessee and serve as
+exceptional ambassadors of this State; and
+WHEREAS, one such estimable individual is Houston Fulks of Franklin High School, an
+athlete of extraordinary talent, skill, and dedication, who has proven himself to be a formidable
+competitor in bowling; and
+WHEREAS, in recognition of his success on the lanes, Houston Fulks was named Male
+Bowler of the Year at the 2024 WILLCO Awards celebration; and
+WHEREAS, a finalist for a WILLCO Award in 2023, Houston Fulks averaged 215 to lead
+the Admirals in 2024; and
+WHEREAS, Houston Fulks epitomizes all that is good in today's student athlete, as he
+has achieved a high level of success as a bowler while evincing great character; and
+WHEREAS, Mr. Fulks's notable achievements are a source of great pride for his family,
+his community, and his school, and it is appropriate that we recognize this accomplished
+athlete; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and
+congratulate Houston Fulks on being named the 2024 WILLCO Awards Male Bowler of the
+Year, wishing him much success and happiness in his future endeavors.
+HR0101
+006625
+- 1 -
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 006625
+[DELETED: WWWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE RESOLUTION 101
+By Bulso
+A RESOLUTION to honor and congratulate Houston Fulks on
+being named the 2024 WILLCO Awards Male
+Bowler of the Year.
+WHEREAS, we are pleased to recognize and commend those successful high school
+athletes who, through their magnificent exploits, bring honor to Tennessee and serve as
+exceptional ambassadors of this State; and
+WHEREAS, one such estimable individual is Houston Fulks of Franklin High School, an
+athlete of extraordinary talent, skill, and dedication, who has proven himself to be a formidable
+competitor in bowling; and
+WHEREAS, in recognition of his success on the lanes, Houston Fulks was named Male
+Bowler of the Year at the 2024 WILLCO Awards celebration; and
+WHEREAS, a finalist for a WILLCO Award in 2023, Houston Fulks averaged 215 to lead
+the Admirals in 2024; and
+WHEREAS, Houston Fulks epitomizes all that is good in today's student athlete, as he
+has achieved a high level of success as a bowler while evincing great character; and
+WHEREAS, Mr. Fulks's notable achievements are a source of great pride for his family,
+his community, and his school, and it is appropriate that we recognize this accomplished
+athlete; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and
+congratulate Houston Fulks on being named the 2024 WILLCO Awards Male Bowler of the
+Year, wishing him much success and happiness in his future endeavors.
+HR0101
+006625
+- 1 -
+
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 006625
+
+[DELETED: WWWWWWB]
+[DELETED:  -0B]

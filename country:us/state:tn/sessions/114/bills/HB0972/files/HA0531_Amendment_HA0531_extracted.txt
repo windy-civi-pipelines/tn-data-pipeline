@@ -1,0 +1,122 @@
+Title: AMEND S e n ate Bill No. 1068 House Bill No. 972*
+Official Title: AMEND S e n ate Bill No. 1068 House Bill No. 972*
+Number of Sections: 2
+Source: versions - Amendment HA0531
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House Finance, Ways, and Means 2
+Amendment No. 4 to HB0972
+Hicks G
+Signature of Sponsor
+by deleting Section 55-31-203(b) in Section 1 and substituting:
+(b) If an entity requires on-site payment from a consumer for the parking of a
+motor vehicle on the entity's property, and the entity only accepts payment by use of a
+quick response (QR) code or a credit or debit card machine, then, in the event the QR
+code or the credit or debit card machine fails to operate correctly to process the payment
+transaction, the entity must:
+(1)
+(A) Accept payment from the consumer by cash or check, or
+through a system that allows the consumer to provide the consumer's
+credit or debit card information over the phone; or
+(B) Allow the consumer to leave the property without providing
+payment at the time; and
+(2) Not charge a penalty or late fee for nonpayment until at least seven
+(7) business days have passed from the date that the QR machine failed to
+operate and the individual left the property without paying.
+(c)
+(1) The entity may provide information to a consumer enabling the
+consumer to mail payment to the entity, or provide the consumer's credit or debit
+card information over the phone for payment of the services at a later date.
+HA0531
+006813
+- 1 -
+(2) If the entity does not provide the information described in subdivision
+(c)(1), then the consumer is not required to provide payment at a later date for
+the service.
+(d) For a parking lot that is temporarily or continuously unattended, the entity
+shall provide notice of the alternative forms of payment accepted on a prominent sign
+located at each site on the entity's property where payment is taken.
+(e) A county, municipality, or other political subdivision of this state shall not
+enact or enforce an ordinance, resolution, rule, or other requirement that regulates
+parking in a manner that conflicts with this section.
+(f) As used in this section:
+(1) "Entity" includes a person, commercial parking lot owner, and this
+state or a political subdivision of this state;
+(2) "On-site" means on an entity's property where parking services are
+provided; and
+(3) "Property" includes, but is not limited to, a publicly owned parking lot
+or parking garage and a public street.
+AND FURTHER AMEND by deleting "no later than July 1, 2026" and substituting "no later than
+October 1, 2026" in § 55-31-104(a)(2)(B) in Section 1.
+AND FURTHER AMEND by adding the following as a new Section 10 and redesignating the
+existing Section 10 and all remaining Sections appropriately:
+
+Section 2:
+SECTION 10. Tennessee Code Annotated, Section 47-50-120, is amended by deleting
+the section.
+- 2 - 006813
+[DELETED:  a H(((((]
+[DELETED:  -0((((S]
+
+
+================================================================================
+
+Raw Text:
+House Finance, Ways, and Means 2
+Amendment No. 4 to HB0972
+Hicks G
+Signature of Sponsor
+AMEND S e n ate Bill No. 1068 House Bill No. 972*
+by deleting Section 55-31-203(b) in Section 1 and substituting:
+(b) If an entity requires on-site payment from a consumer for the parking of a
+motor vehicle on the entity's property, and the entity only accepts payment by use of a
+quick response (QR) code or a credit or debit card machine, then, in the event the QR
+code or the credit or debit card machine fails to operate correctly to process the payment
+transaction, the entity must:
+(1)
+(A) Accept payment from the consumer by cash or check, or
+through a system that allows the consumer to provide the consumer's
+credit or debit card information over the phone; or
+(B) Allow the consumer to leave the property without providing
+payment at the time; and
+(2) Not charge a penalty or late fee for nonpayment until at least seven
+(7) business days have passed from the date that the QR machine failed to
+operate and the individual left the property without paying.
+(c)
+(1) The entity may provide information to a consumer enabling the
+consumer to mail payment to the entity, or provide the consumer's credit or debit
+card information over the phone for payment of the services at a later date.
+HA0531
+006813
+- 1 -
+
+(2) If the entity does not provide the information described in subdivision
+(c)(1), then the consumer is not required to provide payment at a later date for
+the service.
+(d) For a parking lot that is temporarily or continuously unattended, the entity
+shall provide notice of the alternative forms of payment accepted on a prominent sign
+located at each site on the entity's property where payment is taken.
+(e) A county, municipality, or other political subdivision of this state shall not
+enact or enforce an ordinance, resolution, rule, or other requirement that regulates
+parking in a manner that conflicts with this section.
+(f) As used in this section:
+(1) "Entity" includes a person, commercial parking lot owner, and this
+state or a political subdivision of this state;
+(2) "On-site" means on an entity's property where parking services are
+provided; and
+(3) "Property" includes, but is not limited to, a publicly owned parking lot
+or parking garage and a public street.
+AND FURTHER AMEND by deleting "no later than July 1, 2026" and substituting "no later than
+October 1, 2026" in § 55-31-104(a)(2)(B) in Section 1.
+AND FURTHER AMEND by adding the following as a new Section 10 and redesignating the
+existing Section 10 and all remaining Sections appropriately:
+SECTION 10. Tennessee Code Annotated, Section 47-50-120, is amended by deleting
+the section.
+- 2 - 006813
+
+[DELETED:  a H(((((]
+[DELETED:  -0((((S]

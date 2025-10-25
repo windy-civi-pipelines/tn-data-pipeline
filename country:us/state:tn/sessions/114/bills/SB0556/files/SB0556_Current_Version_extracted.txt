@@ -1,0 +1,136 @@
+Title: HOUSE BILL 1136
+Official Title: HOUSE BILL 1136
+Number of Sections: 7
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Boyd
+SENATE BILL 556
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 7 and
+Title 65, relative to broadband enabled services.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 65-5-202(a), is amended by deleting
+the subsection and substituting:
+(a) As used in this part:
+(1) "Broadband internet access service":
+(A) Has the same meaning as defined in 47 CFR 8.1, or a
+successor federal rule; and
+(B) Does not include intrastate service that was tariffed with the
+public utility commission and in effect as of May 15, 2006; furthermore,
+the intrastate service shall not be reclassified, bundled, de-tariffed,
+declared obsolete, or otherwise recharacterized to avoid the imposition of
+inspection fees by the public utility commission; and
+(2) "Interconnected VoIP service" has the same meaning as provided in
+the federal Telecommunications Act of 1996 (47 U.S.C. § 151, et seq.), or a
+successor federal law.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 65-5-202(b), is amended by deleting
+the subsection and substituting:
+(b) This part does not:
+SB0556
+002436
+- 1 -
+(1) Restrict any authority delegated to the public utility commission or
+another state agency to administer a federal grant program under federal statute,
+rule, or order;
+(2) Restrict the application to broadband internet access service, or
+providers thereof, of any law that applies generally to the conduct of business in
+this state related to consumer protection and fair competition;
+(3) Modify or affect the rights or obligations of any carrier under the
+federal Telecommunications Act of 1996 (47 U.S.C. § 151, et seq.); or
+(4) Restrict the assessment of nondiscriminatory fees against
+interconnected VoIP service associated with enhanced 911 service,
+telecommunications relay services, or universal service assessments under § 65-
+5-107.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 65-5-203, is amended by deleting the
+
+Section 5:
+section and substituting:
+Except as provided in § 65-5-202, a government entity within this state, including
+the public utility commission and any agency or subdivision of this state, shall not enact,
+adopt, or enforce any law, rule, regulation, ordinance, standard, order, or other provision
+with the force of law that has the effect of regulating the entry, rates, terms, or conditions
+of any broadband internet access service or interconnected VoIP service, or otherwise
+treating a provider of either broadband internet access service or interconnected VoIP
+service as a carrier.
+
+Section 6:
+SECTION 4. Tennessee Code Annotated, Section 65-5-109(q), is amended by deleting
+the subsection.
+
+Section 7:
+SECTION 5. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 002436
+[DELETED: S(((((S(]
+[DELETED:  -0((((SESS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1136
+By Boyd
+SENATE BILL 556
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 7 and
+Title 65, relative to broadband enabled services.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 65-5-202(a), is amended by deleting
+the subsection and substituting:
+(a) As used in this part:
+(1) "Broadband internet access service":
+(A) Has the same meaning as defined in 47 CFR 8.1, or a
+successor federal rule; and
+(B) Does not include intrastate service that was tariffed with the
+public utility commission and in effect as of May 15, 2006; furthermore,
+the intrastate service shall not be reclassified, bundled, de-tariffed,
+declared obsolete, or otherwise recharacterized to avoid the imposition of
+inspection fees by the public utility commission; and
+(2) "Interconnected VoIP service" has the same meaning as provided in
+the federal Telecommunications Act of 1996 (47 U.S.C. § 151, et seq.), or a
+successor federal law.
+SECTION 2. Tennessee Code Annotated, Section 65-5-202(b), is amended by deleting
+the subsection and substituting:
+(b) This part does not:
+SB0556
+002436
+- 1 -
+
+(1) Restrict any authority delegated to the public utility commission or
+another state agency to administer a federal grant program under federal statute,
+rule, or order;
+(2) Restrict the application to broadband internet access service, or
+providers thereof, of any law that applies generally to the conduct of business in
+this state related to consumer protection and fair competition;
+(3) Modify or affect the rights or obligations of any carrier under the
+federal Telecommunications Act of 1996 (47 U.S.C. § 151, et seq.); or
+(4) Restrict the assessment of nondiscriminatory fees against
+interconnected VoIP service associated with enhanced 911 service,
+telecommunications relay services, or universal service assessments under § 65-
+5-107.
+SECTION 3. Tennessee Code Annotated, Section 65-5-203, is amended by deleting the
+section and substituting:
+Except as provided in § 65-5-202, a government entity within this state, including
+the public utility commission and any agency or subdivision of this state, shall not enact,
+adopt, or enforce any law, rule, regulation, ordinance, standard, order, or other provision
+with the force of law that has the effect of regulating the entry, rates, terms, or conditions
+of any broadband internet access service or interconnected VoIP service, or otherwise
+treating a provider of either broadband internet access service or interconnected VoIP
+service as a carrier.
+SECTION 4. Tennessee Code Annotated, Section 65-5-109(q), is amended by deleting
+the subsection.
+SECTION 5. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 002436
+
+[DELETED: S(((((S(]
+[DELETED:  -0((((SESS]

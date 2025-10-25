@@ -1,0 +1,90 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 2
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 63
+By Lamberth
+A RESOLUTION to call a joint convention of the Senate and
+House of Representatives for the purpose of
+hearing a State of the State address by
+Governor Bill Lee and to authorize transmittal of
+the budget document and legislation
+implementing the budget for fiscal year 2025-
+
+Section 2:
+2026.
+WHEREAS, Tennessee Code Annotated, Section 3-1-108, provides for a joint
+convention of the Senate and House of Representatives to be called annually for the purpose of
+hearing a State of the State address by the governor; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that the Senate and House of Representatives meet in joint convention on
+Monday, February 10, 2025, at 5:45 p.m. (CST) in the chamber of the House of Representatives
+for the purpose of hearing the State of the State address by the Honorable Bill Lee, Governor of
+Tennessee.
+BE IT FURTHER RESOLVED, that Governor Lee be invited to address the joint
+convention on Monday, February 10, 2025, at 6:00 p.m. (CST) in the chamber of the House of
+Representatives.
+BE IT FURTHER RESOLVED, that pursuant to Tennessee Code Annotated, Section 9-
+4-5105, the General Assembly authorizes the transmittal of the state budget document or
+documents for fiscal year 2025-2026 prior to the close of business in both houses on Monday,
+February 10, 2025.
+BE IT FURTHER RESOLVED, that pursuant to Tennessee Code Annotated, Section 9-
+4-5105, the General Assembly authorizes the transmittal and filing of the legislation necessary
+HJR0063
+001808
+- 1 -
+to give legal sanction to the budget for fiscal year 2025-2026 prior to the close of business in
+both houses on Friday, February 14, 2025.
+- 2 - 001808
+[DELETED: BB]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 63
+By Lamberth
+A RESOLUTION to call a joint convention of the Senate and
+House of Representatives for the purpose of
+hearing a State of the State address by
+Governor Bill Lee and to authorize transmittal of
+the budget document and legislation
+implementing the budget for fiscal year 2025-
+2026.
+WHEREAS, Tennessee Code Annotated, Section 3-1-108, provides for a joint
+convention of the Senate and House of Representatives to be called annually for the purpose of
+hearing a State of the State address by the governor; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that the Senate and House of Representatives meet in joint convention on
+Monday, February 10, 2025, at 5:45 p.m. (CST) in the chamber of the House of Representatives
+for the purpose of hearing the State of the State address by the Honorable Bill Lee, Governor of
+Tennessee.
+BE IT FURTHER RESOLVED, that Governor Lee be invited to address the joint
+convention on Monday, February 10, 2025, at 6:00 p.m. (CST) in the chamber of the House of
+Representatives.
+BE IT FURTHER RESOLVED, that pursuant to Tennessee Code Annotated, Section 9-
+4-5105, the General Assembly authorizes the transmittal of the state budget document or
+documents for fiscal year 2025-2026 prior to the close of business in both houses on Monday,
+February 10, 2025.
+BE IT FURTHER RESOLVED, that pursuant to Tennessee Code Annotated, Section 9-
+4-5105, the General Assembly authorizes the transmittal and filing of the legislation necessary
+HJR0063
+001808
+- 1 -
+
+to give legal sanction to the budget for fiscal year 2025-2026 prior to the close of business in
+both houses on Friday, February 14, 2025.
+- 2 - 001808
+
+[DELETED: BB]
+[DELETED:  -0]

@@ -1,0 +1,397 @@
+Title: SENATE BILL 802
+Official Title: SENATE BILL 802
+Number of Sections: 8
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+By Massey
+HOUSE BILL 841
+By Haston
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 51; Title 37, Chapter 5, Part 5; Title 49
+and Title 71, Chapter 3, relative to early learning.
+WHEREAS, many children begin kindergarten developmentally and socially behind; and
+WHEREAS, child care and preschool promote early learning and development when
+they are high quality; and
+WHEREAS, parents depend on child care and preschool programs in order to be able to
+work; and
+WHEREAS, child care and preschool programs, especially those that are high quality,
+are unaffordable for most Tennessee families, costing more than in-state college tuition; and
+WHEREAS, public payment assistance for child care and preschool programs is limited
+to low-income families up to eighty-five percent of state median income; and
+WHEREAS, choices for middle income families are especially limited due to lack of
+affordability; and
+WHEREAS, the Tennessee lottery was established in 2002 by the people of Tennessee
+with four purposes for its proceeds, one of which is early learning programs; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 4-51-111, is amended by adding the
+following as a new subsection:
+(1) There is created a fund in the state treasury to be known as the "promising
+futures early learning fund." The fund consists of excess lottery revenues pursuant to
+subdivision ( )(2) and monies obtained from any other sources for the purpose of
+providing promising futures early learning scholarships.
+HB0841
+002346
+- 1 -
+(2) Notwithstanding a law to the contrary, beginning July 1, 2025, and each July
+1 thereafter, the corporation shall transfer one hundred percent (100%) of net lottery
+proceeds that are not used to fund scholarships other than the promising futures early
+learning scholarship established by § 49-1-1110, early learning programs and after
+school programs, or capital outlay projects for grades kindergarten through twelve (K-12)
+educational facilities, to the promising futures early learning fund.
+(3) Money in the promising futures early learning fund must be invested by the
+state treasurer pursuant to title 9, chapter 4, part 6 for the sole benefit of the fund.
+(4) Monies in the promising futures early learning fund must be used to provide
+promising futures early learning scholarships and as authorized in § 49-1-1110(j). The
+department of education, in collaboration with the state treasurer, shall designate a date
+by which the treasurer shall annually make a distribution from the promising futures early
+learning fund to the department for the purpose of paying for the scholarships pursuant
+to § 49-1-1110(f)(4).
+(5) Monies in the promising futures early learning fund must not be used to
+displace, replace, or supplant state funding for child care or other early learning
+programs.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 49, Chapter 1, Part 11, is amended by
+adding the following as a new section:
+49-1-1110. Scholarship program for children to participate in high-quality early
+learning programs.
+(a) The promising futures early learning scholarship program is hereby
+established so that children may attend a high-quality early learning program.
+(b)
+- 2 - 002346
+(1) As used in this section, "high-quality early learning program" means a
+program with quality ratings, as determined by the department of education
+utilizing measurement methods and instruments described in subdivision (b)(2),
+indicating that the program delivers high-quality, teacher-child interaction and
+instruction predictive of child outcomes.
+(2) The department shall utilize measurement methods and instruments
+for determining whether a program delivers high-quality, teacher-child interaction
+and instruction that includes, but not limited to, a tested and proven, evidence-
+based observational instrument that assesses classroom quality, including
+assessing multiple dimensions of teacher-child interactions that are linked to
+positive child development, early language and literacy skills, and later
+achievement.
+(c)
+(1) The department of education shall implement the promising futures
+early learning scholarship program by July 1, 2026.
+(2) The department of education shall establish and administer a
+streamlined online portal that parents may use to apply for a promising futures
+scholarship. The portal must be capable of:
+(i) Making eligibility determinations; and
+(ii) Applying for federal funds for which the applicant meets the
+eligibility criteria before making state dollars available.
+(3) For the first year that promising futures early learning scholarships
+are awarded, the department of education may award up to five thousand (5,000)
+scholarships, and the maximum amount of a scholarship is four thousand five
+hundred dollars ($4,500). For the second and subsequent years that promising
+- 3 - 002346
+futures early learning scholarships are awarded, the department may award as
+many promising futures early learning scholarships and in such amount as
+funding permits.
+(4) If there are more eligible applicants than scholarship funds available
+in a year that there is sufficient funding to award promising futures early learning
+scholarships, then the department of education shall award the scholarships in
+the following order:
+(A) An eligible child who received a scholarship in the
+immediately preceding school year; and
+(B) As determined based on the results of a lottery.
+(d) The department of education shall establish:
+(1) The qualifications for high-quality instruction in high-quality early
+learning programs for purposes of the promising futures early learning
+scholarships, including, but not limited to, qualifications for high-quality teachers
+and assistant teachers, high-quality teacher-child interaction and curricula, and
+high-quality environments; and
+(2) The measurement methods and instruments for high-quality
+instruction, which must include, at a minimum, a tested and proven evidence-
+based observational instrument to assess classroom quality, including assessing
+multiple dimensions of teacher-child interactions that are linked to positive child
+development, early language and literacy skills, and later achievement.
+(e) To be eligible to receive a promising futures scholarship, a parent's or legal
+guardian's child must:
+(1) Be at least six (6) weeks of age and not eligible to attend a public
+school pursuant to § 49-6-3001;
+- 4 - 002346
+(2) Be a member of a household with an annual income for the previous
+year that does not exceed one hundred fifty percent (150%) the state median
+income;
+(3)
+(A) Reside with a parent or legal guardian who has primary
+responsibility for care and control of the child and who is employed and
+works an average of thirty (30) hours or more per week or is enrolled in
+and attending full time an eligible postsecondary education program; or
+(B) Reside in a household with two (2) parents or legal guardians
+who are each either employed and work an average of thirty (30) hours or
+more per week or are enrolled in and attending full time an eligible
+postsecondary education program;
+(4) Be accepted to a high-quality early learning program; and
+(5) Be a resident of this state.
+(f) For purposes of creating and implementing the promising futures program,
+the department of education shall:
+(1) Establish procedures to determine a child's eligibility to receive a
+scholarship in accordance with subsection (e);
+(2) Establish an income verification process for purposes of subdivision
+(e)(2);
+(3) Determine which postsecondary education programs are eligible
+programs for purposes of subdivision (e)(3);
+(4) Pay scholarship funds directly to the high-quality early learning
+program in which the child who receives the scholarship is enrolled;
+- 5 - 002346
+(5) Ensure that each child who receives a scholarship continues to meet
+the requirements outlined in subsection (e);
+(6) Establish the number of days a child who receives a scholarship must
+attend a high-quality early learning program; and
+(7) Ensure that each child who receives a scholarship attends a high-
+quality early learning program for the number of days established pursuant to
+subdivision (f)(6).
+(g) The department of education may suspend or terminate a parent's or legal
+guardian's participation in the promising futures early learning scholarship program if the
+department determines that the child's parent or legal guardian failed to comply with this
+
+Section 4:
+section.
+(h) If a high-quality early learning program knowingly uses promising futures
+early learning scholarship funds with the intent to defraud the promising futures early
+learning scholarship program, then the department of education may refer the matter to
+the appropriate enforcement authority for criminal prosecution.
+(i) A promising futures early learning scholarship:
+(1) Constitutes a scholarship provided for high-quality early learning for a
+child; and
+(2) Does not constitute income of a parent or legal guardian of a child
+under title 67, chapter 2 or any other state law.
+(j) The department of education may use funds in the promising futures early
+learning fund for expenses incurred by the department due to the department's
+administration of the promising futures early learning scholarship program; provided, that
+such expenses must not exceed ten percent (10%) of the balance of the promising
+futures early learning scholarship program in any fiscal year.
+- 6 - 002346
+(k) The department of education shall submit a report on the implementation of
+the promising futures program, including program outcomes, to the education committee
+of the senate and the committee of the house of representatives with jurisdiction over
+lottery scholarships by December 31, 2027, and by December 31 of each year
+thereafter.
+
+Section 5:
+SECTION 3. The state board of education shall promulgate rules necessary to
+effectuate this section. The rules must be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in Tennessee Code Annotated, Title 4, Chapter 5.
+
+Section 6:
+SECTION 4. This act is not an appropriation of funds, and funds shall not be obligated
+or expended pursuant to this act unless the funds are specifically appropriated by the general
+appropriations act.
+
+Section 7:
+SECTION 5. The heading in this act is for reference purposes only and does not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the heading in any compilation or publication containing this act.
+
+Section 8:
+SECTION 6. This act takes effect July 1, 2025, the public welfare requiring it.
+- 7 - 002346
+[DELETED: WWWWWWWS(]
+[DELETED:  -0((((S4((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(SSS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 802
+By Massey
+HOUSE BILL 841
+By Haston
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 51; Title 37, Chapter 5, Part 5; Title 49
+and Title 71, Chapter 3, relative to early learning.
+WHEREAS, many children begin kindergarten developmentally and socially behind; and
+WHEREAS, child care and preschool promote early learning and development when
+they are high quality; and
+WHEREAS, parents depend on child care and preschool programs in order to be able to
+work; and
+WHEREAS, child care and preschool programs, especially those that are high quality,
+are unaffordable for most Tennessee families, costing more than in-state college tuition; and
+WHEREAS, public payment assistance for child care and preschool programs is limited
+to low-income families up to eighty-five percent of state median income; and
+WHEREAS, choices for middle income families are especially limited due to lack of
+affordability; and
+WHEREAS, the Tennessee lottery was established in 2002 by the people of Tennessee
+with four purposes for its proceeds, one of which is early learning programs; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 4-51-111, is amended by adding the
+following as a new subsection:
+(1) There is created a fund in the state treasury to be known as the "promising
+futures early learning fund." The fund consists of excess lottery revenues pursuant to
+subdivision ( )(2) and monies obtained from any other sources for the purpose of
+providing promising futures early learning scholarships.
+HB0841
+002346
+- 1 -
+
+(2) Notwithstanding a law to the contrary, beginning July 1, 2025, and each July
+1 thereafter, the corporation shall transfer one hundred percent (100%) of net lottery
+proceeds that are not used to fund scholarships other than the promising futures early
+learning scholarship established by § 49-1-1110, early learning programs and after
+school programs, or capital outlay projects for grades kindergarten through twelve (K-12)
+educational facilities, to the promising futures early learning fund.
+(3) Money in the promising futures early learning fund must be invested by the
+state treasurer pursuant to title 9, chapter 4, part 6 for the sole benefit of the fund.
+(4) Monies in the promising futures early learning fund must be used to provide
+promising futures early learning scholarships and as authorized in § 49-1-1110(j). The
+department of education, in collaboration with the state treasurer, shall designate a date
+by which the treasurer shall annually make a distribution from the promising futures early
+learning fund to the department for the purpose of paying for the scholarships pursuant
+to § 49-1-1110(f)(4).
+(5) Monies in the promising futures early learning fund must not be used to
+displace, replace, or supplant state funding for child care or other early learning
+programs.
+SECTION 2. Tennessee Code Annotated, Title 49, Chapter 1, Part 11, is amended by
+adding the following as a new section:
+49-1-1110. Scholarship program for children to participate in high-quality early
+learning programs.
+(a) The promising futures early learning scholarship program is hereby
+established so that children may attend a high-quality early learning program.
+(b)
+- 2 - 002346
+
+(1) As used in this section, "high-quality early learning program" means a
+program with quality ratings, as determined by the department of education
+utilizing measurement methods and instruments described in subdivision (b)(2),
+indicating that the program delivers high-quality, teacher-child interaction and
+instruction predictive of child outcomes.
+(2) The department shall utilize measurement methods and instruments
+for determining whether a program delivers high-quality, teacher-child interaction
+and instruction that includes, but not limited to, a tested and proven, evidence-
+based observational instrument that assesses classroom quality, including
+assessing multiple dimensions of teacher-child interactions that are linked to
+positive child development, early language and literacy skills, and later
+achievement.
+(c)
+(1) The department of education shall implement the promising futures
+early learning scholarship program by July 1, 2026.
+(2) The department of education shall establish and administer a
+streamlined online portal that parents may use to apply for a promising futures
+scholarship. The portal must be capable of:
+(i) Making eligibility determinations; and
+(ii) Applying for federal funds for which the applicant meets the
+eligibility criteria before making state dollars available.
+(3) For the first year that promising futures early learning scholarships
+are awarded, the department of education may award up to five thousand (5,000)
+scholarships, and the maximum amount of a scholarship is four thousand five
+hundred dollars ($4,500). For the second and subsequent years that promising
+- 3 - 002346
+
+futures early learning scholarships are awarded, the department may award as
+many promising futures early learning scholarships and in such amount as
+funding permits.
+(4) If there are more eligible applicants than scholarship funds available
+in a year that there is sufficient funding to award promising futures early learning
+scholarships, then the department of education shall award the scholarships in
+the following order:
+(A) An eligible child who received a scholarship in the
+immediately preceding school year; and
+(B) As determined based on the results of a lottery.
+(d) The department of education shall establish:
+(1) The qualifications for high-quality instruction in high-quality early
+learning programs for purposes of the promising futures early learning
+scholarships, including, but not limited to, qualifications for high-quality teachers
+and assistant teachers, high-quality teacher-child interaction and curricula, and
+high-quality environments; and
+(2) The measurement methods and instruments for high-quality
+instruction, which must include, at a minimum, a tested and proven evidence-
+based observational instrument to assess classroom quality, including assessing
+multiple dimensions of teacher-child interactions that are linked to positive child
+development, early language and literacy skills, and later achievement.
+(e) To be eligible to receive a promising futures scholarship, a parent's or legal
+guardian's child must:
+(1) Be at least six (6) weeks of age and not eligible to attend a public
+school pursuant to § 49-6-3001;
+- 4 - 002346
+
+(2) Be a member of a household with an annual income for the previous
+year that does not exceed one hundred fifty percent (150%) the state median
+income;
+(3)
+(A) Reside with a parent or legal guardian who has primary
+responsibility for care and control of the child and who is employed and
+works an average of thirty (30) hours or more per week or is enrolled in
+and attending full time an eligible postsecondary education program; or
+(B) Reside in a household with two (2) parents or legal guardians
+who are each either employed and work an average of thirty (30) hours or
+more per week or are enrolled in and attending full time an eligible
+postsecondary education program;
+(4) Be accepted to a high-quality early learning program; and
+(5) Be a resident of this state.
+(f) For purposes of creating and implementing the promising futures program,
+the department of education shall:
+(1) Establish procedures to determine a child's eligibility to receive a
+scholarship in accordance with subsection (e);
+(2) Establish an income verification process for purposes of subdivision
+(e)(2);
+(3) Determine which postsecondary education programs are eligible
+programs for purposes of subdivision (e)(3);
+(4) Pay scholarship funds directly to the high-quality early learning
+program in which the child who receives the scholarship is enrolled;
+- 5 - 002346
+
+(5) Ensure that each child who receives a scholarship continues to meet
+the requirements outlined in subsection (e);
+(6) Establish the number of days a child who receives a scholarship must
+attend a high-quality early learning program; and
+(7) Ensure that each child who receives a scholarship attends a high-
+quality early learning program for the number of days established pursuant to
+subdivision (f)(6).
+(g) The department of education may suspend or terminate a parent's or legal
+guardian's participation in the promising futures early learning scholarship program if the
+department determines that the child's parent or legal guardian failed to comply with this
+section.
+(h) If a high-quality early learning program knowingly uses promising futures
+early learning scholarship funds with the intent to defraud the promising futures early
+learning scholarship program, then the department of education may refer the matter to
+the appropriate enforcement authority for criminal prosecution.
+(i) A promising futures early learning scholarship:
+(1) Constitutes a scholarship provided for high-quality early learning for a
+child; and
+(2) Does not constitute income of a parent or legal guardian of a child
+under title 67, chapter 2 or any other state law.
+(j) The department of education may use funds in the promising futures early
+learning fund for expenses incurred by the department due to the department's
+administration of the promising futures early learning scholarship program; provided, that
+such expenses must not exceed ten percent (10%) of the balance of the promising
+futures early learning scholarship program in any fiscal year.
+- 6 - 002346
+
+(k) The department of education shall submit a report on the implementation of
+the promising futures program, including program outcomes, to the education committee
+of the senate and the committee of the house of representatives with jurisdiction over
+lottery scholarships by December 31, 2027, and by December 31 of each year
+thereafter.
+SECTION 3. The state board of education shall promulgate rules necessary to
+effectuate this section. The rules must be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in Tennessee Code Annotated, Title 4, Chapter 5.
+SECTION 4. This act is not an appropriation of funds, and funds shall not be obligated
+or expended pursuant to this act unless the funds are specifically appropriated by the general
+appropriations act.
+SECTION 5. The heading in this act is for reference purposes only and does not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the heading in any compilation or publication containing this act.
+SECTION 6. This act takes effect July 1, 2025, the public welfare requiring it.
+- 7 - 002346
+
+[DELETED: WWWWWWWS(]
+[DELETED:  -0((((S4((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(SSS]

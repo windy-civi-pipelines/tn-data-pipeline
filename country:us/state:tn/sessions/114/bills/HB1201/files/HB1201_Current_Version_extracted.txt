@@ -1,0 +1,155 @@
+Title: SENATE BILL 1054
+Official Title: SENATE BILL 1054
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Roberts
+HOUSE BILL 1201
+By Kumar
+AN ACT to amend Tennessee Code Annotated, Title 63,
+relative to health care.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 63-6-207(g), is amended by deleting
+the subsection and substituting:
+(g)
+(1) The board shall issue a foreign training license of limited duration to
+an internationally licensed physician who has successfully completed the
+examination as described in subsection (b) upon finding sufficient evidence that
+the internationally licensed physician:
+(A) Possesses a:
+(i) Certificate from a medical school whose curriculum is:
+(a) Approved by the American Medical Association
+or its extant accreditation program for medical education,
+or its successor; or
+(b) Judged to be acceptable by the board; and
+(ii) Copy of a permanent ECFMG certificate;
+(B) Completed a postgraduate training program of a minimum of
+three (3) years in a country approved by the internationally licensed
+physician's licensing country or has practiced as a medical professional
+performing the duties of a physician for seven (7) years;
+HB1201
+001621
+- 1 -
+(C) Has practiced as a medical professional performing the duties
+of a physician for at least three (3) years in the licensing country after the
+postgraduate training or equivalent as described in subdivision (g)(1)(B);
+(D) Has been in good standing with the medical licensing or
+regulatory institution of the internationally licensed physician licensing
+country within the last five (5) years and does not have any pending
+discipline before the licensing body;
+(E) Is legally entitled to live or work in the United States if the
+person is not a citizen of the United States;
+(F) Has sufficient evidence of good moral character; and
+(G) Has paid:
+(i) A nonrefundable application fee as set by the board;
+and
+(ii) An examination fee as described in this section.
+(2) An applicant under subdivision (g)(1) shall submit sufficient evidence
+that the applicant is an internationally licensed physician and has an offer for
+employment as a physician at a healthcare provider that operates in this state.
+(3) An internationally licensed physician who is granted a foreign training
+license under subdivision (g)(1) shall only provide medical services at the
+healthcare provider identified in subdivision (g)(2) during the period of the foreign
+training license unless the licensee notifies the board of a change of eligible
+healthcare provider employer.
+(4) The board may grant a full and unrestricted license to practice
+medicine to a foreign training licensee under subdivision (g)(1) who is in good
+- 2 - 001621
+standing and has actively practiced medicine in this state for two (2) years after
+the date of foreign training licensure.
+(5) As used in this subsection (g), "healthcare provider" means an
+individual, entity, corporation, person, or organization, whether for profit or
+nonprofit, that furnishes, bills, or is paid for a healthcare procedure or service
+delivery in the normal course of business, and includes a healthcare
+professional, healthcare facility, a health system, hospital, hospital-based facility,
+freestanding emergency facility, urgent care clinic, or entity licensed or certified
+to provide health services in this state as recognized by the board.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 001621
+[DELETED: S(((( ((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1054
+By Roberts
+HOUSE BILL 1201
+By Kumar
+AN ACT to amend Tennessee Code Annotated, Title 63,
+relative to health care.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 63-6-207(g), is amended by deleting
+the subsection and substituting:
+(g)
+(1) The board shall issue a foreign training license of limited duration to
+an internationally licensed physician who has successfully completed the
+examination as described in subsection (b) upon finding sufficient evidence that
+the internationally licensed physician:
+(A) Possesses a:
+(i) Certificate from a medical school whose curriculum is:
+(a) Approved by the American Medical Association
+or its extant accreditation program for medical education,
+or its successor; or
+(b) Judged to be acceptable by the board; and
+(ii) Copy of a permanent ECFMG certificate;
+(B) Completed a postgraduate training program of a minimum of
+three (3) years in a country approved by the internationally licensed
+physician's licensing country or has practiced as a medical professional
+performing the duties of a physician for seven (7) years;
+HB1201
+001621
+- 1 -
+
+(C) Has practiced as a medical professional performing the duties
+of a physician for at least three (3) years in the licensing country after the
+postgraduate training or equivalent as described in subdivision (g)(1)(B);
+(D) Has been in good standing with the medical licensing or
+regulatory institution of the internationally licensed physician licensing
+country within the last five (5) years and does not have any pending
+discipline before the licensing body;
+(E) Is legally entitled to live or work in the United States if the
+person is not a citizen of the United States;
+(F) Has sufficient evidence of good moral character; and
+(G) Has paid:
+(i) A nonrefundable application fee as set by the board;
+and
+(ii) An examination fee as described in this section.
+(2) An applicant under subdivision (g)(1) shall submit sufficient evidence
+that the applicant is an internationally licensed physician and has an offer for
+employment as a physician at a healthcare provider that operates in this state.
+(3) An internationally licensed physician who is granted a foreign training
+license under subdivision (g)(1) shall only provide medical services at the
+healthcare provider identified in subdivision (g)(2) during the period of the foreign
+training license unless the licensee notifies the board of a change of eligible
+healthcare provider employer.
+(4) The board may grant a full and unrestricted license to practice
+medicine to a foreign training licensee under subdivision (g)(1) who is in good
+- 2 - 001621
+
+standing and has actively practiced medicine in this state for two (2) years after
+the date of foreign training licensure.
+(5) As used in this subsection (g), "healthcare provider" means an
+individual, entity, corporation, person, or organization, whether for profit or
+nonprofit, that furnishes, bills, or is paid for a healthcare procedure or service
+delivery in the normal course of business, and includes a healthcare
+professional, healthcare facility, a health system, hospital, hospital-based facility,
+freestanding emergency facility, urgent care clinic, or entity licensed or certified
+to provide health services in this state as recognized by the board.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 001621
+
+[DELETED: S(((( ((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(S]

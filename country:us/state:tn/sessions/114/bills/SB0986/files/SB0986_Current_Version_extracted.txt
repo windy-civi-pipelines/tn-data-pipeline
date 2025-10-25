@@ -1,0 +1,61 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 986
+By Southerland
+AN ACT to amend Tennessee Code Annotated, Section
+67-4-409, relative to transfers of realty.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-4-409(d), is amended by adding
+the following new subdivision:
+(4) Notwithstanding another law and except for commissions and fees retained
+as otherwise provided in subdivisions (d)(2) and (3), and except for the credit of realty
+transfer tax revenues to specific accounts or funds in accordance with subsections (g),
+(i), (j), (l), and (m), the department shall remit back to each county, respectively, fifty
+percent (50%) of the recordation taxes on the transfer of realty levied under subsection
+(a) that are collected by county registers and remitted to the department, based on the
+total amount of such taxes remitted to the department by county.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, and applies to transfers of real property
+on or after such date, the public welfare requiring it.
+SB0986
+001752
+- 1 -
+[DELETED: S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 986
+By Southerland
+AN ACT to amend Tennessee Code Annotated, Section
+67-4-409, relative to transfers of realty.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-4-409(d), is amended by adding
+the following new subdivision:
+(4) Notwithstanding another law and except for commissions and fees retained
+as otherwise provided in subdivisions (d)(2) and (3), and except for the credit of realty
+transfer tax revenues to specific accounts or funds in accordance with subsections (g),
+(i), (j), (l), and (m), the department shall remit back to each county, respectively, fifty
+percent (50%) of the recordation taxes on the transfer of realty levied under subsection
+(a) that are collected by county registers and remitted to the department, based on the
+total amount of such taxes remitted to the department by county.
+SECTION 2. This act takes effect July 1, 2025, and applies to transfers of real property
+on or after such date, the public welfare requiring it.
+SB0986
+001752
+- 1 -
+
+[DELETED: S]

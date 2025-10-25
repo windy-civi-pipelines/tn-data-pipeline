@@ -1,0 +1,202 @@
+Title: HOUSE BILL 1004
+Official Title: HOUSE BILL 1004
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Hakeem
+SENATE BILL 583
+By Akbari
+AN ACT to amend Tennessee Code Annotated, Title 37
+and Title 49, relative to after school programs.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 6, Part 7, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "County juvenile offense rate" means the number of crimes committed
+by individuals who are between ten (10) and seventeen (17) years of age, both
+inclusive, in a given county, for every one thousand (1,000) residents of the
+county, as published by the Tennessee bureau of investigation;
+(2) "Department" means the department of education;
+(3) "Eligible LEA" means a local education agency that operates or
+serves as the charter authorizer for at least one (1) public school located in a
+county for which the county juvenile offense rate is at least ten percent (10%)
+higher than the statewide juvenile offense rate;
+(4) "Eligible nonprofit organization" means a 501(c)(3) organization
+exempt from federal income taxation under § 501(a) of the Internal Revenue
+Code (26 U.S.C. § 501(a)) that operates after school programs;
+(5) "Eligible student" means a student enrolled in a public school in any
+of the grades kindergarten through twelve (K-12);
+(6) "Public school" means any school in this state that serves students in
+any of the grades kindergarten through twelve (K-12) and that is operated as part
+SB0583
+002053
+- 1 -
+of a local education agency, by this state with public funds, or pursuant to a
+charter agreement, as defined in § 49-13-104; and
+(7) "Statewide juvenile offense rate" means the number of crimes
+committed by individuals who are between ten (10) and seventeen (17) years of
+age, both inclusive, in this state, for every one thousand (1,000) residents of this
+state, as published by the Tennessee bureau of investigation.
+(b) Subject to appropriation, the department shall award grants to eligible LEAs
+that have submitted a grant application approved by the department to enable such
+LEAs to provide after school programs for eligible students enrolled in the eligible LEA.
+(c) An eligible LEA seeking a grant under this section must submit an application
+to the department at such time, and in such manner, as the department requires. Each
+grant application must, at a minimum, include the following:
+(1) The county juvenile offense rate for the most recent fiscal year for
+which data is available for the county in which at least one (1) public school is
+located;
+(2) An assurance that the eligible LEA will directly provide after school
+programs using grant funds or will partner with an eligible nonprofit organization
+for that organization to provide after school programs using grant funds; and
+(3) Details regarding the activities and frequency of the after school
+programs that will be provided using grant funds received under this section.
+(d)
+(1) An eligible LEA that receives a grant must use the grant funds to
+operate after school programs for eligible students, which may include:
+(A) Expanding existing after school programs for eligible students;
+(B) Providing new after school programs for eligible students; or
+- 2 - 002053
+(C) Partnering with an eligible nonprofit organization for the
+organization to operate after school programs for eligible students.
+(2) After school programs provided using grant funds received pursuant
+to this section must include educational activities and programming.
+(3) An LEA that receives a grant pursuant to this section may apply to
+renew the grant in a subsequent year. The department shall, subject to available
+funds, award a grant to an LEA that received a grant in the prior year, even if the
+LEA is no longer an eligible LEA because the county juvenile offense rate for the
+county in which at least one (1) public school is located is not at least ten percent
+(10%) higher than the statewide juvenile offense rate.
+(e) From the total amount of grant funds available to the department for
+purposes of this section, the department shall allocate to each eligible LEA with a
+department-approved application, a grant in an amount that bears the same relationship
+to the total amount of grant funds available as the number of eligible students who will
+be served by the eligible LEA pursuant to this section bears to the total number of
+eligible students who will be served by all eligible LEAs pursuant to this section.
+(f) Each eligible LEA that receives a grant under this section must submit an
+annual report to the committee of the house of representatives with jurisdiction over after
+school programs for students in any of the grades kindergarten through twelve (K-12)
+and the education committee of the senate describing:
+(1) The number of public schools served by an after school program
+established or maintained by the eligible LEA using grant funds;
+(2) The number of eligible students served at each after school program
+established or maintained by the eligible LEA using grant funds; and
+- 3 - 002053
+(3) The general successes and vulnerabilities of the after school
+programs established or maintained by the eligible LEA using grant funds.
+
+Section 3:
+SECTION 2. For purposes of awarding grants to eligible LEAs, this act takes effect July
+1, 2025, the public welfare requiring it. For all other purposes, this act takes effect upon
+becoming a law, the public welfare requiring it.
+- 4 - 002053
+[DELETED: S(((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1004
+By Hakeem
+SENATE BILL 583
+By Akbari
+AN ACT to amend Tennessee Code Annotated, Title 37
+and Title 49, relative to after school programs.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 6, Part 7, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "County juvenile offense rate" means the number of crimes committed
+by individuals who are between ten (10) and seventeen (17) years of age, both
+inclusive, in a given county, for every one thousand (1,000) residents of the
+county, as published by the Tennessee bureau of investigation;
+(2) "Department" means the department of education;
+(3) "Eligible LEA" means a local education agency that operates or
+serves as the charter authorizer for at least one (1) public school located in a
+county for which the county juvenile offense rate is at least ten percent (10%)
+higher than the statewide juvenile offense rate;
+(4) "Eligible nonprofit organization" means a 501(c)(3) organization
+exempt from federal income taxation under § 501(a) of the Internal Revenue
+Code (26 U.S.C. § 501(a)) that operates after school programs;
+(5) "Eligible student" means a student enrolled in a public school in any
+of the grades kindergarten through twelve (K-12);
+(6) "Public school" means any school in this state that serves students in
+any of the grades kindergarten through twelve (K-12) and that is operated as part
+SB0583
+002053
+- 1 -
+
+of a local education agency, by this state with public funds, or pursuant to a
+charter agreement, as defined in § 49-13-104; and
+(7) "Statewide juvenile offense rate" means the number of crimes
+committed by individuals who are between ten (10) and seventeen (17) years of
+age, both inclusive, in this state, for every one thousand (1,000) residents of this
+state, as published by the Tennessee bureau of investigation.
+(b) Subject to appropriation, the department shall award grants to eligible LEAs
+that have submitted a grant application approved by the department to enable such
+LEAs to provide after school programs for eligible students enrolled in the eligible LEA.
+(c) An eligible LEA seeking a grant under this section must submit an application
+to the department at such time, and in such manner, as the department requires. Each
+grant application must, at a minimum, include the following:
+(1) The county juvenile offense rate for the most recent fiscal year for
+which data is available for the county in which at least one (1) public school is
+located;
+(2) An assurance that the eligible LEA will directly provide after school
+programs using grant funds or will partner with an eligible nonprofit organization
+for that organization to provide after school programs using grant funds; and
+(3) Details regarding the activities and frequency of the after school
+programs that will be provided using grant funds received under this section.
+(d)
+(1) An eligible LEA that receives a grant must use the grant funds to
+operate after school programs for eligible students, which may include:
+(A) Expanding existing after school programs for eligible students;
+(B) Providing new after school programs for eligible students; or
+- 2 - 002053
+
+(C) Partnering with an eligible nonprofit organization for the
+organization to operate after school programs for eligible students.
+(2) After school programs provided using grant funds received pursuant
+to this section must include educational activities and programming.
+(3) An LEA that receives a grant pursuant to this section may apply to
+renew the grant in a subsequent year. The department shall, subject to available
+funds, award a grant to an LEA that received a grant in the prior year, even if the
+LEA is no longer an eligible LEA because the county juvenile offense rate for the
+county in which at least one (1) public school is located is not at least ten percent
+(10%) higher than the statewide juvenile offense rate.
+(e) From the total amount of grant funds available to the department for
+purposes of this section, the department shall allocate to each eligible LEA with a
+department-approved application, a grant in an amount that bears the same relationship
+to the total amount of grant funds available as the number of eligible students who will
+be served by the eligible LEA pursuant to this section bears to the total number of
+eligible students who will be served by all eligible LEAs pursuant to this section.
+(f) Each eligible LEA that receives a grant under this section must submit an
+annual report to the committee of the house of representatives with jurisdiction over after
+school programs for students in any of the grades kindergarten through twelve (K-12)
+and the education committee of the senate describing:
+(1) The number of public schools served by an after school program
+established or maintained by the eligible LEA using grant funds;
+(2) The number of eligible students served at each after school program
+established or maintained by the eligible LEA using grant funds; and
+- 3 - 002053
+
+(3) The general successes and vulnerabilities of the after school
+programs established or maintained by the eligible LEA using grant funds.
+SECTION 2. For purposes of awarding grants to eligible LEAs, this act takes effect July
+1, 2025, the public welfare requiring it. For all other purposes, this act takes effect upon
+becoming a law, the public welfare requiring it.
+- 4 - 002053
+
+[DELETED: S(((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(S]

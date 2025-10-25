@@ -1,0 +1,850 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 17
+By Baum
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 8; Title 9 and Title 50, relative to retirement.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 8, Chapter 5, is amended by adding the
+following as a new part:
+8-5-301. This part is known and may be cited as the "Tennessee Retirement
+Savings Plan Act."
+8-5-302.
+(a) There is created a Tennessee retirement savings board consisting of
+seven (7) members as follows:
+(1) The state treasurer or the treasurer's designee;
+(2) The following members, appointed by the governor:
+(A) A representative of employers;
+(B) A representative with experience in the field of
+investments;
+(C) A representative of an association representing
+employees; and
+(D) A member of the public who is retired;
+(3) A member of the senate, appointed by the speaker of the
+senate to be a nonvoting advisory member of the board; and
+(4) A member of the house of representatives, appointed by the
+speaker of the house of representatives to be a nonvoting advisory
+member of the board.
+HB0017
+000489
+- 1 -
+(b)
+(1) The governor and the speakers of the senate and the house
+of representatives shall first make appointments to the Tennessee
+retirement savings board for terms of office beginning on January 1,
+
+Section 3:
+2026.
+(2) Notwithstanding the term of office specified by subsection (c),
+of the members first appointed to the Tennessee retirement savings
+board by the governor:
+(A) The representative of employers shall serve for a term
+ending December 31, 2027;
+(B) The representative of an association representing
+employees shall serve for a term ending December 31, 2028; and
+(C) The two (2) other members shall serve for a term
+ending December 31, 2029.
+(c) The term of office of each member of the board appointed by the
+governor is four (4) years, but a member serves at the pleasure of the governor.
+A member is eligible for reappointment. If there is a vacancy for any cause, then
+the governor shall make an appointment to become immediately effective for the
+unexpired term.
+(d) Each legislative member serves at the pleasure of the appointing
+authority and may serve as long as the member remains in the chamber of the
+general assembly from which the member was appointed.
+(e) The state treasurer or the treasurer's designee appointed to the board
+under subdivision (a)(1) shall serve as chair of the board.
+- 2 - 000489
+(f) A majority of the voting members of the board constitutes a quorum
+for the transaction of business.
+(g)
+(1) The members of the board who are not governmental
+employees or public officials shall be paid a per diem of seventy-five
+dollars ($75.00) for attending board meetings.
+(2) Each member is entitled to reimbursement for travel and other
+necessary expenses incurred in the performance of official duties in
+accordance with the state comprehensive travel regulations as
+promulgated by the commissioner of finance and administration and
+approved by the attorney general and reporter.
+(h) The board is administratively attached to the department of treasury,
+and department staff shall provide administrative support to the board.
+8-5-303.
+(a) The Tennessee retirement savings board shall develop a defined
+contribution retirement plan for residents of this state who are employed for
+compensation in this state. The board shall conduct a market and legal analysis
+of the plan.
+(b) The board has the following powers:
+(1) To establish, implement, and maintain the plan developed
+under this section;
+(2) To promulgate rules as are necessary to carry out the purpose
+and intent of this part, and to ensure that the plan complies with
+applicable federal and state laws, rules, regulations, notices, and
+- 3 - 000489
+interpretations. All rules must be promulgated in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5;
+(3) To direct the investment of the funds contributed to accounts
+in the plan consistent with the investment restrictions established by the
+board. The investment restrictions must be consistent with the objectives
+of the plan, and the board shall exercise the judgment and care then
+prevailing that persons of prudence, discretion, and intelligence exercise
+in the management of their own affairs with due regard to the probable
+income and level of risk from certain types of investments of money, in
+accordance with the policies established by the board;
+(4) To collect application, account, or administrative fees to defray
+the costs of administering the plan;
+(5)
+(A) To make or enter into contracts or agreements with:
+(i) Financial institutions, depositories, consultants,
+actuaries, auditors, investment advisers, investment
+managers, third-party administrators, or other consultants
+and professionals as necessary to carry out the duties and
+responsibilities under this part and the plan established by
+the board;
+(ii) Individuals or entities providing research,
+technical assistance, or technology; and
+(iii) State agencies to assist the board in the
+fulfilment of its duties;
+- 4 - 000489
+(B) All expenses and fees incidental to the services
+described in subdivision (b)(5)(A) must be charged to and paid
+from participant accounts;
+(6) To evaluate the need for, and procure as needed, pooled
+private insurance of the plan;
+(7) To develop and implement an outreach plan to gain input and
+disseminate information regarding the plan and retirement savings in
+general; and
+(8) To delegate to the state treasurer the day-to-day
+administration, operations, and responsibilities of the plan, including, but
+not limited to:
+(A) Exercising the duties and responsibilities contained in
+this part to implement the purpose of this part;
+(B) Assigning duties and responsibilities to the state
+treasurer's staff, private vendors, or contractors, as the state
+treasurer deems necessary and proper;
+(C) Consulting with professionals as necessary about the
+administration of the plan; and
+(D) Establishing policies, guidelines, and operating
+procedures in accordance with this part.
+8-5-304.
+(a) The plan developed and established by the Tennessee retirement
+savings board under § 8-5-303 must:
+- 5 - 000489
+(1) Allow eligible individuals employed for compensation in this
+state to contribute to an account established under the plan through
+payroll deduction;
+(2) Require an employer with more than five (5) employees to
+offer its employees the opportunity to contribute to the plan through
+payroll deductions unless the employer offers a qualified retirement plan,
+including, but not limited to, a plan qualified under Section 401(a), 401(k),
+403(a), 403(b), 408(k), 408(p), or 457(b) of the Internal Revenue Code
+(U.S.C. title 26);
+(3) Provide for automatic enrollment of employees and allow
+employees to opt out of the plan;
+(4) Have a default contribution rate of five percent (5%) of wages
+or salary;
+(5) Offer default escalation of contribution levels that can be
+increased or decreased within the limits allowed by the Internal Revenue
+Code (U.S.C. title 26);
+(6) Provide for contributions to the plan to be deposited directly
+with the investment administrator for the plan;
+(7) Whenever possible, use existing employer and public
+infrastructure to facilitate contributions to the plan, recordkeeping, and
+outreach;
+(8) Require no employer contributions to employee accounts;
+(9) Require the maintenance of separate records and accounting
+for each plan account;
+- 6 - 000489
+(10) Provide for reports on the status of plan accounts to be
+provided to plan participants at least annually;
+(11) Allow for account owners to maintain an account regardless
+of place of employment and to roll over funds into other retirement
+accounts;
+(12) Pool accounts established under the plan for investment;
+(13) Be professionally managed;
+(14) Provide that the state of Tennessee and employers that
+participate in the plan have no proprietary interest in the contributions to
+or earnings on amounts contributed to accounts established under the
+plan;
+(15) Provide that the investment administrator for the plan is the
+trustee of all contributions and earnings on amounts contributed to
+accounts established under the plan;
+(16) Not impose any duties under the Employee Retirement
+Income Security Act of 1974 (29 U.S.C. § 1001 et seq.) on employers;
+(17) Keep administration fees in the plan low;
+(18) Allow the use of private sector partnerships to administer and
+invest the contributions to the plan under the supervision and guidance of
+the board; and
+(19) Allow employers to establish an alternative retirement plan
+for some or all employees.
+(b) The plan, the board, each board member, and the state of Tennessee
+shall not guarantee any rate of return or any interest rate on any contribution.
+- 7 - 000489
+The plan, the board, each board member, and the state of Tennessee are not
+liable for any loss incurred by any person as a result of participating in the plan.
+8-5-305. The Tennessee retirement savings board shall adopt rules that:
+(1) Establish the process for voluntary enrollment in the plan developed
+under § 8-5-303, including procedures for automatic enrollment of employees
+and for employees to opt out of the plan;
+(2) Establish the process for participants to make the default
+contributions to plan accounts and to adjust the contribution levels;
+(3) Establish the process for employers to withhold employee
+contributions to plan accounts from employees' wages and send the contributions
+to the investment administrator for the plan;
+(4) Establish the process for allowing employees to opt out of enrollment
+in the plan;
+(5) Set minimum, maximum, and default contribution levels in
+accordance with limits established by the Internal Revenue Code (U.S.C. title
+26);
+(6) Establish the process for withdrawals from plan accounts;
+(7) Establish the process and requirements for an employer to obtain an
+exemption from offering the plan if the employer offers a qualified retirement
+plan, including, but not limited to, a plan qualified under Section 401(a), 401(k),
+403(a), 403(b), 408(k), 408(p), or 457(b) of the Internal Revenue Code (U.S.C.
+title 26);
+(8) Mandate the contents and frequency of required disclosures to
+employees, employers, and other plan participants. These disclosures must
+include, but need not be limited to:
+- 8 - 000489
+(A) The benefits and risks associated with making contributions to
+the plan;
+(B) Instructions for making contributions to the plan;
+(C) How to opt out of the plan;
+(D) How to participate in the plan with a level of contributions
+other than the default rate;
+(E) The process for withdrawal of retirement savings;
+(F) How to obtain additional information about the plan;
+(G) That employees seeking financial advice should contact
+financial advisers, that participating employers are not in a position to
+provide financial advice, and that participating employers are not liable for
+decisions employees make pursuant to this part;
+(H) That the plan is not an employer-sponsored retirement plan;
+and
+(I) That the plan accounts and rate of return are not guaranteed
+by the state; and
+(9) Establish civil penalties for the employer's noncompliance with its
+participation in the plan as provided in this part.
+8-5-306.
+(a) Notwithstanding another law to the contrary, the state shall not
+disclose personal information about a participant or beneficiary of a participant
+obtained in connection with an account established under this part, except under
+the following circumstances:
+(1) To an individual or entity authorized by the respective
+participant or beneficiary;
+- 9 - 000489
+(2) In compliance with a subpoena or a court order;
+(3) To the comptroller of the treasury or the comptroller's
+designee for the purpose of an audit;
+(4) To the internal revenue service or the United States
+department of treasury;
+(5) To the participant's employer as may be necessary to
+administer the plan; or
+(6) In an administrative proceeding or court action involving the
+state, the department of treasury, the state treasurer, or the board relative
+to an account established under this part.
+(b) As used in this section, "personal information" includes, but is not
+limited to:
+(1) Social security numbers;
+(2) Bank account numbers;
+(3) Transit routing numbers;
+(4) Credit card numbers;
+(5) Debit card numbers;
+(6) Business or residential addresses;
+(7) Telephone numbers;
+(8) Email addresses;
+(9) Amounts contributed; and
+(10) Earnings on amounts contributed.
+(c) Notwithstanding a law to the contrary and except as provided in
+subsection (d):
+- 10 - 000489
+(1) All assets, income, and distributions of the plan are protected
+against the claims of creditors of the state, plan administrator, and plan
+participants, and are not subject to execution, attachment, garnishment,
+the operation of bankruptcy, the insolvency laws, or other processes; and
+(2) An assignment of the items described in subdivision (c)(1) is
+not enforceable in a court.
+(d) The board may adopt rules as provided in § 8-5-303(b)(2) to permit
+the plan to honor claims under a qualified domestic relations order. As used in
+this subsection (d), "qualified domestic relations order" has the same meaning as
+provided in § 414(p) of the Internal Revenue Code of 1986 (26 U.S.C. § 414(p)).
+However, such an order may only relate to the provision of marital property rights
+relating to the plan for the benefit of a plan participant's former spouse.
+8-5-307.
+(a) The Tennessee retirement savings plan administrative fund is
+established in the state treasury, separate and distinct from the general fund.
+Interest earned by the Tennessee retirement savings plan administrative fund
+must be credited to the fund. Moneys in the fund are continuously appropriated
+to the Tennessee retirement savings board.
+(b) The Tennessee retirement savings plan administrative fund consists
+of:
+(1) Moneys appropriated to the fund by the general assembly;
+(2) Moneys transferred to the fund from the federal government,
+other state agencies, or local governments;
+(3) Moneys from the payment of fees and the payment of other
+moneys due the board;
+- 11 - 000489
+(4) Any gifts or donations made to the state of Tennessee for
+deposit in the fund; and
+(5) Earnings on moneys in the fund.
+(c) The board may use the moneys in the fund to pay the administrative
+costs and expenses of the board and the plan developed under § 8-5-303 and for
+any other purpose described in this part.
+8-5-308.
+(a) Before establishing a plan developed under § 8-5-303, the
+Tennessee retirement savings board shall:
+(1) Conduct a market analysis to determine:
+(A) The feasibility of the plan; and
+(B) Whether and to what extent plans with the
+characteristics described in § 8-5-304 currently exist in the private
+market;
+(2) Obtain legal advice regarding the applicability of the Employee
+Retirement Income Security Act of 1974 (29 U.S.C. § 1001 et seq.) and
+the Internal Revenue Code (U.S.C. title 26) to the plan;
+(3) Investigate whether employers that are not required to
+participate in the plan can make the plan available to their employees;
+(4) Investigate whether individuals who are self-employed as
+independent contractors can participate in the plan; and
+(5) Investigate how to allow individuals who are not automatically
+enrolled in the plan to opt in to the plan and make contributions to an
+account, either through payroll contributions or another method of
+contribution.
+- 12 - 000489
+(b) The board shall coordinate with the efforts of other states as those
+states pursue legal guidance for similar retirement savings programs.
+8-5-309.
+The Tennessee retirement savings board shall report no later than
+February 1 each year to the governor and to the finance, ways and means
+committees of the house of representatives and the senate detailing the board's
+activities.
+8-5-310.
+(a) Except for retirement plans offered by a local government to its
+independent contractors on the effective date of this act, a local government shall
+not establish or offer a retirement plan for persons not employed by a
+governmental entity.
+(b) As used in this section, "local government" means a Tennessee local
+governmental entity, including, but not limited to, a municipality, metropolitan
+government, county, utility district, school district, public building authority, and
+development district created and existing pursuant to the laws of this state, or an
+instrumentality of government created by one (1) or more of the local
+governmental entities described in this subsection (b) or by an act of the general
+assembly.
+8-5-311.
+Each state agency that enters into an interagency agreement with the
+Tennessee retirement savings board to provide outreach, technical assistance,
+or compliance services shall collaborate with other state agencies to develop a
+plan to provide these services to the board. This plan must be provided to the
+board no later than July 1, 2026.
+- 13 - 000489
+8-5-312.
+The Tennessee retirement savings board shall report to the finance, ways
+and means committees of the house of representatives and the senate no later
+than July 1, 2026. The report must include:
+(1) The results of the market analysis sought by the board under
+
+Section 4:
+§ 8-5-308(a)(1);
+(2) The findings from legal advice obtained by the board under §
+8-5-308(a)(2);
+(3) An analysis of potential costs to employers, including
+administrative costs, associated with providing automatic payroll
+deductions for participation in the plan, and recommendations on how to
+eliminate or reduce those costs through incentives, tax credits, or other
+means;
+(4) A draft of the request for proposals to solicit bids from plan
+administrators;
+(5) A timeline for implementation of the plan developed under § 8-
+5-303;
+(6) An overview of any contracts entered into by the board in the
+performance of its duties; and
+(7) Recommendations to the general assembly regarding ways to
+increase financial literacy in this state.
+8-5-313.
+(a) Except as provided in subsection (b), the Tennessee retirement
+savings board shall establish the retirement plan developed under § 8-5-303 so
+- 14 - 000489
+that individuals may begin making contributions to the plan no later than January
+1, 2028.
+(b) If the board determines that the plan developed by the board under §
+8-5-303 would qualify as an employee benefit plan under the Employee
+Retirement Income Security Act of 1974 (29 U.S.C. § 1001 et seq.), then the
+board shall not establish the plan.
+(c) Subject to this part:
+(1) Beginning January 1, 2028, a resident of this state employed
+for compensation in this state with a private employer employing more
+than one hundred (100) employees is eligible to participate in a defined
+contribution retirement plan established by the Tennessee retirement
+savings board under this part;
+(2) Beginning January 1, 2029, a resident of this state employed
+for compensation in this state with a private employer employing between
+twenty-five (25) and one hundred (100) employees is eligible to
+participate in a defined contribution retirement plan established by the
+Tennessee retirement savings board under this part;
+(3) Beginning January 1, 2030, a resident of this state employed
+for compensation in this state with a private employer that has between
+five (5) and twenty-four (24) employees is eligible to participate in a
+defined contribution retirement plan established by the Tennessee
+retirement savings board under this part; and
+(4) Prior to an employer's participation in the plan, the employer
+shall register with the board to determine whether the employer is
+required to participate in the plan.
+- 15 - 000489
+
+Section 5:
+SECTION 2. Tennessee Code Annotated, Section 4-29-246(a), is amended by adding
+the following as a new subdivision:
+( ) Tennessee retirement savings board, created by § 8-5-302;
+
+Section 6:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 16 - 000489
+[DELETED: S88(((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0((( ((8((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((((8(]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -08((((((((]
+[DELETED:  -0((((((((((8((]
+[DELETED:  -0(((((((((((((((((]
+[DELETED:  -0(((8(((((]
+[DELETED:  -0(((8((((((((]
+[DELETED:  -0(8T8((8E]
+[DELETED:  -08T(((((((8(]
+[DELETED:  -0((((((]
+[DELETED:  -0S(S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 17
+By Baum
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 8; Title 9 and Title 50, relative to retirement.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 8, Chapter 5, is amended by adding the
+following as a new part:
+8-5-301. This part is known and may be cited as the "Tennessee Retirement
+Savings Plan Act."
+8-5-302.
+(a) There is created a Tennessee retirement savings board consisting of
+seven (7) members as follows:
+(1) The state treasurer or the treasurer's designee;
+(2) The following members, appointed by the governor:
+(A) A representative of employers;
+(B) A representative with experience in the field of
+investments;
+(C) A representative of an association representing
+employees; and
+(D) A member of the public who is retired;
+(3) A member of the senate, appointed by the speaker of the
+senate to be a nonvoting advisory member of the board; and
+(4) A member of the house of representatives, appointed by the
+speaker of the house of representatives to be a nonvoting advisory
+member of the board.
+HB0017
+000489
+- 1 -
+
+(b)
+(1) The governor and the speakers of the senate and the house
+of representatives shall first make appointments to the Tennessee
+retirement savings board for terms of office beginning on January 1,
+2026.
+(2) Notwithstanding the term of office specified by subsection (c),
+of the members first appointed to the Tennessee retirement savings
+board by the governor:
+(A) The representative of employers shall serve for a term
+ending December 31, 2027;
+(B) The representative of an association representing
+employees shall serve for a term ending December 31, 2028; and
+(C) The two (2) other members shall serve for a term
+ending December 31, 2029.
+(c) The term of office of each member of the board appointed by the
+governor is four (4) years, but a member serves at the pleasure of the governor.
+A member is eligible for reappointment. If there is a vacancy for any cause, then
+the governor shall make an appointment to become immediately effective for the
+unexpired term.
+(d) Each legislative member serves at the pleasure of the appointing
+authority and may serve as long as the member remains in the chamber of the
+general assembly from which the member was appointed.
+(e) The state treasurer or the treasurer's designee appointed to the board
+under subdivision (a)(1) shall serve as chair of the board.
+- 2 - 000489
+
+(f) A majority of the voting members of the board constitutes a quorum
+for the transaction of business.
+(g)
+(1) The members of the board who are not governmental
+employees or public officials shall be paid a per diem of seventy-five
+dollars ($75.00) for attending board meetings.
+(2) Each member is entitled to reimbursement for travel and other
+necessary expenses incurred in the performance of official duties in
+accordance with the state comprehensive travel regulations as
+promulgated by the commissioner of finance and administration and
+approved by the attorney general and reporter.
+(h) The board is administratively attached to the department of treasury,
+and department staff shall provide administrative support to the board.
+8-5-303.
+(a) The Tennessee retirement savings board shall develop a defined
+contribution retirement plan for residents of this state who are employed for
+compensation in this state. The board shall conduct a market and legal analysis
+of the plan.
+(b) The board has the following powers:
+(1) To establish, implement, and maintain the plan developed
+under this section;
+(2) To promulgate rules as are necessary to carry out the purpose
+and intent of this part, and to ensure that the plan complies with
+applicable federal and state laws, rules, regulations, notices, and
+- 3 - 000489
+
+interpretations. All rules must be promulgated in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5;
+(3) To direct the investment of the funds contributed to accounts
+in the plan consistent with the investment restrictions established by the
+board. The investment restrictions must be consistent with the objectives
+of the plan, and the board shall exercise the judgment and care then
+prevailing that persons of prudence, discretion, and intelligence exercise
+in the management of their own affairs with due regard to the probable
+income and level of risk from certain types of investments of money, in
+accordance with the policies established by the board;
+(4) To collect application, account, or administrative fees to defray
+the costs of administering the plan;
+(5)
+(A) To make or enter into contracts or agreements with:
+(i) Financial institutions, depositories, consultants,
+actuaries, auditors, investment advisers, investment
+managers, third-party administrators, or other consultants
+and professionals as necessary to carry out the duties and
+responsibilities under this part and the plan established by
+the board;
+(ii) Individuals or entities providing research,
+technical assistance, or technology; and
+(iii) State agencies to assist the board in the
+fulfilment of its duties;
+- 4 - 000489
+
+(B) All expenses and fees incidental to the services
+described in subdivision (b)(5)(A) must be charged to and paid
+from participant accounts;
+(6) To evaluate the need for, and procure as needed, pooled
+private insurance of the plan;
+(7) To develop and implement an outreach plan to gain input and
+disseminate information regarding the plan and retirement savings in
+general; and
+(8) To delegate to the state treasurer the day-to-day
+administration, operations, and responsibilities of the plan, including, but
+not limited to:
+(A) Exercising the duties and responsibilities contained in
+this part to implement the purpose of this part;
+(B) Assigning duties and responsibilities to the state
+treasurer's staff, private vendors, or contractors, as the state
+treasurer deems necessary and proper;
+(C) Consulting with professionals as necessary about the
+administration of the plan; and
+(D) Establishing policies, guidelines, and operating
+procedures in accordance with this part.
+8-5-304.
+(a) The plan developed and established by the Tennessee retirement
+savings board under § 8-5-303 must:
+- 5 - 000489
+
+(1) Allow eligible individuals employed for compensation in this
+state to contribute to an account established under the plan through
+payroll deduction;
+(2) Require an employer with more than five (5) employees to
+offer its employees the opportunity to contribute to the plan through
+payroll deductions unless the employer offers a qualified retirement plan,
+including, but not limited to, a plan qualified under Section 401(a), 401(k),
+403(a), 403(b), 408(k), 408(p), or 457(b) of the Internal Revenue Code
+(U.S.C. title 26);
+(3) Provide for automatic enrollment of employees and allow
+employees to opt out of the plan;
+(4) Have a default contribution rate of five percent (5%) of wages
+or salary;
+(5) Offer default escalation of contribution levels that can be
+increased or decreased within the limits allowed by the Internal Revenue
+Code (U.S.C. title 26);
+(6) Provide for contributions to the plan to be deposited directly
+with the investment administrator for the plan;
+(7) Whenever possible, use existing employer and public
+infrastructure to facilitate contributions to the plan, recordkeeping, and
+outreach;
+(8) Require no employer contributions to employee accounts;
+(9) Require the maintenance of separate records and accounting
+for each plan account;
+- 6 - 000489
+
+(10) Provide for reports on the status of plan accounts to be
+provided to plan participants at least annually;
+(11) Allow for account owners to maintain an account regardless
+of place of employment and to roll over funds into other retirement
+accounts;
+(12) Pool accounts established under the plan for investment;
+(13) Be professionally managed;
+(14) Provide that the state of Tennessee and employers that
+participate in the plan have no proprietary interest in the contributions to
+or earnings on amounts contributed to accounts established under the
+plan;
+(15) Provide that the investment administrator for the plan is the
+trustee of all contributions and earnings on amounts contributed to
+accounts established under the plan;
+(16) Not impose any duties under the Employee Retirement
+Income Security Act of 1974 (29 U.S.C. § 1001 et seq.) on employers;
+(17) Keep administration fees in the plan low;
+(18) Allow the use of private sector partnerships to administer and
+invest the contributions to the plan under the supervision and guidance of
+the board; and
+(19) Allow employers to establish an alternative retirement plan
+for some or all employees.
+(b) The plan, the board, each board member, and the state of Tennessee
+shall not guarantee any rate of return or any interest rate on any contribution.
+- 7 - 000489
+
+The plan, the board, each board member, and the state of Tennessee are not
+liable for any loss incurred by any person as a result of participating in the plan.
+8-5-305. The Tennessee retirement savings board shall adopt rules that:
+(1) Establish the process for voluntary enrollment in the plan developed
+under § 8-5-303, including procedures for automatic enrollment of employees
+and for employees to opt out of the plan;
+(2) Establish the process for participants to make the default
+contributions to plan accounts and to adjust the contribution levels;
+(3) Establish the process for employers to withhold employee
+contributions to plan accounts from employees' wages and send the contributions
+to the investment administrator for the plan;
+(4) Establish the process for allowing employees to opt out of enrollment
+in the plan;
+(5) Set minimum, maximum, and default contribution levels in
+accordance with limits established by the Internal Revenue Code (U.S.C. title
+26);
+(6) Establish the process for withdrawals from plan accounts;
+(7) Establish the process and requirements for an employer to obtain an
+exemption from offering the plan if the employer offers a qualified retirement
+plan, including, but not limited to, a plan qualified under Section 401(a), 401(k),
+403(a), 403(b), 408(k), 408(p), or 457(b) of the Internal Revenue Code (U.S.C.
+title 26);
+(8) Mandate the contents and frequency of required disclosures to
+employees, employers, and other plan participants. These disclosures must
+include, but need not be limited to:
+- 8 - 000489
+
+(A) The benefits and risks associated with making contributions to
+the plan;
+(B) Instructions for making contributions to the plan;
+(C) How to opt out of the plan;
+(D) How to participate in the plan with a level of contributions
+other than the default rate;
+(E) The process for withdrawal of retirement savings;
+(F) How to obtain additional information about the plan;
+(G) That employees seeking financial advice should contact
+financial advisers, that participating employers are not in a position to
+provide financial advice, and that participating employers are not liable for
+decisions employees make pursuant to this part;
+(H) That the plan is not an employer-sponsored retirement plan;
+and
+(I) That the plan accounts and rate of return are not guaranteed
+by the state; and
+(9) Establish civil penalties for the employer's noncompliance with its
+participation in the plan as provided in this part.
+8-5-306.
+(a) Notwithstanding another law to the contrary, the state shall not
+disclose personal information about a participant or beneficiary of a participant
+obtained in connection with an account established under this part, except under
+the following circumstances:
+(1) To an individual or entity authorized by the respective
+participant or beneficiary;
+- 9 - 000489
+
+(2) In compliance with a subpoena or a court order;
+(3) To the comptroller of the treasury or the comptroller's
+designee for the purpose of an audit;
+(4) To the internal revenue service or the United States
+department of treasury;
+(5) To the participant's employer as may be necessary to
+administer the plan; or
+(6) In an administrative proceeding or court action involving the
+state, the department of treasury, the state treasurer, or the board relative
+to an account established under this part.
+(b) As used in this section, "personal information" includes, but is not
+limited to:
+(1) Social security numbers;
+(2) Bank account numbers;
+(3) Transit routing numbers;
+(4) Credit card numbers;
+(5) Debit card numbers;
+(6) Business or residential addresses;
+(7) Telephone numbers;
+(8) Email addresses;
+(9) Amounts contributed; and
+(10) Earnings on amounts contributed.
+(c) Notwithstanding a law to the contrary and except as provided in
+subsection (d):
+- 10 - 000489
+
+(1) All assets, income, and distributions of the plan are protected
+against the claims of creditors of the state, plan administrator, and plan
+participants, and are not subject to execution, attachment, garnishment,
+the operation of bankruptcy, the insolvency laws, or other processes; and
+(2) An assignment of the items described in subdivision (c)(1) is
+not enforceable in a court.
+(d) The board may adopt rules as provided in § 8-5-303(b)(2) to permit
+the plan to honor claims under a qualified domestic relations order. As used in
+this subsection (d), "qualified domestic relations order" has the same meaning as
+provided in § 414(p) of the Internal Revenue Code of 1986 (26 U.S.C. § 414(p)).
+However, such an order may only relate to the provision of marital property rights
+relating to the plan for the benefit of a plan participant's former spouse.
+8-5-307.
+(a) The Tennessee retirement savings plan administrative fund is
+established in the state treasury, separate and distinct from the general fund.
+Interest earned by the Tennessee retirement savings plan administrative fund
+must be credited to the fund. Moneys in the fund are continuously appropriated
+to the Tennessee retirement savings board.
+(b) The Tennessee retirement savings plan administrative fund consists
+of:
+(1) Moneys appropriated to the fund by the general assembly;
+(2) Moneys transferred to the fund from the federal government,
+other state agencies, or local governments;
+(3) Moneys from the payment of fees and the payment of other
+moneys due the board;
+- 11 - 000489
+
+(4) Any gifts or donations made to the state of Tennessee for
+deposit in the fund; and
+(5) Earnings on moneys in the fund.
+(c) The board may use the moneys in the fund to pay the administrative
+costs and expenses of the board and the plan developed under § 8-5-303 and for
+any other purpose described in this part.
+8-5-308.
+(a) Before establishing a plan developed under § 8-5-303, the
+Tennessee retirement savings board shall:
+(1) Conduct a market analysis to determine:
+(A) The feasibility of the plan; and
+(B) Whether and to what extent plans with the
+characteristics described in § 8-5-304 currently exist in the private
+market;
+(2) Obtain legal advice regarding the applicability of the Employee
+Retirement Income Security Act of 1974 (29 U.S.C. § 1001 et seq.) and
+the Internal Revenue Code (U.S.C. title 26) to the plan;
+(3) Investigate whether employers that are not required to
+participate in the plan can make the plan available to their employees;
+(4) Investigate whether individuals who are self-employed as
+independent contractors can participate in the plan; and
+(5) Investigate how to allow individuals who are not automatically
+enrolled in the plan to opt in to the plan and make contributions to an
+account, either through payroll contributions or another method of
+contribution.
+- 12 - 000489
+
+(b) The board shall coordinate with the efforts of other states as those
+states pursue legal guidance for similar retirement savings programs.
+8-5-309.
+The Tennessee retirement savings board shall report no later than
+February 1 each year to the governor and to the finance, ways and means
+committees of the house of representatives and the senate detailing the board's
+activities.
+8-5-310.
+(a) Except for retirement plans offered by a local government to its
+independent contractors on the effective date of this act, a local government shall
+not establish or offer a retirement plan for persons not employed by a
+governmental entity.
+(b) As used in this section, "local government" means a Tennessee local
+governmental entity, including, but not limited to, a municipality, metropolitan
+government, county, utility district, school district, public building authority, and
+development district created and existing pursuant to the laws of this state, or an
+instrumentality of government created by one (1) or more of the local
+governmental entities described in this subsection (b) or by an act of the general
+assembly.
+8-5-311.
+Each state agency that enters into an interagency agreement with the
+Tennessee retirement savings board to provide outreach, technical assistance,
+or compliance services shall collaborate with other state agencies to develop a
+plan to provide these services to the board. This plan must be provided to the
+board no later than July 1, 2026.
+- 13 - 000489
+
+8-5-312.
+The Tennessee retirement savings board shall report to the finance, ways
+and means committees of the house of representatives and the senate no later
+than July 1, 2026. The report must include:
+(1) The results of the market analysis sought by the board under
+§ 8-5-308(a)(1);
+(2) The findings from legal advice obtained by the board under §
+8-5-308(a)(2);
+(3) An analysis of potential costs to employers, including
+administrative costs, associated with providing automatic payroll
+deductions for participation in the plan, and recommendations on how to
+eliminate or reduce those costs through incentives, tax credits, or other
+means;
+(4) A draft of the request for proposals to solicit bids from plan
+administrators;
+(5) A timeline for implementation of the plan developed under § 8-
+5-303;
+(6) An overview of any contracts entered into by the board in the
+performance of its duties; and
+(7) Recommendations to the general assembly regarding ways to
+increase financial literacy in this state.
+8-5-313.
+(a) Except as provided in subsection (b), the Tennessee retirement
+savings board shall establish the retirement plan developed under § 8-5-303 so
+- 14 - 000489
+
+that individuals may begin making contributions to the plan no later than January
+1, 2028.
+(b) If the board determines that the plan developed by the board under §
+8-5-303 would qualify as an employee benefit plan under the Employee
+Retirement Income Security Act of 1974 (29 U.S.C. § 1001 et seq.), then the
+board shall not establish the plan.
+(c) Subject to this part:
+(1) Beginning January 1, 2028, a resident of this state employed
+for compensation in this state with a private employer employing more
+than one hundred (100) employees is eligible to participate in a defined
+contribution retirement plan established by the Tennessee retirement
+savings board under this part;
+(2) Beginning January 1, 2029, a resident of this state employed
+for compensation in this state with a private employer employing between
+twenty-five (25) and one hundred (100) employees is eligible to
+participate in a defined contribution retirement plan established by the
+Tennessee retirement savings board under this part;
+(3) Beginning January 1, 2030, a resident of this state employed
+for compensation in this state with a private employer that has between
+five (5) and twenty-four (24) employees is eligible to participate in a
+defined contribution retirement plan established by the Tennessee
+retirement savings board under this part; and
+(4) Prior to an employer's participation in the plan, the employer
+shall register with the board to determine whether the employer is
+required to participate in the plan.
+- 15 - 000489
+
+SECTION 2. Tennessee Code Annotated, Section 4-29-246(a), is amended by adding
+the following as a new subdivision:
+( ) Tennessee retirement savings board, created by § 8-5-302;
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 16 - 000489
+
+[DELETED: S88(((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0((( ((8((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((((8(]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -08((((((((]
+[DELETED:  -0((((((((((8((]
+[DELETED:  -0(((((((((((((((((]
+[DELETED:  -0(((8(((((]
+[DELETED:  -0(((8((((((((]
+[DELETED:  -0(8T8((8E]
+[DELETED:  -08T(((((((8(]
+[DELETED:  -0((((((]
+[DELETED:  -0S(S]

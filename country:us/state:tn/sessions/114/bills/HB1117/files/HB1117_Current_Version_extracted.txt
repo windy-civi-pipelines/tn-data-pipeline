@@ -1,0 +1,120 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 1117
+By Carringer
+AN ACT to amend Tennessee Code Annotated, Title 49,
+Chapter 5, relative to educator licensure.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 5, Part 1, is amended by
+adding the following as a new section:
+(a) The state board of education may issue an alternative instructional leader
+license to a candidate who meets the requirements of this section for the person to serve
+as a principal, an assistant principal, or an instructional supervisor. An alternative
+instructional leader license may be issued to a candidate who:
+(1) Holds an advanced degree, as defined in § 49-4-902, from an
+institution of higher education in an education-related or human development-
+related field, including, but not limited to, higher education administration, school
+administration, educational leadership, curriculum and instruction, and teaching;
+(2) Has, and can provide, documentation evidencing, at least three (3)
+years of experience in a leadership position at a Category I, II, or III private
+school, an LEA, a public charter school, or a postsecondary institution;
+(3) Earns a qualifying score on an assessment, as defined and
+determined by the state board of education by rule;
+(4) Submits documentation demonstrating the candidate's completion of
+the requirements in § 49-5-5619(c); and
+(5) Does not currently hold an educator licensure.
+(b) An alternative instructional leader license issued pursuant to this section is
+valid for four (4) years and is not renewable.
+HB1117
+002887
+- 1 -
+(c) A person who holds an alternative instructional leader license for four (4)
+years is automatically eligible to be issued an instructional leader license regardless of
+whether the person meets the requirements for an instructional leader license as
+established by rules promulgated by the state board.
+(d) This section does not prohibit the state board from creating other pathways
+for a person to obtain an instructional leader license.
+(e) The state board may promulgate rules to effectuate this section in
+accordance with the Uniform Administrative Procedures Act, compiled in title 4, chapter
+
+Section 3:
+5.
+
+Section 4:
+SECTION 2. Tennessee Code Annotated, Section 49-5-5619(c)(4), is amended by
+adding the following as a new subdivision:
+(G) Effective on July 1, 2025, a candidate seeking an alternative instructional
+leader license pursuant to SECTION 1.
+
+Section 5:
+SECTION 3. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2025, the
+public welfare requiring it.
+- 2 - 002887
+[DELETED: S(((((((]
+[DELETED:  -0(((S(S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 1117
+By Carringer
+AN ACT to amend Tennessee Code Annotated, Title 49,
+Chapter 5, relative to educator licensure.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 5, Part 1, is amended by
+adding the following as a new section:
+(a) The state board of education may issue an alternative instructional leader
+license to a candidate who meets the requirements of this section for the person to serve
+as a principal, an assistant principal, or an instructional supervisor. An alternative
+instructional leader license may be issued to a candidate who:
+(1) Holds an advanced degree, as defined in § 49-4-902, from an
+institution of higher education in an education-related or human development-
+related field, including, but not limited to, higher education administration, school
+administration, educational leadership, curriculum and instruction, and teaching;
+(2) Has, and can provide, documentation evidencing, at least three (3)
+years of experience in a leadership position at a Category I, II, or III private
+school, an LEA, a public charter school, or a postsecondary institution;
+(3) Earns a qualifying score on an assessment, as defined and
+determined by the state board of education by rule;
+(4) Submits documentation demonstrating the candidate's completion of
+the requirements in § 49-5-5619(c); and
+(5) Does not currently hold an educator licensure.
+(b) An alternative instructional leader license issued pursuant to this section is
+valid for four (4) years and is not renewable.
+HB1117
+002887
+- 1 -
+
+(c) A person who holds an alternative instructional leader license for four (4)
+years is automatically eligible to be issued an instructional leader license regardless of
+whether the person meets the requirements for an instructional leader license as
+established by rules promulgated by the state board.
+(d) This section does not prohibit the state board from creating other pathways
+for a person to obtain an instructional leader license.
+(e) The state board may promulgate rules to effectuate this section in
+accordance with the Uniform Administrative Procedures Act, compiled in title 4, chapter
+5.
+SECTION 2. Tennessee Code Annotated, Section 49-5-5619(c)(4), is amended by
+adding the following as a new subdivision:
+(G) Effective on July 1, 2025, a candidate seeking an alternative instructional
+leader license pursuant to SECTION 1.
+SECTION 3. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2025, the
+public welfare requiring it.
+- 2 - 002887
+
+[DELETED: S(((((((]
+[DELETED:  -0(((S(S]

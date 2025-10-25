@@ -1,0 +1,169 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 87
+By Hemmer
+A RESOLUTION to honor the memory of Ridley Wills II of
+Nashville.
+WHEREAS, the members of this General Assembly were greatly saddened to learn of
+the passing of Ridley Wills II of Nashville; and
+WHEREAS, an esteemed community leader, historian, and philanthropist, Ridley Wills II
+was a consummate gentleman who worked assiduously to improve the quality of life for his
+fellow citizens in numerous capacities; and
+WHEREAS, a fifth-generation Nashvillian, Ridley Wills II was a 1956 graduate of
+Vanderbilt University, where he was a member of the varsity swim team and served as team
+captain; his alma mater meant everything to him, and he was always an enthusiastic supporter
+of Vanderbilt athletics; and
+WHEREAS, a military veteran, he served as an officer in the United States Navy for two
+years before joining National Life and Accident Insurance Company, which was co-founded by
+his grandfather, Ridley Wills, Sr., in 1901; and
+WHEREAS, in 1976, Mr. Wills was elected to the board of National Life, and he took his
+much deserved retirement from the company in 1982, having served as senior vice president;
+and
+WHEREAS, Mr. Wills then began a new career as a historian and prolific author; he
+taught night school classes on local history at Belmont University and Montgomery Bell
+Academy and authored thirty-four historical and biographical books about Nashville, Middle
+Tennessee, and their notable residents; and
+WHEREAS, as a testament to his efforts, Mr. Wills received an Honorary Doctor of
+Humane Letters from the University of the South in 2016; and
+WHEREAS, a third-generation member of the Board of Trust for Vanderbilt University,
+Ridley Wills, together with his wife, Irene, supported Vanderbilt University and Vanderbilt
+HJR0087
+002130
+- 1 -
+University Medical Center through a number of endeavors over the years, including the Wills
+Scholarship, to provide assistance to medical students based on financial need, and the Meade
+Haven MD/PhD Scholarship, established in 1977 to honor Mr. Wills's father, Jesse E. Wills; and
+WHEREAS, a tireless community leader, he served as national chair of the Vanderbilt
+University Living Endowment Campaign; chair of the steering committee for the Vanderbilt
+Divinity School's endowment campaign; president of the Cumberland Museum and Science
+Center; president of the YMCA of Metropolitan Nashville; president of the Tennessee Historical
+Society; chair of the Monteagle Sunday School Assembly Endowment Corporation; chair of the
+Montgomery Bell Academy Board of Trust; and board member of a number of organizations,
+including the National Trust for Historic Preservation; and
+WHEREAS, the recipient of numerous honors and accolades for his charitable work, Mr.
+Wills received the YMCA's President's Award, the Alexis de Tocqueville Award from the United
+Way, the Distinguished Alumnus award from Montgomery Bell Academy, and the Forever
+Tennessee Conservation Legacy Award from the Land Trust for Tennessee and was named a
+member of the YMCA's Southeast Region Hall of Fame; and
+WHEREAS, Ridley Wills was an active and devout member of The Downtown
+Presbyterian Church in Nashville, which he served faithfully for many years as a deacon, elder,
+and ambassador; and
+WHEREAS, deeply devoted to his family, Mr. Wills is survived by his sons, Ridley
+(Betsy) Wills III, Morgan (Heather) Wills, Sr., and Tom Wills; his grandchildren, Meade (Cyril) Le
+Lay, Ridley (Grayson) Wills IV, Isaac Wills, Jessie Wills, Morgan Wills, Jr., and Laura Jackson
+Wills; his brother and sister-in-law, Matt and Judy Wills; and his sister, Ellen Wills Martin; and
+WHEREAS, Mr. Wills was preceded in death by his wife, Irene, and their son, Jesse Ely
+Wills III; and
+WHEREAS, Ridley Wills II leaves behind an indelible legacy of integrity and probity in
+public life, compassion and loyalty in private life, and diligence and dedication in all his chosen
+endeavors; and
+- 2 - 002130
+WHEREAS, it is fitting that the members of this General Assembly should pause to
+remember the bountiful life of this exceptional public servant and human being; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor the memory of Ridley Wills II, reflecting fondly upon his
+impeccable character and his stalwart commitment to living the examined life with courage and
+conviction.
+BE IT FURTHER RESOLVED, that we express our sympathy and offer our condolences
+to the family of Mr. Wills.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 002130
+[DELETED: WWWWWWWW]
+[DELETED:  -0WWWWWW]
+[DELETED:  -0WBBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 87
+By Hemmer
+A RESOLUTION to honor the memory of Ridley Wills II of
+Nashville.
+WHEREAS, the members of this General Assembly were greatly saddened to learn of
+the passing of Ridley Wills II of Nashville; and
+WHEREAS, an esteemed community leader, historian, and philanthropist, Ridley Wills II
+was a consummate gentleman who worked assiduously to improve the quality of life for his
+fellow citizens in numerous capacities; and
+WHEREAS, a fifth-generation Nashvillian, Ridley Wills II was a 1956 graduate of
+Vanderbilt University, where he was a member of the varsity swim team and served as team
+captain; his alma mater meant everything to him, and he was always an enthusiastic supporter
+of Vanderbilt athletics; and
+WHEREAS, a military veteran, he served as an officer in the United States Navy for two
+years before joining National Life and Accident Insurance Company, which was co-founded by
+his grandfather, Ridley Wills, Sr., in 1901; and
+WHEREAS, in 1976, Mr. Wills was elected to the board of National Life, and he took his
+much deserved retirement from the company in 1982, having served as senior vice president;
+and
+WHEREAS, Mr. Wills then began a new career as a historian and prolific author; he
+taught night school classes on local history at Belmont University and Montgomery Bell
+Academy and authored thirty-four historical and biographical books about Nashville, Middle
+Tennessee, and their notable residents; and
+WHEREAS, as a testament to his efforts, Mr. Wills received an Honorary Doctor of
+Humane Letters from the University of the South in 2016; and
+WHEREAS, a third-generation member of the Board of Trust for Vanderbilt University,
+Ridley Wills, together with his wife, Irene, supported Vanderbilt University and Vanderbilt
+HJR0087
+002130
+- 1 -
+
+University Medical Center through a number of endeavors over the years, including the Wills
+Scholarship, to provide assistance to medical students based on financial need, and the Meade
+Haven MD/PhD Scholarship, established in 1977 to honor Mr. Wills's father, Jesse E. Wills; and
+WHEREAS, a tireless community leader, he served as national chair of the Vanderbilt
+University Living Endowment Campaign; chair of the steering committee for the Vanderbilt
+Divinity School's endowment campaign; president of the Cumberland Museum and Science
+Center; president of the YMCA of Metropolitan Nashville; president of the Tennessee Historical
+Society; chair of the Monteagle Sunday School Assembly Endowment Corporation; chair of the
+Montgomery Bell Academy Board of Trust; and board member of a number of organizations,
+including the National Trust for Historic Preservation; and
+WHEREAS, the recipient of numerous honors and accolades for his charitable work, Mr.
+Wills received the YMCA's President's Award, the Alexis de Tocqueville Award from the United
+Way, the Distinguished Alumnus award from Montgomery Bell Academy, and the Forever
+Tennessee Conservation Legacy Award from the Land Trust for Tennessee and was named a
+member of the YMCA's Southeast Region Hall of Fame; and
+WHEREAS, Ridley Wills was an active and devout member of The Downtown
+Presbyterian Church in Nashville, which he served faithfully for many years as a deacon, elder,
+and ambassador; and
+WHEREAS, deeply devoted to his family, Mr. Wills is survived by his sons, Ridley
+(Betsy) Wills III, Morgan (Heather) Wills, Sr., and Tom Wills; his grandchildren, Meade (Cyril) Le
+Lay, Ridley (Grayson) Wills IV, Isaac Wills, Jessie Wills, Morgan Wills, Jr., and Laura Jackson
+Wills; his brother and sister-in-law, Matt and Judy Wills; and his sister, Ellen Wills Martin; and
+WHEREAS, Mr. Wills was preceded in death by his wife, Irene, and their son, Jesse Ely
+Wills III; and
+WHEREAS, Ridley Wills II leaves behind an indelible legacy of integrity and probity in
+public life, compassion and loyalty in private life, and diligence and dedication in all his chosen
+endeavors; and
+- 2 - 002130
+
+WHEREAS, it is fitting that the members of this General Assembly should pause to
+remember the bountiful life of this exceptional public servant and human being; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor the memory of Ridley Wills II, reflecting fondly upon his
+impeccable character and his stalwart commitment to living the examined life with courage and
+conviction.
+BE IT FURTHER RESOLVED, that we express our sympathy and offer our condolences
+to the family of Mr. Wills.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 002130
+
+[DELETED: WWWWWWWW]
+[DELETED:  -0WWWWWW]
+[DELETED:  -0WBBB]

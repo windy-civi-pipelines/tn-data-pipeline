@@ -1,0 +1,49 @@
+Title: SENATE BILL 1304
+Official Title: SENATE BILL 1304
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Johnson
+HOUSE BILL 1318
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Section
+56-7-2916, relative to the repeal date of the
+Access Tennessee Act of 2006.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 56-7-2916, is amended by deleting
+"June 30, 2025" and substituting "June 30, 2030".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1318
+001495
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1304
+By Johnson
+HOUSE BILL 1318
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Section
+56-7-2916, relative to the repeal date of the
+Access Tennessee Act of 2006.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 56-7-2916, is amended by deleting
+"June 30, 2025" and substituting "June 30, 2030".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1318
+001495
+- 1 -
+
+[DELETED: SS]

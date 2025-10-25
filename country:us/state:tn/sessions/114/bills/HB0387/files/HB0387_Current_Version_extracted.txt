@@ -1,0 +1,132 @@
+Title: SENATE BILL 474
+Official Title: SENATE BILL 474
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Bowling
+HOUSE BILL 387
+By Butler
+AN ACT to amend Tennessee Code Annotated, Title 63
+and Title 68, relative to healthcare providers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 63, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section, "healthcare provider":
+(1) Has the same meaning as defined in § 63-1-117(k);
+(2) Includes an employee, assistant, or contractor of such professional,
+establishment, or facility; and
+(3) Does not include a psychiatrist or psychologist licensed pursuant to
+chapter 6 or 11 of this title.
+(b) A healthcare provider shall not:
+(1) Inquire as to the patient's ownership, possession of, or access to
+firearm ammunition or firearm accessories;
+(2) Require information described in subdivision (b)(1) to be disclosed
+before providing treatment to the patient;
+(3) Deny future treatment of a patient based upon a patient's ownership
+or control of a firearm, firearm ammunition, or firearm accessories;
+(4) Enter, or have another enter, information described in subdivision
+(b)(1) into a patient's record unless the information is relevant to the patient's
+medical care or safety or the safety of others; or
+(5) Share the information described in subdivision (b)(1) with an insurer.
+HB0387
+001897
+- 1 -
+(c) A healthcare provider shall not discriminate against a patient based upon the
+patient's exercise of the constitutional right to own and possess a firearm, firearm
+ammunition, or firearm accessories.
+(d) If a healthcare provider does inquire as to the patient's ownership,
+possession of, or access to firearm ammunition or firearm accessories, then the
+healthcare provider shall provide written notice to the patient that the patient has no duty
+to respond to the inquiry.
+(e)
+(1) A healthcare provider who violates subsection (b) or (c) is guilty of
+unethical conduct and is subject to:
+(A) Disciplinary action by the healthcare provider's licensing
+authority; and
+(B) A fine of one thousand dollars ($1,000) per violation.
+(2) In addition to other penalties available to the provider's licensing
+authority, the healthcare provider's licensing authority may take disciplinary
+action and seek injunctive or other relief as appropriate against that healthcare
+provider or an entity for a violation of this section.
+
+Section 3:
+SECTION 2. If any provision of this act or the application of any provision of this act to
+any person or circumstance is held invalid, the invalidity does not affect other provisions or
+applications of the act that can be given effect without the invalid provision or application, and to
+that end, the provisions of this act are severable.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 2 - 001897
+[DELETED: S((((((((((]
+[DELETED:  -0((((((SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 474
+By Bowling
+HOUSE BILL 387
+By Butler
+AN ACT to amend Tennessee Code Annotated, Title 63
+and Title 68, relative to healthcare providers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 63, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section, "healthcare provider":
+(1) Has the same meaning as defined in § 63-1-117(k);
+(2) Includes an employee, assistant, or contractor of such professional,
+establishment, or facility; and
+(3) Does not include a psychiatrist or psychologist licensed pursuant to
+chapter 6 or 11 of this title.
+(b) A healthcare provider shall not:
+(1) Inquire as to the patient's ownership, possession of, or access to
+firearm ammunition or firearm accessories;
+(2) Require information described in subdivision (b)(1) to be disclosed
+before providing treatment to the patient;
+(3) Deny future treatment of a patient based upon a patient's ownership
+or control of a firearm, firearm ammunition, or firearm accessories;
+(4) Enter, or have another enter, information described in subdivision
+(b)(1) into a patient's record unless the information is relevant to the patient's
+medical care or safety or the safety of others; or
+(5) Share the information described in subdivision (b)(1) with an insurer.
+HB0387
+001897
+- 1 -
+
+(c) A healthcare provider shall not discriminate against a patient based upon the
+patient's exercise of the constitutional right to own and possess a firearm, firearm
+ammunition, or firearm accessories.
+(d) If a healthcare provider does inquire as to the patient's ownership,
+possession of, or access to firearm ammunition or firearm accessories, then the
+healthcare provider shall provide written notice to the patient that the patient has no duty
+to respond to the inquiry.
+(e)
+(1) A healthcare provider who violates subsection (b) or (c) is guilty of
+unethical conduct and is subject to:
+(A) Disciplinary action by the healthcare provider's licensing
+authority; and
+(B) A fine of one thousand dollars ($1,000) per violation.
+(2) In addition to other penalties available to the provider's licensing
+authority, the healthcare provider's licensing authority may take disciplinary
+action and seek injunctive or other relief as appropriate against that healthcare
+provider or an entity for a violation of this section.
+SECTION 2. If any provision of this act or the application of any provision of this act to
+any person or circumstance is held invalid, the invalidity does not affect other provisions or
+applications of the act that can be given effect without the invalid provision or application, and to
+that end, the provisions of this act are severable.
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 2 - 001897
+
+[DELETED: S((((((((((]
+[DELETED:  -0((((((SS]

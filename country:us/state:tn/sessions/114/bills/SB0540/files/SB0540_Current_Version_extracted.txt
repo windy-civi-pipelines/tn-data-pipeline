@@ -1,0 +1,67 @@
+Title: HOUSE BILL 492
+Official Title: HOUSE BILL 492
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Farmer
+SENATE BILL 540
+By Stevens
+AN ACT to amend Tennessee Code Annotated, Title 36
+and Title 37, relative to child custody.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 36-6-106(a), is amended by deleting
+subdivisions (a)(15) and (16) and substituting:
+(15) Whether a parent has failed to pay court-ordered child support; and
+(16) Any other factors deemed relevant by the court.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 36-6-106(g), is amended by deleting
+the language "subdivisions (a)(1) – (15)" and substituting "subdivisions (a)(1) – (16)".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 36-6-406(d)(1), is amended by
+deleting the subdivision and substituting:
+(1) A parent's neglect or substantial nonperformance of parenting
+responsibilities, including the failure to pay court-ordered child support;
+
+Section 5:
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0540
+001879
+- 1 -
+[DELETED: SSSS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 492
+By Farmer
+SENATE BILL 540
+By Stevens
+AN ACT to amend Tennessee Code Annotated, Title 36
+and Title 37, relative to child custody.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 36-6-106(a), is amended by deleting
+subdivisions (a)(15) and (16) and substituting:
+(15) Whether a parent has failed to pay court-ordered child support; and
+(16) Any other factors deemed relevant by the court.
+SECTION 2. Tennessee Code Annotated, Section 36-6-106(g), is amended by deleting
+the language "subdivisions (a)(1) – (15)" and substituting "subdivisions (a)(1) – (16)".
+SECTION 3. Tennessee Code Annotated, Section 36-6-406(d)(1), is amended by
+deleting the subdivision and substituting:
+(1) A parent's neglect or substantial nonperformance of parenting
+responsibilities, including the failure to pay court-ordered child support;
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0540
+001879
+- 1 -
+
+[DELETED: SSSS]

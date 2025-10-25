@@ -1,0 +1,90 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE RESOLUTION 107
+By Reedy
+A RESOLUTION to commend Elizabeth Spurling for exemplary
+service as a legislative intern.
+WHEREAS, each legislative session, this legislative body is pleased to recognize certain
+persons who have committed themselves, through their adroit service, to the betterment of the
+legislative process; and
+WHEREAS, Elizabeth Spurling is one such individual, who has distinguished herself in
+her role as a legislative intern for Representative Jay Reedy; Ms. Spurling's work has resulted in
+innumerable benefits for the legislators she assisted and the General Assembly as a whole; and
+WHEREAS, an economics student at Belmont University, Elizabeth Spurling, through
+her supernal academic performance, has earned recognition on the Dean's List, which surely
+spells success in her future pursuit of a doctorate in law; and
+WHEREAS, eager to familiarize herself with the characteristics and complexities of
+Tennessee State government and to further her studies, Elizabeth Spurling brought her many
+abilities and singular expertise to Capitol Hill for the 2025 session of the One Hundred
+Fourteenth General Assembly, and she will surely utilize her accumulated experience and
+deepening political prowess as she travels to Washington, D.C., to serve as an intern in the
+office of Congresswoman Anna Luna, Florida's Thirteenth Congressional District representative;
+and
+WHEREAS, throughout the 2025 legislative session, Ms. Spurling has surpassed all
+criteria that define a devoted and conscientious legislative intern; and
+WHEREAS, Elizabeth Spurling has performed her many duties with extraordinary insight
+and rare decorum; now, therefore,
+HR0107
+007102
+- 1 -
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby
+commend Elizabeth Spurling for outstanding service as a legislative intern for Representative
+Jay Reedy and extend to her our best wishes for every future success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 007102
+[DELETED: WWWWWW]
+[DELETED:  -0BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE RESOLUTION 107
+By Reedy
+A RESOLUTION to commend Elizabeth Spurling for exemplary
+service as a legislative intern.
+WHEREAS, each legislative session, this legislative body is pleased to recognize certain
+persons who have committed themselves, through their adroit service, to the betterment of the
+legislative process; and
+WHEREAS, Elizabeth Spurling is one such individual, who has distinguished herself in
+her role as a legislative intern for Representative Jay Reedy; Ms. Spurling's work has resulted in
+innumerable benefits for the legislators she assisted and the General Assembly as a whole; and
+WHEREAS, an economics student at Belmont University, Elizabeth Spurling, through
+her supernal academic performance, has earned recognition on the Dean's List, which surely
+spells success in her future pursuit of a doctorate in law; and
+WHEREAS, eager to familiarize herself with the characteristics and complexities of
+Tennessee State government and to further her studies, Elizabeth Spurling brought her many
+abilities and singular expertise to Capitol Hill for the 2025 session of the One Hundred
+Fourteenth General Assembly, and she will surely utilize her accumulated experience and
+deepening political prowess as she travels to Washington, D.C., to serve as an intern in the
+office of Congresswoman Anna Luna, Florida's Thirteenth Congressional District representative;
+and
+WHEREAS, throughout the 2025 legislative session, Ms. Spurling has surpassed all
+criteria that define a devoted and conscientious legislative intern; and
+WHEREAS, Elizabeth Spurling has performed her many duties with extraordinary insight
+and rare decorum; now, therefore,
+HR0107
+007102
+- 1 -
+
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby
+commend Elizabeth Spurling for outstanding service as a legislative intern for Representative
+Jay Reedy and extend to her our best wishes for every future success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 007102
+
+[DELETED: WWWWWW]
+[DELETED:  -0BB]

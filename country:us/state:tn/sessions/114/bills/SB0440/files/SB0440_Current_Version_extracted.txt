@@ -1,0 +1,59 @@
+Title: HOUSE BILL 927
+Official Title: HOUSE BILL 927
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Hawk
+SENATE BILL 440
+By Walley
+AN ACT to amend Tennessee Code Annotated, Title 56,
+relative to excepted benefits exemptions.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 56, Chapter 26, Part 1, is amended by
+adding the following as a new section:
+Notwithstanding this title, excepted benefits as defined in § 56-7-2802 are
+exempt from a requirement to provide coverage for a specific person, provider,
+treatment, service, condition, or disease unless coverage of excepted benefits is
+expressly required by law.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to policies or contracts for insurance that are entered into, issued, delivered, amended,
+or renewed on or after that date.
+SB0440
+002045
+- 1 -
+[DELETED: SNS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 927
+By Hawk
+SENATE BILL 440
+By Walley
+AN ACT to amend Tennessee Code Annotated, Title 56,
+relative to excepted benefits exemptions.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 56, Chapter 26, Part 1, is amended by
+adding the following as a new section:
+Notwithstanding this title, excepted benefits as defined in § 56-7-2802 are
+exempt from a requirement to provide coverage for a specific person, provider,
+treatment, service, condition, or disease unless coverage of excepted benefits is
+expressly required by law.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to policies or contracts for insurance that are entered into, issued, delivered, amended,
+or renewed on or after that date.
+SB0440
+002045
+- 1 -
+
+[DELETED: SNS]

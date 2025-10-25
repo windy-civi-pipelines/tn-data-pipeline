@@ -1,0 +1,155 @@
+Title: SENATE BILL 1106
+Official Title: SENATE BILL 1106
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Kyle
+HOUSE BILL 1045
+By Shaw
+AN ACT to amend Tennessee Code Annotated, Title 56,
+relative to creditor claims to insurance proceeds.
+WHEREAS, the Tennessee Supreme Court has repeatedly advised that "each word in a
+statute has a specific purpose and meaning" in cases such as State v. Gevedon, 671 S.W.3d
+537 (Tenn. 2023), Arden v. Kozawa, 466 S.W.3d 758 (Tenn. 2015), Cunningham v. Williamson
+Cnty. Hosp. Dist., 405 S.W.3d 41 (Tenn. 2013), and Lee Med., Inc. v. Beecher, 312 S.W.3d 515
+(Tenn. 2010); and
+WHEREAS, certain members of the Tennessee bar and judiciary have questioned the
+meaning of the phrase "for the benefit of" and, if this conduct continues, retirees will be
+discouraged from moving into Tennessee; and
+WHEREAS, the phrase "for the benefit of" is used to indicate that something is done for
+the advantage of someone or something. In financial and legal contexts, FBO stands for "for
+the benefit of" and is often used in living trust documents or accounts with beneficiary
+designations; and
+WHEREAS, per the Merriam-Webster dictionary, the plain definition of the word
+"beneficiary" is "the person named (as in an insurance policy or annuity) to receive the proceeds
+or benefits"; and
+WHEREAS, the definition of the word "all" has been questioned and restricted by certain
+members of the Tennessee bar and judiciary, despite the clear directive of the Tennessee
+Supreme Court to use the plain meaning of each word in a statute without restriction in
+decisions such as Lind v. Beaman Dodge, Inc., 356 S.W.3d 889 (Tenn. 2011), and if this
+conduct continues, retirees will be discouraged from moving into Tennessee; and
+HB1045
+003107
+- 1 -
+WHEREAS, per the Merriam-Webster dictionary, the plain definition of the word "all": as
+an adjective, is "the whole amount, quantity, or extent of; as much as possible; every member or
+individual component of; the whole number or sum of; every, any whatever, completely taken up
+with, given to, or absorbed by"; as a pronoun, is "the whole number, quantity or amount; totality,
+everybody, everything"; and as a noun, is "the whole of one's possessions, resources or
+energy"; and
+WHEREAS, Black's Law Dictionary defines "all" as "the whole of – used with a singular
+noun or pronoun, and referring to the amount, quantity, extent, duration, quality or degree. The
+whole number or sum of – used collectively, with a plural noun or pronoun expressing an
+aggregate. Every member of an individual of (sic) individual component of; each one of – used
+with a plural noun. In this sense, all is used generically and distributively (sic). 'All' refers rather
+to the aggregate under which the individuals are subsumed than to the individuals themselves.";
+and
+WHEREAS, Tennessee Code Annotated, Section 56-7-203, was introduced in 1925 and
+last modified in 1932, prior to the introduction of the "Personal Property Owner's Rights and
+Garnishment Act of 1978", compiled in Tennessee Code Annotated, Title 26, Chapter 2, Part 1;
+and
+WHEREAS, these questions bring uncertainty to Tennesseans trying to plan for
+retirement and may be a deciding factor among those seeking retirement in the Southeast when
+choosing a state to which to retire; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 56-7-203, is amended by deleting the
+
+Section 3:
+section and substituting:
+The net amount payable under any policy of life insurance or under any annuity
+contract upon the life of any person made for the benefit of, or assigned to, the spouse
+- 2 - 003107
+or children, or dependent relatives of the persons, is exempt from all claims of the
+creditors, including execution, attachment, seizure, and garnishment, of the person
+arising out of or based upon any obligation created after January 1, 1932, whether or not
+the right to change the named beneficiary is reserved by or permitted to that person.
+Use of exempt funds does not change the classification of the funds used from exempt
+to nonexempt.
+
+Section 4:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 003107
+[DELETED: W , ,aC.L ,W  W  ]
+[DELETED:  -0  W  WWST]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1106
+By Kyle
+HOUSE BILL 1045
+By Shaw
+AN ACT to amend Tennessee Code Annotated, Title 56,
+relative to creditor claims to insurance proceeds.
+WHEREAS, the Tennessee Supreme Court has repeatedly advised that "each word in a
+statute has a specific purpose and meaning" in cases such as State v. Gevedon, 671 S.W.3d
+537 (Tenn. 2023), Arden v. Kozawa, 466 S.W.3d 758 (Tenn. 2015), Cunningham v. Williamson
+Cnty. Hosp. Dist., 405 S.W.3d 41 (Tenn. 2013), and Lee Med., Inc. v. Beecher, 312 S.W.3d 515
+(Tenn. 2010); and
+WHEREAS, certain members of the Tennessee bar and judiciary have questioned the
+meaning of the phrase "for the benefit of" and, if this conduct continues, retirees will be
+discouraged from moving into Tennessee; and
+WHEREAS, the phrase "for the benefit of" is used to indicate that something is done for
+the advantage of someone or something. In financial and legal contexts, FBO stands for "for
+the benefit of" and is often used in living trust documents or accounts with beneficiary
+designations; and
+WHEREAS, per the Merriam-Webster dictionary, the plain definition of the word
+"beneficiary" is "the person named (as in an insurance policy or annuity) to receive the proceeds
+or benefits"; and
+WHEREAS, the definition of the word "all" has been questioned and restricted by certain
+members of the Tennessee bar and judiciary, despite the clear directive of the Tennessee
+Supreme Court to use the plain meaning of each word in a statute without restriction in
+decisions such as Lind v. Beaman Dodge, Inc., 356 S.W.3d 889 (Tenn. 2011), and if this
+conduct continues, retirees will be discouraged from moving into Tennessee; and
+HB1045
+003107
+- 1 -
+
+WHEREAS, per the Merriam-Webster dictionary, the plain definition of the word "all": as
+an adjective, is "the whole amount, quantity, or extent of; as much as possible; every member or
+individual component of; the whole number or sum of; every, any whatever, completely taken up
+with, given to, or absorbed by"; as a pronoun, is "the whole number, quantity or amount; totality,
+everybody, everything"; and as a noun, is "the whole of one's possessions, resources or
+energy"; and
+WHEREAS, Black's Law Dictionary defines "all" as "the whole of – used with a singular
+noun or pronoun, and referring to the amount, quantity, extent, duration, quality or degree. The
+whole number or sum of – used collectively, with a plural noun or pronoun expressing an
+aggregate. Every member of an individual of (sic) individual component of; each one of – used
+with a plural noun. In this sense, all is used generically and distributively (sic). 'All' refers rather
+to the aggregate under which the individuals are subsumed than to the individuals themselves.";
+and
+WHEREAS, Tennessee Code Annotated, Section 56-7-203, was introduced in 1925 and
+last modified in 1932, prior to the introduction of the "Personal Property Owner's Rights and
+Garnishment Act of 1978", compiled in Tennessee Code Annotated, Title 26, Chapter 2, Part 1;
+and
+WHEREAS, these questions bring uncertainty to Tennesseans trying to plan for
+retirement and may be a deciding factor among those seeking retirement in the Southeast when
+choosing a state to which to retire; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 56-7-203, is amended by deleting the
+section and substituting:
+The net amount payable under any policy of life insurance or under any annuity
+contract upon the life of any person made for the benefit of, or assigned to, the spouse
+- 2 - 003107
+
+or children, or dependent relatives of the persons, is exempt from all claims of the
+creditors, including execution, attachment, seizure, and garnishment, of the person
+arising out of or based upon any obligation created after January 1, 1932, whether or not
+the right to change the named beneficiary is reserved by or permitted to that person.
+Use of exempt funds does not change the classification of the funds used from exempt
+to nonexempt.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 003107
+
+[DELETED: W , ,aC.L ,W  W  ]
+[DELETED:  -0  W  WWST]
+[DELETED:  -0S]

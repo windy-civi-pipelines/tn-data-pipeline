@@ -1,0 +1,381 @@
+Title: SENATE BILL 1299
+Official Title: SENATE BILL 1299
+Number of Sections: 15
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+By Johnson
+HOUSE BILL 1315
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Section
+55-10-417 and Section 55-10-425, relative to
+ignition interlock devices.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 55-10-417(b), is amended by
+deleting "blood alcohol concentration" and substituting "breath alcohol concentration".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 55-10-417(d)(3), is amended by
+deleting "Require the person" and substituting "Except as provided in § 55-10-425(c)(1)(B),
+require the person".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 55-10-425, is amended by adding
+the following as a new subsection:
+(m)
+(1) This subsection (m) applies to persons who are required to have an
+ignition interlock device installed on their vehicle pursuant to this part and are
+unable to appear at the ignition interlock device provider as required for
+calibration, monitoring, or inspection of the device due to the participant being an
+active service member of the United States Armed Forces who is deployed
+outside the state of Tennessee for more than thirty (30) days due to military
+orders or a temporary change of duty station order.
+(2) If a person who has been ordered to have an ignition interlock device
+on their vehicle pursuant to this part, is an active service member of the United
+States Armed Forces and is ordered to be deployed outside their state of
+residence for more than thirty (30) days, then the person may request the
+HB1315
+000902
+- 1 -
+department to temporarily toll the required ignition interlock usage period by
+submitting proof of the deployment to the ignition interlock provider. The ignition
+interlock provider shall forward the request and documentation to the department
+within five (5) business days of receipt. Proof may consist of an official military
+order or temporary change of duty station order, which reflects the time period
+and change of the person's new duty assignment.
+(3)
+(A) The department shall review and either approve or deny all
+requests to toll the required ignition interlock usage period pursuant to
+this subsection (m).
+(B) If granted, the toll period must be for the number of days the
+person is actively deployed. At the end of the deployment, the person will
+have thirty (30) days to have the device calibrated, and the required
+ignition interlock usage period will resume. If the deployment period
+exceeds ninety (90) days, then the person may elect to have the provider
+remove the device from the vehicle to eliminate the cost of the monthly
+lease of the device. However, if the device was removed from the vehicle
+during the deployment period, then the person will have thirty (30) days
+after the end of the deployment period to have the device reinstalled on
+the vehicle, and the required ignition interlock usage period will resume
+upon reinstallation of the device.
+(4) Failure to comply with the requirements of this subsection (m) may
+result in the entire ignition interlock usage period starting over.
+(5) A tolling period granted pursuant to this subsection (m) does not
+relieve a person from the requirement to only operate a vehicle that is equipped
+- 2 - 000902
+with an ignition interlock device or waive any other requirements the participant is
+subject to pursuant to this part.
+(6)
+(A) A person aggrieved by the denial of a request to have the
+ignition interlock usage period tolled under this subsection (m) may, within
+ten (10) business days of the date of the denial, request a review by the
+commissioner or the commissioner's designee. The request for review
+must include copies of the proof submitted to the department, the denial
+letter from the department, and any information showing why the person
+believes the denial was incorrect.
+(B) Within ten (10) business days of receiving the request for
+review the commissioner or the commissioner's designee shall make a
+written determination based on information in the department's records
+and the information provided by the person requesting the review as to
+whether or not the toll period should be granted.
+(C) The request for review will stay the continuation of the
+required ignition interlock usage period until the commissioner's or the
+commissioner's designee's ruling is issued.
+(D) A person may appeal the commissioner's or the
+commissioner's designee's ruling pursuant to § 4-5-322.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 55-10-425(c)(1)(B), is amended by
+deleting the subdivision and substituting:
+(B) Failing to appear at the ignition interlock device provider when required for
+calibration, monitoring, or inspection of the device; provided, that:
+- 3 - 000902
+(i) A person is not in violation of this subdivision (c)(1)(B) if the person
+appears for calibration, monitoring, or inspection at any time the provider is open
+for operation within seven (7) calendar days before or seven (7) calendar days
+after the date of the person's scheduled appointment;
+(ii) A person may make an appointment for calibration, monitoring, or
+inspection within the seven-calendar-day period before or after their original
+appointment, but the calibration, monitoring, or inspection must be completed
+within the seven-calendar-day period before or after their original appointment for
+subdivision (c)(1)(B)(i) to apply; and
+(iii) The next monthly calibration appointment must be no more than thirty
+(30) days from the date the person appears for the calibration, monitoring, or
+inspection of their device; and
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 55-10-425(c)(2), is amended by
+deleting "subsection (h)" and substituting "subsections (h) and (m)".
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Section 55-10-425(d)(1)(A), is amended by
+deleting the subdivision and substituting:
+(A) Tamper with, circumvent, or attempt to start the motor vehicle with a breath
+alcohol concentration equal to or greater than the two-hundredths of one percent
+(0.02%) breath alcohol concentration calibration setting required by § 55-10-417(b);
+provided, however, that a person is not in violation of this subdivision (d)(1)(A) for
+attempting to start the motor vehicle if a subsequent retest within ten (10) minutes shows
+a breath alcohol concentration of less than two-hundredths of one percent (0.02%) and
+review of the digital images associated with each test confirms that the same person
+performed both tests;
+- 4 - 000902
+
+Section 8:
+SECTION 7. Tennessee Code Annotated, Section 55-10-425(d)(1)(C), is amended by
+deleting the subdivision and substituting:
+(C) Fail a rolling test required by the ignition interlock device with a breath
+alcohol concentration equal to or greater than two-hundredths of one percent (0.02%);
+provided, however, that a person is not in violation of this subdivision (d)(1)(C) for failing
+a rolling test if a subsequent retest within ten (10) minutes shows a breath alcohol
+concentration of less than two-hundredths of one percent (0.02%) and review of the
+digital images associated with each test confirms that the same person performed both
+tests; or
+
+Section 9:
+SECTION 8. Tennessee Code Annotated, Section 55-10-425(d)(1)(D), is amended by
+deleting "subsection (h)" and substituting "subsections (h) and (m)".
+
+Section 10:
+SECTION 9. Tennessee Code Annotated, Section 55-10-425(h)(2), is amended by
+deleting "consecutive three-hundred-sixty-five-day period" and substituting "ignition interlock
+usage period".
+
+Section 11:
+SECTION 10. Tennessee Code Annotated, Section 55-10-425(h)(7), is amended by
+deleting "three-hundred-sixty-five-day period" and substituting "ignition interlock usage period".
+
+Section 12:
+SECTION 11. Tennessee Code Annotated, Section 55-10-425(h)(9)(A), is amended by
+deleting "three-hundred-sixty-five-day period" and substituting "ignition interlock usage period".
+
+Section 13:
+SECTION 12. Tennessee Code Annotated, Section 55-10-425(h)(9)(C), is amended by
+deleting the phrase "three-hundred-sixty-five-day period" and substituting "ignition interlock
+usage period".
+
+Section 14:
+SECTION 13. Tennessee Code Annotated, Section 55-10-425(I), is amended by
+deleting the subsection and substituting:
+(I)
+- 5 - 000902
+(1) A person who is subject to § 55-10-409 or this section may petition a
+court with proper jurisdiction for reinstatement of the person's driver license
+under this part regardless of the date when the person first became subject to
+those limitations. The court may order reinstatement of the person's driver
+license if:
+(A) The person is in compliance with all other requirements for
+reinstatement for the offense that the interlock was required for;
+(B) The person has no other revocations or suspensions on the
+person's driving record; and
+(C) The person's only noncompliance with the ignition interlock
+requirements has been with regard to the required calibration, monitoring,
+or inspection of the device. The judge must make specific findings in the
+order with regard to each instance of noncompliance with the ignition
+interlock requirements, including, but not limited to, noncompliance with
+required calibration, monitoring, or inspection of the device or must attach
+documentation from the department of safety showing that there are no
+other instances of noncompliance other than required calibration,
+monitoring, or inspection of the device.
+(2) Upon receipt of the court order, if the person is in compliance with all
+other requirements for reinstatement from the offense that resulted in the ignition
+interlock being required, including payment of fees under § 55-50-303(b) and any
+other applicable fees, and the person has no other revocations or suspensions
+on the person's driving record, then the department shall reinstate the license.
+- 6 - 000902
+
+Section 15:
+SECTION 14. Section 4 of this act takes effect on January 1, 2026, the public welfare
+requiring it. All other sections of this act take effect upon becoming law, the public welfare
+requiring it.
+- 7 - 000902
+[DELETED: SSS(((]
+[DELETED:  -0(((((]
+[DELETED:  -0S(]
+[DELETED:  -0(((SS(]
+[DELETED:  -0S(SSSSSS(]
+[DELETED:  -0(((((]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1299
+By Johnson
+HOUSE BILL 1315
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Section
+55-10-417 and Section 55-10-425, relative to
+ignition interlock devices.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 55-10-417(b), is amended by
+deleting "blood alcohol concentration" and substituting "breath alcohol concentration".
+SECTION 2. Tennessee Code Annotated, Section 55-10-417(d)(3), is amended by
+deleting "Require the person" and substituting "Except as provided in § 55-10-425(c)(1)(B),
+require the person".
+SECTION 3. Tennessee Code Annotated, Section 55-10-425, is amended by adding
+the following as a new subsection:
+(m)
+(1) This subsection (m) applies to persons who are required to have an
+ignition interlock device installed on their vehicle pursuant to this part and are
+unable to appear at the ignition interlock device provider as required for
+calibration, monitoring, or inspection of the device due to the participant being an
+active service member of the United States Armed Forces who is deployed
+outside the state of Tennessee for more than thirty (30) days due to military
+orders or a temporary change of duty station order.
+(2) If a person who has been ordered to have an ignition interlock device
+on their vehicle pursuant to this part, is an active service member of the United
+States Armed Forces and is ordered to be deployed outside their state of
+residence for more than thirty (30) days, then the person may request the
+HB1315
+000902
+- 1 -
+
+department to temporarily toll the required ignition interlock usage period by
+submitting proof of the deployment to the ignition interlock provider. The ignition
+interlock provider shall forward the request and documentation to the department
+within five (5) business days of receipt. Proof may consist of an official military
+order or temporary change of duty station order, which reflects the time period
+and change of the person's new duty assignment.
+(3)
+(A) The department shall review and either approve or deny all
+requests to toll the required ignition interlock usage period pursuant to
+this subsection (m).
+(B) If granted, the toll period must be for the number of days the
+person is actively deployed. At the end of the deployment, the person will
+have thirty (30) days to have the device calibrated, and the required
+ignition interlock usage period will resume. If the deployment period
+exceeds ninety (90) days, then the person may elect to have the provider
+remove the device from the vehicle to eliminate the cost of the monthly
+lease of the device. However, if the device was removed from the vehicle
+during the deployment period, then the person will have thirty (30) days
+after the end of the deployment period to have the device reinstalled on
+the vehicle, and the required ignition interlock usage period will resume
+upon reinstallation of the device.
+(4) Failure to comply with the requirements of this subsection (m) may
+result in the entire ignition interlock usage period starting over.
+(5) A tolling period granted pursuant to this subsection (m) does not
+relieve a person from the requirement to only operate a vehicle that is equipped
+- 2 - 000902
+
+with an ignition interlock device or waive any other requirements the participant is
+subject to pursuant to this part.
+(6)
+(A) A person aggrieved by the denial of a request to have the
+ignition interlock usage period tolled under this subsection (m) may, within
+ten (10) business days of the date of the denial, request a review by the
+commissioner or the commissioner's designee. The request for review
+must include copies of the proof submitted to the department, the denial
+letter from the department, and any information showing why the person
+believes the denial was incorrect.
+(B) Within ten (10) business days of receiving the request for
+review the commissioner or the commissioner's designee shall make a
+written determination based on information in the department's records
+and the information provided by the person requesting the review as to
+whether or not the toll period should be granted.
+(C) The request for review will stay the continuation of the
+required ignition interlock usage period until the commissioner's or the
+commissioner's designee's ruling is issued.
+(D) A person may appeal the commissioner's or the
+commissioner's designee's ruling pursuant to § 4-5-322.
+SECTION 4. Tennessee Code Annotated, Section 55-10-425(c)(1)(B), is amended by
+deleting the subdivision and substituting:
+(B) Failing to appear at the ignition interlock device provider when required for
+calibration, monitoring, or inspection of the device; provided, that:
+- 3 - 000902
+
+(i) A person is not in violation of this subdivision (c)(1)(B) if the person
+appears for calibration, monitoring, or inspection at any time the provider is open
+for operation within seven (7) calendar days before or seven (7) calendar days
+after the date of the person's scheduled appointment;
+(ii) A person may make an appointment for calibration, monitoring, or
+inspection within the seven-calendar-day period before or after their original
+appointment, but the calibration, monitoring, or inspection must be completed
+within the seven-calendar-day period before or after their original appointment for
+subdivision (c)(1)(B)(i) to apply; and
+(iii) The next monthly calibration appointment must be no more than thirty
+(30) days from the date the person appears for the calibration, monitoring, or
+inspection of their device; and
+SECTION 5. Tennessee Code Annotated, Section 55-10-425(c)(2), is amended by
+deleting "subsection (h)" and substituting "subsections (h) and (m)".
+SECTION 6. Tennessee Code Annotated, Section 55-10-425(d)(1)(A), is amended by
+deleting the subdivision and substituting:
+(A) Tamper with, circumvent, or attempt to start the motor vehicle with a breath
+alcohol concentration equal to or greater than the two-hundredths of one percent
+(0.02%) breath alcohol concentration calibration setting required by § 55-10-417(b);
+provided, however, that a person is not in violation of this subdivision (d)(1)(A) for
+attempting to start the motor vehicle if a subsequent retest within ten (10) minutes shows
+a breath alcohol concentration of less than two-hundredths of one percent (0.02%) and
+review of the digital images associated with each test confirms that the same person
+performed both tests;
+- 4 - 000902
+
+SECTION 7. Tennessee Code Annotated, Section 55-10-425(d)(1)(C), is amended by
+deleting the subdivision and substituting:
+(C) Fail a rolling test required by the ignition interlock device with a breath
+alcohol concentration equal to or greater than two-hundredths of one percent (0.02%);
+provided, however, that a person is not in violation of this subdivision (d)(1)(C) for failing
+a rolling test if a subsequent retest within ten (10) minutes shows a breath alcohol
+concentration of less than two-hundredths of one percent (0.02%) and review of the
+digital images associated with each test confirms that the same person performed both
+tests; or
+SECTION 8. Tennessee Code Annotated, Section 55-10-425(d)(1)(D), is amended by
+deleting "subsection (h)" and substituting "subsections (h) and (m)".
+SECTION 9. Tennessee Code Annotated, Section 55-10-425(h)(2), is amended by
+deleting "consecutive three-hundred-sixty-five-day period" and substituting "ignition interlock
+usage period".
+SECTION 10. Tennessee Code Annotated, Section 55-10-425(h)(7), is amended by
+deleting "three-hundred-sixty-five-day period" and substituting "ignition interlock usage period".
+SECTION 11. Tennessee Code Annotated, Section 55-10-425(h)(9)(A), is amended by
+deleting "three-hundred-sixty-five-day period" and substituting "ignition interlock usage period".
+SECTION 12. Tennessee Code Annotated, Section 55-10-425(h)(9)(C), is amended by
+deleting the phrase "three-hundred-sixty-five-day period" and substituting "ignition interlock
+usage period".
+SECTION 13. Tennessee Code Annotated, Section 55-10-425(I), is amended by
+deleting the subsection and substituting:
+(I)
+- 5 - 000902
+
+(1) A person who is subject to § 55-10-409 or this section may petition a
+court with proper jurisdiction for reinstatement of the person's driver license
+under this part regardless of the date when the person first became subject to
+those limitations. The court may order reinstatement of the person's driver
+license if:
+(A) The person is in compliance with all other requirements for
+reinstatement for the offense that the interlock was required for;
+(B) The person has no other revocations or suspensions on the
+person's driving record; and
+(C) The person's only noncompliance with the ignition interlock
+requirements has been with regard to the required calibration, monitoring,
+or inspection of the device. The judge must make specific findings in the
+order with regard to each instance of noncompliance with the ignition
+interlock requirements, including, but not limited to, noncompliance with
+required calibration, monitoring, or inspection of the device or must attach
+documentation from the department of safety showing that there are no
+other instances of noncompliance other than required calibration,
+monitoring, or inspection of the device.
+(2) Upon receipt of the court order, if the person is in compliance with all
+other requirements for reinstatement from the offense that resulted in the ignition
+interlock being required, including payment of fees under § 55-50-303(b) and any
+other applicable fees, and the person has no other revocations or suspensions
+on the person's driving record, then the department shall reinstate the license.
+- 6 - 000902
+
+SECTION 14. Section 4 of this act takes effect on January 1, 2026, the public welfare
+requiring it. All other sections of this act take effect upon becoming law, the public welfare
+requiring it.
+- 7 - 000902
+
+[DELETED: SSS(((]
+[DELETED:  -0(((((]
+[DELETED:  -0S(]
+[DELETED:  -0(((SS(]
+[DELETED:  -0S(SSSSSS(]
+[DELETED:  -0(((((]
+[DELETED:  -0S]

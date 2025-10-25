@@ -1,0 +1,92 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 188
+By Lamberth
+A RESOLUTION to confirm the appointment of Nancy Dishner to
+the board of directors of the Tennessee
+education lottery corporation.
+WHEREAS, Tennessee Code Annotated, Section 4-51-101, provides for the creation of
+the Tennessee education lottery corporation; and
+WHEREAS, Tennessee Code Annotated, Section 4-51-103, provides that the governor
+shall appoint seven (7) members to the board of directors of the Tennessee education lottery
+corporation; and
+WHEREAS, Governor Bill Lee has appointed Dr. Nancy Dishner of Greeneville to serve
+as a member of the board of directors of the Tennessee education lottery corporation for a term
+that will expire on June 30, 2029; and
+WHEREAS, Dr. Dishner serves as president and chief executive officer of the Niswonger
+Foundation; she previously served as vice provost for enrollment services and director of the
+Roan Scholars Leadership Program at East Tennessee State University (ETSU) and was a
+tenured professor in the department of Educational Leadership and Policy Analysis; and
+WHEREAS, prior to her position at ETSU, she served as a public-school teacher in
+Unicoi County, having begun her career in early childhood development as a kindergarten
+teacher; and
+WHEREAS, an alumna of ETSU, Dr. Dishner has a Bachelor of Science degree in
+Elementary Education, a master's degree in supervision and administration, and a doctorate in
+administration; and
+HJR0188
+003248
+- 1 -
+WHEREAS, Tennessee Code Annotated, Section 4-51-103(f), provides that each
+member appointed by the governor to the board of directors of the Tennessee education lottery
+corporation shall be confirmed by joint resolution of the general assembly; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby confirm the appointment of Nancy Dishner of Greeneville to the
+board of directors of the Tennessee education lottery corporation for a term that will expire on
+June 30, 2029.
+- 2 - 003248
+[DELETED: WW]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 188
+By Lamberth
+A RESOLUTION to confirm the appointment of Nancy Dishner to
+the board of directors of the Tennessee
+education lottery corporation.
+WHEREAS, Tennessee Code Annotated, Section 4-51-101, provides for the creation of
+the Tennessee education lottery corporation; and
+WHEREAS, Tennessee Code Annotated, Section 4-51-103, provides that the governor
+shall appoint seven (7) members to the board of directors of the Tennessee education lottery
+corporation; and
+WHEREAS, Governor Bill Lee has appointed Dr. Nancy Dishner of Greeneville to serve
+as a member of the board of directors of the Tennessee education lottery corporation for a term
+that will expire on June 30, 2029; and
+WHEREAS, Dr. Dishner serves as president and chief executive officer of the Niswonger
+Foundation; she previously served as vice provost for enrollment services and director of the
+Roan Scholars Leadership Program at East Tennessee State University (ETSU) and was a
+tenured professor in the department of Educational Leadership and Policy Analysis; and
+WHEREAS, prior to her position at ETSU, she served as a public-school teacher in
+Unicoi County, having begun her career in early childhood development as a kindergarten
+teacher; and
+WHEREAS, an alumna of ETSU, Dr. Dishner has a Bachelor of Science degree in
+Elementary Education, a master's degree in supervision and administration, and a doctorate in
+administration; and
+HJR0188
+003248
+- 1 -
+
+WHEREAS, Tennessee Code Annotated, Section 4-51-103(f), provides that each
+member appointed by the governor to the board of directors of the Tennessee education lottery
+corporation shall be confirmed by joint resolution of the general assembly; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby confirm the appointment of Nancy Dishner of Greeneville to the
+board of directors of the Tennessee education lottery corporation for a term that will expire on
+June 30, 2029.
+- 2 - 003248
+
+[DELETED: WW]
+[DELETED:  -0B]

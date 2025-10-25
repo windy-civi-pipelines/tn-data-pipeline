@@ -1,0 +1,220 @@
+Title: SENATE BILL 1418
+Official Title: SENATE BILL 1418
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Yarbro
+HOUSE BILL 1375
+By Clemmons
+AN ACT to amend Tennessee Code Annotated, Title 33;
+Title 49; Title 63 and Title 68, relative to mental
+health.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 33, Chapter 6, is amended by adding
+the following as a new part:
+33-6-1101.
+This part is known and may be cited as the "Tennessee Mental Health Volunteer
+Alliance Act."
+33-6-1102.
+(a) The department shall create and manage a statewide volunteer database of
+qualified mental health professionals for the purpose of volunteering to provide on-site or
+virtual mental healthcare services at a school or public facility immediately after an act of
+gun violence or a significant traumatic event or disaster has taken place in or around the
+school or public facility for the benefit of students, educators, and staff.
+(b) The department shall create a volunteer application process for qualified
+mental health professionals to be listed in the database.
+(c) The database is named the "Tennessee Mental Health Volunteer Alliance."
+33-6-1103.
+The commissioner, or the commissioner's designee, shall:
+(1) Act as the director of the database;
+(2) Verify the licensure qualifications of a qualified mental health
+professional who volunteers and applies to be included in the database;
+HB1375
+003402
+- 1 -
+(3) Initiate the requests for volunteers from the database following:
+(i) An event as described in § 33-6-1102; or
+(ii) A request made pursuant to § 33-6-1104; and
+(4) Track all service hours and hourly rates provided by the qualified
+mental health professionals as described in § 33-6-1105.
+33-6-1104.
+The lead official at a school or public facility may submit a request for one (1) or
+more qualified mental health professionals from the database that must specify:
+(1) The type of qualified mental health professionals needed;
+(2) The number of qualified mental health professionals needed; and
+(3) The duration of the requested services.
+33-6-1105.
+(a) The services provided by a qualified mental health professional under this
+part are an in-kind contribution or pro bono services.
+(b) The qualified mental health professional shall submit service hours and the
+qualified mental health professional's hourly rate to the department.
+33-6-1106.
+The department is authorized to promulgate rules to effectuate this part. The
+rules must be promulgated in accordance with the Uniform Administrative Procedures
+Act, compiled in title 4, chapter 5.
+33-6-1107.
+Subject to appropriations, a recurring amount of two hundred fifty thousand
+dollars ($250,000) must be used to fund the database's administrative overhead and any
+additional costs, including virtual counseling services software, reimbursing qualified
+mental health professionals for travel expenses with the federal mileage rate, and
+- 2 - 003402
+lodging when providing on-site services, if requested. The fund must reimburse the
+school or public office for any direct costs incurred for using this database. The
+unexpended balance of such funds remaining at the end of a fiscal year do not revert to
+the general fund, but must be transferred and deposited into the school safety fund, as
+established in § 49-1-235, to be expended solely for the purposes of that fund.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 49, Chapter 1, Part 2, is amended by
+adding the following as a new section:
+49-1-235.
+(a) A school safety fund is established to provide funding to schools in this state
+for the sole purpose of purchasing safety technology and equipment.
+(b) The school safety fund consists of:
+(1) Monies not utilized in a fiscal year by the Tennessee Mental Health
+Volunteer Alliance Act, as established in title 33, chapter 6, part 11, and
+deposited to the fund pursuant to § 33-6-1107;
+(2) Appropriations made by the general assembly; and
+(3) Other monies, public or private, by way of gift or grant.
+(c) The state treasurer shall invest moneys in the fund for the benefit of the fund
+in accordance with § 9-4-603. Interest accruing on investments and deposits of the fund
+must be credited to and remain part of the fund.
+(d) Any unencumbered moneys and any unexpended balance of the fund
+remaining at the end of a fiscal year do not revert to the general fund, but must be
+carried forward until expended in accordance with this section. No part of the fund must
+be diverted to the general fund or any other public fund.
+(e) The department of education shall administer the fund and distribute the
+monies to schools based on criteria established by such department.
+- 3 - 003402
+(f) The department of education and the department of mental health and
+substance abuse services are authorized to promulgate rules to effectuate this section.
+The rules must be promulgated in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5.
+(g) All expenditures from the fund are subject to review in the form of an annual
+report submitted on or before January 1 of each year by the commissioner of education
+to the education committee of the senate and the committee of the house of
+representatives having jurisdiction over education matters.
+
+Section 4:
+SECTION 3. For the purposes of promulgating rules, this act takes effect upon
+becoming law, the public welfare requiring it. For all other purposes, this act takes effect July 1,
+2025, the public welfare requiring it.
+- 4 - 003402
+[DELETED: S3T3(((3T((]
+[DELETED:  -0((((3T(((3((3T3S]
+[DELETED:  -0S4(((]
+[DELETED:  -0((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1418
+By Yarbro
+HOUSE BILL 1375
+By Clemmons
+AN ACT to amend Tennessee Code Annotated, Title 33;
+Title 49; Title 63 and Title 68, relative to mental
+health.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 33, Chapter 6, is amended by adding
+the following as a new part:
+33-6-1101.
+This part is known and may be cited as the "Tennessee Mental Health Volunteer
+Alliance Act."
+33-6-1102.
+(a) The department shall create and manage a statewide volunteer database of
+qualified mental health professionals for the purpose of volunteering to provide on-site or
+virtual mental healthcare services at a school or public facility immediately after an act of
+gun violence or a significant traumatic event or disaster has taken place in or around the
+school or public facility for the benefit of students, educators, and staff.
+(b) The department shall create a volunteer application process for qualified
+mental health professionals to be listed in the database.
+(c) The database is named the "Tennessee Mental Health Volunteer Alliance."
+33-6-1103.
+The commissioner, or the commissioner's designee, shall:
+(1) Act as the director of the database;
+(2) Verify the licensure qualifications of a qualified mental health
+professional who volunteers and applies to be included in the database;
+HB1375
+003402
+- 1 -
+
+(3) Initiate the requests for volunteers from the database following:
+(i) An event as described in § 33-6-1102; or
+(ii) A request made pursuant to § 33-6-1104; and
+(4) Track all service hours and hourly rates provided by the qualified
+mental health professionals as described in § 33-6-1105.
+33-6-1104.
+The lead official at a school or public facility may submit a request for one (1) or
+more qualified mental health professionals from the database that must specify:
+(1) The type of qualified mental health professionals needed;
+(2) The number of qualified mental health professionals needed; and
+(3) The duration of the requested services.
+33-6-1105.
+(a) The services provided by a qualified mental health professional under this
+part are an in-kind contribution or pro bono services.
+(b) The qualified mental health professional shall submit service hours and the
+qualified mental health professional's hourly rate to the department.
+33-6-1106.
+The department is authorized to promulgate rules to effectuate this part. The
+rules must be promulgated in accordance with the Uniform Administrative Procedures
+Act, compiled in title 4, chapter 5.
+33-6-1107.
+Subject to appropriations, a recurring amount of two hundred fifty thousand
+dollars ($250,000) must be used to fund the database's administrative overhead and any
+additional costs, including virtual counseling services software, reimbursing qualified
+mental health professionals for travel expenses with the federal mileage rate, and
+- 2 - 003402
+
+lodging when providing on-site services, if requested. The fund must reimburse the
+school or public office for any direct costs incurred for using this database. The
+unexpended balance of such funds remaining at the end of a fiscal year do not revert to
+the general fund, but must be transferred and deposited into the school safety fund, as
+established in § 49-1-235, to be expended solely for the purposes of that fund.
+SECTION 2. Tennessee Code Annotated, Title 49, Chapter 1, Part 2, is amended by
+adding the following as a new section:
+49-1-235.
+(a) A school safety fund is established to provide funding to schools in this state
+for the sole purpose of purchasing safety technology and equipment.
+(b) The school safety fund consists of:
+(1) Monies not utilized in a fiscal year by the Tennessee Mental Health
+Volunteer Alliance Act, as established in title 33, chapter 6, part 11, and
+deposited to the fund pursuant to § 33-6-1107;
+(2) Appropriations made by the general assembly; and
+(3) Other monies, public or private, by way of gift or grant.
+(c) The state treasurer shall invest moneys in the fund for the benefit of the fund
+in accordance with § 9-4-603. Interest accruing on investments and deposits of the fund
+must be credited to and remain part of the fund.
+(d) Any unencumbered moneys and any unexpended balance of the fund
+remaining at the end of a fiscal year do not revert to the general fund, but must be
+carried forward until expended in accordance with this section. No part of the fund must
+be diverted to the general fund or any other public fund.
+(e) The department of education shall administer the fund and distribute the
+monies to schools based on criteria established by such department.
+- 3 - 003402
+
+(f) The department of education and the department of mental health and
+substance abuse services are authorized to promulgate rules to effectuate this section.
+The rules must be promulgated in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5.
+(g) All expenditures from the fund are subject to review in the form of an annual
+report submitted on or before January 1 of each year by the commissioner of education
+to the education committee of the senate and the committee of the house of
+representatives having jurisdiction over education matters.
+SECTION 3. For the purposes of promulgating rules, this act takes effect upon
+becoming law, the public welfare requiring it. For all other purposes, this act takes effect July 1,
+2025, the public welfare requiring it.
+- 4 - 003402
+
+[DELETED: S3T3(((3T((]
+[DELETED:  -0((((3T(((3((3T3S]
+[DELETED:  -0S4(((]
+[DELETED:  -0((S]
