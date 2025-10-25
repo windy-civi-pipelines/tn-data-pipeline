@@ -1,0 +1,61 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 1165
+By Akbari
+AN ACT to amend Tennessee Code Annotated, Title 2,
+relative to a ballot question.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Each county election commission shall include on the November 2026
+election ballot the following question:
+Should the State of Tennessee legalize the sale, possession, and use of medical
+marijuana? YES or NO
+
+Section 3:
+SECTION 2. The secretary of state shall compile the results of the public policy opinion
+poll in Section 1 and forward the results to each member of the general assembly.
+
+Section 4:
+SECTION 3. The outcome of the public policy opinion poll is not binding on the general
+assembly.
+
+Section 5:
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1165
+002645
+- 1 -
+[DELETED: SSSS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 1165
+By Akbari
+AN ACT to amend Tennessee Code Annotated, Title 2,
+relative to a ballot question.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Each county election commission shall include on the November 2026
+election ballot the following question:
+Should the State of Tennessee legalize the sale, possession, and use of medical
+marijuana? YES or NO
+SECTION 2. The secretary of state shall compile the results of the public policy opinion
+poll in Section 1 and forward the results to each member of the general assembly.
+SECTION 3. The outcome of the public policy opinion poll is not binding on the general
+assembly.
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1165
+002645
+- 1 -
+
+[DELETED: SSSS]

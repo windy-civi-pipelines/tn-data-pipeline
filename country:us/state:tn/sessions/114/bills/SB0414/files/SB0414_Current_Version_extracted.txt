@@ -1,0 +1,118 @@
+Title: HOUSE BILL 419
+Official Title: HOUSE BILL 419
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Alexander
+SENATE BILL 414
+By Haile
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to electronic devices.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 6, Part 3, is amended by
+adding the following as a new section:
+(a) As used in this section, "electronic device" means a portable or handheld
+device that is capable of transmitting and receiving data wirelessly, including, but not
+limited to, mobile phones, smartphones, tablets, and other similar devices.
+(b) Each LEA and public charter school shall prohibit a student enrolled in the
+LEA or public charter school from displaying, using, or accessing an electronic device
+during the school day unless the electronic device is:
+(1) Provided to the student by the LEA or public charter school;
+(2) Authorized for use during the school day pursuant to the policy
+adopted by the local board of education or public charter school governing body
+in accordance with subsection (c); or
+(3) Being used by a student who has a disability for the operation of
+assistive technology to increase, maintain, or improve the student's functional
+capabilities, or pursuant to a student's individualized education program (IEP)
+under the Individuals with Disabilities Education Act (20 U.S.C. § 1400 et seq.),
+or a Section 504 plan under the Rehabilitation Act (29 U.S.C. § 701 et seq.).
+(c)
+SB0414
+002025
+- 1 -
+(1) Each local board of education and public charter school governing
+body shall develop and adopt a policy to effectuate this section. A policy adopted
+pursuant to this subsection (c):
+(A) May categorically ban the use of certain electronic devices in
+designated areas, such as libraries, laboratories, and examination halls;
+(B) May establish an exception to the general prohibition in
+subsection (b) in certain situations, including, but not limited to,
+emergency situations, and in certain areas, including, but not limited to,
+one (1) or more of the areas listed in subdivision (c)(1)(A); and
+(C) Must establish a process by which parents will be contacted
+in the event of an emergency or possible emergency occurring at the
+school at which the parent's student is enrolled to ensure that the
+absence of, or restricted access to, electronic devices during the school
+day does not prevent parents from receiving notice of an emergency.
+(2) Each LEA and public charter school shall submit its policy to the
+department of education no later than July 31, 2025.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to the 2025-2026 school year and each school year thereafter.
+- 2 - 002025
+[DELETED: S(((((]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 419
+By Alexander
+SENATE BILL 414
+By Haile
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to electronic devices.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 6, Part 3, is amended by
+adding the following as a new section:
+(a) As used in this section, "electronic device" means a portable or handheld
+device that is capable of transmitting and receiving data wirelessly, including, but not
+limited to, mobile phones, smartphones, tablets, and other similar devices.
+(b) Each LEA and public charter school shall prohibit a student enrolled in the
+LEA or public charter school from displaying, using, or accessing an electronic device
+during the school day unless the electronic device is:
+(1) Provided to the student by the LEA or public charter school;
+(2) Authorized for use during the school day pursuant to the policy
+adopted by the local board of education or public charter school governing body
+in accordance with subsection (c); or
+(3) Being used by a student who has a disability for the operation of
+assistive technology to increase, maintain, or improve the student's functional
+capabilities, or pursuant to a student's individualized education program (IEP)
+under the Individuals with Disabilities Education Act (20 U.S.C. § 1400 et seq.),
+or a Section 504 plan under the Rehabilitation Act (29 U.S.C. § 701 et seq.).
+(c)
+SB0414
+002025
+- 1 -
+
+(1) Each local board of education and public charter school governing
+body shall develop and adopt a policy to effectuate this section. A policy adopted
+pursuant to this subsection (c):
+(A) May categorically ban the use of certain electronic devices in
+designated areas, such as libraries, laboratories, and examination halls;
+(B) May establish an exception to the general prohibition in
+subsection (b) in certain situations, including, but not limited to,
+emergency situations, and in certain areas, including, but not limited to,
+one (1) or more of the areas listed in subdivision (c)(1)(A); and
+(C) Must establish a process by which parents will be contacted
+in the event of an emergency or possible emergency occurring at the
+school at which the parent's student is enrolled to ensure that the
+absence of, or restricted access to, electronic devices during the school
+day does not prevent parents from receiving notice of an emergency.
+(2) Each LEA and public charter school shall submit its policy to the
+department of education no later than July 31, 2025.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to the 2025-2026 school year and each school year thereafter.
+- 2 - 002025
+
+[DELETED: S(((((]
+[DELETED:  -0S]

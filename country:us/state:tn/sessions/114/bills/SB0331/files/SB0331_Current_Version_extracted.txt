@@ -1,0 +1,51 @@
+Title: HOUSE BILL 204
+Official Title: HOUSE BILL 204
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Terry
+SENATE BILL 331
+By Crowe
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 8; Title 14; Title 29; Title 33; Title 37; Title 39;
+Title 53; Title 63; Title 68 and Title 71, relative to
+health care.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 68-1-806, is amended by deleting
+"On or before March 1" and substituting "On or before January 15".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0331
+001297
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 204
+By Terry
+SENATE BILL 331
+By Crowe
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 8; Title 14; Title 29; Title 33; Title 37; Title 39;
+Title 53; Title 63; Title 68 and Title 71, relative to
+health care.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 68-1-806, is amended by deleting
+"On or before March 1" and substituting "On or before January 15".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0331
+001297
+- 1 -
+
+[DELETED: SS]

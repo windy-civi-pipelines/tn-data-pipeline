@@ -1,0 +1,69 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 86
+By Yarbro
+A RESOLUTION to amend Article VI, Section 14, of the
+Constitution of Tennessee, relative to penalties
+for violations of municipal ordinances.
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that a majority of all the members of each house concurring, as shown by the
+yeas and nays entered on their journals, that it is proposed that Article VI, Section 14, of the
+Constitution of Tennessee be amended by adding the following to the end of the section:
+Notwithstanding this section, a municipality may, in its discretion, impose a fine
+for a violation of a municipal ordinance without such fine being assessed by a
+jury in an amount not to exceed that prescribed by the General Assembly;
+provided, that the fine is just and reasonable under the circumstances.
+BE IT FURTHER RESOLVED, that the foregoing be referred to the One Hundred
+Fifteenth General Assembly and that this resolution proposing such amendment be published in
+accordance with Article XI, Section 3, of the Constitution of Tennessee by posting such
+amendment on the official website of the Secretary of State and on the official website of the
+General Assembly.
+BE IT FURTHER RESOLVED, that the clerk of the House of Representatives is directed
+to deliver copies of this resolution to the Secretary of State, with this final resolving clause being
+deleted from such copies.
+SJR0086
+003372
+- 1 -
+[DELETED: BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 86
+By Yarbro
+A RESOLUTION to amend Article VI, Section 14, of the
+Constitution of Tennessee, relative to penalties
+for violations of municipal ordinances.
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that a majority of all the members of each house concurring, as shown by the
+yeas and nays entered on their journals, that it is proposed that Article VI, Section 14, of the
+Constitution of Tennessee be amended by adding the following to the end of the section:
+Notwithstanding this section, a municipality may, in its discretion, impose a fine
+for a violation of a municipal ordinance without such fine being assessed by a
+jury in an amount not to exceed that prescribed by the General Assembly;
+provided, that the fine is just and reasonable under the circumstances.
+BE IT FURTHER RESOLVED, that the foregoing be referred to the One Hundred
+Fifteenth General Assembly and that this resolution proposing such amendment be published in
+accordance with Article XI, Section 3, of the Constitution of Tennessee by posting such
+amendment on the official website of the Secretary of State and on the official website of the
+General Assembly.
+BE IT FURTHER RESOLVED, that the clerk of the House of Representatives is directed
+to deliver copies of this resolution to the Secretary of State, with this final resolving clause being
+deleted from such copies.
+SJR0086
+003372
+- 1 -
+
+[DELETED: BB]

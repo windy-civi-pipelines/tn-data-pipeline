@@ -1,0 +1,98 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 304
+By Alexander
+A RESOLUTION to honor the disabled victims of filicide on the
+Day of Mourning in the State of Tennessee.
+WHEREAS, every year on March 1st, the disability community gathers across the nation
+for a Day of Mourning to remember the disabled victims of filicide, that is, people murdered by
+their family members or caregivers; and
+WHEREAS, these murders are often portrayed as justifiable and inevitable due to the
+perceived "burden" of having a disabled person in the family; and
+WHEREAS, victims' lives are therefore assumed to have lesser value because of their
+disability; and
+WHEREAS, disability is a natural part of the human experience; and
+WHEREAS, prevention of filicide requires increased awareness; and
+WHEREAS, many victims' names remain unknown or without acknowledgement, and it
+is most appropriate that we remember and honor the victims from Tennessee who tragically lost
+their lives; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we respectfully pay tribute to and honor the lives of Chuckey Sweeten, age
+thirty-nine; Ed Dossett, age forty-four; Fiona Mitchell, age ten; David Leath, age fifty-seven;
+Karen Dreager, age thirty-five; Robert McClancy, age fifty-six; Kairissa Mark, age four;
+Wieslawa Pytlinski, age fifty-seven; Arville Rhodes, age sixty-three; Shaneca Webber, age
+thirty; Andrea Ruth, age twelve; Skyler Craighead, age five months; Rebecca Cotten, age
+twenty-two; Shirley Beck, age thirty-nine; Melisha Moiser Ludwick, age thirty-eight; Sue Liner,
+age eighty-four; Tevaun Williamson, age seven; Ellen McKenzie, age forty-eight; Shannon
+HJR0304
+003511
+- 1 -
+Cooper, age forty; Joe Daniels, age five; Elsie Greene, age sixty-five; Evelyn Bailey, age ninety-
+three; Betty Crews, age seventy-two; Sheila Murray, age sixty-eight; Ben Thompson, age
+seventy-two; Callie Branch, age seventy-three; Sayeed Nelson, age fourteen; Mandy Noe, age
+thirty-eight; John Hoover, age forty-four; Kadaris Maddox, age thirteen; and James Parham, age
+forty.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 003511
+[DELETED: W1,WWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 304
+By Alexander
+A RESOLUTION to honor the disabled victims of filicide on the
+Day of Mourning in the State of Tennessee.
+WHEREAS, every year on March 1st, the disability community gathers across the nation
+for a Day of Mourning to remember the disabled victims of filicide, that is, people murdered by
+their family members or caregivers; and
+WHEREAS, these murders are often portrayed as justifiable and inevitable due to the
+perceived "burden" of having a disabled person in the family; and
+WHEREAS, victims' lives are therefore assumed to have lesser value because of their
+disability; and
+WHEREAS, disability is a natural part of the human experience; and
+WHEREAS, prevention of filicide requires increased awareness; and
+WHEREAS, many victims' names remain unknown or without acknowledgement, and it
+is most appropriate that we remember and honor the victims from Tennessee who tragically lost
+their lives; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we respectfully pay tribute to and honor the lives of Chuckey Sweeten, age
+thirty-nine; Ed Dossett, age forty-four; Fiona Mitchell, age ten; David Leath, age fifty-seven;
+Karen Dreager, age thirty-five; Robert McClancy, age fifty-six; Kairissa Mark, age four;
+Wieslawa Pytlinski, age fifty-seven; Arville Rhodes, age sixty-three; Shaneca Webber, age
+thirty; Andrea Ruth, age twelve; Skyler Craighead, age five months; Rebecca Cotten, age
+twenty-two; Shirley Beck, age thirty-nine; Melisha Moiser Ludwick, age thirty-eight; Sue Liner,
+age eighty-four; Tevaun Williamson, age seven; Ellen McKenzie, age forty-eight; Shannon
+HJR0304
+003511
+- 1 -
+
+Cooper, age forty; Joe Daniels, age five; Elsie Greene, age sixty-five; Evelyn Bailey, age ninety-
+three; Betty Crews, age seventy-two; Sheila Murray, age sixty-eight; Ben Thompson, age
+seventy-two; Callie Branch, age seventy-three; Sayeed Nelson, age fourteen; Mandy Noe, age
+thirty-eight; John Hoover, age forty-four; Kadaris Maddox, age thirteen; and James Parham, age
+forty.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 003511
+
+[DELETED: W1,WWWWWB]
+[DELETED:  -0B]

@@ -1,0 +1,232 @@
+Title: SENATE BILL 593
+Official Title: SENATE BILL 593
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Walley
+HOUSE BILL 224
+By Haston
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to capital improvements.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 2, is amended by adding
+the following as a new part:
+49-2-901.
+This part is known and may be cited as the "School District Capital Improvements
+Investment Trust Act."
+49-2-902.
+As used in this part, unless the context otherwise requires:
+(1) "Capital improvements" means construction, renovations,
+improvements, modernizations, and maintenance of buildings, facilities, and
+grounds owned or operated by a local education agency;
+(2) "Capital improvements plan" means a written plan developed by a
+local board of education that details needed capital improvements for a period of
+no less than five (5) years, which may be amended by the LEA;
+(3) "General purpose budget" means the primary fund used to cover daily
+operating expenses of an LEA; and
+(4) "State funding board" or "funding board" means the board created
+pursuant to § 9-9-101.
+49-2-903.
+HB0224
+000957
+- 1 -
+A local board of education may establish an investment trust for the purpose of
+prospectively funding capital improvements for the benefit of the local board of
+education's LEA. In order for a local board of education to establish and maintain an
+investment trust pursuant to this part, then local board of education shall:
+(1) Adopt a capital improvements plan;
+(2) Maintain a public school fund balance that is no less than two (2)
+months of expenditures from the LEA's general purpose budget;
+(3) Adopt, in writing, an investment policy authorizing how assets in the
+trust may be invested;
+(4) Ensure that the trust conforms to all applicable laws, rules, and
+regulations of the internal revenue service, if any;
+(5) Ensure that the local board of education's capital improvement plan is
+reviewed by a third party; and
+(6) Ensure that the trust document is submitted to, and approved by, the
+state funding board.
+49-2-904.
+(a) A trust created under this part is irrevocable, and the assets thereof must be
+preserved, invested, and expended solely pursuant to, and for the purposes of, this
+
+Section 3:
+section and must not be loaned or otherwise transferred or used for any other purpose.
+The assets of the trust may only be expended to:
+(1) Make payments for capital improvements in accordance with the
+terms of the LEA's capital improvements plan; or
+(2) Pay the costs of administering the trust.
+(b) The department of the treasury may establish investment guidelines for trusts
+established under this part.
+- 2 - 000957
+(c) An investment trust created pursuant to this part has the powers, privileges,
+and immunities of a corporation, and all of its business must be transacted, all of its
+funds must be invested, and all of its cash, securities, and other property must be held in
+trust for the purpose for which the trust was created.
+(d) Notwithstanding another law to the contrary, all assets, income, and
+distributions of the investment trust must be protected against the claims of creditors of
+the LEA, including, but not limited to, construction managers, contractors, and sub-
+contractors. Assets, income, and distributions of the investment trust are not subject to
+execution, attachment, garnishment, bankruptcy, insolvency laws, or other process
+whatsoever, and an assignment of any right of any such action is not enforceable
+against the investment trust in any court.
+49-2-905.
+A local board of education that establishes an investment trust under this part
+has all powers necessary or convenient to carry out this part and the purposes and
+objectives of the investment trust, including, but not limited to:
+(1) The power to invest funds of the trust in an instrument, obligation,
+security, or property that constitutes a legal investment, as provided in the
+investment policy adopted pursuant to § 49-2-903(3);
+(2) The power to contract for the provision of a service necessary for the
+management or operation of the investment trust;
+(3) The power to contract with financial consultants, auditors, and other
+consultants as necessary to carry out the local board of education's
+responsibilities under this part;
+(4) The power to prepare annual financial reports, including financial
+statements, at the close of each fiscal year relative to the activities of the trust.
+- 3 - 000957
+The statements and reports must contain the information required by the state
+funding board and must be prepared in accordance with the governmental
+accounting standards board; and
+(5) Upon the request of the state funding board, the power to file the
+annual report and financial statements with the chair of the funding board. The
+report and statements must be filed with the chair no later than ninety (90)
+calendar days from the date of the request, unless the chair extends the deadline
+established in this subdivision (5) in writing.
+49-2-906.
+A local board of education's annual report, including financial statements, and all
+books, accounts, and financial records of a trust created under this part are subject to
+audit by the comptroller of the treasury. An LEA that maintains a trust under this part
+may, with the prior approval of the comptroller of the treasury, engage licensed
+independent public accountants to perform any required audits. An audit contract
+between an LEA and an independent public accountant must be on contract forms
+prescribed by the comptroller of the treasury. The LEA is responsible for the
+reimbursement of the costs of audits prepared by the comptroller of the treasury and for
+the payment of fees for audits prepared by licensed independent public accountants.
+
+Section 4:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 000957
+[DELETED: S4T4A((((4]
+[DELETED:  -0A((((((4((((]
+[DELETED:  -0((4A((((]
+[DELETED:  -0(4AS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 593
+By Walley
+HOUSE BILL 224
+By Haston
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to capital improvements.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 2, is amended by adding
+the following as a new part:
+49-2-901.
+This part is known and may be cited as the "School District Capital Improvements
+Investment Trust Act."
+49-2-902.
+As used in this part, unless the context otherwise requires:
+(1) "Capital improvements" means construction, renovations,
+improvements, modernizations, and maintenance of buildings, facilities, and
+grounds owned or operated by a local education agency;
+(2) "Capital improvements plan" means a written plan developed by a
+local board of education that details needed capital improvements for a period of
+no less than five (5) years, which may be amended by the LEA;
+(3) "General purpose budget" means the primary fund used to cover daily
+operating expenses of an LEA; and
+(4) "State funding board" or "funding board" means the board created
+pursuant to § 9-9-101.
+49-2-903.
+HB0224
+000957
+- 1 -
+
+A local board of education may establish an investment trust for the purpose of
+prospectively funding capital improvements for the benefit of the local board of
+education's LEA. In order for a local board of education to establish and maintain an
+investment trust pursuant to this part, then local board of education shall:
+(1) Adopt a capital improvements plan;
+(2) Maintain a public school fund balance that is no less than two (2)
+months of expenditures from the LEA's general purpose budget;
+(3) Adopt, in writing, an investment policy authorizing how assets in the
+trust may be invested;
+(4) Ensure that the trust conforms to all applicable laws, rules, and
+regulations of the internal revenue service, if any;
+(5) Ensure that the local board of education's capital improvement plan is
+reviewed by a third party; and
+(6) Ensure that the trust document is submitted to, and approved by, the
+state funding board.
+49-2-904.
+(a) A trust created under this part is irrevocable, and the assets thereof must be
+preserved, invested, and expended solely pursuant to, and for the purposes of, this
+section and must not be loaned or otherwise transferred or used for any other purpose.
+The assets of the trust may only be expended to:
+(1) Make payments for capital improvements in accordance with the
+terms of the LEA's capital improvements plan; or
+(2) Pay the costs of administering the trust.
+(b) The department of the treasury may establish investment guidelines for trusts
+established under this part.
+- 2 - 000957
+
+(c) An investment trust created pursuant to this part has the powers, privileges,
+and immunities of a corporation, and all of its business must be transacted, all of its
+funds must be invested, and all of its cash, securities, and other property must be held in
+trust for the purpose for which the trust was created.
+(d) Notwithstanding another law to the contrary, all assets, income, and
+distributions of the investment trust must be protected against the claims of creditors of
+the LEA, including, but not limited to, construction managers, contractors, and sub-
+contractors. Assets, income, and distributions of the investment trust are not subject to
+execution, attachment, garnishment, bankruptcy, insolvency laws, or other process
+whatsoever, and an assignment of any right of any such action is not enforceable
+against the investment trust in any court.
+49-2-905.
+A local board of education that establishes an investment trust under this part
+has all powers necessary or convenient to carry out this part and the purposes and
+objectives of the investment trust, including, but not limited to:
+(1) The power to invest funds of the trust in an instrument, obligation,
+security, or property that constitutes a legal investment, as provided in the
+investment policy adopted pursuant to § 49-2-903(3);
+(2) The power to contract for the provision of a service necessary for the
+management or operation of the investment trust;
+(3) The power to contract with financial consultants, auditors, and other
+consultants as necessary to carry out the local board of education's
+responsibilities under this part;
+(4) The power to prepare annual financial reports, including financial
+statements, at the close of each fiscal year relative to the activities of the trust.
+- 3 - 000957
+
+The statements and reports must contain the information required by the state
+funding board and must be prepared in accordance with the governmental
+accounting standards board; and
+(5) Upon the request of the state funding board, the power to file the
+annual report and financial statements with the chair of the funding board. The
+report and statements must be filed with the chair no later than ninety (90)
+calendar days from the date of the request, unless the chair extends the deadline
+established in this subdivision (5) in writing.
+49-2-906.
+A local board of education's annual report, including financial statements, and all
+books, accounts, and financial records of a trust created under this part are subject to
+audit by the comptroller of the treasury. An LEA that maintains a trust under this part
+may, with the prior approval of the comptroller of the treasury, engage licensed
+independent public accountants to perform any required audits. An audit contract
+between an LEA and an independent public accountant must be on contract forms
+prescribed by the comptroller of the treasury. The LEA is responsible for the
+reimbursement of the costs of audits prepared by the comptroller of the treasury and for
+the payment of fees for audits prepared by licensed independent public accountants.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 000957
+
+[DELETED: S4T4A((((4]
+[DELETED:  -0A((((((4((((]
+[DELETED:  -0((4A((((]
+[DELETED:  -0(4AS]

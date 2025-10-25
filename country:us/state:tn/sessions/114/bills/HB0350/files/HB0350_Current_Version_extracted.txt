@@ -1,0 +1,51 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 350
+By Hurt
+AN ACT to amend Tennessee Code Annotated, Title 3;
+Title 4; Title 8; Title 9; Title 27; Title 29; Title 38;
+Title 39; Title 40 and Title 41, relative to
+government oversight.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 41-1-114, is amended by removing
+the comma after "the general assembly" and inserting "and legislative librarian," immediately
+following "the general assembly".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0350
+001804
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 350
+By Hurt
+AN ACT to amend Tennessee Code Annotated, Title 3;
+Title 4; Title 8; Title 9; Title 27; Title 29; Title 38;
+Title 39; Title 40 and Title 41, relative to
+government oversight.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 41-1-114, is amended by removing
+the comma after "the general assembly" and inserting "and legislative librarian," immediately
+following "the general assembly".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0350
+001804
+- 1 -
+
+[DELETED: SS]

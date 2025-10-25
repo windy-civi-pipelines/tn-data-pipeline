@@ -1,0 +1,183 @@
+Title: AMEND S e n ate Bill No. 880 House Bill No. 896*
+Official Title: AMEND S e n ate Bill No. 880 House Bill No. 896*
+Number of Sections: 4
+Source: versions - Amendment SA0251
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Senate Energy, Ag., and Nat. Resources 1
+Amendment No. 1 to SB0880
+Reeves
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 4, Chapter 5, is amended by adding the
+following as a new section:
+4-5-232. Sound science in regulations act.
+(a) An agency shall not adopt a rule establishing numeric criteria or numeric
+limitations applicable to a contaminant, pollutant, hazardous substance, solid waste, or
+hazardous waste, as those terms are defined in title 68 and 69, that relates to drinking
+water, water pollution control, hazardous substances, contaminated site remediation, air
+quality, or solid or hazardous waste handling unless:
+(1) Scientific and technical information relied on to support the rule is
+based upon the best available science; and
+(2) With respect to human health, the best available science establishes
+a direct link, based on generally accepted scientific practice, to manifest bodily
+harm in humans. In the absence of data from voluntary scientific studies on
+humans, best available science can be based on tests performed on
+experimental animal species or human and animal cells that indicate exposure at
+or above the numeric criteria or numeric limits establishes a direct link, based on
+generally accepted scientific practice, to manifest bodily harm in humans.
+(b) For purposes of this section:
+(1) "Best available science" means science that:
+SA0251
+004547
+- 1 -
+(A) Is reliable, unbiased, and reasonably applies to the agency's
+rule;
+(B) Maximizes the quality, objectivity, and integrity of information,
+including statistical information; human, animal, and other relevant
+scientific studies; and, if applicable, human health risk-based
+assessments; and
+(C) Involves the use of supporting studies conducted in
+accordance with generally accepted scientific or technical practices
+utilizing data collected by generally accepted methods or best available
+methods and that are:
+(i) Site-specific studies, including area-wide or statewide
+studies;
+(ii) Studies published in a refereed journal;
+(iii) External peer-reviewed studies contained in a federal
+government report published for a purpose other than
+development of the agency's rule; or
+(iv) Maximum contaminant levels (MCLs), Regional
+Screening Levels (RSLs), and vapor intrusion screen levels
+(VISLs) published by the United States environmental protection
+agency; provided, however, the levels may not be used to
+establish numeric criteria or numeric limitations that are lower than
+the MCLs, RSLs, or VISLs or that apply to environmental media,
+contaminants, pollutants, hazardous substances, solid wastes, or
+hazardous wastes different than those that are the subject of the
+MCLs, RSLs, or VISLs; and
+(2) "Refereed journal" means a publication that:
+- 2 - 004547
+(A) Uses an editorial board or critical review panel of subject
+matter experts in the relevant scientific or technical disciplines who
+critically and objectively assess the methodology and analysis of
+submitted scientific studies in a nonpartisan fashion and provide editorial
+services prior to publication; and
+(B) Takes meaningful steps to avoid biases in its scientific review
+process.
+(c) This section only applies to agency rules adopted on or after July 1, 2025,
+that are more stringent than any applicable federal regulation or adopted in the absence
+of a federal regulation.
+(d) This section does not apply to:
+(1) Any rule required by federal law, including rules adopted in
+furtherance of federal agency primacy requirements;
+(2) Any rule that is the substantive equivalent to a federal regulation;
+(3) Any rule of the department of agriculture or the department of health;
+or
+(4) Emergency rules promulgated pursuant to § 4-5-208.
+
+Section 3:
+SECTION 2. The heading in this act is for reference purposes only and does not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the heading in any compilation or publication containing this act.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 004547
+[DELETED:  a HS4(((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((((((SS]
+
+
+================================================================================
+
+Raw Text:
+Senate Energy, Ag., and Nat. Resources 1
+Amendment No. 1 to SB0880
+Reeves
+Signature of Sponsor
+AMEND S e n ate Bill No. 880 House Bill No. 896*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 4, Chapter 5, is amended by adding the
+following as a new section:
+4-5-232. Sound science in regulations act.
+(a) An agency shall not adopt a rule establishing numeric criteria or numeric
+limitations applicable to a contaminant, pollutant, hazardous substance, solid waste, or
+hazardous waste, as those terms are defined in title 68 and 69, that relates to drinking
+water, water pollution control, hazardous substances, contaminated site remediation, air
+quality, or solid or hazardous waste handling unless:
+(1) Scientific and technical information relied on to support the rule is
+based upon the best available science; and
+(2) With respect to human health, the best available science establishes
+a direct link, based on generally accepted scientific practice, to manifest bodily
+harm in humans. In the absence of data from voluntary scientific studies on
+humans, best available science can be based on tests performed on
+experimental animal species or human and animal cells that indicate exposure at
+or above the numeric criteria or numeric limits establishes a direct link, based on
+generally accepted scientific practice, to manifest bodily harm in humans.
+(b) For purposes of this section:
+(1) "Best available science" means science that:
+SA0251
+004547
+- 1 -
+
+(A) Is reliable, unbiased, and reasonably applies to the agency's
+rule;
+(B) Maximizes the quality, objectivity, and integrity of information,
+including statistical information; human, animal, and other relevant
+scientific studies; and, if applicable, human health risk-based
+assessments; and
+(C) Involves the use of supporting studies conducted in
+accordance with generally accepted scientific or technical practices
+utilizing data collected by generally accepted methods or best available
+methods and that are:
+(i) Site-specific studies, including area-wide or statewide
+studies;
+(ii) Studies published in a refereed journal;
+(iii) External peer-reviewed studies contained in a federal
+government report published for a purpose other than
+development of the agency's rule; or
+(iv) Maximum contaminant levels (MCLs), Regional
+Screening Levels (RSLs), and vapor intrusion screen levels
+(VISLs) published by the United States environmental protection
+agency; provided, however, the levels may not be used to
+establish numeric criteria or numeric limitations that are lower than
+the MCLs, RSLs, or VISLs or that apply to environmental media,
+contaminants, pollutants, hazardous substances, solid wastes, or
+hazardous wastes different than those that are the subject of the
+MCLs, RSLs, or VISLs; and
+(2) "Refereed journal" means a publication that:
+- 2 - 004547
+
+(A) Uses an editorial board or critical review panel of subject
+matter experts in the relevant scientific or technical disciplines who
+critically and objectively assess the methodology and analysis of
+submitted scientific studies in a nonpartisan fashion and provide editorial
+services prior to publication; and
+(B) Takes meaningful steps to avoid biases in its scientific review
+process.
+(c) This section only applies to agency rules adopted on or after July 1, 2025,
+that are more stringent than any applicable federal regulation or adopted in the absence
+of a federal regulation.
+(d) This section does not apply to:
+(1) Any rule required by federal law, including rules adopted in
+furtherance of federal agency primacy requirements;
+(2) Any rule that is the substantive equivalent to a federal regulation;
+(3) Any rule of the department of agriculture or the department of health;
+or
+(4) Emergency rules promulgated pursuant to § 4-5-208.
+SECTION 2. The heading in this act is for reference purposes only and does not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the heading in any compilation or publication containing this act.
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+- 3 - 004547
+
+[DELETED:  a HS4(((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((((((SS]

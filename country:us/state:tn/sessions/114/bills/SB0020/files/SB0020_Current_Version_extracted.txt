@@ -1,0 +1,77 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 20
+By Watson
+AN ACT to amend Tennessee Code Annotated, Title 63,
+relative to licensing requirements for professional
+counselors.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 63-22-104(3)(B), is amended by
+deleting the language "Has obtained" and substituting "Except as provided in subsection (b),
+has obtained".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 63-22-104, is amended by
+designating the existing language as subsection (a), and adding the following as a new
+subsection (b):
+(b) Subdivision (a)(3)(B) does not apply to an applicant for licensure as a
+professional counselor if:
+(1) The applicant has a valid, unencumbered license as a professional
+counselor issued by another state, territory, or federal district of the United
+States; and
+(2) The requirements for licensure as a professional counselor by that
+issuing state, territory, or federal district are judged to be acceptable by the
+board.
+
+Section 4:
+SECTION 3. For the purpose of promulgating rules to effectuate this act, this act takes
+effect upon becoming a law, the public welfare requiring it. For all other purposes, this act takes
+effect July 1, 2025, the public welfare requiring it.
+SB0020
+000445
+- 1 -
+[DELETED: SS(((S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 20
+By Watson
+AN ACT to amend Tennessee Code Annotated, Title 63,
+relative to licensing requirements for professional
+counselors.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 63-22-104(3)(B), is amended by
+deleting the language "Has obtained" and substituting "Except as provided in subsection (b),
+has obtained".
+SECTION 2. Tennessee Code Annotated, Section 63-22-104, is amended by
+designating the existing language as subsection (a), and adding the following as a new
+subsection (b):
+(b) Subdivision (a)(3)(B) does not apply to an applicant for licensure as a
+professional counselor if:
+(1) The applicant has a valid, unencumbered license as a professional
+counselor issued by another state, territory, or federal district of the United
+States; and
+(2) The requirements for licensure as a professional counselor by that
+issuing state, territory, or federal district are judged to be acceptable by the
+board.
+SECTION 3. For the purpose of promulgating rules to effectuate this act, this act takes
+effect upon becoming a law, the public welfare requiring it. For all other purposes, this act takes
+effect July 1, 2025, the public welfare requiring it.
+SB0020
+000445
+- 1 -
+
+[DELETED: SS(((S]

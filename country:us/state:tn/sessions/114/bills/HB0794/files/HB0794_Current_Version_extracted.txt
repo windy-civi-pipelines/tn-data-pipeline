@@ -1,0 +1,51 @@
+Title: SENATE BILL 855
+Official Title: SENATE BILL 855
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Taylor
+HOUSE BILL 794
+By Vaughan
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 5; Title 6; Title 7; Title 8; Title 12; Title 13;
+Title 29; Title 54; Title 64; Title 65; Title 68 and
+Title 69, relative to municipal utilities.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 7-52-110(b), is amended by deleting
+"ten (10) days" and substituting "ten (10) business days".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0794
+002937
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 855
+By Taylor
+HOUSE BILL 794
+By Vaughan
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 5; Title 6; Title 7; Title 8; Title 12; Title 13;
+Title 29; Title 54; Title 64; Title 65; Title 68 and
+Title 69, relative to municipal utilities.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 7-52-110(b), is amended by deleting
+"ten (10) days" and substituting "ten (10) business days".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0794
+002937
+- 1 -
+
+[DELETED: SS]

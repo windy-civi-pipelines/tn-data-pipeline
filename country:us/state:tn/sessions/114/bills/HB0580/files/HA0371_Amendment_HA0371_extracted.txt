@@ -1,0 +1,663 @@
+Title: AMEND S e n ate Bill No. 601 House Bill No. 580*
+Official Title: AMEND S e n ate Bill No. 601 House Bill No. 580*
+Number of Sections: 9
+Source: versions - Amendment HA0371
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+House Judiciary 1
+Amendment No. 1 to HB0580
+Farmer
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 40, Chapter 11, Part 1, is amended by
+adding the following as a new section:
+40-11-155.
+(a) As used in this section, "qualified electronic monitoring provider" and
+"provider" mean a private entity that has been qualified and approved by the local
+government entity where the provider seeks to operate and enters into a written contract
+or agreement with the local government entity to supply, maintain, or monitor electronic
+monitoring devices for defendants under a court order, and includes manufacturers and
+contracted third-party vendors with employees who provide monitoring services in this
+state.
+(b)
+(1) An electronic monitoring provider must submit an application petition
+to the local government entity in which the provider seeks to operate as a
+qualified electronic monitoring provider. The application petition must include:
+(A) Proof of the general liability insurance coverage required by
+subdivision (c)(1);
+(B) One (1) complete set of fingerprints and completed criminal
+background checks on each director and employee engaged in the
+monitoring of defendants in this state if the provider is contracted to
+monitor defendants in this state;
+HA0371
+006511
+- 1 -
+(C) A list of all devices that the qualified electronic monitoring
+provider offers and proof that those devices are certified by the federal
+communications commission; and
+(D) If the provider is contracted, or is seeking a contract, to
+monitor defendants in this state, proof of the director meeting the
+education and experience requirements set forth in subdivision (e)(1).
+(2) If the provider's application meets the requirements of subdivision
+(b)(1), then a local government entity may approve the qualified provider and
+enter into a written agreement with the qualified provider. The local government
+entity shall submit to the administrative office of the courts a list of qualified and
+approved providers who have entered into a written agreement with the local
+government entity. The administrative office of the courts shall keep a list of
+qualified and approved providers contracted with local government entities on the
+website of the administrative office of the courts. Each local government entity
+must submit updates to the administrative office of the courts if the status of a
+qualified electronic monitoring provider changes or if a new provider is qualified
+and approved.
+(c) Each qualified electronic monitoring provider must:
+(1) Maintain general liability insurance coverage of at least one million
+dollars ($1,000,000) at all times while providing contract services and provide the
+local government entity with written documentation of the insurance coverage;
+and
+(2)
+(A) Except as provided in subdivision (c)(2)(B), have a written
+agreement with the local government entity that includes the following:
+(i) A clear delineation of responsibilities and services
+provided by the qualified electronic monitoring provider, including
+- 2 - 006511
+continuous monitoring twenty-four (24) hours a day, seven (7)
+days a week of defendants assigned to the qualified electronic
+monitoring provider by the court;
+(ii) Staffing requirements, including minimum staffing
+levels and standards for monitoring defendants;
+(iii) Written protocols for alert responses and emergencies;
+(iv) Default and contract termination procedures; and
+(v) A detailed list of fees charged to defendants, including
+monitoring installation and equipment fees; or
+(B) If the provider is a manufacturer providing only equipment or
+software and not providing monitoring services, a written agreement with
+the local government entity that includes the following:
+(i) A clear delineation of responsibilities and services
+provided by the provider; and
+(ii) Default and contract termination procedures.
+(d)
+(1) A qualified electronic monitoring provider that has entered into an
+agreement with a local government entity to monitor defendants in this state has
+the following responsibilities:
+(A) Providing continuous electronic monitoring twenty-four (24)
+hours a day, seven (7) days a week of defendants assigned to the
+qualified electronic monitoring provider by the court;
+(B) Immediately reporting violations, breaches, and irregularities,
+including, but not limited to, unauthorized departure and device
+tampering, pursuant to the written protocol required under subdivision
+(c)(2);
+- 3 - 006511
+(C) Training all employees to maintain confidentiality and, for
+those employees having contact with defendants, to provide accurate
+information on the defendant's responsibilities and device instruction;
+(D) Maintaining a personnel file for each employee, which
+includes the employee's job application, signed confidentiality agreements
+as required by this section, training records, criminal justice experience,
+educational documentation, and a written notice from the contracting
+government entity indicating whether the employee meets the
+employment criteria based on the criminal background check;
+(E) Executing all court orders pertaining to electronic monitoring;
+(F) Prohibiting employees from soliciting defendants for products
+or services that would create a conflict of interest;
+(G) Notifying the contracting local government entity in writing
+within ten (10) days if an owner, director, or employee is charged with,
+arrested for, pleads guilty or no contest to, or is convicted of a
+misdemeanor involving moral turpitude or a felony;
+(H) Employing a person as a director who is responsible for the
+direct supervision of employees; and
+(I) Maintaining accurate, up-to-date, and comprehensive records
+for each defendant, including details of the court order, monitoring terms
+and conditions, time-stamped proof of activation, time-stamped location
+data, tracking logs, violation reports, device maintenance histories, and
+communications with the court system.
+(2) The records required by subdivision (d)(1)(I):
+(A) Are subject to audit by the local government entity upon
+request;
+(B) Must be maintained in a secure and confidential manner; and
+- 4 - 006511
+(C) Must be maintained by the qualified electronic monitoring
+provider for a minimum of three (3) years after the defendant is removed
+from monitoring.
+(3) The responsibilities listed in subdivision (d)(1) do not apply to a
+qualified electronic monitoring provider that only provides electronic monitoring
+equipment or software to a local government entity; however, if the qualified
+electronic monitoring provider begins monitoring defendants pursuant to a
+contract with the local government entity, then the requirements of subdivision
+(c)(2)(A) must be met and the responsibilities listed in subdivision (d)(1) apply.
+(e) Each director of a qualified electronic monitoring services provider must:
+(1) Have:
+(A) A bachelor's degree from an accredited college or university
+and two (2) years of experience in criminal justice or social work; or
+(B) A high school diploma and four (4) years of professional
+administrative experience with an organization providing services in the
+field of criminal justice or social work;
+(2) Sign a confidentiality statement agreeing to hold defendant records
+confidential;
+(3) Be of good moral character and not have been convicted of or pled
+guilty or nolo contendere to a misdemeanor offense involving moral turpitude, or
+to a felony offense within the last ten (10) years unless a pardon has been
+obtained, or have an outstanding warrant for the employee's arrest;
+(4) Submit to a criminal background check; and
+(5) Complete orientation training within six (6) months of beginning
+operations and annual in-service training as required by subsection (g).
+(f) An employee of a qualified electronic monitoring services provider must:
+- 5 - 006511
+(1) Be at least eighteen (18) years of age, except that an employee who
+interacts with defendants must be at least twenty-one (21) years of age;
+(2) Sign a confidentiality statement agreeing to hold defendant records
+confidential;
+(3) Be of good moral character and not have been convicted of or pled
+guilty or nolo contendere to a misdemeanor offense involving moral turpitude, or
+to a felony offense within the last ten (10) years unless a pardon has been
+obtained, or have an outstanding warrant for the employee's arrest;
+(4) Submit to a criminal background check;
+(5) Complete orientation training within six (6) months of beginning
+operations and annual in-service training as required by subsection (g); and
+(6) Sign a statement that is cosigned by the director of the electronic
+monitoring services provider and indicates that the employee has received an
+orientation on the policies, procedures, and guidelines relevant to the employee's
+job duties.
+(g) If a qualified electronic monitoring provider contracts with a local government
+entity to provide monitoring of defendants in this state, then the provider must provide
+training to the director and all employees engaged in the monitoring of defendants in this
+state consisting of a minimum of forty (40) hours of orientation training and fifteen (15)
+hours of annual in-service training. The training must include:
+(1) Orientation to electronic monitoring;
+(2) An overview of the types of equipment used for electronic monitoring;
+(3) An overview of the criminal justice system;
+(4) Instruction on recognizing and reading court orders;
+(5) Staff and victim safety issues;
+(6) Installing equipment and troubleshooting equipment issues; and
+(7) Data entry and familiarization with forms.
+- 6 - 006511
+(h) Each qualified electronic monitoring provider that provides monitoring
+services of defendants in this state shall, when enrolling defendants:
+(1) Verify a defendant's identity, the completion of necessary paperwork,
+and participant eligibility with the required court documentation prior to enrollment
+and issuance of a monitoring device;
+(2) At the time of defendant enrollment, provide defendants with clear
+instructions on the terms of monitoring and the defendant's responsibilities and
+device care, including charging and tamper detection;
+(3) Ensure that monitoring devices are installed by a professional and
+securely attached to the defendant; and
+(4) Confirm device activation and proper functionality with a time-
+stamped record of activation before the defendant is released.
+(i) All qualified electronic monitoring providers must:
+(1) Offer customer service to assist law enforcement in case of device
+issues, emergencies, or general inquiries;
+(2) Offer a responsive system for troubleshooting and resolving device
+issues, including device replacement or repair on the event of malfunctions or
+tampering;
+(3) Train support staff to handle technical issues and escalate matters to
+supervising authorities as necessary; and
+(4) Provide a hotline to report technical problems, device malfunctions,
+and emergencies.
+(j) The following persons shall not own, operate, direct, or serve as an employee
+or agent of a qualified electronic monitoring provider:
+(1) A person whose ownership, operation, direction, or role as an
+employee or agent of the qualified electronic monitoring provider creates a
+conflict of interest due to a fiduciary, business, or personal relationship with a
+- 7 - 006511
+defendant, or any other relationship that could lead to undue influence,
+exploitation, or breach of confidentiality;
+(2) A judge, probation or parole officer, court employee, detention or
+correctional provider employee, or a law enforcement officer, or any spouse
+thereof, if the qualified electronic monitoring provider operates within the same
+jurisdiction; or
+(3) An owner, operator, or employee of a professional bondsman, as
+defined in § 40-11-301.
+(k) All qualified electronic monitoring providers shall provide reports to the local
+government entity in such detail and at such time intervals as required by the contracting
+local government entity.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 40-11-152, is amended by deleting
+subdivision (a)(2) and substituting:
+(2) "Qualified electronic monitoring provider" means a private entity that:
+(A) Complies with the requirements of § 40-11-155; and
+(B) Has a written protocol with the issuing court that designates specific
+agencies to receive notifications and alerts as required by subsection (i).
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 40-11-152, is amended by deleting
+subsection (e) and substituting:
+(e) In addition to the information described by subsection (d), the arresting
+officer shall provide to an alleged victim who participates in a global positioning
+monitoring system under this section the name and telephone number of the appropriate
+emergency communications dispatch center and the arresting agency whom the victim
+may call to request immediate assistance if the defendant violates a condition of bond
+imposed under this section.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 40-11-152, is amended by deleting
+subsection (i) and substituting:
+- 8 - 006511
+(i) The magistrate who imposes a condition described by subsection (b) shall:
+(1) Provide the qualified electronic monitoring provider with contact
+information for the appropriate emergency communications dispatch center and
+the arresting agency; and
+(2) Order the qualified electronic monitoring provider to notify the
+appropriate entities pursuant to the written protocol required under subdivision
+(a)(2)(B).
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 40-11-152, is amended by deleting
+subsection (k) and substituting:
+(k) Each county or municipality shall enter into a written agreement with one (1)
+or more qualified electronic monitoring providers.
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Section 40-11-152, is amended by deleting
+subsection (m) and substituting:
+(m)
+(1) A qualified electronic monitoring provider and the manufacturer or
+provider of the global positioning monitoring system device are not civilly or
+criminally liable for injuries or damages resulting from actions of the defendant
+when the actions of those entities and the entities' employees are in accordance
+with this section and done in good faith and without gross negligence or malice.
+(2) A qualified electronic monitoring provider has no duty to notify the
+victim if a defendant violates a condition of bond imposed under this section.
+(3) A magistrate, court, or law enforcement officer or agency shall not
+transfer or assign, by contract or otherwise, a duty assigned to the magistrate,
+court, or law enforcement officer or agency to a qualified electronic monitoring
+provider or manufacturer or provider of the global positioning monitoring system.
+
+Section 8:
+SECTION 7. Tennessee Code Annotated, Section 40-11-152, is amended by adding
+the following as a new subsection:
+- 9 - 006511
+( )
+(1) If a defendant fails to pay the costs associated with operating the
+defendant's global positioning monitoring system device or the costs associated
+with providing the victim with a cellular device application or an electronic
+receptor device, then the qualified electronic monitoring provider that provides
+monitoring services of defendants shall notify the court and the defendant in
+writing within five (5) days of the arrearage. The court shall, within ten (10) days
+of the qualified electronic monitoring provider's notice to the court, set a show
+cause hearing to be held within thirty (30) days. The clerk of the court shall notify
+the qualified electronic monitoring provider, the defendant, and the victim of the
+date and time of the show cause hearing. The victim must also be notified of the
+victim's right to be present and to present testimony at the hearing. The qualified
+electronic monitoring provider shall not discontinue the defendant's monitoring or
+victim alerts before the show cause hearing has been held. At the show cause
+hearing, the court may:
+(A) Schedule a bond hearing to determine whether to revoke the
+defendant's bond and incarcerate the defendant;
+(B) Allow the defendant to immediately bring the payments
+current and continue the defendant's pretrial release; or
+(C)
+(i) Determine whether alternative funding sources are
+available to pay the costs associated with operating the
+defendant's global positioning monitoring system device and the
+costs associated with providing the victim with a cellular device
+application or an electronic receptor device and, if alternative
+funding sources are available, order the alternative funding
+sources to pay the arrearages and future costs associated with
+- 10 - 006511
+operating the defendant's global positioning monitoring system
+device and with providing the victim with a cellular device
+application or an electronic receptor device.
+(ii) As used in this subdivision ( )(1)(C), unless a local
+government entity has established a fund for the purpose of
+paying the costs associated with a defendant's global positioning
+monitoring system device and the costs associated with providing
+a victim with a cellular device application or an electronic receptor
+device, "alternative funding sources" does not include the local
+sheriff's department or other local government entities.
+(2) After a show cause hearing has been held pursuant to subdivision (
+)(1), or if a show cause hearing has not been held within the thirty-day timeframe
+required by subdivision ( )(1), a qualified electronic monitoring provider is not
+required to continue to provide monitoring services pursuant to this section if the
+qualified electronic monitoring provider is not being compensated in accordance
+with the court's order for the costs associated with operating the defendant's
+global positioning monitoring system device or the costs associated with
+providing the victim with a cellular device application or an electronic receptor
+device.
+
+Section 9:
+SECTION 8. This act takes effect July 1, 2025, the public welfare requiring it.
+- 11 - 006511
+[DELETED:  a HS(((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0((((((((((((((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0(((S(((S(S]
+[DELETED:  -0(((S(S((((S]
+[DELETED:  -0((((((]
+[DELETED:  -0((S]
+
+
+================================================================================
+
+Raw Text:
+House Judiciary 1
+Amendment No. 1 to HB0580
+Farmer
+Signature of Sponsor
+AMEND S e n ate Bill No. 601 House Bill No. 580*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 40, Chapter 11, Part 1, is amended by
+adding the following as a new section:
+40-11-155.
+(a) As used in this section, "qualified electronic monitoring provider" and
+"provider" mean a private entity that has been qualified and approved by the local
+government entity where the provider seeks to operate and enters into a written contract
+or agreement with the local government entity to supply, maintain, or monitor electronic
+monitoring devices for defendants under a court order, and includes manufacturers and
+contracted third-party vendors with employees who provide monitoring services in this
+state.
+(b)
+(1) An electronic monitoring provider must submit an application petition
+to the local government entity in which the provider seeks to operate as a
+qualified electronic monitoring provider. The application petition must include:
+(A) Proof of the general liability insurance coverage required by
+subdivision (c)(1);
+(B) One (1) complete set of fingerprints and completed criminal
+background checks on each director and employee engaged in the
+monitoring of defendants in this state if the provider is contracted to
+monitor defendants in this state;
+HA0371
+006511
+- 1 -
+
+(C) A list of all devices that the qualified electronic monitoring
+provider offers and proof that those devices are certified by the federal
+communications commission; and
+(D) If the provider is contracted, or is seeking a contract, to
+monitor defendants in this state, proof of the director meeting the
+education and experience requirements set forth in subdivision (e)(1).
+(2) If the provider's application meets the requirements of subdivision
+(b)(1), then a local government entity may approve the qualified provider and
+enter into a written agreement with the qualified provider. The local government
+entity shall submit to the administrative office of the courts a list of qualified and
+approved providers who have entered into a written agreement with the local
+government entity. The administrative office of the courts shall keep a list of
+qualified and approved providers contracted with local government entities on the
+website of the administrative office of the courts. Each local government entity
+must submit updates to the administrative office of the courts if the status of a
+qualified electronic monitoring provider changes or if a new provider is qualified
+and approved.
+(c) Each qualified electronic monitoring provider must:
+(1) Maintain general liability insurance coverage of at least one million
+dollars ($1,000,000) at all times while providing contract services and provide the
+local government entity with written documentation of the insurance coverage;
+and
+(2)
+(A) Except as provided in subdivision (c)(2)(B), have a written
+agreement with the local government entity that includes the following:
+(i) A clear delineation of responsibilities and services
+provided by the qualified electronic monitoring provider, including
+- 2 - 006511
+
+continuous monitoring twenty-four (24) hours a day, seven (7)
+days a week of defendants assigned to the qualified electronic
+monitoring provider by the court;
+(ii) Staffing requirements, including minimum staffing
+levels and standards for monitoring defendants;
+(iii) Written protocols for alert responses and emergencies;
+(iv) Default and contract termination procedures; and
+(v) A detailed list of fees charged to defendants, including
+monitoring installation and equipment fees; or
+(B) If the provider is a manufacturer providing only equipment or
+software and not providing monitoring services, a written agreement with
+the local government entity that includes the following:
+(i) A clear delineation of responsibilities and services
+provided by the provider; and
+(ii) Default and contract termination procedures.
+(d)
+(1) A qualified electronic monitoring provider that has entered into an
+agreement with a local government entity to monitor defendants in this state has
+the following responsibilities:
+(A) Providing continuous electronic monitoring twenty-four (24)
+hours a day, seven (7) days a week of defendants assigned to the
+qualified electronic monitoring provider by the court;
+(B) Immediately reporting violations, breaches, and irregularities,
+including, but not limited to, unauthorized departure and device
+tampering, pursuant to the written protocol required under subdivision
+(c)(2);
+- 3 - 006511
+
+(C) Training all employees to maintain confidentiality and, for
+those employees having contact with defendants, to provide accurate
+information on the defendant's responsibilities and device instruction;
+(D) Maintaining a personnel file for each employee, which
+includes the employee's job application, signed confidentiality agreements
+as required by this section, training records, criminal justice experience,
+educational documentation, and a written notice from the contracting
+government entity indicating whether the employee meets the
+employment criteria based on the criminal background check;
+(E) Executing all court orders pertaining to electronic monitoring;
+(F) Prohibiting employees from soliciting defendants for products
+or services that would create a conflict of interest;
+(G) Notifying the contracting local government entity in writing
+within ten (10) days if an owner, director, or employee is charged with,
+arrested for, pleads guilty or no contest to, or is convicted of a
+misdemeanor involving moral turpitude or a felony;
+(H) Employing a person as a director who is responsible for the
+direct supervision of employees; and
+(I) Maintaining accurate, up-to-date, and comprehensive records
+for each defendant, including details of the court order, monitoring terms
+and conditions, time-stamped proof of activation, time-stamped location
+data, tracking logs, violation reports, device maintenance histories, and
+communications with the court system.
+(2) The records required by subdivision (d)(1)(I):
+(A) Are subject to audit by the local government entity upon
+request;
+(B) Must be maintained in a secure and confidential manner; and
+- 4 - 006511
+
+(C) Must be maintained by the qualified electronic monitoring
+provider for a minimum of three (3) years after the defendant is removed
+from monitoring.
+(3) The responsibilities listed in subdivision (d)(1) do not apply to a
+qualified electronic monitoring provider that only provides electronic monitoring
+equipment or software to a local government entity; however, if the qualified
+electronic monitoring provider begins monitoring defendants pursuant to a
+contract with the local government entity, then the requirements of subdivision
+(c)(2)(A) must be met and the responsibilities listed in subdivision (d)(1) apply.
+(e) Each director of a qualified electronic monitoring services provider must:
+(1) Have:
+(A) A bachelor's degree from an accredited college or university
+and two (2) years of experience in criminal justice or social work; or
+(B) A high school diploma and four (4) years of professional
+administrative experience with an organization providing services in the
+field of criminal justice or social work;
+(2) Sign a confidentiality statement agreeing to hold defendant records
+confidential;
+(3) Be of good moral character and not have been convicted of or pled
+guilty or nolo contendere to a misdemeanor offense involving moral turpitude, or
+to a felony offense within the last ten (10) years unless a pardon has been
+obtained, or have an outstanding warrant for the employee's arrest;
+(4) Submit to a criminal background check; and
+(5) Complete orientation training within six (6) months of beginning
+operations and annual in-service training as required by subsection (g).
+(f) An employee of a qualified electronic monitoring services provider must:
+- 5 - 006511
+
+(1) Be at least eighteen (18) years of age, except that an employee who
+interacts with defendants must be at least twenty-one (21) years of age;
+(2) Sign a confidentiality statement agreeing to hold defendant records
+confidential;
+(3) Be of good moral character and not have been convicted of or pled
+guilty or nolo contendere to a misdemeanor offense involving moral turpitude, or
+to a felony offense within the last ten (10) years unless a pardon has been
+obtained, or have an outstanding warrant for the employee's arrest;
+(4) Submit to a criminal background check;
+(5) Complete orientation training within six (6) months of beginning
+operations and annual in-service training as required by subsection (g); and
+(6) Sign a statement that is cosigned by the director of the electronic
+monitoring services provider and indicates that the employee has received an
+orientation on the policies, procedures, and guidelines relevant to the employee's
+job duties.
+(g) If a qualified electronic monitoring provider contracts with a local government
+entity to provide monitoring of defendants in this state, then the provider must provide
+training to the director and all employees engaged in the monitoring of defendants in this
+state consisting of a minimum of forty (40) hours of orientation training and fifteen (15)
+hours of annual in-service training. The training must include:
+(1) Orientation to electronic monitoring;
+(2) An overview of the types of equipment used for electronic monitoring;
+(3) An overview of the criminal justice system;
+(4) Instruction on recognizing and reading court orders;
+(5) Staff and victim safety issues;
+(6) Installing equipment and troubleshooting equipment issues; and
+(7) Data entry and familiarization with forms.
+- 6 - 006511
+
+(h) Each qualified electronic monitoring provider that provides monitoring
+services of defendants in this state shall, when enrolling defendants:
+(1) Verify a defendant's identity, the completion of necessary paperwork,
+and participant eligibility with the required court documentation prior to enrollment
+and issuance of a monitoring device;
+(2) At the time of defendant enrollment, provide defendants with clear
+instructions on the terms of monitoring and the defendant's responsibilities and
+device care, including charging and tamper detection;
+(3) Ensure that monitoring devices are installed by a professional and
+securely attached to the defendant; and
+(4) Confirm device activation and proper functionality with a time-
+stamped record of activation before the defendant is released.
+(i) All qualified electronic monitoring providers must:
+(1) Offer customer service to assist law enforcement in case of device
+issues, emergencies, or general inquiries;
+(2) Offer a responsive system for troubleshooting and resolving device
+issues, including device replacement or repair on the event of malfunctions or
+tampering;
+(3) Train support staff to handle technical issues and escalate matters to
+supervising authorities as necessary; and
+(4) Provide a hotline to report technical problems, device malfunctions,
+and emergencies.
+(j) The following persons shall not own, operate, direct, or serve as an employee
+or agent of a qualified electronic monitoring provider:
+(1) A person whose ownership, operation, direction, or role as an
+employee or agent of the qualified electronic monitoring provider creates a
+conflict of interest due to a fiduciary, business, or personal relationship with a
+- 7 - 006511
+
+defendant, or any other relationship that could lead to undue influence,
+exploitation, or breach of confidentiality;
+(2) A judge, probation or parole officer, court employee, detention or
+correctional provider employee, or a law enforcement officer, or any spouse
+thereof, if the qualified electronic monitoring provider operates within the same
+jurisdiction; or
+(3) An owner, operator, or employee of a professional bondsman, as
+defined in § 40-11-301.
+(k) All qualified electronic monitoring providers shall provide reports to the local
+government entity in such detail and at such time intervals as required by the contracting
+local government entity.
+SECTION 2. Tennessee Code Annotated, Section 40-11-152, is amended by deleting
+subdivision (a)(2) and substituting:
+(2) "Qualified electronic monitoring provider" means a private entity that:
+(A) Complies with the requirements of § 40-11-155; and
+(B) Has a written protocol with the issuing court that designates specific
+agencies to receive notifications and alerts as required by subsection (i).
+SECTION 3. Tennessee Code Annotated, Section 40-11-152, is amended by deleting
+subsection (e) and substituting:
+(e) In addition to the information described by subsection (d), the arresting
+officer shall provide to an alleged victim who participates in a global positioning
+monitoring system under this section the name and telephone number of the appropriate
+emergency communications dispatch center and the arresting agency whom the victim
+may call to request immediate assistance if the defendant violates a condition of bond
+imposed under this section.
+SECTION 4. Tennessee Code Annotated, Section 40-11-152, is amended by deleting
+subsection (i) and substituting:
+- 8 - 006511
+
+(i) The magistrate who imposes a condition described by subsection (b) shall:
+(1) Provide the qualified electronic monitoring provider with contact
+information for the appropriate emergency communications dispatch center and
+the arresting agency; and
+(2) Order the qualified electronic monitoring provider to notify the
+appropriate entities pursuant to the written protocol required under subdivision
+(a)(2)(B).
+SECTION 5. Tennessee Code Annotated, Section 40-11-152, is amended by deleting
+subsection (k) and substituting:
+(k) Each county or municipality shall enter into a written agreement with one (1)
+or more qualified electronic monitoring providers.
+SECTION 6. Tennessee Code Annotated, Section 40-11-152, is amended by deleting
+subsection (m) and substituting:
+(m)
+(1) A qualified electronic monitoring provider and the manufacturer or
+provider of the global positioning monitoring system device are not civilly or
+criminally liable for injuries or damages resulting from actions of the defendant
+when the actions of those entities and the entities' employees are in accordance
+with this section and done in good faith and without gross negligence or malice.
+(2) A qualified electronic monitoring provider has no duty to notify the
+victim if a defendant violates a condition of bond imposed under this section.
+(3) A magistrate, court, or law enforcement officer or agency shall not
+transfer or assign, by contract or otherwise, a duty assigned to the magistrate,
+court, or law enforcement officer or agency to a qualified electronic monitoring
+provider or manufacturer or provider of the global positioning monitoring system.
+SECTION 7. Tennessee Code Annotated, Section 40-11-152, is amended by adding
+the following as a new subsection:
+- 9 - 006511
+
+( )
+(1) If a defendant fails to pay the costs associated with operating the
+defendant's global positioning monitoring system device or the costs associated
+with providing the victim with a cellular device application or an electronic
+receptor device, then the qualified electronic monitoring provider that provides
+monitoring services of defendants shall notify the court and the defendant in
+writing within five (5) days of the arrearage. The court shall, within ten (10) days
+of the qualified electronic monitoring provider's notice to the court, set a show
+cause hearing to be held within thirty (30) days. The clerk of the court shall notify
+the qualified electronic monitoring provider, the defendant, and the victim of the
+date and time of the show cause hearing. The victim must also be notified of the
+victim's right to be present and to present testimony at the hearing. The qualified
+electronic monitoring provider shall not discontinue the defendant's monitoring or
+victim alerts before the show cause hearing has been held. At the show cause
+hearing, the court may:
+(A) Schedule a bond hearing to determine whether to revoke the
+defendant's bond and incarcerate the defendant;
+(B) Allow the defendant to immediately bring the payments
+current and continue the defendant's pretrial release; or
+(C)
+(i) Determine whether alternative funding sources are
+available to pay the costs associated with operating the
+defendant's global positioning monitoring system device and the
+costs associated with providing the victim with a cellular device
+application or an electronic receptor device and, if alternative
+funding sources are available, order the alternative funding
+sources to pay the arrearages and future costs associated with
+- 10 - 006511
+
+operating the defendant's global positioning monitoring system
+device and with providing the victim with a cellular device
+application or an electronic receptor device.
+(ii) As used in this subdivision ( )(1)(C), unless a local
+government entity has established a fund for the purpose of
+paying the costs associated with a defendant's global positioning
+monitoring system device and the costs associated with providing
+a victim with a cellular device application or an electronic receptor
+device, "alternative funding sources" does not include the local
+sheriff's department or other local government entities.
+(2) After a show cause hearing has been held pursuant to subdivision (
+)(1), or if a show cause hearing has not been held within the thirty-day timeframe
+required by subdivision ( )(1), a qualified electronic monitoring provider is not
+required to continue to provide monitoring services pursuant to this section if the
+qualified electronic monitoring provider is not being compensated in accordance
+with the court's order for the costs associated with operating the defendant's
+global positioning monitoring system device or the costs associated with
+providing the victim with a cellular device application or an electronic receptor
+device.
+SECTION 8. This act takes effect July 1, 2025, the public welfare requiring it.
+- 11 - 006511
+
+[DELETED:  a HS(((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0((((((((((((((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0(((S(((S(S]
+[DELETED:  -0(((S(S((((S]
+[DELETED:  -0((((((]
+[DELETED:  -0((S]

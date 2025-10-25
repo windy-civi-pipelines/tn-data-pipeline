@@ -1,0 +1,200 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 51
+By Fritts
+A RESOLUTION to seek Almighty God's hand of ever-present
+mercy and healing on Tennessee.
+WHEREAS, we acknowledge that our national and State founders trusted in the
+omnipotent hand of Providence to bless our land and to guide their actions; and
+WHEREAS, we recognize that these founders established our nation and our State on
+the Judeo-Christian values outlined in the Bible, including the concept that governments are
+established by God to protect the rights of the individual and the teachings to "do unto others as
+we would have them do unto us" and to love our neighbors as ourselves, and that from these
+ideas, the Tennessee Volunteer spirit flows; and
+WHEREAS, we understand that only a continued commitment and adherence to these
+values and the laws of Nature and Nature's God, coupled with a dedication to our Constitution,
+can thwart the forthcoming attacks against our Tennessee way of life; and
+WHEREAS, we are thankful that Tennessee has been blessed by Providence with
+abundant resources and a prosperity resultant from liberty; and
+WHEREAS, we are grateful for the periods of economic stability Tennessee has
+enjoyed; and
+WHEREAS, despite these blessings, our citizens and neighbors will continue to face
+challenges, many of which may not have been seen before in this State or nation; and
+WHEREAS, our citizens and neighbors continue to have concerns about the security of
+our national borders and attacks on our institutions and way of life; and
+WHEREAS, exposing, resisting, and removing corruption from all levels of government
+is vital to maintaining liberty for all citizens; and
+HJR0051
+001701
+- 1 -
+WHEREAS, human trafficking (slavery) was, is, and forever will be an unacceptable evil
+in our State and nation that destroys the lives of thousands, depriving them of their Creator-
+endowed rights to Life, Liberty, and the Pursuit of Happiness; and
+WHEREAS, acts of criminal violence in our communities are and will remain
+unacceptable; and
+WHEREAS, the dependence on and the addiction to drugs and alcohol will continue to
+overwhelm our government finances, our healthcare and mental health systems, and our law
+enforcement resources, adversely affecting workforce productivity and damaging families; and
+WHEREAS, a high divorce rate and an expansive need for foster care indicates a
+brokenness in Tennessee families; and
+WHEREAS, building strong and committed families where the father and mother are
+committed to one another, their children, and their community is foundational to a healthy
+Tennessee; and
+WHEREAS, the suicidal and infanticidal tendencies bombarding our culture from all
+directions belie the truth that everyone's life has value because we are created in the image of
+God; and
+WHEREAS, we know that societies that fail to honor all life cannot survive; and
+WHEREAS, throughout our history, our leaders have called people to seek the Creator's
+favor and mercy by issuing proclamations like the one issued by John Adams on March 23,
+1798:
+"As the safety and prosperity of nations ultimately and essentially depend on the
+protection and the blessing of Almighty God; and the national acknowledgment of this
+truth is not only an indispensable duty which the People owe to Him, but a duty whose
+natural influence is favorable to the promotion of that Morality and Piety, without which
+social Happiness cannot exist nor the Blessings of a Free Government be enjoyed; and
+- 2 - 001701
+as this Duty, at all times incumbent, is so especially in seasons of Difficulty or of Danger,
+when existing or threatening Calamities, the just Judgments of God against prevalent
+Iniquity, are a loud call to Repentance and Reformation…Under these considerations it
+has appeared to me that the Duty of imploring the Mercy and Benediction of Heaven on
+our Country demands, at this time, a special attention from its Inhabitants"; and
+WHEREAS, we recognize our duty to legislate responsibly but also understand that
+solving these problems will require the blessing and protection of Almighty God and a unity of
+purpose within our communities; and
+WHEREAS, we hold that "…except the Lord keep the city, the watchman waketh but in
+vain" (Ps. 127:1(b)); now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that the period of July 1 through July 31 of each year be recognized as a time
+of prayer and fasting in Tennessee.
+BE IT FUTHER RESOLVED, that we desire the continued blessing of Almighty God on
+Tennessee, recognizing that He, as Creator and the King of all Glory, holds all authority to both
+judge and bless nations, states, and peoples.
+BE IT FUTHER RESOLVED, that we recognize our sins and shortcomings, both
+individually and as a people, and humbly ask His forgiveness.
+BE IT FUTHER RESOLVED, that we ask the Lord Jesus to remove corruption, criminal
+violence, and addiction from our State and our nation, restore marriages and strengthen
+families, and bring about a righteous unity of vision and purpose for all Tennesseans.
+BE IT FUTHER RESOLVED, that we ask the Holy Spirit to move within the halls of
+government, our classrooms, our businesses, our places of worship, and our homes, bringing
+- 3 - 001701
+peace, hope, love, kindness, goodness, gentleness, faithfulness, temperance, forbearance, and
+joy.
+BE IT FURTHER RESOLVED, that we call upon those who are physically able and
+spiritually inclined to join with us annually during the month of July in a season of prayer and
+fasting, depriving ourselves in order to awaken our hunger for and need of God, humbling
+ourselves before Him, asking His forgiveness, and seeking His blessings, grace, and mercy so
+that we, our communities, our State, and our nation will be transformed.
+- 4 - 001701
+[DELETED: W]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 51
+By Fritts
+A RESOLUTION to seek Almighty God's hand of ever-present
+mercy and healing on Tennessee.
+WHEREAS, we acknowledge that our national and State founders trusted in the
+omnipotent hand of Providence to bless our land and to guide their actions; and
+WHEREAS, we recognize that these founders established our nation and our State on
+the Judeo-Christian values outlined in the Bible, including the concept that governments are
+established by God to protect the rights of the individual and the teachings to "do unto others as
+we would have them do unto us" and to love our neighbors as ourselves, and that from these
+ideas, the Tennessee Volunteer spirit flows; and
+WHEREAS, we understand that only a continued commitment and adherence to these
+values and the laws of Nature and Nature's God, coupled with a dedication to our Constitution,
+can thwart the forthcoming attacks against our Tennessee way of life; and
+WHEREAS, we are thankful that Tennessee has been blessed by Providence with
+abundant resources and a prosperity resultant from liberty; and
+WHEREAS, we are grateful for the periods of economic stability Tennessee has
+enjoyed; and
+WHEREAS, despite these blessings, our citizens and neighbors will continue to face
+challenges, many of which may not have been seen before in this State or nation; and
+WHEREAS, our citizens and neighbors continue to have concerns about the security of
+our national borders and attacks on our institutions and way of life; and
+WHEREAS, exposing, resisting, and removing corruption from all levels of government
+is vital to maintaining liberty for all citizens; and
+HJR0051
+001701
+- 1 -
+
+WHEREAS, human trafficking (slavery) was, is, and forever will be an unacceptable evil
+in our State and nation that destroys the lives of thousands, depriving them of their Creator-
+endowed rights to Life, Liberty, and the Pursuit of Happiness; and
+WHEREAS, acts of criminal violence in our communities are and will remain
+unacceptable; and
+WHEREAS, the dependence on and the addiction to drugs and alcohol will continue to
+overwhelm our government finances, our healthcare and mental health systems, and our law
+enforcement resources, adversely affecting workforce productivity and damaging families; and
+WHEREAS, a high divorce rate and an expansive need for foster care indicates a
+brokenness in Tennessee families; and
+WHEREAS, building strong and committed families where the father and mother are
+committed to one another, their children, and their community is foundational to a healthy
+Tennessee; and
+WHEREAS, the suicidal and infanticidal tendencies bombarding our culture from all
+directions belie the truth that everyone's life has value because we are created in the image of
+God; and
+WHEREAS, we know that societies that fail to honor all life cannot survive; and
+WHEREAS, throughout our history, our leaders have called people to seek the Creator's
+favor and mercy by issuing proclamations like the one issued by John Adams on March 23,
+1798:
+"As the safety and prosperity of nations ultimately and essentially depend on the
+protection and the blessing of Almighty God; and the national acknowledgment of this
+truth is not only an indispensable duty which the People owe to Him, but a duty whose
+natural influence is favorable to the promotion of that Morality and Piety, without which
+social Happiness cannot exist nor the Blessings of a Free Government be enjoyed; and
+- 2 - 001701
+
+as this Duty, at all times incumbent, is so especially in seasons of Difficulty or of Danger,
+when existing or threatening Calamities, the just Judgments of God against prevalent
+Iniquity, are a loud call to Repentance and Reformation…Under these considerations it
+has appeared to me that the Duty of imploring the Mercy and Benediction of Heaven on
+our Country demands, at this time, a special attention from its Inhabitants"; and
+WHEREAS, we recognize our duty to legislate responsibly but also understand that
+solving these problems will require the blessing and protection of Almighty God and a unity of
+purpose within our communities; and
+WHEREAS, we hold that "…except the Lord keep the city, the watchman waketh but in
+vain" (Ps. 127:1(b)); now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that the period of July 1 through July 31 of each year be recognized as a time
+of prayer and fasting in Tennessee.
+BE IT FUTHER RESOLVED, that we desire the continued blessing of Almighty God on
+Tennessee, recognizing that He, as Creator and the King of all Glory, holds all authority to both
+judge and bless nations, states, and peoples.
+BE IT FUTHER RESOLVED, that we recognize our sins and shortcomings, both
+individually and as a people, and humbly ask His forgiveness.
+BE IT FUTHER RESOLVED, that we ask the Lord Jesus to remove corruption, criminal
+violence, and addiction from our State and our nation, restore marriages and strengthen
+families, and bring about a righteous unity of vision and purpose for all Tennesseans.
+BE IT FUTHER RESOLVED, that we ask the Holy Spirit to move within the halls of
+government, our classrooms, our businesses, our places of worship, and our homes, bringing
+- 3 - 001701
+
+peace, hope, love, kindness, goodness, gentleness, faithfulness, temperance, forbearance, and
+joy.
+BE IT FURTHER RESOLVED, that we call upon those who are physically able and
+spiritually inclined to join with us annually during the month of July in a season of prayer and
+fasting, depriving ourselves in order to awaken our hunger for and need of God, humbling
+ourselves before Him, asking His forgiveness, and seeking His blessings, grace, and mercy so
+that we, our communities, our State, and our nation will be transformed.
+- 4 - 001701
+
+[DELETED: W]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]

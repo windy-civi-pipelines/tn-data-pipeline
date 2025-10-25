@@ -1,0 +1,69 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE RESOLUTION 242
+By Akbari
+A RESOLUTION to congratulate Taquez Butler of Whitehaven
+High School upon being named TSSAA Class
+4A Mr. Basketball.
+WHEREAS, it is fitting that the members of this legislative body should recognize those
+incredibly successful student athletes who have distinguished themselves as inspirational
+leaders among their peers; and
+WHEREAS, a statewide committee of sportswriters recently named Taquez Butler, a
+senior at Whitehaven High School, TSSAA Class 4A Mr. Basketball, based upon his
+outstanding performance on the hardwood during the 2024-2025 regular season; and
+WHEREAS, his superior academic record and upstanding character were also taken into
+consideration when the committee selected Mr. Butler as the winner of this prestigious award,
+which honors the best Class 4A male basketball player in the entire State; and
+WHEREAS, Mr. Butler exemplifies the spirit, determination, and perseverance for which
+Tennesseans are notable, and he is richly deserving of our approbation; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and congratulate
+Taquez Butler of Whitehaven High School upon being named TSSAA Class 4A Mr. Basketball
+and wish him much continued success both on and off the court.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+SR0242
+008080
+- 1 -
+[DELETED: BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE RESOLUTION 242
+By Akbari
+A RESOLUTION to congratulate Taquez Butler of Whitehaven
+High School upon being named TSSAA Class
+4A Mr. Basketball.
+WHEREAS, it is fitting that the members of this legislative body should recognize those
+incredibly successful student athletes who have distinguished themselves as inspirational
+leaders among their peers; and
+WHEREAS, a statewide committee of sportswriters recently named Taquez Butler, a
+senior at Whitehaven High School, TSSAA Class 4A Mr. Basketball, based upon his
+outstanding performance on the hardwood during the 2024-2025 regular season; and
+WHEREAS, his superior academic record and upstanding character were also taken into
+consideration when the committee selected Mr. Butler as the winner of this prestigious award,
+which honors the best Class 4A male basketball player in the entire State; and
+WHEREAS, Mr. Butler exemplifies the spirit, determination, and perseverance for which
+Tennesseans are notable, and he is richly deserving of our approbation; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and congratulate
+Taquez Butler of Whitehaven High School upon being named TSSAA Class 4A Mr. Basketball
+and wish him much continued success both on and off the court.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+SR0242
+008080
+- 1 -
+
+[DELETED: BB]

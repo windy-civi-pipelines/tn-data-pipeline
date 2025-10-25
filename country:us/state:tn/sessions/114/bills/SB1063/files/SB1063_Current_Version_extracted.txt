@@ -1,0 +1,79 @@
+Title: HOUSE BILL 1074
+Official Title: HOUSE BILL 1074
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Garrett
+SENATE BILL 1063
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 56
+and Title 63, Chapter 1, relative to prior
+authorization for healthcare services.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 63-1-171, is amended by deleting
+subsection (b) and substituting:
+(b) Except as provided in subsection (d), a provider shall notify a patient of
+communication between the provider and the patient's health insurance entity if the
+provider contacts the health insurance entity seeking additional information needed to
+process a prior authorization request for the patient within seven (7) calendar days after
+the communication has occurred. The notification must include a copy of the
+communication.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 56-6-705(a), is amended by deleting
+subdivision (4) and substituting:
+(4) If a utilization review organization makes a request of the healthcare provider
+that additional information is needed to process a prior authorization and the healthcare
+provider does not submit the additional information within the seven-calendar-day
+timeframe described under subsection (a), then the utilization review organization must
+notify the enrollee that further information has been requested from the provider. The
+notification must include a copy of the communication.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1063
+003218
+- 1 -
+[DELETED: S(S(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1074
+By Garrett
+SENATE BILL 1063
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 56
+and Title 63, Chapter 1, relative to prior
+authorization for healthcare services.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 63-1-171, is amended by deleting
+subsection (b) and substituting:
+(b) Except as provided in subsection (d), a provider shall notify a patient of
+communication between the provider and the patient's health insurance entity if the
+provider contacts the health insurance entity seeking additional information needed to
+process a prior authorization request for the patient within seven (7) calendar days after
+the communication has occurred. The notification must include a copy of the
+communication.
+SECTION 2. Tennessee Code Annotated, Section 56-6-705(a), is amended by deleting
+subdivision (4) and substituting:
+(4) If a utilization review organization makes a request of the healthcare provider
+that additional information is needed to process a prior authorization and the healthcare
+provider does not submit the additional information within the seven-calendar-day
+timeframe described under subsection (a), then the utilization review organization must
+notify the enrollee that further information has been requested from the provider. The
+notification must include a copy of the communication.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1063
+003218
+- 1 -
+
+[DELETED: S(S(S]

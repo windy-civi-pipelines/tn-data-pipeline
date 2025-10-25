@@ -1,0 +1,120 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 80
+By Leatherwood
+A RESOLUTION to designate May 2025 as "National
+Hypertension Month" and to advocate for greater
+access to innovative therapies.
+WHEREAS, hypertension, also known as high blood pressure, affects nearly half of all
+adults in the United States and is a leading risk factor for various cardiovascular diseases; and
+WHEREAS, hypertension often goes undetected and untreated, leading to severe health
+complications, including heart disease, stroke, and kidney failure, and contributing to nearly
+500,000 deaths per year in the United States; and
+WHEREAS, only about one in four adults in the United States have their hypertension
+under control; and
+WHEREAS, healthcare costs in the United States associated with hypertension account
+for about $131 billion per year, while individuals with hypertension are estimated to face nearly
+$2,000 higher annual healthcare expenditures compared to those without hypertension; and
+WHEREAS, recent advancements in medical technology have introduced U.S. Food and
+Drug Administration-approved renal denervation therapies as a promising treatment for resistant
+hypertension, offering hope to patients who do not respond adequately to conventional
+treatments; and
+WHEREAS, renal denervation therapies have demonstrated clinical and real-world
+results in reducing blood pressure and improving cardiovascular outcomes; and
+WHEREAS, access to innovative treatments is essential for improving public health and
+reducing the burden of hypertension-related complications; and
+HJR0080
+001927
+- 1 -
+WHEREAS, a recent scientific statement from the American Heart Association suggests
+that "renal denervation presents a novel treatment strategy for patients with uncontrolled blood
+pressure"; and
+WHEREAS, the month of May is recognized as National Hypertension Month to raise
+awareness about the importance of preventing, detecting, and managing hypertension; now,
+therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we designate May 2025 as "National Hypertension Awareness Month" to
+promote awareness, education, and prevention of hypertension.
+BE IT FURTHER RESOLVED, that we encourage health providers, public health
+organizations, and community groups to participate in activities and initiatives highlighting the
+importance of hypertension management and prevention; advocate for the inclusion of renal
+denervation therapies in health insurance coverage plans to ensure patients with resistant
+hypertension can access this innovative treatment option; and support efforts to educate the
+public about the risks of hypertension and the benefits of early detection and treatment,
+including the potential role of renal denervation and other innovative therapies.
+BE IT FURTHER RESOLVED, that we urge the Department of Health to promote best
+practices for hypertension management and encourage TennCare to consider the inclusion of
+innovative therapies such as renal denervation in Medicaid coverage.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be transmitted
+to the Commissioner of the Department of Health and the Director of TennCare.
+- 2 - 001927
+[DELETED: WWWWWWW]
+[DELETED:  -0WWBBBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 80
+By Leatherwood
+A RESOLUTION to designate May 2025 as "National
+Hypertension Month" and to advocate for greater
+access to innovative therapies.
+WHEREAS, hypertension, also known as high blood pressure, affects nearly half of all
+adults in the United States and is a leading risk factor for various cardiovascular diseases; and
+WHEREAS, hypertension often goes undetected and untreated, leading to severe health
+complications, including heart disease, stroke, and kidney failure, and contributing to nearly
+500,000 deaths per year in the United States; and
+WHEREAS, only about one in four adults in the United States have their hypertension
+under control; and
+WHEREAS, healthcare costs in the United States associated with hypertension account
+for about $131 billion per year, while individuals with hypertension are estimated to face nearly
+$2,000 higher annual healthcare expenditures compared to those without hypertension; and
+WHEREAS, recent advancements in medical technology have introduced U.S. Food and
+Drug Administration-approved renal denervation therapies as a promising treatment for resistant
+hypertension, offering hope to patients who do not respond adequately to conventional
+treatments; and
+WHEREAS, renal denervation therapies have demonstrated clinical and real-world
+results in reducing blood pressure and improving cardiovascular outcomes; and
+WHEREAS, access to innovative treatments is essential for improving public health and
+reducing the burden of hypertension-related complications; and
+HJR0080
+001927
+- 1 -
+
+WHEREAS, a recent scientific statement from the American Heart Association suggests
+that "renal denervation presents a novel treatment strategy for patients with uncontrolled blood
+pressure"; and
+WHEREAS, the month of May is recognized as National Hypertension Month to raise
+awareness about the importance of preventing, detecting, and managing hypertension; now,
+therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we designate May 2025 as "National Hypertension Awareness Month" to
+promote awareness, education, and prevention of hypertension.
+BE IT FURTHER RESOLVED, that we encourage health providers, public health
+organizations, and community groups to participate in activities and initiatives highlighting the
+importance of hypertension management and prevention; advocate for the inclusion of renal
+denervation therapies in health insurance coverage plans to ensure patients with resistant
+hypertension can access this innovative treatment option; and support efforts to educate the
+public about the risks of hypertension and the benefits of early detection and treatment,
+including the potential role of renal denervation and other innovative therapies.
+BE IT FURTHER RESOLVED, that we urge the Department of Health to promote best
+practices for hypertension management and encourage TennCare to consider the inclusion of
+innovative therapies such as renal denervation in Medicaid coverage.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be transmitted
+to the Commissioner of the Department of Health and the Director of TennCare.
+- 2 - 001927
+
+[DELETED: WWWWWWW]
+[DELETED:  -0WWBBBB]

@@ -1,0 +1,244 @@
+Title: HOUSE BILL 529
+Official Title: HOUSE BILL 529
+Number of Sections: 7
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Keisling
+SENATE BILL 347
+By Hensley
+AN ACT to amend Tennessee Code Annotated, Title 2,
+relative to elections.
+WHEREAS, the Tennessee Code Annotated definition of the term "signature" is not
+sufficiently specific and adequate for use in Tennessee Code Annotated, Title 2, as the term
+applies to certain election-related documents; and
+WHEREAS, the term "signature" should have a particular and specific meaning and be
+appropriately tailored for use in certain election laws in this State; and
+WHEREAS, the term "signature" should be amended as applicable in Tennessee Code
+Annotated, Title 2, to simplify and expedite the verification of signatures by county election
+commissions, election officials, and others performing official election-related functions with
+respect to election-related documents, including, but not limited to, nominating petitions for
+candidacy and other petitions for referendum questions, recall, or initiative; voter registration
+applications and forms to revise a voter's registration information; applications for absentee
+ballots; and completed absentee ballots and related materials, for the purpose of reducing the
+likelihood of contested elections and litigation regarding the validity of signatures; and
+WHEREAS, the General Assembly finds that this act is consistent with the purposes
+articulated in Tennessee Code Annotated, Section 2-1-102; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 2-1-104(a), is amended by adding
+the following new subdivisions:
+( ) "Election-related document" means:
+SB0347
+001876
+- 1 -
+(A) A nominating petition or a petition for recall, referendum, or initiative
+filed in accordance with chapter 5, part 1 of this title;
+(B) An application for an absentee ballot requested in accordance with
+chapter 6 of this title and envelopes and documents related to voting absentee
+containing a signature that must be verified for purposes of casting an absentee
+vote; and
+(C) A voter registration application filed in accordance with chapter 2,
+parts 1 or 2 of this title and any document submitted to renew or revise the
+registration record of a voter;
+( ) "Signature," notwithstanding § 1-3-105, for purposes of election-related
+documents:
+(A) Means the full, legal handwritten signature of a registered voter or
+person qualified to register to vote in this state, in legible English alphabetic
+characters unless an exception applies pursuant to 8 U.S.C. § 1423(b)(2) or (3);
+(B) Includes:
+(i) One (1) or more initials of a registered voter with the voter's full
+legal last name in lieu of the voter's full legal name if the voter's
+registration record or voter registration card uses only one (1) or more
+initials and the voter's full legal last name; and
+(ii) If a voter is physically unable to write the voter's name, the
+voter's individual mark, such as an "X," with the voter's full legal name
+written in legible English alphabetic characters by a witness who is a
+registered voter in the same county and who witnessed the voter make
+the voter's mark. The witness shall also write the witness's own name in
+legible English alphabetic characters next to the voter's mark and written
+- 2 - 001876
+name. The witness shall verify the identity of the voter using a legal
+document acceptable to register to vote.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 2-1-107, is amended by deleting the
+existing language and substituting the following:
+(a) A person signing a petition as authorized under this title, whether for
+nomination of a candidate, for a referendum, or for another purpose, must be a qualified
+and registered voter and shall include the person's residential address, handwritten in
+legible English alphabetic characters, as shown on such person's valid voter registration
+card in order for that person's signature to be counted; provided, that, if the address
+shown on the petition:
+(1) Is within the precinct for which the person is signing the petition, but is
+not the address shown on the person's voter registration record, the signature is
+valid and must be counted;
+(2) Is outside of the precinct for which the person is signing the petition,
+regardless of the address shown on the person's voter registration card, the
+signature is invalid and must not be counted; and
+(3) Includes information on a petition that exceeds the information
+contained on the person's voter registration record, the signature must not be
+invalidated for that reason if there is no conflict between such information. If
+such information conflicts, the signature is invalid and must not be counted.
+(b) A registered voter who is eligible to vote in the election in question may sign
+a petition authorized under this title.
+(c) The signature of a voter on a petition signed pursuant to this title must be
+compared by the county election commission to the signature on the voter registration
+record of the signatory. A petition signature must bear sufficient resemblance to the
+- 3 - 001876
+signature on the voter's registration record for a lay person to discern that the signatures
+were written by the same person, as determined by the county election commission.
+The county election commission shall not use or require extraneous evidence, such as
+oral testimony or affidavits, in order to verify the validity of the handwritten signatures on
+petitions or other election-related documents.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 2-2-122, is amended by adding the
+following new subsection:
+( ) Voters, including those who are homeless, must be registered to vote in
+accordance with this title. In order for county and state voter registration records to be
+current and correct, and to make the process of voting and verifying signatures easier for
+election officials and voters, each registered voter is responsible for notifying the voter's
+county election commission and updating the voter's registration when the voter moves,
+whether within the county or to another county, or to another state or territory. The
+required residential address written by a voter or a witness on a petition is sufficient if it
+contains the street number, street name, city, if applicable, and state.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 2-5-101(b)(2), is amended by
+deleting the first sentence of the subdivision and substituting:
+The signer of a petition must comply with § 2-1-107 in order for that voter's
+signature to be counted.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Sections 2-5-101(b)(3) and 2-2-119, are
+amended by deleting the subdivision and section in their entireties.
+
+Section 7:
+SECTION 6. This act takes effect July 1, 2025, the public welfare requiring it.
+- 4 - 001876
+[DELETED: WWWWS(]
+[DELETED:  -0(((]
+[DELETED:  -0S(((((]
+[DELETED:  -0S(SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 529
+By Keisling
+SENATE BILL 347
+By Hensley
+AN ACT to amend Tennessee Code Annotated, Title 2,
+relative to elections.
+WHEREAS, the Tennessee Code Annotated definition of the term "signature" is not
+sufficiently specific and adequate for use in Tennessee Code Annotated, Title 2, as the term
+applies to certain election-related documents; and
+WHEREAS, the term "signature" should have a particular and specific meaning and be
+appropriately tailored for use in certain election laws in this State; and
+WHEREAS, the term "signature" should be amended as applicable in Tennessee Code
+Annotated, Title 2, to simplify and expedite the verification of signatures by county election
+commissions, election officials, and others performing official election-related functions with
+respect to election-related documents, including, but not limited to, nominating petitions for
+candidacy and other petitions for referendum questions, recall, or initiative; voter registration
+applications and forms to revise a voter's registration information; applications for absentee
+ballots; and completed absentee ballots and related materials, for the purpose of reducing the
+likelihood of contested elections and litigation regarding the validity of signatures; and
+WHEREAS, the General Assembly finds that this act is consistent with the purposes
+articulated in Tennessee Code Annotated, Section 2-1-102; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 2-1-104(a), is amended by adding
+the following new subdivisions:
+( ) "Election-related document" means:
+SB0347
+001876
+- 1 -
+
+(A) A nominating petition or a petition for recall, referendum, or initiative
+filed in accordance with chapter 5, part 1 of this title;
+(B) An application for an absentee ballot requested in accordance with
+chapter 6 of this title and envelopes and documents related to voting absentee
+containing a signature that must be verified for purposes of casting an absentee
+vote; and
+(C) A voter registration application filed in accordance with chapter 2,
+parts 1 or 2 of this title and any document submitted to renew or revise the
+registration record of a voter;
+( ) "Signature," notwithstanding § 1-3-105, for purposes of election-related
+documents:
+(A) Means the full, legal handwritten signature of a registered voter or
+person qualified to register to vote in this state, in legible English alphabetic
+characters unless an exception applies pursuant to 8 U.S.C. § 1423(b)(2) or (3);
+(B) Includes:
+(i) One (1) or more initials of a registered voter with the voter's full
+legal last name in lieu of the voter's full legal name if the voter's
+registration record or voter registration card uses only one (1) or more
+initials and the voter's full legal last name; and
+(ii) If a voter is physically unable to write the voter's name, the
+voter's individual mark, such as an "X," with the voter's full legal name
+written in legible English alphabetic characters by a witness who is a
+registered voter in the same county and who witnessed the voter make
+the voter's mark. The witness shall also write the witness's own name in
+legible English alphabetic characters next to the voter's mark and written
+- 2 - 001876
+
+name. The witness shall verify the identity of the voter using a legal
+document acceptable to register to vote.
+SECTION 2. Tennessee Code Annotated, Section 2-1-107, is amended by deleting the
+existing language and substituting the following:
+(a) A person signing a petition as authorized under this title, whether for
+nomination of a candidate, for a referendum, or for another purpose, must be a qualified
+and registered voter and shall include the person's residential address, handwritten in
+legible English alphabetic characters, as shown on such person's valid voter registration
+card in order for that person's signature to be counted; provided, that, if the address
+shown on the petition:
+(1) Is within the precinct for which the person is signing the petition, but is
+not the address shown on the person's voter registration record, the signature is
+valid and must be counted;
+(2) Is outside of the precinct for which the person is signing the petition,
+regardless of the address shown on the person's voter registration card, the
+signature is invalid and must not be counted; and
+(3) Includes information on a petition that exceeds the information
+contained on the person's voter registration record, the signature must not be
+invalidated for that reason if there is no conflict between such information. If
+such information conflicts, the signature is invalid and must not be counted.
+(b) A registered voter who is eligible to vote in the election in question may sign
+a petition authorized under this title.
+(c) The signature of a voter on a petition signed pursuant to this title must be
+compared by the county election commission to the signature on the voter registration
+record of the signatory. A petition signature must bear sufficient resemblance to the
+- 3 - 001876
+
+signature on the voter's registration record for a lay person to discern that the signatures
+were written by the same person, as determined by the county election commission.
+The county election commission shall not use or require extraneous evidence, such as
+oral testimony or affidavits, in order to verify the validity of the handwritten signatures on
+petitions or other election-related documents.
+SECTION 3. Tennessee Code Annotated, Section 2-2-122, is amended by adding the
+following new subsection:
+( ) Voters, including those who are homeless, must be registered to vote in
+accordance with this title. In order for county and state voter registration records to be
+current and correct, and to make the process of voting and verifying signatures easier for
+election officials and voters, each registered voter is responsible for notifying the voter's
+county election commission and updating the voter's registration when the voter moves,
+whether within the county or to another county, or to another state or territory. The
+required residential address written by a voter or a witness on a petition is sufficient if it
+contains the street number, street name, city, if applicable, and state.
+SECTION 4. Tennessee Code Annotated, Section 2-5-101(b)(2), is amended by
+deleting the first sentence of the subdivision and substituting:
+The signer of a petition must comply with § 2-1-107 in order for that voter's
+signature to be counted.
+SECTION 5. Tennessee Code Annotated, Sections 2-5-101(b)(3) and 2-2-119, are
+amended by deleting the subdivision and section in their entireties.
+SECTION 6. This act takes effect July 1, 2025, the public welfare requiring it.
+- 4 - 001876
+
+[DELETED: WWWWS(]
+[DELETED:  -0(((]
+[DELETED:  -0S(((((]
+[DELETED:  -0S(SS]

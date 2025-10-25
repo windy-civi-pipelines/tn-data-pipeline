@@ -1,0 +1,53 @@
+Title: SENATE BILL 212
+Official Title: SENATE BILL 212
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Gardenhire
+HOUSE BILL 885
+By Todd
+AN ACT to amend Tennessee Code Annotated, Section 8-
+44-110, relative to agendas for meetings of
+governing bodies.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 8-44-110, is amended by deleting the
+language "state governing body or a local government legislative body" wherever it may appear
+and substituting "governing body", and is further amended by deleting the language "may" in
+subsection (d) and substituting "shall", and is further amended by deleting subsection (e).
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0885
+000782
+- 1 -
+[DELETED: S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 212
+By Gardenhire
+HOUSE BILL 885
+By Todd
+AN ACT to amend Tennessee Code Annotated, Section 8-
+44-110, relative to agendas for meetings of
+governing bodies.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 8-44-110, is amended by deleting the
+language "state governing body or a local government legislative body" wherever it may appear
+and substituting "governing body", and is further amended by deleting the language "may" in
+subsection (d) and substituting "shall", and is further amended by deleting subsection (e).
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0885
+000782
+- 1 -
+
+[DELETED: S]

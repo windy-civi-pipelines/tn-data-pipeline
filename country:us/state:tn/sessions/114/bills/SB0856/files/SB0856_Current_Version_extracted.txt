@@ -1,0 +1,77 @@
+Title: HOUSE BILL 854
+Official Title: HOUSE BILL 854
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Lamberth
+SENATE BILL 856
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 24;
+Title 39 and Title 40, relative to criminal procedure.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 40-11-115(b), is amended by adding
+the following as a new subdivision:
+( ) Reliable hearsay evidence, including, but not limited to, computer printouts of
+state and federal criminal records maintained by the Tennessee bureau of investigation
+and the federal bureau of investigation, if the defendant is accorded a fair opportunity to
+rebut any reliable hearsay evidence considered by the magistrate.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 40-11-118(b), is amended by
+redesignating the current language as subdivision (b)(1) and adding the following new
+subdivision (b)(2):
+(2) In determining the amount of bail necessary to reasonably assure the
+appearance of the defendant while at the same time protecting the safety of the public,
+the magistrate may consider reliable hearsay evidence, including, but not limited to,
+computer printouts of state and federal criminal records maintained by the Tennessee
+bureau of investigation and the federal bureau of investigation, if the defendant is
+accorded a fair opportunity to rebut any reliable hearsay evidence considered by the
+magistrate.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0856
+003000
+- 1 -
+[DELETED: S(S(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 854
+By Lamberth
+SENATE BILL 856
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 24;
+Title 39 and Title 40, relative to criminal procedure.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-11-115(b), is amended by adding
+the following as a new subdivision:
+( ) Reliable hearsay evidence, including, but not limited to, computer printouts of
+state and federal criminal records maintained by the Tennessee bureau of investigation
+and the federal bureau of investigation, if the defendant is accorded a fair opportunity to
+rebut any reliable hearsay evidence considered by the magistrate.
+SECTION 2. Tennessee Code Annotated, Section 40-11-118(b), is amended by
+redesignating the current language as subdivision (b)(1) and adding the following new
+subdivision (b)(2):
+(2) In determining the amount of bail necessary to reasonably assure the
+appearance of the defendant while at the same time protecting the safety of the public,
+the magistrate may consider reliable hearsay evidence, including, but not limited to,
+computer printouts of state and federal criminal records maintained by the Tennessee
+bureau of investigation and the federal bureau of investigation, if the defendant is
+accorded a fair opportunity to rebut any reliable hearsay evidence considered by the
+magistrate.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0856
+003000
+- 1 -
+
+[DELETED: S(S(S]

@@ -1,0 +1,73 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 1441
+By Brooks
+AN ACT to amend Tennessee Code Annotated, Title 38;
+Title 39 and Title 40, relative to criminal
+impersonation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 39-16-301, is amended by deleting
+subdivision (d)(2), substituting the following, and redesignating subdivision (d)(3) appropriately:
+(2)
+(A) Except as otherwise provided in this subdivision (d)(2), criminal
+impersonation under subsection (b) is a Class A misdemeanor.
+(B) Criminal impersonation of a law enforcement officer under subsection
+(b) that occurs while the defendant is operating a motor vehicle pursuant to § 55-
+9-201(d), § 55-9-402(g), or § 55-9-414(f) is a Class A misdemeanor, and,
+notwithstanding § 40-35-111, the maximum fine for the offense is five thousand
+dollars ($5,000).
+(C) Criminal impersonation of a law enforcement officer under subsection
+(b) that occurs while the defendant is committing or attempting to commit a crime
+of violence is a Class E felony. As used in this subdivision (d)(2)(C), "crime of
+violence" means the same as defined in § 39-17-1301.
+(3) Criminal impersonation under subsection (c) is a Class A misdemeanor.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+HB1441
+008747
+- 1 -
+[DELETED: S(((((S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 1441
+By Brooks
+AN ACT to amend Tennessee Code Annotated, Title 38;
+Title 39 and Title 40, relative to criminal
+impersonation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 39-16-301, is amended by deleting
+subdivision (d)(2), substituting the following, and redesignating subdivision (d)(3) appropriately:
+(2)
+(A) Except as otherwise provided in this subdivision (d)(2), criminal
+impersonation under subsection (b) is a Class A misdemeanor.
+(B) Criminal impersonation of a law enforcement officer under subsection
+(b) that occurs while the defendant is operating a motor vehicle pursuant to § 55-
+9-201(d), § 55-9-402(g), or § 55-9-414(f) is a Class A misdemeanor, and,
+notwithstanding § 40-35-111, the maximum fine for the offense is five thousand
+dollars ($5,000).
+(C) Criminal impersonation of a law enforcement officer under subsection
+(b) that occurs while the defendant is committing or attempting to commit a crime
+of violence is a Class E felony. As used in this subdivision (d)(2)(C), "crime of
+violence" means the same as defined in § 39-17-1301.
+(3) Criminal impersonation under subsection (c) is a Class A misdemeanor.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+HB1441
+008747
+- 1 -
+
+[DELETED: S(((((S]

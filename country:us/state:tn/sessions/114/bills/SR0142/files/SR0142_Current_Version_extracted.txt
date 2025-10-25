@@ -1,0 +1,67 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE RESOLUTION 142
+By Bailey
+A RESOLUTION to honor and congratulate Alene Gracey on the
+celebration of her 100th birthday.
+WHEREAS, it is fitting that the members of this legislative body pay tribute to those
+citizens who are celebrating special occasions in their estimable lives; and
+WHEREAS, Alene Gracey recently celebrated her 100th birthday, a milestone
+commemorated as yet another precious souvenir of life's rich pageant; and
+WHEREAS, a highly respected resident of Sparta, Ms. Gracey has lived an amazing life
+and has experienced firsthand the breadth and span of American history; and
+WHEREAS, as Alene Gracey gracefully enters her 100th year, she is a positive force for
+good, admired for her wisdom, spirit of generosity, integrity, etiquette, and enthusiasm for life;
+and
+WHEREAS, we wish to grasp this golden opportunity to specially recognize one of
+Tennessee's most outstanding citizens on this very special occasion; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby honor and
+congratulate Alene Gracey on the celebration of her 100th birthday and extend to her our best
+wishes for many happy returns of the day.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+SR0142
+006998
+- 1 -
+[DELETED: 0 WW0 WW0 WB0 B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE RESOLUTION 142
+By Bailey
+A RESOLUTION to honor and congratulate Alene Gracey on the
+celebration of her 100th birthday.
+WHEREAS, it is fitting that the members of this legislative body pay tribute to those
+citizens who are celebrating special occasions in their estimable lives; and
+WHEREAS, Alene Gracey recently celebrated her 100th birthday, a milestone
+commemorated as yet another precious souvenir of life's rich pageant; and
+WHEREAS, a highly respected resident of Sparta, Ms. Gracey has lived an amazing life
+and has experienced firsthand the breadth and span of American history; and
+WHEREAS, as Alene Gracey gracefully enters her 100th year, she is a positive force for
+good, admired for her wisdom, spirit of generosity, integrity, etiquette, and enthusiasm for life;
+and
+WHEREAS, we wish to grasp this golden opportunity to specially recognize one of
+Tennessee's most outstanding citizens on this very special occasion; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby honor and
+congratulate Alene Gracey on the celebration of her 100th birthday and extend to her our best
+wishes for many happy returns of the day.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+SR0142
+006998
+- 1 -
+
+[DELETED: 0 WW0 WW0 WB0 B]

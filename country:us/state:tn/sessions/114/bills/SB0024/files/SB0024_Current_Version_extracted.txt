@@ -1,0 +1,108 @@
+Title: HOUSE BILL 963
+Official Title: HOUSE BILL 963
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Hawk
+SENATE BILL 24
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 9;
+Title 54; Title 55 and Title 67, relative to the
+allocation of sales tax revenue for the highway
+fund.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-6-103, is amended by adding the
+following as a new subsection:
+(v)
+(1) As used in this subsection (v):
+(A) "Base tax revenues" means the revenues generated from the
+collection of state sales tax from the sale, use, consumption, distribution,
+or storage for use or consumption of new or used motor vehicles and new
+or used tires as of the end of the fiscal year of this state immediately prior
+to the year in which the highway fund is entitled to receive an allocation of
+tax revenue pursuant to this subsection (v); and
+(B) "Motor vehicle" and "tire" have the same meanings as defined
+in § 67-4-1602.
+(2) Notwithstanding the allocations provided for in subsection (a), on July
+1, 2025, and on July 1 of each subsequent year, an amount of state sales tax
+received under this chapter from the sale, use, consumption, distribution, or
+storage for use or consumption of new or used motor vehicles and new or used
+tires in excess of base tax revenues must be allocated to and deposited in the
+SB0024
+000013
+- 1 -
+highway fund in an amount equal to the incremental increase in such state sales
+tax in excess of base tax revenues.
+(3) Notwithstanding this subsection (v) to the contrary, no portion of the
+revenue derived from the increase in the rate of sales tax allocated to
+educational purposes, pursuant to chapter 529, § 9 of the Public Acts of 1992,
+and no portion of the revenue derived from the increase in the rate of sales tax
+from six percent (6%) to seven percent (7%), pursuant to chapter 856, § 4 of the
+Public Acts of 2002, must be apportioned and distributed pursuant to this
+subsection (v). The revenue must be allocated as provided in chapter 529, § 9 of
+the Public Acts of 1992, and chapter 856, § 4 of the Public Acts of 2002,
+respectively.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 000013
+[DELETED: S]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 963
+By Hawk
+SENATE BILL 24
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 9;
+Title 54; Title 55 and Title 67, relative to the
+allocation of sales tax revenue for the highway
+fund.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-6-103, is amended by adding the
+following as a new subsection:
+(v)
+(1) As used in this subsection (v):
+(A) "Base tax revenues" means the revenues generated from the
+collection of state sales tax from the sale, use, consumption, distribution,
+or storage for use or consumption of new or used motor vehicles and new
+or used tires as of the end of the fiscal year of this state immediately prior
+to the year in which the highway fund is entitled to receive an allocation of
+tax revenue pursuant to this subsection (v); and
+(B) "Motor vehicle" and "tire" have the same meanings as defined
+in § 67-4-1602.
+(2) Notwithstanding the allocations provided for in subsection (a), on July
+1, 2025, and on July 1 of each subsequent year, an amount of state sales tax
+received under this chapter from the sale, use, consumption, distribution, or
+storage for use or consumption of new or used motor vehicles and new or used
+tires in excess of base tax revenues must be allocated to and deposited in the
+SB0024
+000013
+- 1 -
+
+highway fund in an amount equal to the incremental increase in such state sales
+tax in excess of base tax revenues.
+(3) Notwithstanding this subsection (v) to the contrary, no portion of the
+revenue derived from the increase in the rate of sales tax allocated to
+educational purposes, pursuant to chapter 529, § 9 of the Public Acts of 1992,
+and no portion of the revenue derived from the increase in the rate of sales tax
+from six percent (6%) to seven percent (7%), pursuant to chapter 856, § 4 of the
+Public Acts of 2002, must be apportioned and distributed pursuant to this
+subsection (v). The revenue must be allocated as provided in chapter 529, § 9 of
+the Public Acts of 1992, and chapter 856, § 4 of the Public Acts of 2002,
+respectively.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 000013
+
+[DELETED: S]
+[DELETED:  -0]

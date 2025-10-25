@@ -1,0 +1,393 @@
+Title: AMEND S e n ate Bill No. 318* House Bill No. 395
+Official Title: AMEND S e n ate Bill No. 318* House Bill No. 395
+Number of Sections: 5
+Source: versions - Amendment SA0075
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+Senate Health and Welfare 1
+Amendment No. 2 to SB0318
+Crowe
+Signature of Sponsor
+by deleting all language after the caption and substituting:
+WHEREAS, it is the intent of the General Assembly to ensure that a company
+sanctioned by an adversarial military power does not gain access to genetic information from
+the United States; to combat the heinous practice of forcibly harvesting organs from living
+persons for transplant; to bring awareness concerning the People's Republic of China's state-
+sanctioned practice of forced organ harvesting of prisoners of conscience and other vulnerable
+persons; and to prevent residents of this State from unknowingly involving themselves in forced
+organ harvesting; and
+WHEREAS, it is the intent of this State to recognize and fully oppose the heinous
+practice of forced organ harvesting conducted by the People's Republic of China and the
+Chinese Communist Party against prisoners, political dissidents, and other individuals who are
+held and abused in violation of their basic human rights within the People's Republic of China;
+and
+WHEREAS, it is intent of this State to oppose the collection and analysis of genetic
+information for use by the military and surveillance state of the People's Republic of China, and
+SA0075
+004369
+- 1 -
+to support sanctions imposed by the United States Department of Commerce and Department
+of Defense upon companies engaged in the collection and analysis of genetic information on
+behalf of the military and surveillance state of the People's Republic of China; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 30, is amended by adding
+the following as a new part:
+68-30-201.
+This part is known and may be cited as the "Tennessee Genomic Security and
+End Organ Harvesting Act."
+68-30-202.
+As used in this part:
+(1) "Company" means a for-profit sole proprietorship, organization,
+association, corporation, partnership, joint venture, limited partnership, limited
+liability partnership, or limited liability company, including a wholly owned
+subsidiary, majority-owned subsidiary, parent company, or affiliate of such
+entities or business associations that exists to make a profit; or a nonprofit
+organization;
+(2) "Domicile" means the country in which:
+(A) A company is registered and the company's headquarters is
+located;
+(B) A majority of a company's affairs are conducted; or
+(C) The majority of a company's ownership shares are held;
+(3) "Forced organ harvesting" means the removal of one (1) or more
+organs from a living person or a person killed for the purpose of removal of one
+(1) or more organs by means of coercion, abduction, deception, fraud, or abuse
+of power or a position of vulnerability;
+(4) "Foreign adversary" means a nation specified in 15 CFR 791.4;
+- 2 - 004369
+(5) "Genetic sequencer" means a device or platform used to conduct
+genetic sequencing, resequencing, isolation, or other genetic research;
+(6) "Genetic sequencing" means a method to determine the identity and
+order of nucleotide bases in the human genome;
+(7) "Genomic research facility" means a facility that conducts research
+on, with, or relating to genetic sequencing or the human genome;
+(8) "Health benefit plan" means health insurance coverage as defined in
+
+Section 3:
+§ 56-7-109;
+(9) "Health insurer" means a health insurance entity as defined in § 56-7-
+109;
+(10) "Human genome" means deoxyribonucleic acid (DNA) or ribonucleic
+acid (RNA) found in human cells;
+(11) "Medical facility" means a facility for the delivery of health services
+that:
+(A) Receives state funds, including interagency pass-through
+appropriations from the federal government;
+(B) Is licensed or registered with this state to provide healthcare
+services in this state; or
+(C) Conducts research or testing on, with, or relating to genetic
+sequencing or the human genome;
+(12) "Operational and research software" means computer programs
+used for the operation, control, analysis, or other necessary functions of genetic
+sequencing or genetic sequencers; and
+(13) "Software" means a program or routine that is used or intended for
+use to cause one (1) or more computers or pieces of computer-related peripheral
+equipment, or any combination of such equipment, to perform a task, as it relates
+to genetic sequencing or genetic sequencers.
+- 3 - 004369
+68-30-203.
+(a) This part applies to a health benefit plan that is offered, issued, delivered,
+amended, or renewed by a health insurer to take effect on or after January 1, 2026.
+(b) A health insurer shall not knowingly provide coverage for a human organ
+transplant if:
+(1) The transplant operation is performed in the People's Republic of
+China; or
+(2) The human organ to be transplanted was procured by sale or
+donation originating in the People's Republic of China.
+(c) The commissioner of health may designate additional countries with
+governments that fund, sponsor, or otherwise facilitate forced organ harvesting and shall
+provide written notice to the governor when the commissioner of health designates an
+additional country. The commissioner shall maintain a list of designated countries on the
+department's public website.
+68-30-204.
+(a) A medical facility or research facility shall not use genetic sequencers, or any
+operational or research software used for genetic sequencing, produced in or by a
+foreign adversary, a state-owned enterprise of a foreign adversary, a company domiciled
+within a foreign adversary, or a subsidiary or affiliate that is owned or controlled by a
+company domiciled within a foreign adversary.
+(b) All genetic sequencers and operational and research software used for
+genetic sequencers or genetic sequencing devices prohibited under subsection (a),
+which are not permanently disabled, must be removed and replaced within one hundred
+eighty (180) days after the effective date of this act with genetic sequencers and
+operational and research software used for genetic sequencers or genetic sequencing in
+compliance with this section.
+- 4 - 004369
+(c) A medical facility or research facility is not required to investigate any
+individual component of genetic sequencing equipment or software to be in compliance
+with this section.
+68-30-205.
+(a) A medical facility or research facility shall not store genetic sequencing data
+within a foreign adversary. The medical facility or research facility shall not allow remote
+access to genetic sequencing data storage within its direction or control, other than open
+data, to a foreign adversary, unless approved in writing by the commissioner of health.
+(b) Medical facilities, research institutions, and other companies and entities
+storing genetic sequencing data, including through contracts with third-party data
+storage companies, must ensure the security of genetic sequencing data using
+reasonable encryption methods, restrictions on access, and other cybersecurity best
+practices.
+68-30-206.
+(a)
+(1) On or before July 1 each year, under the penalties of perjury, each
+medical facility and research institution covered under this part shall certify to the
+commissioner of health that the facility or institution is compliant with this part.
+(2) On or before July 1 each year, under the penalties of perjury, each
+licensed health facility covered under this part shall certify to the health facilities
+commission that the licensed health facility is compliant with this part.
+(b)
+(1)
+(A) Any medical facility or research institution that violates § 68-
+30-204(a) is subject to a fine of ten thousand dollars ($10,000) for each
+violation, to be imposed by the commissioner of health.
+- 5 - 004369
+(B) Any licensed health facility that violates § 68-30-204(a) is
+subject to a fine of ten thousand dollars ($10,000) for each violation, to be
+imposed by the health facilities commission.
+(2) For the purposes of subdivision (b)(1), a violation occurs each
+instance an individual's genome having undergone genetic sequencing or
+analysis using prohibited genetic sequencers or operational and research
+software is used for genetic sequencers or genetic sequencing.
+(c) A health benefit plan that knowingly provides coverage for an organ
+transplant prohibited by this part is subject to a fine of one hundred thousand dollars
+($100,000) for each violation, to be imposed by the commissioner of commerce and
+insurance.
+(d) An entity that knowingly stores genetic sequencing data outside of the United
+States as prohibited in § 68-30-205 is subject to a fine of ten thousand dollars ($10,000)
+for each violation, to be imposed by the commissioner of health.
+68-30-207.
+(a) If a person is a patient or research subject of an entity that is found guilty of a
+violation of § 68-30-204, and that person's genetic information was used in the violation,
+then the person is entitled to recover statutory damages of not less than five thousand
+dollars ($5,000) for each unique use of the person's genomic information.
+(b) If a person is a patient or research subject of an entity that is found guilty of a
+violation of § 68-30-205, and that person's genetic information was used in the violation,
+then the person is entitled to recover statutory damages of not less than five thousand
+dollars ($5,000) for each unique use of the person's genomic information.
+68-11-208.
+(a) The health facilities commission is authorized to investigate allegations of
+violations of this part.
+- 6 - 004369
+(b) Any person may notify the health facilities commission of a violation or
+potential violation of this part.
+(c) The health facilities commission shall take no further action on a complaint if
+the health facilities commission must obtain authorization to enter a facility from the
+Center for Medicare and Medicaid Services (CMS) and CMS denies the authorization to
+enter.
+(d) If an employee of an entity accused of a violation notifies the health facilities
+commission of a violation or a potential violation, then the employee is afforded all
+protections as described in § 50-1-304.
+
+Section 4:
+SECTION 2. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+
+Section 5:
+SECTION 3. This act takes effect January 1, 2026, the public welfare requiring it.
+- 7 - 004369
+[DELETED:  a HWWW]
+[DELETED:  -0S6T6A((((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -06(((((6((]
+[DELETED:  -0(6((6((((((]
+[DELETED:  -0((((6(((]
+[DELETED:  -0(((SS]
+
+
+================================================================================
+
+Raw Text:
+Senate Health and Welfare 1
+Amendment No. 2 to SB0318
+Crowe
+Signature of Sponsor
+AMEND S e n ate Bill No. 318* House Bill No. 395
+by deleting all language after the caption and substituting:
+WHEREAS, it is the intent of the General Assembly to ensure that a company
+sanctioned by an adversarial military power does not gain access to genetic information from
+the United States; to combat the heinous practice of forcibly harvesting organs from living
+persons for transplant; to bring awareness concerning the People's Republic of China's state-
+sanctioned practice of forced organ harvesting of prisoners of conscience and other vulnerable
+persons; and to prevent residents of this State from unknowingly involving themselves in forced
+organ harvesting; and
+WHEREAS, it is the intent of this State to recognize and fully oppose the heinous
+practice of forced organ harvesting conducted by the People's Republic of China and the
+Chinese Communist Party against prisoners, political dissidents, and other individuals who are
+held and abused in violation of their basic human rights within the People's Republic of China;
+and
+WHEREAS, it is intent of this State to oppose the collection and analysis of genetic
+information for use by the military and surveillance state of the People's Republic of China, and
+SA0075
+004369
+- 1 -
+
+to support sanctions imposed by the United States Department of Commerce and Department
+of Defense upon companies engaged in the collection and analysis of genetic information on
+behalf of the military and surveillance state of the People's Republic of China; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 30, is amended by adding
+the following as a new part:
+68-30-201.
+This part is known and may be cited as the "Tennessee Genomic Security and
+End Organ Harvesting Act."
+68-30-202.
+As used in this part:
+(1) "Company" means a for-profit sole proprietorship, organization,
+association, corporation, partnership, joint venture, limited partnership, limited
+liability partnership, or limited liability company, including a wholly owned
+subsidiary, majority-owned subsidiary, parent company, or affiliate of such
+entities or business associations that exists to make a profit; or a nonprofit
+organization;
+(2) "Domicile" means the country in which:
+(A) A company is registered and the company's headquarters is
+located;
+(B) A majority of a company's affairs are conducted; or
+(C) The majority of a company's ownership shares are held;
+(3) "Forced organ harvesting" means the removal of one (1) or more
+organs from a living person or a person killed for the purpose of removal of one
+(1) or more organs by means of coercion, abduction, deception, fraud, or abuse
+of power or a position of vulnerability;
+(4) "Foreign adversary" means a nation specified in 15 CFR 791.4;
+- 2 - 004369
+
+(5) "Genetic sequencer" means a device or platform used to conduct
+genetic sequencing, resequencing, isolation, or other genetic research;
+(6) "Genetic sequencing" means a method to determine the identity and
+order of nucleotide bases in the human genome;
+(7) "Genomic research facility" means a facility that conducts research
+on, with, or relating to genetic sequencing or the human genome;
+(8) "Health benefit plan" means health insurance coverage as defined in
+§ 56-7-109;
+(9) "Health insurer" means a health insurance entity as defined in § 56-7-
+109;
+(10) "Human genome" means deoxyribonucleic acid (DNA) or ribonucleic
+acid (RNA) found in human cells;
+(11) "Medical facility" means a facility for the delivery of health services
+that:
+(A) Receives state funds, including interagency pass-through
+appropriations from the federal government;
+(B) Is licensed or registered with this state to provide healthcare
+services in this state; or
+(C) Conducts research or testing on, with, or relating to genetic
+sequencing or the human genome;
+(12) "Operational and research software" means computer programs
+used for the operation, control, analysis, or other necessary functions of genetic
+sequencing or genetic sequencers; and
+(13) "Software" means a program or routine that is used or intended for
+use to cause one (1) or more computers or pieces of computer-related peripheral
+equipment, or any combination of such equipment, to perform a task, as it relates
+to genetic sequencing or genetic sequencers.
+- 3 - 004369
+
+68-30-203.
+(a) This part applies to a health benefit plan that is offered, issued, delivered,
+amended, or renewed by a health insurer to take effect on or after January 1, 2026.
+(b) A health insurer shall not knowingly provide coverage for a human organ
+transplant if:
+(1) The transplant operation is performed in the People's Republic of
+China; or
+(2) The human organ to be transplanted was procured by sale or
+donation originating in the People's Republic of China.
+(c) The commissioner of health may designate additional countries with
+governments that fund, sponsor, or otherwise facilitate forced organ harvesting and shall
+provide written notice to the governor when the commissioner of health designates an
+additional country. The commissioner shall maintain a list of designated countries on the
+department's public website.
+68-30-204.
+(a) A medical facility or research facility shall not use genetic sequencers, or any
+operational or research software used for genetic sequencing, produced in or by a
+foreign adversary, a state-owned enterprise of a foreign adversary, a company domiciled
+within a foreign adversary, or a subsidiary or affiliate that is owned or controlled by a
+company domiciled within a foreign adversary.
+(b) All genetic sequencers and operational and research software used for
+genetic sequencers or genetic sequencing devices prohibited under subsection (a),
+which are not permanently disabled, must be removed and replaced within one hundred
+eighty (180) days after the effective date of this act with genetic sequencers and
+operational and research software used for genetic sequencers or genetic sequencing in
+compliance with this section.
+- 4 - 004369
+
+(c) A medical facility or research facility is not required to investigate any
+individual component of genetic sequencing equipment or software to be in compliance
+with this section.
+68-30-205.
+(a) A medical facility or research facility shall not store genetic sequencing data
+within a foreign adversary. The medical facility or research facility shall not allow remote
+access to genetic sequencing data storage within its direction or control, other than open
+data, to a foreign adversary, unless approved in writing by the commissioner of health.
+(b) Medical facilities, research institutions, and other companies and entities
+storing genetic sequencing data, including through contracts with third-party data
+storage companies, must ensure the security of genetic sequencing data using
+reasonable encryption methods, restrictions on access, and other cybersecurity best
+practices.
+68-30-206.
+(a)
+(1) On or before July 1 each year, under the penalties of perjury, each
+medical facility and research institution covered under this part shall certify to the
+commissioner of health that the facility or institution is compliant with this part.
+(2) On or before July 1 each year, under the penalties of perjury, each
+licensed health facility covered under this part shall certify to the health facilities
+commission that the licensed health facility is compliant with this part.
+(b)
+(1)
+(A) Any medical facility or research institution that violates § 68-
+30-204(a) is subject to a fine of ten thousand dollars ($10,000) for each
+violation, to be imposed by the commissioner of health.
+- 5 - 004369
+
+(B) Any licensed health facility that violates § 68-30-204(a) is
+subject to a fine of ten thousand dollars ($10,000) for each violation, to be
+imposed by the health facilities commission.
+(2) For the purposes of subdivision (b)(1), a violation occurs each
+instance an individual's genome having undergone genetic sequencing or
+analysis using prohibited genetic sequencers or operational and research
+software is used for genetic sequencers or genetic sequencing.
+(c) A health benefit plan that knowingly provides coverage for an organ
+transplant prohibited by this part is subject to a fine of one hundred thousand dollars
+($100,000) for each violation, to be imposed by the commissioner of commerce and
+insurance.
+(d) An entity that knowingly stores genetic sequencing data outside of the United
+States as prohibited in § 68-30-205 is subject to a fine of ten thousand dollars ($10,000)
+for each violation, to be imposed by the commissioner of health.
+68-30-207.
+(a) If a person is a patient or research subject of an entity that is found guilty of a
+violation of § 68-30-204, and that person's genetic information was used in the violation,
+then the person is entitled to recover statutory damages of not less than five thousand
+dollars ($5,000) for each unique use of the person's genomic information.
+(b) If a person is a patient or research subject of an entity that is found guilty of a
+violation of § 68-30-205, and that person's genetic information was used in the violation,
+then the person is entitled to recover statutory damages of not less than five thousand
+dollars ($5,000) for each unique use of the person's genomic information.
+68-11-208.
+(a) The health facilities commission is authorized to investigate allegations of
+violations of this part.
+- 6 - 004369
+
+(b) Any person may notify the health facilities commission of a violation or
+potential violation of this part.
+(c) The health facilities commission shall take no further action on a complaint if
+the health facilities commission must obtain authorization to enter a facility from the
+Center for Medicare and Medicaid Services (CMS) and CMS denies the authorization to
+enter.
+(d) If an employee of an entity accused of a violation notifies the health facilities
+commission of a violation or a potential violation, then the employee is afforded all
+protections as described in § 50-1-304.
+SECTION 2. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 3. This act takes effect January 1, 2026, the public welfare requiring it.
+- 7 - 004369
+
+[DELETED:  a HWWW]
+[DELETED:  -0S6T6A((((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -06(((((6((]
+[DELETED:  -0(6((6((((((]
+[DELETED:  -0((((6(((]
+[DELETED:  -0(((SS]

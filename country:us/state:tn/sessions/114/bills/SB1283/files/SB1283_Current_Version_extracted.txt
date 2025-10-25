@@ -1,0 +1,98 @@
+Title: HOUSE BILL 111
+Official Title: HOUSE BILL 111
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Lamberth
+SENATE BILL 1283
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Section
+68-5-602, relative to maternal health screening.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 68-5-602(a), is amended by deleting
+the subsection and substituting:
+(a) Every physician, surgeon, or other person permitted by law to attend a
+pregnant woman during gestation shall, in the case of each woman so attended, take or
+cause to be taken a sample of the blood of the woman at the time of first examination
+and visit or within ten (10) days after the first examination. If the first visit is at the time
+of delivery, or after delivery, then the standard serological test required by this
+subsection (a) must be performed at that time. The blood sample must be sent to a
+laboratory approved by the department for testing for syphilis infection, rubella immunity,
+hepatitis B surface antigen (HBsAg), and hepatitis C antibody (anti-HCV) with automatic
+reflex to HCV RNA if anti-HCV is reactive. In the same manner, a sample of blood must
+be taken and tested between the twenty-eighth and thirty-second week of gestation for
+syphilis for all pregnant women. In the same manner, a sample of blood must be taken
+and tested for syphilis for all pregnant women at the time of delivery. Additional testing
+for rubella immunity is not required in subsequent pregnancies once a positive result is
+verified or a documented history of vaccination against rubella is available. All positive
+tests for syphilis, hepatitis B, and hepatitis C must be reported to the local health
+department in accordance with this chapter, and regulations governing the control of
+communicable diseases in this state.
+SB1283
+000191
+- 1 -
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 68-5-602(b), is amended by deleting
+the subsection and substituting:
+(b) Every person attending a pregnant woman who is not permitted by law to
+take blood samples shall cause a sample of blood to be taken and tested by a health
+provider permitted by law to take the samples as required in subsection (a).
+
+Section 4:
+SECTION 3. This act takes effect on July 1, 2025, the public welfare requiring it.
+- 2 - 000191
+[DELETED: S(]
+[DELETED:  -0S(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 111
+By Lamberth
+SENATE BILL 1283
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Section
+68-5-602, relative to maternal health screening.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 68-5-602(a), is amended by deleting
+the subsection and substituting:
+(a) Every physician, surgeon, or other person permitted by law to attend a
+pregnant woman during gestation shall, in the case of each woman so attended, take or
+cause to be taken a sample of the blood of the woman at the time of first examination
+and visit or within ten (10) days after the first examination. If the first visit is at the time
+of delivery, or after delivery, then the standard serological test required by this
+subsection (a) must be performed at that time. The blood sample must be sent to a
+laboratory approved by the department for testing for syphilis infection, rubella immunity,
+hepatitis B surface antigen (HBsAg), and hepatitis C antibody (anti-HCV) with automatic
+reflex to HCV RNA if anti-HCV is reactive. In the same manner, a sample of blood must
+be taken and tested between the twenty-eighth and thirty-second week of gestation for
+syphilis for all pregnant women. In the same manner, a sample of blood must be taken
+and tested for syphilis for all pregnant women at the time of delivery. Additional testing
+for rubella immunity is not required in subsequent pregnancies once a positive result is
+verified or a documented history of vaccination against rubella is available. All positive
+tests for syphilis, hepatitis B, and hepatitis C must be reported to the local health
+department in accordance with this chapter, and regulations governing the control of
+communicable diseases in this state.
+SB1283
+000191
+- 1 -
+
+SECTION 2. Tennessee Code Annotated, Section 68-5-602(b), is amended by deleting
+the subsection and substituting:
+(b) Every person attending a pregnant woman who is not permitted by law to
+take blood samples shall cause a sample of blood to be taken and tested by a health
+provider permitted by law to take the samples as required in subsection (a).
+SECTION 3. This act takes effect on July 1, 2025, the public welfare requiring it.
+- 2 - 000191
+
+[DELETED: S(]
+[DELETED:  -0S(S]

@@ -1,0 +1,132 @@
+Title: AMEND S e n ate Bill No. 332 House Bill No. 203*
+Official Title: AMEND S e n ate Bill No. 332 House Bill No. 203*
+Number of Sections: 3
+Source: versions - Amendment HA0181
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House Health 1
+Amendment No. 1 to HB0203
+Terry
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 63, Chapter 7, Part 1, is amended by
+adding the following as a new section:
+63-7-131.
+(a) The board shall, no later than ninety (90) days after the effective date of this
+act, develop a survey to collect the following information from nurse practitioners who
+have been issued a certificate of fitness from the board:
+(1) The specialty in which the nurse practitioner practices;
+(2) The specialty practiced by each of the nurse practitioner's
+collaborating physicians;
+(3) The physical address of the nurse practitioner's primary practice
+location;
+(4) The physical address of the primary practice location of each
+collaborating physician; and
+(5) How many days per week each collaborating physician is on-site with
+the nurse practitioner at the same practice site.
+(b) The board shall send the survey developed pursuant to subsection (a)
+annually to each nurse practitioner who has been issued a certificate of fitness by the
+board who has opted to receive email communications. The board may send the survey
+by electronic means.
+HA0181
+006365
+- 1 -
+(c) On or before December 31 of each year, the board shall submit a report to
+the chief clerk of each house of the general assembly containing aggregated, de-
+identified data on the following:
+(1) Statistics on the number and percentage of nurse practitioners who
+responded to the survey;
+(2) The percentage of nurse practitioners who reported having a
+collaborating physician in the same specialty;
+(3) The percentage of collaborating physicians who are on-site with
+nurse practitioners full time, and for those not on-site full time, the average
+number of days per week the collaborating physician is on-site; and
+(4) Such other statistics that the board may deem to be useful in
+informing the general assembly on the collaborating relationship between
+physicians and nurse practitioners who practice a specialty.
+(d) The board shall include in the report required by subsection (c) any data
+collected on or before December 1 of each year.
+(e) The board may publish and deliver the report required by subsection (c) by
+electronic means.
+(f) As used in this section, "specialty" means:
+(1) As the term relates to a nurse practitioner, an area of the study of
+nursing completed by a nurse practitioner that leads to a national specialty
+certification by an organization recognized by the board of nursing; and
+(2) As the term relates to a physician, an area of the study of medicine
+completed by a physician that leads to board certification by a board approved by
+the American Board of Medical Specialties.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 006365
+[DELETED:  a HS6(((((((]
+[DELETED:  -0((((((((((S]
+
+
+================================================================================
+
+Raw Text:
+House Health 1
+Amendment No. 1 to HB0203
+Terry
+Signature of Sponsor
+AMEND S e n ate Bill No. 332 House Bill No. 203*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 63, Chapter 7, Part 1, is amended by
+adding the following as a new section:
+63-7-131.
+(a) The board shall, no later than ninety (90) days after the effective date of this
+act, develop a survey to collect the following information from nurse practitioners who
+have been issued a certificate of fitness from the board:
+(1) The specialty in which the nurse practitioner practices;
+(2) The specialty practiced by each of the nurse practitioner's
+collaborating physicians;
+(3) The physical address of the nurse practitioner's primary practice
+location;
+(4) The physical address of the primary practice location of each
+collaborating physician; and
+(5) How many days per week each collaborating physician is on-site with
+the nurse practitioner at the same practice site.
+(b) The board shall send the survey developed pursuant to subsection (a)
+annually to each nurse practitioner who has been issued a certificate of fitness by the
+board who has opted to receive email communications. The board may send the survey
+by electronic means.
+HA0181
+006365
+- 1 -
+
+(c) On or before December 31 of each year, the board shall submit a report to
+the chief clerk of each house of the general assembly containing aggregated, de-
+identified data on the following:
+(1) Statistics on the number and percentage of nurse practitioners who
+responded to the survey;
+(2) The percentage of nurse practitioners who reported having a
+collaborating physician in the same specialty;
+(3) The percentage of collaborating physicians who are on-site with
+nurse practitioners full time, and for those not on-site full time, the average
+number of days per week the collaborating physician is on-site; and
+(4) Such other statistics that the board may deem to be useful in
+informing the general assembly on the collaborating relationship between
+physicians and nurse practitioners who practice a specialty.
+(d) The board shall include in the report required by subsection (c) any data
+collected on or before December 1 of each year.
+(e) The board may publish and deliver the report required by subsection (c) by
+electronic means.
+(f) As used in this section, "specialty" means:
+(1) As the term relates to a nurse practitioner, an area of the study of
+nursing completed by a nurse practitioner that leads to a national specialty
+certification by an organization recognized by the board of nursing; and
+(2) As the term relates to a physician, an area of the study of medicine
+completed by a physician that leads to board certification by a board approved by
+the American Board of Medical Specialties.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 006365
+
+[DELETED:  a HS6(((((((]
+[DELETED:  -0((((((((((S]

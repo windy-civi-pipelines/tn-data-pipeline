@@ -1,0 +1,77 @@
+Title: SENATE BILL 310
+Official Title: SENATE BILL 310
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Massey
+HOUSE BILL 1168
+By Vital
+AN ACT to amend Tennessee Code Annotated, Title 55
+and Title 65, relative to autonomous vehicles.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 55-30-103, is amended by deleting
+the language "An ADS-operated vehicle may drive or operate on streets and highways in this
+state with the ADS engaged without a human driver physically present" and substituting instead
+the language "Except as provided in subsection (b), an ADS-operated vehicle may drive or
+operate on streets and highways in this state with the ADS engaged without a human driver
+physically present", and by designating the existing language as subsection (a) and adding the
+following new subsection:
+(b) An ADS-operated vehicle used to transport property for hire or compensation
+in interstate commerce or to transport passengers for hire or compensation must not
+drive or operate on streets and highways in this state with the ADS engaged unless:
+(1) A human driver is in the driver's seat who:
+(A) Is monitoring performance of the vehicle at all times;
+(B) Can intervene to exercise physical control of the vehicle, if
+necessary; and
+(C) Holds a valid driver license for the type or class of vehicle
+being driven; and
+(2) The vehicle meets the conditions of subsection (a).
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB1168
+001698
+- 1 -
+[DELETED: S(]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 310
+By Massey
+HOUSE BILL 1168
+By Vital
+AN ACT to amend Tennessee Code Annotated, Title 55
+and Title 65, relative to autonomous vehicles.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 55-30-103, is amended by deleting
+the language "An ADS-operated vehicle may drive or operate on streets and highways in this
+state with the ADS engaged without a human driver physically present" and substituting instead
+the language "Except as provided in subsection (b), an ADS-operated vehicle may drive or
+operate on streets and highways in this state with the ADS engaged without a human driver
+physically present", and by designating the existing language as subsection (a) and adding the
+following new subsection:
+(b) An ADS-operated vehicle used to transport property for hire or compensation
+in interstate commerce or to transport passengers for hire or compensation must not
+drive or operate on streets and highways in this state with the ADS engaged unless:
+(1) A human driver is in the driver's seat who:
+(A) Is monitoring performance of the vehicle at all times;
+(B) Can intervene to exercise physical control of the vehicle, if
+necessary; and
+(C) Holds a valid driver license for the type or class of vehicle
+being driven; and
+(2) The vehicle meets the conditions of subsection (a).
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB1168
+001698
+- 1 -
+
+[DELETED: S(]

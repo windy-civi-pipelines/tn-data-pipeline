@@ -1,0 +1,422 @@
+Title: SENATE BILL 1378
+Official Title: SENATE BILL 1378
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+By Watson
+HOUSE BILL 1238
+By Haston
+AN ACT to amend Tennessee Code Annotated, Title 4 and
+Title 49, relative to the division of early child care
+and education in the department of education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 1, Part 2, is amended by
+adding the following as a new section:
+(a) As used in this section, "department" means the department of education.
+(b)
+(1) There is created in the department a division to be known as the
+division of early child care and education. The division must be created no later
+than December 31, 2026.
+(2) The commissioner shall appoint the director of the division. The
+director of the division reports directly to the commissioner.
+(3) The division has administrative responsibility for:
+(A) All child care and early educational services as defined in part
+11 of this chapter; chapter 6, of this title; and title 71, chapter 3, part 5 that
+are funded through state or federal monies, including, but not limited to:
+(i) The Child Care and Development Block Grant Act (42
+U.S.C. § 9858 et seq.) and Child Care and Development Fund (45
+CFR Part 98);
+(ii) The voluntary pre-kindergarten program;
+(iii) The Individuals with Disabilities Education Act (20
+U.S.C. § 1400 et seq.) for children before kindergarten;
+HB1238
+002175
+- 1 -
+(iv) Head Start programs in this state; and
+(v) Programs that are funded through the preschool
+development grant (§ 9212(c)(1) of the Every Student Succeeds
+Act, Pub. L. No. 114-95); and
+(B) A unified early child care and education system that includes,
+but is not limited to:
+(i) A uniform child care licensing and regulatory system
+that:
+(a) Protects child health and safety, but otherwise
+prioritizes reducing regulatory burdens and simplifying
+processes for early childhood care and education
+providers;
+(b) Aligns rules for all child care and early learning
+programs operated in pre-kindergarten through grade
+twelve (pre-K-12) schools by non-school entities with the
+department's requirements for such programs run by the
+schools themselves, so long as the alignment does not
+prevent the programs from receiving federal child care
+funds; and
+(c) Incorporates a process for supporting safe and
+healthy child care and education in programs that exist
+outside of standard licensing requirements;
+(ii) A uniform accountability and quality rating and
+improvement system for publicly funded early child care and
+education programs that includes, but is not limited to:
+- 2 - 002175
+(a) Quality ratings predictive of child learning;
+(b) Measurement methods and instruments for
+high-quality instruction that include, but are not limited to, a
+tested and proven, evidence-based observational
+instrument that assesses classroom quality, that includes
+assessing multiple dimensions of teacher-child interactions
+that are linked to positive child development, early
+language and literacy skills, and later achievement;
+(c) A definition of kindergarten-readiness aligned
+with the state's early learning and development standards
+and the standards for elementary and secondary schools;
+and
+(d) Quality improvement supports;
+(iii) Mechanisms, such as community planning grants, to
+engage local communities in creating solutions that best meet
+their communities' unique early care and education needs;
+(iv) An advisory council comprised of providers of early
+childhood care and education programs to help ensure the early
+child care and education system protects child health and safety
+but otherwise prioritizes reducing regulatory burdens and
+simplifying regulatory processes for early childhood care and
+education providers; and
+(v) Mechanisms, such as surveys, for regular feedback
+from parents whose children participate in programs that are part
+of the unified early childhood care and education system.
+- 3 - 002175
+(c)
+(1) The department shall establish a two-part transition plan to establish
+the division of early child education and the unified early care and education
+system.
+(2)
+(A) To support the department in creating a transition plan
+pursuant to subdivision (c)(1), a transition advisory council is established
+to advise the department. The council must be staffed by persons within
+the department. The council shall convene no later than July 15, 2025,
+and meet at least monthly through December 2026. The council consists
+of the following members:
+(i) The state's chief operating officer or the chief operating
+officer's designee;
+(ii) One (1) nongovernment person with expertise in early
+child care and education, appointed by the governor;
+(iii) One (1) nongovernment person with expertise in early
+child care and education, appointed by the speaker of the senate;
+(iv) One (1) nongovernment person with expertise in early
+child care and education, appointed by the speaker of the house
+of representatives;
+(v) The commissioner of education or the commissioner's
+designee;
+(vi) The commissioner of human services or the
+commissioner's designee;
+- 4 - 002175
+(vii) The state's Individuals with Disabilities Education Act
+(20 U.S.C. §§ 1400–1485 Part B-619) coordinator; and
+(viii) The director of the Tennessee Head Start
+collaboration office.
+(B) The members appointed under subdivisions (b)(2)(A)(v)-(vii)
+serve as ex officio nonvoting members.
+(3) The transition advisory council shall advise the department in
+developing a two-part transition plan to:
+(A) Develop and recommend a first phase of the transition plan to
+the governor for his approval no later than January 1, 2026. The first
+phase must include a plan to establish the division of early childhood care
+and education within the department, with such plan to include specific
+details regarding:
+(i) Division staffing;
+(ii) Timelines for completion;
+(iii) Budgetary items;
+(iv) Technology requirements;
+(v) A cooperative endeavor agreement between the
+department and the department of human services that specifies
+the details and terms necessary for the transfer of lead agency
+authority for the Child Care and Development Fund (42 U.S.C. §
+618) and responsibility for relevant programs, services, and
+contracts from the department of human services to the
+department. The transfer must include a continuation of contracts
+with existing partners, including, but not limited to, state child care
+- 5 - 002175
+resource and referral centers, the Tennessee Early Childhood
+Training Alliance, the Association of Infant Mental Health in
+Tennessee, and Community Foundation of Middle TN; and
+(vi) Any interdepartmental memorandums of understanding
+created to ensure there is no disruption to the programs and
+services during the transition; and
+(B) Develop and recommend a second phase of the transition
+plan to the governor for his approval no later than October 1, 2026. The
+second phase must include a plan to establish the unified early childhood
+care and education system, with such plan to include processes and
+timelines to be approved by the general assembly.
+(4)
+(A) The department shall employ a contractor by July 1, 2025, to:
+(i) Lead the department and the transition advisory council
+in the development of the two-part transition plan; and
+(ii) Support the department's implementation of the
+transition plan.
+(B) The contractor must have extensive and recent experience
+and expertise in guiding and overseeing the merging of state early care
+and education governance into a state department of education.
+(5) The department shall require the contractor to include a process for
+input from stakeholders in transition planning for the unified early childhood care
+and education system, with such input to include the creation of a working group
+of fifteen (15) early childhood care and education providers selected by the
+- 6 - 002175
+department to advise on the creation of the system, and other processes for
+stakeholder input.
+(6)
+(A) The department shall submit the first phase of the written
+transition plan to the governor for approval no later than January 1, 2026,
+and the second phase of the plan to the governor no later than October 1,
+
+Section 3:
+2026.
+(B) The governor shall submit the approved plan to the following
+no later than January 15, 2026:
+(i) The speaker of the senate;
+(ii) The speaker of the house of representatives;
+(iii) The senate education committee; and
+(iv) The committee of the house of representatives with
+jurisdiction over subject matters pertaining to education.
+(7) The department shall implement the first phase of the transition plan
+no later than December 31, 2026, and the second phase of the plan no later than
+July 1, 2027.
+(d) Beginning January 1, 2027, the division of early childhood education shall:
+(1) Create and publish a strategic plan for the unified early childhood
+care and education system, with input from local communities, providers, and
+parents in accordance with goals that include, but are not limited to:
+(A) Affordable, accessible options and family choice;
+(B) Positive early learning outcomes; and
+(C) Efficient and user-friendly systems; and
+- 7 - 002175
+(2) Submit a report by October 30 of each year to the general assembly
+on the progress made in creating and maintaining the strategic plan. The annual
+report must include any challenges to achieving such goals and recommended
+actions for how to address the challenges.
+
+Section 4:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 8 - 002175
+[DELETED: S((]
+[DELETED:  -0)))]
+[DELETED:  -0))))]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1378
+By Watson
+HOUSE BILL 1238
+By Haston
+AN ACT to amend Tennessee Code Annotated, Title 4 and
+Title 49, relative to the division of early child care
+and education in the department of education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 1, Part 2, is amended by
+adding the following as a new section:
+(a) As used in this section, "department" means the department of education.
+(b)
+(1) There is created in the department a division to be known as the
+division of early child care and education. The division must be created no later
+than December 31, 2026.
+(2) The commissioner shall appoint the director of the division. The
+director of the division reports directly to the commissioner.
+(3) The division has administrative responsibility for:
+(A) All child care and early educational services as defined in part
+11 of this chapter; chapter 6, of this title; and title 71, chapter 3, part 5 that
+are funded through state or federal monies, including, but not limited to:
+(i) The Child Care and Development Block Grant Act (42
+U.S.C. § 9858 et seq.) and Child Care and Development Fund (45
+CFR Part 98);
+(ii) The voluntary pre-kindergarten program;
+(iii) The Individuals with Disabilities Education Act (20
+U.S.C. § 1400 et seq.) for children before kindergarten;
+HB1238
+002175
+- 1 -
+
+(iv) Head Start programs in this state; and
+(v) Programs that are funded through the preschool
+development grant (§ 9212(c)(1) of the Every Student Succeeds
+Act, Pub. L. No. 114-95); and
+(B) A unified early child care and education system that includes,
+but is not limited to:
+(i) A uniform child care licensing and regulatory system
+that:
+(a) Protects child health and safety, but otherwise
+prioritizes reducing regulatory burdens and simplifying
+processes for early childhood care and education
+providers;
+(b) Aligns rules for all child care and early learning
+programs operated in pre-kindergarten through grade
+twelve (pre-K-12) schools by non-school entities with the
+department's requirements for such programs run by the
+schools themselves, so long as the alignment does not
+prevent the programs from receiving federal child care
+funds; and
+(c) Incorporates a process for supporting safe and
+healthy child care and education in programs that exist
+outside of standard licensing requirements;
+(ii) A uniform accountability and quality rating and
+improvement system for publicly funded early child care and
+education programs that includes, but is not limited to:
+- 2 - 002175
+
+(a) Quality ratings predictive of child learning;
+(b) Measurement methods and instruments for
+high-quality instruction that include, but are not limited to, a
+tested and proven, evidence-based observational
+instrument that assesses classroom quality, that includes
+assessing multiple dimensions of teacher-child interactions
+that are linked to positive child development, early
+language and literacy skills, and later achievement;
+(c) A definition of kindergarten-readiness aligned
+with the state's early learning and development standards
+and the standards for elementary and secondary schools;
+and
+(d) Quality improvement supports;
+(iii) Mechanisms, such as community planning grants, to
+engage local communities in creating solutions that best meet
+their communities' unique early care and education needs;
+(iv) An advisory council comprised of providers of early
+childhood care and education programs to help ensure the early
+child care and education system protects child health and safety
+but otherwise prioritizes reducing regulatory burdens and
+simplifying regulatory processes for early childhood care and
+education providers; and
+(v) Mechanisms, such as surveys, for regular feedback
+from parents whose children participate in programs that are part
+of the unified early childhood care and education system.
+- 3 - 002175
+
+(c)
+(1) The department shall establish a two-part transition plan to establish
+the division of early child education and the unified early care and education
+system.
+(2)
+(A) To support the department in creating a transition plan
+pursuant to subdivision (c)(1), a transition advisory council is established
+to advise the department. The council must be staffed by persons within
+the department. The council shall convene no later than July 15, 2025,
+and meet at least monthly through December 2026. The council consists
+of the following members:
+(i) The state's chief operating officer or the chief operating
+officer's designee;
+(ii) One (1) nongovernment person with expertise in early
+child care and education, appointed by the governor;
+(iii) One (1) nongovernment person with expertise in early
+child care and education, appointed by the speaker of the senate;
+(iv) One (1) nongovernment person with expertise in early
+child care and education, appointed by the speaker of the house
+of representatives;
+(v) The commissioner of education or the commissioner's
+designee;
+(vi) The commissioner of human services or the
+commissioner's designee;
+- 4 - 002175
+
+(vii) The state's Individuals with Disabilities Education Act
+(20 U.S.C. §§ 1400–1485 Part B-619) coordinator; and
+(viii) The director of the Tennessee Head Start
+collaboration office.
+(B) The members appointed under subdivisions (b)(2)(A)(v)-(vii)
+serve as ex officio nonvoting members.
+(3) The transition advisory council shall advise the department in
+developing a two-part transition plan to:
+(A) Develop and recommend a first phase of the transition plan to
+the governor for his approval no later than January 1, 2026. The first
+phase must include a plan to establish the division of early childhood care
+and education within the department, with such plan to include specific
+details regarding:
+(i) Division staffing;
+(ii) Timelines for completion;
+(iii) Budgetary items;
+(iv) Technology requirements;
+(v) A cooperative endeavor agreement between the
+department and the department of human services that specifies
+the details and terms necessary for the transfer of lead agency
+authority for the Child Care and Development Fund (42 U.S.C. §
+618) and responsibility for relevant programs, services, and
+contracts from the department of human services to the
+department. The transfer must include a continuation of contracts
+with existing partners, including, but not limited to, state child care
+- 5 - 002175
+
+resource and referral centers, the Tennessee Early Childhood
+Training Alliance, the Association of Infant Mental Health in
+Tennessee, and Community Foundation of Middle TN; and
+(vi) Any interdepartmental memorandums of understanding
+created to ensure there is no disruption to the programs and
+services during the transition; and
+(B) Develop and recommend a second phase of the transition
+plan to the governor for his approval no later than October 1, 2026. The
+second phase must include a plan to establish the unified early childhood
+care and education system, with such plan to include processes and
+timelines to be approved by the general assembly.
+(4)
+(A) The department shall employ a contractor by July 1, 2025, to:
+(i) Lead the department and the transition advisory council
+in the development of the two-part transition plan; and
+(ii) Support the department's implementation of the
+transition plan.
+(B) The contractor must have extensive and recent experience
+and expertise in guiding and overseeing the merging of state early care
+and education governance into a state department of education.
+(5) The department shall require the contractor to include a process for
+input from stakeholders in transition planning for the unified early childhood care
+and education system, with such input to include the creation of a working group
+of fifteen (15) early childhood care and education providers selected by the
+- 6 - 002175
+
+department to advise on the creation of the system, and other processes for
+stakeholder input.
+(6)
+(A) The department shall submit the first phase of the written
+transition plan to the governor for approval no later than January 1, 2026,
+and the second phase of the plan to the governor no later than October 1,
+2026.
+(B) The governor shall submit the approved plan to the following
+no later than January 15, 2026:
+(i) The speaker of the senate;
+(ii) The speaker of the house of representatives;
+(iii) The senate education committee; and
+(iv) The committee of the house of representatives with
+jurisdiction over subject matters pertaining to education.
+(7) The department shall implement the first phase of the transition plan
+no later than December 31, 2026, and the second phase of the plan no later than
+July 1, 2027.
+(d) Beginning January 1, 2027, the division of early childhood education shall:
+(1) Create and publish a strategic plan for the unified early childhood
+care and education system, with input from local communities, providers, and
+parents in accordance with goals that include, but are not limited to:
+(A) Affordable, accessible options and family choice;
+(B) Positive early learning outcomes; and
+(C) Efficient and user-friendly systems; and
+- 7 - 002175
+
+(2) Submit a report by October 30 of each year to the general assembly
+on the progress made in creating and maintaining the strategic plan. The annual
+report must include any challenges to achieving such goals and recommended
+actions for how to address the challenges.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 8 - 002175
+
+[DELETED: S((]
+[DELETED:  -0)))]
+[DELETED:  -0))))]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]

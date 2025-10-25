@@ -1,0 +1,232 @@
+Title: SENATE BILL 164
+Official Title: SENATE BILL 164
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Yarbro
+HOUSE BILL 18
+By Baum
+AN ACT to amend Tennessee Code Annotated, Title 71,
+Chapter 5, relative to TennCare.
+WHEREAS, it is the desire of the General Assembly to assist Tennesseans in times of
+need; and
+WHEREAS, such assistance should be provided in a manner that does not foster long-
+term, chronic dependency on government assistance; and
+WHEREAS, the temporary provision of high-quality healthcare coverage is one form of
+that assistance; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 5, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "CoverKids program" means the program established pursuant to the
+CoverKids Act of 2006, compiled in chapter 3, part 11 of this title, to provide
+health insurance coverage to children; and
+(2) "Temporary TennCare benefits program" means medical assistance
+provided on a temporary basis to an individual who is otherwise ineligible on the
+basis of income for enrollment in medical assistance under this part or in the
+CoverKids program.
+(b) The bureau of TennCare shall submit by December 31, 2025, a waiver
+application to the federal centers for medicare and medicaid services that establishes a
+temporary TennCare benefits program.
+HB0018
+000491
+- 1 -
+(c) The temporary TennCare benefits program must include provisions for the
+following:
+(1) Medical assistance must be available for a period not to exceed
+twelve (12) months in a period of twenty-four (24) months, up to a cumulative
+maximum of sixty (60) months during the years prior to the individual's twenty-
+first birthday, for an individual who:
+(A) Is less than twenty-one (21) years of age;
+(B) Is from a family that has income not greater than one hundred
+thirty-eight percent (138%) of the federal poverty level; and
+(C) Is not currently eligible for medical assistance under this part,
+enrollment in the CoverKids program, or a successor program;
+(2) Medical assistance must be available for a period not to exceed
+twelve (12) months in a period of twenty-four (24) months, up to a cumulative
+maximum of sixty (60) months during the individual's remaining lifetime, for an
+individual who:
+(A) Is twenty-one (21) years of age or older;
+(B) Has an income not greater than one hundred thirty-eight
+percent (138%) of the federal poverty level; and
+(C) Is not currently eligible for medical assistance under this part;
+(3)
+(A) The temporary benefits provided in subdivisions (c)(1) and
+(c)(2) do not replace or substitute for enrollment in medical assistance
+under this part, the CoverKids program, or successor programs if the
+individual becomes eligible for one (1) or more of those programs while
+the individual is enrolled in the temporary TennCare benefits program;
+- 2 - 000491
+(B) Receipt of the temporary benefits provided in this subsection
+(c) does not preclude an individual who becomes eligible for medical
+assistance, the CoverKids program, or a successor program from
+applying for enrollment in those programs;
+(C) If an individual becomes enrolled in medical assistance, the
+CoverKids program, or a successor program while the individual is
+receiving temporary benefits, then the temporary benefits are paused;
+(D) For an individual contemplated in subdivision (c)(2), the sixty-
+month limit resets upon the individual's twenty-first birthday. Any
+remaining time does not carry forward from prior to the individual's
+twenty-first birthday; and
+(E) Enrollment in the temporary TennCare benefits program must
+begin six (6) months following the date of federal approval of a necessary
+waiver;
+(4) The program is funded using ninety percent (90%) federal funds and
+ten percent (10%) state funds; and
+(5) The program and any federal waiver sought to enable the program
+must leave unchanged the TennCare block grant financing agreement that was
+negotiated pursuant to § 71-5-163 and subsequently approved by the federal
+centers for medicare and medicaid services and by joint resolution of the general
+assembly.
+(d) The bureau of TennCare shall promulgate rules in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5, to administer the
+temporary TennCare benefits program. The rules must include:
+(1) An application system for new and returning beneficiaries;
+- 3 - 000491
+(2) A record of beneficiaries, including:
+(A) A beneficiary who becomes eligible for medical assistance,
+the CoverKids program, or a successor program while the beneficiary is
+receiving temporary benefits; and
+(B) A beneficiary who was previously enrolled in medical
+assistance, the CoverKids program, or a successor program; and
+(3) A time-tracking system that maintains a record of a beneficiary's use
+of the program and that makes the record available to the beneficiary.
+(e) The bureau shall strive to enable applicants for temporary benefits to access
+benefits in a timely fashion.
+(f) The temporary TennCare benefits program does not constitute an entitlement
+to coverage for eligible individuals, and the availability of program benefits is subject to
+appropriations made in the annual appropriations act for that purpose.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 71-5-126, is amended by designating
+the existing language as subsection (a) and adding the following as a new subsection:
+(b) Subsection (a) does not apply to actions by the governor that are necessary
+to establish the temporary TennCare benefits program pursuant to SECTION 1.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 000491
+[DELETED: WWWS((]
+[DELETED:  -0(]
+[DELETED:  -0(((]
+[DELETED:  -0((((S(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 164
+By Yarbro
+HOUSE BILL 18
+By Baum
+AN ACT to amend Tennessee Code Annotated, Title 71,
+Chapter 5, relative to TennCare.
+WHEREAS, it is the desire of the General Assembly to assist Tennesseans in times of
+need; and
+WHEREAS, such assistance should be provided in a manner that does not foster long-
+term, chronic dependency on government assistance; and
+WHEREAS, the temporary provision of high-quality healthcare coverage is one form of
+that assistance; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 5, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "CoverKids program" means the program established pursuant to the
+CoverKids Act of 2006, compiled in chapter 3, part 11 of this title, to provide
+health insurance coverage to children; and
+(2) "Temporary TennCare benefits program" means medical assistance
+provided on a temporary basis to an individual who is otherwise ineligible on the
+basis of income for enrollment in medical assistance under this part or in the
+CoverKids program.
+(b) The bureau of TennCare shall submit by December 31, 2025, a waiver
+application to the federal centers for medicare and medicaid services that establishes a
+temporary TennCare benefits program.
+HB0018
+000491
+- 1 -
+
+(c) The temporary TennCare benefits program must include provisions for the
+following:
+(1) Medical assistance must be available for a period not to exceed
+twelve (12) months in a period of twenty-four (24) months, up to a cumulative
+maximum of sixty (60) months during the years prior to the individual's twenty-
+first birthday, for an individual who:
+(A) Is less than twenty-one (21) years of age;
+(B) Is from a family that has income not greater than one hundred
+thirty-eight percent (138%) of the federal poverty level; and
+(C) Is not currently eligible for medical assistance under this part,
+enrollment in the CoverKids program, or a successor program;
+(2) Medical assistance must be available for a period not to exceed
+twelve (12) months in a period of twenty-four (24) months, up to a cumulative
+maximum of sixty (60) months during the individual's remaining lifetime, for an
+individual who:
+(A) Is twenty-one (21) years of age or older;
+(B) Has an income not greater than one hundred thirty-eight
+percent (138%) of the federal poverty level; and
+(C) Is not currently eligible for medical assistance under this part;
+(3)
+(A) The temporary benefits provided in subdivisions (c)(1) and
+(c)(2) do not replace or substitute for enrollment in medical assistance
+under this part, the CoverKids program, or successor programs if the
+individual becomes eligible for one (1) or more of those programs while
+the individual is enrolled in the temporary TennCare benefits program;
+- 2 - 000491
+
+(B) Receipt of the temporary benefits provided in this subsection
+(c) does not preclude an individual who becomes eligible for medical
+assistance, the CoverKids program, or a successor program from
+applying for enrollment in those programs;
+(C) If an individual becomes enrolled in medical assistance, the
+CoverKids program, or a successor program while the individual is
+receiving temporary benefits, then the temporary benefits are paused;
+(D) For an individual contemplated in subdivision (c)(2), the sixty-
+month limit resets upon the individual's twenty-first birthday. Any
+remaining time does not carry forward from prior to the individual's
+twenty-first birthday; and
+(E) Enrollment in the temporary TennCare benefits program must
+begin six (6) months following the date of federal approval of a necessary
+waiver;
+(4) The program is funded using ninety percent (90%) federal funds and
+ten percent (10%) state funds; and
+(5) The program and any federal waiver sought to enable the program
+must leave unchanged the TennCare block grant financing agreement that was
+negotiated pursuant to § 71-5-163 and subsequently approved by the federal
+centers for medicare and medicaid services and by joint resolution of the general
+assembly.
+(d) The bureau of TennCare shall promulgate rules in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5, to administer the
+temporary TennCare benefits program. The rules must include:
+(1) An application system for new and returning beneficiaries;
+- 3 - 000491
+
+(2) A record of beneficiaries, including:
+(A) A beneficiary who becomes eligible for medical assistance,
+the CoverKids program, or a successor program while the beneficiary is
+receiving temporary benefits; and
+(B) A beneficiary who was previously enrolled in medical
+assistance, the CoverKids program, or a successor program; and
+(3) A time-tracking system that maintains a record of a beneficiary's use
+of the program and that makes the record available to the beneficiary.
+(e) The bureau shall strive to enable applicants for temporary benefits to access
+benefits in a timely fashion.
+(f) The temporary TennCare benefits program does not constitute an entitlement
+to coverage for eligible individuals, and the availability of program benefits is subject to
+appropriations made in the annual appropriations act for that purpose.
+SECTION 2. Tennessee Code Annotated, Section 71-5-126, is amended by designating
+the existing language as subsection (a) and adding the following as a new subsection:
+(b) Subsection (a) does not apply to actions by the governor that are necessary
+to establish the temporary TennCare benefits program pursuant to SECTION 1.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 000491
+
+[DELETED: WWWS((]
+[DELETED:  -0(]
+[DELETED:  -0(((]
+[DELETED:  -0((((S(S]

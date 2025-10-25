@@ -1,0 +1,71 @@
+Title: SENATE BILL 1370
+Official Title: SENATE BILL 1370
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Watson
+HOUSE BILL 481
+By Hicks G
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 3, relative to state government.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 4-3-5501(b)(1), is amended by
+adding the following new subdivision:
+(N) One (1) state employee who has experience in the field of cybersecurity, to
+be appointed by the governor;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 4-3-5501(b)(3), is amended by
+deleting the subdivision and substituting:
+(3) The persons appointed pursuant to subdivisions (b)(1)(L)-(N) are nonvoting
+members of the council.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 4-3-5501(c)(3), is amended by
+deleting the subdivision and substituting:
+(3) Members appointed pursuant to subdivisions (b)(1)(F), (G), (H), (I), (J), (L),
+(M), and (N) are eligible for reappointment to the council.
+
+Section 5:
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0481
+001944
+- 1 -
+[DELETED: S(S(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1370
+By Watson
+HOUSE BILL 481
+By Hicks G
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 3, relative to state government.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 4-3-5501(b)(1), is amended by
+adding the following new subdivision:
+(N) One (1) state employee who has experience in the field of cybersecurity, to
+be appointed by the governor;
+SECTION 2. Tennessee Code Annotated, Section 4-3-5501(b)(3), is amended by
+deleting the subdivision and substituting:
+(3) The persons appointed pursuant to subdivisions (b)(1)(L)-(N) are nonvoting
+members of the council.
+SECTION 3. Tennessee Code Annotated, Section 4-3-5501(c)(3), is amended by
+deleting the subdivision and substituting:
+(3) Members appointed pursuant to subdivisions (b)(1)(F), (G), (H), (I), (J), (L),
+(M), and (N) are eligible for reappointment to the council.
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0481
+001944
+- 1 -
+
+[DELETED: S(S(S]

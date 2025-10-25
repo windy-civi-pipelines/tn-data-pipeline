@@ -1,0 +1,94 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 30
+By Warner
+A RESOLUTION to honor the veterans of Marshall County for
+their service.
+WHEREAS, the American people have held in their hearts a special place of honor for
+not only our veterans who have valiantly served America, from Yorktown and Gettysburg to Iwo
+Jima and the Persian Gulf conflicts, but for our military men and women who continue to serve
+today across the nation and around the world; and
+WHEREAS, the contributions of these brave men and women must never be forgotten,
+and their memory should not be neglected, as their efforts made possible the exemplary quality
+of life that is enjoyed by the citizens of Tennessee and the United States; and
+WHEREAS, America's veterans have experienced sacrifice and hardship and exhibited
+endurance and courage during their military service, and their families have endured the
+emotional anxiety and losses that accompany such service; and
+WHEREAS, throughout the course of the history of the United States, veterans of all
+military branches have demonstrated an extraordinary devotion to duty and love for country, and
+their dedication, valor, and heroism exemplify the highest standards of personal conduct and
+career service; and
+WHEREAS, time and again, America has called upon our men and women in uniform to
+take up arms to secure, defend, and protect our great nation, and our Armed Forces have
+responded by overcoming daunting challenges to achieve hard-fought victories; and
+WHEREAS, since 1919, the United States of America has officially observed November
+11th as Veterans Day, paying respectful tribute to the gallant men and women who have so
+valiantly served our great nation; now, therefore,
+HJR0030
+000770
+- 1 -
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor and commend the veterans of Marshall County, recognizing their
+valor and sacrifice in service to our nation.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 000770
+[DELETED: WWWWW1 ]
+[DELETED:  -0BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 30
+By Warner
+A RESOLUTION to honor the veterans of Marshall County for
+their service.
+WHEREAS, the American people have held in their hearts a special place of honor for
+not only our veterans who have valiantly served America, from Yorktown and Gettysburg to Iwo
+Jima and the Persian Gulf conflicts, but for our military men and women who continue to serve
+today across the nation and around the world; and
+WHEREAS, the contributions of these brave men and women must never be forgotten,
+and their memory should not be neglected, as their efforts made possible the exemplary quality
+of life that is enjoyed by the citizens of Tennessee and the United States; and
+WHEREAS, America's veterans have experienced sacrifice and hardship and exhibited
+endurance and courage during their military service, and their families have endured the
+emotional anxiety and losses that accompany such service; and
+WHEREAS, throughout the course of the history of the United States, veterans of all
+military branches have demonstrated an extraordinary devotion to duty and love for country, and
+their dedication, valor, and heroism exemplify the highest standards of personal conduct and
+career service; and
+WHEREAS, time and again, America has called upon our men and women in uniform to
+take up arms to secure, defend, and protect our great nation, and our Armed Forces have
+responded by overcoming daunting challenges to achieve hard-fought victories; and
+WHEREAS, since 1919, the United States of America has officially observed November
+11th as Veterans Day, paying respectful tribute to the gallant men and women who have so
+valiantly served our great nation; now, therefore,
+HJR0030
+000770
+- 1 -
+
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor and commend the veterans of Marshall County, recognizing their
+valor and sacrifice in service to our nation.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 000770
+
+[DELETED: WWWWW1 ]
+[DELETED:  -0BB]

@@ -1,0 +1,255 @@
+Title: SENATE BILL 539
+Official Title: SENATE BILL 539
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+By Stevens
+HOUSE BILL 753
+By Faison
+AN ACT to amend Tennessee Code Annotated, Title 7;
+Title 13; Title 48; Title 49; Title 67 and Title 68,
+relative to low-income housing.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 67, Chapter 5, Part 6, is amended by
+adding the following as a new section:
+67-5-608.
+(a) Notwithstanding another law to the contrary, multi-unit rental housing that is
+subject to government restriction on use must be assessed in a manner that is
+consistent with the following methods:
+(1) Applying an annual net operating income approach to value that uses
+actual income and stabilized operating expenses that are based on the actual
+history of the property, when available, and a capitalization rate;
+(2) Using a methodology to project income, expenses, and a
+capitalization rate that is consistent with the Uniform Standards of Professional
+Appraisal Practice;
+(3) Adjusting the unrestricted market value of the multi-unit rental
+housing, computed without regard to a government restriction on use applicable
+to the multi-unit rental housing, based on the ratio of the average annual rent of
+those units of the property that are subject to government restriction on use to
+the average annual rent of comparable multi-unit rental housing that is not
+subject to government restriction on use; and
+HB0753
+001305
+- 1 -
+(4) Excluding the amount of low-income housing tax credits received
+under Section 42 of the Internal Revenue Code of 1986 (26 U.S.C. § 42), or from
+a state or federal program in determining the value attributable to the multi-unit
+rental housing.
+(b) The capitalization rate projected pursuant to subsection (a) must be:
+(1) Based on the risks associated with multi-unit rental housing subject to
+government restriction on use, including diminished ownership control; income
+generating potential; liquidity; the condition of the property; the class of the
+property; and the property's location and size;
+(2) Equal to or greater than the capitalization rate used for valuing multi-
+unit rental housing that is not subject to government restriction on use; and
+(3) In the range of fifty (50) to one hundred fifty (150) basis points above
+the most recent quarterly survey of the national average capitalization rates of
+multifamily properties published by realtyrates.com or a successor organization
+as determined by the division of property assessments in consultation with the
+Tennessee housing development agency.
+(c) Beginning with tax year 2026 and each tax year thereafter, the division of
+property assessments shall publish the capitalization rate range for property assessors
+to use for that tax year on its website as soon as practicable after the rates become
+available.
+(d)
+(1) The owner of multi-unit rental housing shall:
+(A) Promptly notify the property assessor if:
+(i) The property is subject to government restriction on
+use, and if so, whether the owner requests that the property be
+- 2 - 001305
+classified as multi-unit rental housing subject to government
+restriction on use;
+(ii) The property ceases to be subject to government
+restriction on use, and if so, whether the owner of the property
+requests that the property's classification as multi-unit rental
+housing subject to government restriction on use be withdrawn; or
+(iii) A foreclosure action has been brought upon the
+property; and
+(B) File with the property assessor, on a form prescribed by the
+state board of equalization, the information necessary for the multi-unit
+rental housing to be assessed based on the methods described in
+subsection (a).
+(2) The notification required by subdivision (d)(1)(A) must be in writing
+and submitted to the property assessor on or before December 31 of the
+calendar year in which the applicable circumstance as listed in subdivisions
+(d)(1)(A)(i)-(iii) occurred.
+(3) If the owner fails to submit the notification pursuant to subdivision
+(d)(1)(A), then the owner is liable for any delinquent property taxes, including
+interest and penalty, assessed on the property.
+(e) As used in this section:
+(1) "Government restriction on use" means a limitation on the use of a
+specified amount of the individual dwelling units of multi-unit rental housing that
+receive a federal, state, or local incentive based on low-income renter
+restrictions, including the following government incentives:
+- 3 - 001305
+(A) A low-income housing tax credit under Section 42 of the
+Internal Revenue Code of 1986 (26 U.S.C. § 42);
+(B) Financing derived from exempt facility bonds for qualified
+residential rental projects under Section 142 of the Internal Revenue
+Code of 1986 (26 U.S.C. § 142);
+(C) A low-interest loan under Section 235 or 236 of the National
+Housing Act (42 U.S.C. § 3538) or Section 515 of the Housing Act of
+1949 (42 U.S.C. § 1485);
+(D) A rent subsidy;
+(E) A guaranteed loan;
+(F) A grant;
+(G) A guarantee; or
+(H) An agreement entered into for payments in lieu of ad valorem
+taxes;
+(2) "Low-income" means earning at or below eighty percent (80%) of the
+area median income as defined by the United States department of housing and
+urban development for the location of the multi-unit rental housing; and
+(3) "Multi-unit rental housing":
+(A) Means residential property or a project consisting of four (4)
+or more individual dwelling units; and
+(B) Does not include:
+(i) Assisted living facilities; or
+(ii) Duplexes or single-family units unless they are
+classified as commercial property or included as part of a larger
+property that is subject to government restriction on use.
+- 4 - 001305
+
+Section 3:
+SECTION 2. For purposes of publishing the capitalization rate range and promulgating
+application forms and rules, this act takes effect upon becoming a law, the public welfare
+requiring it. For all other purposes, this act takes effect January 1, 2026, the public welfare
+requiring it, and applies to residential property and projects developed on or after such date.
+- 5 - 001305
+[DELETED: S6((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((((((((((]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 539
+By Stevens
+HOUSE BILL 753
+By Faison
+AN ACT to amend Tennessee Code Annotated, Title 7;
+Title 13; Title 48; Title 49; Title 67 and Title 68,
+relative to low-income housing.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 67, Chapter 5, Part 6, is amended by
+adding the following as a new section:
+67-5-608.
+(a) Notwithstanding another law to the contrary, multi-unit rental housing that is
+subject to government restriction on use must be assessed in a manner that is
+consistent with the following methods:
+(1) Applying an annual net operating income approach to value that uses
+actual income and stabilized operating expenses that are based on the actual
+history of the property, when available, and a capitalization rate;
+(2) Using a methodology to project income, expenses, and a
+capitalization rate that is consistent with the Uniform Standards of Professional
+Appraisal Practice;
+(3) Adjusting the unrestricted market value of the multi-unit rental
+housing, computed without regard to a government restriction on use applicable
+to the multi-unit rental housing, based on the ratio of the average annual rent of
+those units of the property that are subject to government restriction on use to
+the average annual rent of comparable multi-unit rental housing that is not
+subject to government restriction on use; and
+HB0753
+001305
+- 1 -
+
+(4) Excluding the amount of low-income housing tax credits received
+under Section 42 of the Internal Revenue Code of 1986 (26 U.S.C. § 42), or from
+a state or federal program in determining the value attributable to the multi-unit
+rental housing.
+(b) The capitalization rate projected pursuant to subsection (a) must be:
+(1) Based on the risks associated with multi-unit rental housing subject to
+government restriction on use, including diminished ownership control; income
+generating potential; liquidity; the condition of the property; the class of the
+property; and the property's location and size;
+(2) Equal to or greater than the capitalization rate used for valuing multi-
+unit rental housing that is not subject to government restriction on use; and
+(3) In the range of fifty (50) to one hundred fifty (150) basis points above
+the most recent quarterly survey of the national average capitalization rates of
+multifamily properties published by realtyrates.com or a successor organization
+as determined by the division of property assessments in consultation with the
+Tennessee housing development agency.
+(c) Beginning with tax year 2026 and each tax year thereafter, the division of
+property assessments shall publish the capitalization rate range for property assessors
+to use for that tax year on its website as soon as practicable after the rates become
+available.
+(d)
+(1) The owner of multi-unit rental housing shall:
+(A) Promptly notify the property assessor if:
+(i) The property is subject to government restriction on
+use, and if so, whether the owner requests that the property be
+- 2 - 001305
+
+classified as multi-unit rental housing subject to government
+restriction on use;
+(ii) The property ceases to be subject to government
+restriction on use, and if so, whether the owner of the property
+requests that the property's classification as multi-unit rental
+housing subject to government restriction on use be withdrawn; or
+(iii) A foreclosure action has been brought upon the
+property; and
+(B) File with the property assessor, on a form prescribed by the
+state board of equalization, the information necessary for the multi-unit
+rental housing to be assessed based on the methods described in
+subsection (a).
+(2) The notification required by subdivision (d)(1)(A) must be in writing
+and submitted to the property assessor on or before December 31 of the
+calendar year in which the applicable circumstance as listed in subdivisions
+(d)(1)(A)(i)-(iii) occurred.
+(3) If the owner fails to submit the notification pursuant to subdivision
+(d)(1)(A), then the owner is liable for any delinquent property taxes, including
+interest and penalty, assessed on the property.
+(e) As used in this section:
+(1) "Government restriction on use" means a limitation on the use of a
+specified amount of the individual dwelling units of multi-unit rental housing that
+receive a federal, state, or local incentive based on low-income renter
+restrictions, including the following government incentives:
+- 3 - 001305
+
+(A) A low-income housing tax credit under Section 42 of the
+Internal Revenue Code of 1986 (26 U.S.C. § 42);
+(B) Financing derived from exempt facility bonds for qualified
+residential rental projects under Section 142 of the Internal Revenue
+Code of 1986 (26 U.S.C. § 142);
+(C) A low-interest loan under Section 235 or 236 of the National
+Housing Act (42 U.S.C. § 3538) or Section 515 of the Housing Act of
+1949 (42 U.S.C. § 1485);
+(D) A rent subsidy;
+(E) A guaranteed loan;
+(F) A grant;
+(G) A guarantee; or
+(H) An agreement entered into for payments in lieu of ad valorem
+taxes;
+(2) "Low-income" means earning at or below eighty percent (80%) of the
+area median income as defined by the United States department of housing and
+urban development for the location of the multi-unit rental housing; and
+(3) "Multi-unit rental housing":
+(A) Means residential property or a project consisting of four (4)
+or more individual dwelling units; and
+(B) Does not include:
+(i) Assisted living facilities; or
+(ii) Duplexes or single-family units unless they are
+classified as commercial property or included as part of a larger
+property that is subject to government restriction on use.
+- 4 - 001305
+
+SECTION 2. For purposes of publishing the capitalization rate range and promulgating
+application forms and rules, this act takes effect upon becoming a law, the public welfare
+requiring it. For all other purposes, this act takes effect January 1, 2026, the public welfare
+requiring it, and applies to residential property and projects developed on or after such date.
+- 5 - 001305
+
+[DELETED: S6((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((((((((((]
+[DELETED:  -0S]

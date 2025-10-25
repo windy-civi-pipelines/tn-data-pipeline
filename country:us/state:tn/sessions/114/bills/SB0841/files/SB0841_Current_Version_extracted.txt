@@ -1,0 +1,96 @@
+Title: HOUSE BILL 473
+Official Title: HOUSE BILL 473
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Crawford
+SENATE BILL 841
+By Walley
+AN ACT to amend Tennessee Code Annotated, Title 18;
+Title 38, Chapter 6; Title 39 and Title 40, Chapter
+35, relative to the collection of DNA samples.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 40-35-321, is amended by adding
+the following as a new subsection:
+(f)
+(1) If a person is arrested for a felony offense occurring on or after July 1,
+2025, then the person shall have a biological specimen taken for the purpose of
+DNA analysis to determine identification characteristics specific to the person.
+After a determination by a magistrate or a grand jury that probable cause exists
+for the arrest, but prior to the person's release from custody, the arresting
+authority shall take the sample using a buccal swab collection kit for DNA testing
+and forward the sample to the Tennessee bureau of investigation. The arresting
+authority shall collect the biological specimen in accordance with the uniform
+procedures established by the Tennessee bureau of investigation pursuant to §
+38-6-113. The Tennessee bureau of investigation must maintain the sample as
+provided in § 38-6-113. The court or magistrate shall make the provision of the
+specimen a condition of the person's release on bond or recognizance if bond or
+recognizance is granted.
+(2) The clerk of the court in which the charges against a person
+described in subdivision (f)(1) are disposed of shall notify the Tennessee bureau
+of investigation of final disposition of the criminal proceedings. If the charge for
+SB0841
+001176
+- 1 -
+which the sample was taken is dismissed or the defendant is acquitted at trial,
+then the bureau shall destroy the sample and all records of the sample; provided,
+that there is no other pending qualifying warrant or capias for an arrest or felony
+conviction that would otherwise require that the sample remain in the data bank.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 001176
+[DELETED: S(((]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 473
+By Crawford
+SENATE BILL 841
+By Walley
+AN ACT to amend Tennessee Code Annotated, Title 18;
+Title 38, Chapter 6; Title 39 and Title 40, Chapter
+35, relative to the collection of DNA samples.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-35-321, is amended by adding
+the following as a new subsection:
+(f)
+(1) If a person is arrested for a felony offense occurring on or after July 1,
+2025, then the person shall have a biological specimen taken for the purpose of
+DNA analysis to determine identification characteristics specific to the person.
+After a determination by a magistrate or a grand jury that probable cause exists
+for the arrest, but prior to the person's release from custody, the arresting
+authority shall take the sample using a buccal swab collection kit for DNA testing
+and forward the sample to the Tennessee bureau of investigation. The arresting
+authority shall collect the biological specimen in accordance with the uniform
+procedures established by the Tennessee bureau of investigation pursuant to §
+38-6-113. The Tennessee bureau of investigation must maintain the sample as
+provided in § 38-6-113. The court or magistrate shall make the provision of the
+specimen a condition of the person's release on bond or recognizance if bond or
+recognizance is granted.
+(2) The clerk of the court in which the charges against a person
+described in subdivision (f)(1) are disposed of shall notify the Tennessee bureau
+of investigation of final disposition of the criminal proceedings. If the charge for
+SB0841
+001176
+- 1 -
+
+which the sample was taken is dismissed or the defendant is acquitted at trial,
+then the bureau shall destroy the sample and all records of the sample; provided,
+that there is no other pending qualifying warrant or capias for an arrest or felony
+conviction that would otherwise require that the sample remain in the data bank.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 001176
+
+[DELETED: S(((]
+[DELETED:  -0S]

@@ -1,0 +1,69 @@
+Title: SENATE BILL 390
+Official Title: SENATE BILL 390
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Rose
+HOUSE BILL 418
+By Scarbrough
+AN ACT to amend Tennessee Code Annotated, Section
+10-7-504, relative to comptroller survey records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 10-7-504(a)(22), is amended by
+deleting subdivision (D) and substituting:
+(D)
+(i) Survey records, responses, data, identifying information as defined in
+subdivision (a)(15), intra-agency and interagency communications, and other
+records received to serve as input for any survey created, obtained, or compiled
+by the comptroller of the treasury; provided, however, the comptroller may
+publish:
+(a) Aggregate survey data; and
+(b) Survey responses that cannot be used to identify individuals
+completing the survey.
+(ii) This subdivision (a)(22)(D) does not apply to a survey conducted by
+the office of open records counsel, created by § 8-4-601.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0418
+000712
+- 1 -
+[DELETED: S(()()(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 390
+By Rose
+HOUSE BILL 418
+By Scarbrough
+AN ACT to amend Tennessee Code Annotated, Section
+10-7-504, relative to comptroller survey records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 10-7-504(a)(22), is amended by
+deleting subdivision (D) and substituting:
+(D)
+(i) Survey records, responses, data, identifying information as defined in
+subdivision (a)(15), intra-agency and interagency communications, and other
+records received to serve as input for any survey created, obtained, or compiled
+by the comptroller of the treasury; provided, however, the comptroller may
+publish:
+(a) Aggregate survey data; and
+(b) Survey responses that cannot be used to identify individuals
+completing the survey.
+(ii) This subdivision (a)(22)(D) does not apply to a survey conducted by
+the office of open records counsel, created by § 8-4-601.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0418
+000712
+- 1 -
+
+[DELETED: S(()()(S]

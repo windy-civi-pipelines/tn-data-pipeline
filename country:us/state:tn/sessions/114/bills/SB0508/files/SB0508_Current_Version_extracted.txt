@@ -1,0 +1,96 @@
+Title: HOUSE BILL 443
+Official Title: HOUSE BILL 443
+Number of Sections: 8
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Hulsey
+SENATE BILL 508
+By Walley
+AN ACT to amend Tennessee Code Annotated, Title 47,
+relative to the Uniform Commercial Code.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 47-8-110(b), is amended by deleting
+"local law of the securities intermediary's jurisdiction, as specified in subsection (e)," and
+substituting "law of this state".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 47-8-110, is amended by deleting
+subsections (e) and (f).
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 47-8-503(a), is amended by deleting
+", except as otherwise provided in § 47-8-511".
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 47-8-511, is amended by deleting the
+
+Section 6:
+section and substituting:
+If a securities intermediary does not have sufficient interests in a particular
+financial asset to satisfy both its obligations to entitlement holders who have security
+entitlements to that financial asset and its obligation to a creditor of the securities
+intermediary who has a security interest in that financial asset, then the claims of
+entitlement holders, other than the creditor, have priority over the claim of the creditor.
+
+Section 7:
+SECTION 5. Tennessee Code Annotated, Section 47-9-305(a), is amended by deleting
+subdivisions (3) and (4) and substituting:
+(3) The local law of the commodity intermediary's jurisdiction governs perfection,
+the effect of perfection or nonperfection, and the priority of a security interest in a
+commodity contract or commodity account.
+SB0508
+000789
+- 1 -
+
+Section 8:
+SECTION 6. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 000789
+[DELETED: S]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 443
+By Hulsey
+SENATE BILL 508
+By Walley
+AN ACT to amend Tennessee Code Annotated, Title 47,
+relative to the Uniform Commercial Code.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 47-8-110(b), is amended by deleting
+"local law of the securities intermediary's jurisdiction, as specified in subsection (e)," and
+substituting "law of this state".
+SECTION 2. Tennessee Code Annotated, Section 47-8-110, is amended by deleting
+subsections (e) and (f).
+SECTION 3. Tennessee Code Annotated, Section 47-8-503(a), is amended by deleting
+", except as otherwise provided in § 47-8-511".
+SECTION 4. Tennessee Code Annotated, Section 47-8-511, is amended by deleting the
+section and substituting:
+If a securities intermediary does not have sufficient interests in a particular
+financial asset to satisfy both its obligations to entitlement holders who have security
+entitlements to that financial asset and its obligation to a creditor of the securities
+intermediary who has a security interest in that financial asset, then the claims of
+entitlement holders, other than the creditor, have priority over the claim of the creditor.
+SECTION 5. Tennessee Code Annotated, Section 47-9-305(a), is amended by deleting
+subdivisions (3) and (4) and substituting:
+(3) The local law of the commodity intermediary's jurisdiction governs perfection,
+the effect of perfection or nonperfection, and the priority of a security interest in a
+commodity contract or commodity account.
+SB0508
+000789
+- 1 -
+
+SECTION 6. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 000789
+
+[DELETED: S]
+[DELETED:  -0S]

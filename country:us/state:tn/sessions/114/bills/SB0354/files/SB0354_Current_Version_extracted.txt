@@ -1,0 +1,53 @@
+Title: HOUSE BILL 338
+Official Title: HOUSE BILL 338
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Crawford
+SENATE BILL 354
+By Harshbarger
+AN ACT to amend Tennessee Code Annotated, Title 3;
+Title 4; Title 8; Title 9; Title 10; Title 12; Title 13;
+Title 14; Title 15; Title 41; Title 50 and Title 57,
+relative to state government.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 4-4-114(a)(1), is amended by adding
+the following at the end of the subdivision:
+Reports filed pursuant to this subdivision (a)(1) may be submitted electronically.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0354
+001928
+- 1 -
+[DELETED: SRS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 338
+By Crawford
+SENATE BILL 354
+By Harshbarger
+AN ACT to amend Tennessee Code Annotated, Title 3;
+Title 4; Title 8; Title 9; Title 10; Title 12; Title 13;
+Title 14; Title 15; Title 41; Title 50 and Title 57,
+relative to state government.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 4-4-114(a)(1), is amended by adding
+the following at the end of the subdivision:
+Reports filed pursuant to this subdivision (a)(1) may be submitted electronically.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0354
+001928
+- 1 -
+
+[DELETED: SRS]

@@ -1,0 +1,71 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE RESOLUTION 140
+By Bailey
+A RESOLUTION to recognize Lanny Selby on the occasion of his
+retirement.
+WHEREAS, it is appropriate that we should honor those citizens who have performed
+with uncommon devotion and enthusiasm in securing the safety of their community; and
+WHEREAS, Lanny Selby is one such estimable individual, who, following thirty-three
+years of devoted service to the Sparta Fire Department, will take his much-deserved retirement
+from his post, drawing an end to his career as a firefighter; and
+WHEREAS, Lanny Selby has performed his duties with professionalism and integrity,
+helping his fellow citizens in any way that he could and proving himself time and again to be a
+tremendous asset to the City of Sparta; and
+WHEREAS, Mr. Selby exemplifies the spirit and allegiance to family and community that
+are characteristic of a true Tennessean; and
+WHEREAS, throughout his career, Lanny Selby has demonstrated the utmost
+professionalism, ability, and integrity, winning the respect and admiration of his fellow
+firefighters and the residents of Sparta; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and commend Lanny
+Selby on his exemplary career with the Sparta Fire Department and extend to him our best
+wishes for much continued success and happiness during his retirement.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+SR0140
+007279
+- 1 -
+[DELETED: WWWWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE RESOLUTION 140
+By Bailey
+A RESOLUTION to recognize Lanny Selby on the occasion of his
+retirement.
+WHEREAS, it is appropriate that we should honor those citizens who have performed
+with uncommon devotion and enthusiasm in securing the safety of their community; and
+WHEREAS, Lanny Selby is one such estimable individual, who, following thirty-three
+years of devoted service to the Sparta Fire Department, will take his much-deserved retirement
+from his post, drawing an end to his career as a firefighter; and
+WHEREAS, Lanny Selby has performed his duties with professionalism and integrity,
+helping his fellow citizens in any way that he could and proving himself time and again to be a
+tremendous asset to the City of Sparta; and
+WHEREAS, Mr. Selby exemplifies the spirit and allegiance to family and community that
+are characteristic of a true Tennessean; and
+WHEREAS, throughout his career, Lanny Selby has demonstrated the utmost
+professionalism, ability, and integrity, winning the respect and admiration of his fellow
+firefighters and the residents of Sparta; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and commend Lanny
+Selby on his exemplary career with the Sparta Fire Department and extend to him our best
+wishes for much continued success and happiness during his retirement.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+SR0140
+007279
+- 1 -
+
+[DELETED: WWWWBB]

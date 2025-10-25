@@ -1,0 +1,75 @@
+Title: SENATE BILL 907
+Official Title: SENATE BILL 907
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Haile
+HOUSE BILL 767
+By Hicks G
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 4, Part 7, relative to taxation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-4-708(2)(D), is amended by
+deleting the subdivision and substituting instead the following:
+(D) Prescription drugs and patent medicines not otherwise exempt under § 67-4-
+712(g)(1);
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 67-4-712, is amended by adding the
+following as a new subsection:
+(g) The tax imposed by this part does not apply to any receipts from the sale of
+the following:
+(1) Any prescription drug or medicine with a cost for a thirty-day
+equivalent supply that exceeds the medicare part D specialty tier cost threshold
+for 2025 plan years, as determined by the federal centers for medicare and
+medicaid services (CMS) pursuant to 42 CFR 423.104(d)(2)(iv)(A); or
+(2) Services necessary for proper preparation, storage, handling,
+administration, patient education, or post-sale monitoring of drugs or medicines
+exempt under subdivision (g)(1).
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0767
+002784
+- 1 -
+[DELETED: S(S(((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 907
+By Haile
+HOUSE BILL 767
+By Hicks G
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 4, Part 7, relative to taxation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-4-708(2)(D), is amended by
+deleting the subdivision and substituting instead the following:
+(D) Prescription drugs and patent medicines not otherwise exempt under § 67-4-
+712(g)(1);
+SECTION 2. Tennessee Code Annotated, Section 67-4-712, is amended by adding the
+following as a new subsection:
+(g) The tax imposed by this part does not apply to any receipts from the sale of
+the following:
+(1) Any prescription drug or medicine with a cost for a thirty-day
+equivalent supply that exceeds the medicare part D specialty tier cost threshold
+for 2025 plan years, as determined by the federal centers for medicare and
+medicaid services (CMS) pursuant to 42 CFR 423.104(d)(2)(iv)(A); or
+(2) Services necessary for proper preparation, storage, handling,
+administration, patient education, or post-sale monitoring of drugs or medicines
+exempt under subdivision (g)(1).
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0767
+002784
+- 1 -
+
+[DELETED: S(S(((S]

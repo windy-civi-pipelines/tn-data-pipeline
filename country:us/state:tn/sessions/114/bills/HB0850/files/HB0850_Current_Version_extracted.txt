@@ -1,0 +1,71 @@
+Title: SENATE BILL 1032
+Official Title: SENATE BILL 1032
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Bowling
+HOUSE BILL 850
+By Reneau
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 8; Title 38; Title 39; Title 40 and Title 44,
+relative to searches.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 38, Chapter 3, is amended by adding
+the following as a new section:
+(a) Except as provided in subsection (b), an official who is employed or
+contracted by the federal government, the state government, or a local government
+within this state, or an agency or department thereof, including a peace officer,
+inspector, and wildlife official, shall, prior to entering private property to conduct a
+search, obtain a search warrant, as described in § 40-6-106, that identifies the person or
+property that is the subject of the search.
+(b) An official is not required to obtain a search warrant pursuant to subsection
+(a) if a judicially recognized exception to the warrant requirement exists at the time of the
+search.
+(c) An official who knowingly fails to obtain a search warrant when a search
+warrant is required by this section commits a Class C misdemeanor.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0850
+002596
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1032
+By Bowling
+HOUSE BILL 850
+By Reneau
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 8; Title 38; Title 39; Title 40 and Title 44,
+relative to searches.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 38, Chapter 3, is amended by adding
+the following as a new section:
+(a) Except as provided in subsection (b), an official who is employed or
+contracted by the federal government, the state government, or a local government
+within this state, or an agency or department thereof, including a peace officer,
+inspector, and wildlife official, shall, prior to entering private property to conduct a
+search, obtain a search warrant, as described in § 40-6-106, that identifies the person or
+property that is the subject of the search.
+(b) An official is not required to obtain a search warrant pursuant to subsection
+(a) if a judicially recognized exception to the warrant requirement exists at the time of the
+search.
+(c) An official who knowingly fails to obtain a search warrant when a search
+warrant is required by this section commits a Class C misdemeanor.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0850
+002596
+- 1 -
+
+[DELETED: SS]

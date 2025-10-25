@@ -1,0 +1,53 @@
+Title: HOUSE BILL 848
+Official Title: HOUSE BILL 848
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Reneau
+SENATE BILL 1111
+By Southerland
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 38; Title 39; Title 42; Title 56 and Title 66,
+relative to drones.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 42-2-301(f), is amended by adding
+the following new subdivision (3):
+(3) Study the laws and regulations of other states regarding restrictions on the
+operation of drones over private property.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1111
+002907
+- 1 -
+[DELETED: S(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 848
+By Reneau
+SENATE BILL 1111
+By Southerland
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 38; Title 39; Title 42; Title 56 and Title 66,
+relative to drones.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 42-2-301(f), is amended by adding
+the following new subdivision (3):
+(3) Study the laws and regulations of other states regarding restrictions on the
+operation of drones over private property.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1111
+002907
+- 1 -
+
+[DELETED: S(S]

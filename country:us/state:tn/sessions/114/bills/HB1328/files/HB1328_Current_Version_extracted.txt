@@ -1,0 +1,55 @@
+Title: SENATE BILL 1314
+Official Title: SENATE BILL 1314
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Johnson
+HOUSE BILL 1328
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Section
+40-38-507, relative to the criminal proceedings
+notification system.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 40-38-507(a), is amended by
+deleting "as a pilot program".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 40-38-507(d), is amended by
+deleting the subsection.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1328
+000923
+- 1 -
+[DELETED: SSS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1314
+By Johnson
+HOUSE BILL 1328
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Section
+40-38-507, relative to the criminal proceedings
+notification system.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-38-507(a), is amended by
+deleting "as a pilot program".
+SECTION 2. Tennessee Code Annotated, Section 40-38-507(d), is amended by
+deleting the subsection.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1328
+000923
+- 1 -
+
+[DELETED: SSS]
