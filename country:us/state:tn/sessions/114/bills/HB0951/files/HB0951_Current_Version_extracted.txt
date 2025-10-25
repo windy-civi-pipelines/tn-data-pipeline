@@ -1,0 +1,212 @@
+Title: SENATE BILL 1246
+Official Title: SENATE BILL 1246
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Yarbro
+HOUSE BILL 951
+By Brooks
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 3, Part 5 and Title 67, relative to energy.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. This act is known and may be cited as the "Clean Energy and Jobs Act".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 4, Chapter 3, Part 5, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Clean energy":
+(A) Means energy that is derived from a source known to produce
+significantly lower carbon emissions than traditional fossil fuels; and
+(B) Includes energy generated from solar, wind, geothermal,
+hydropower, and biomass;
+(2) "Department" means the department of environment and
+conservation;
+(3) "Fund" means the clean energy workforce fund; and
+(4) "Office" means the department's office of energy programs.
+(b)
+(1) There is created in the state treasury the clean energy workforce
+training fund, which is separate and distinct from the general fund and all other
+reserve funds, to be administered by the office.
+HB0951
+001144
+- 1 -
+(2) The fund consists of moneys appropriated to the fund by the general
+assembly. Funds appropriated to the fund must only be used to provide grants to
+clean energy workforce training projects, as described in this section.
+(c) The office shall utilize the fund to provide grants to support the development,
+implementation, and operation of clean energy workforce training programs.
+(d) The office shall develop eligibility criteria by rule, and shall create an
+application with which an individual or entity may request funding.
+(e) All grant recipients are subject to audit by the comptroller of the treasury as
+to the funds received pursuant to this section.
+(f)
+(1) In addition to appropriations made to the fund, the department may
+accept other funds, public or private, by way of gift or grant to the fund. Any such
+gift or grant must be deposited into the fund to be distributed in accordance with
+this section.
+(2) Moneys in the fund may be invested by the state treasurer in
+accordance with § 9-4-602.
+(3) Interest accruing on investments and deposits of the fund must be
+credited to the fund, do not revert to the general fund, and must be carried
+forward into the subsequent fiscal year.
+(4) Any balance remaining unexpended at the end of a fiscal year in the
+fund does not revert to the general fund and must be carried forward into the
+subsequent fiscal year.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Title 67, Chapter 6, Part 3, is amended by
+adding the following as a new section:
+(a) As used in this section:
+- 2 - 001144
+(1) "Renewable energy business":
+(A) Means a business entity for which the primary activity or
+sources of revenue involve the development, manufacture, installation, or
+maintenance of goods that generate electricity or heat from renewable
+sources of energy, including sunlight, wind, water, geothermal heat, or
+biomass; and
+(B) Includes solar panel installation companies, wind farm
+developers, and hydroelectric power plant operators;
+(2) "Small business" means a business entity, including its affiliates, that
+employs fifty (50) or fewer full-time employees; and
+(3) "Sustainable practices":
+(A) Means a business practice the primary goal of which is to
+minimize the environmental impact of the business by reducing waste
+produced by the business, conserving resources, or reducing the amount
+of pollution produced by the business; and
+(B) Includes practices such as integrating eco-friendly material
+into the production or manufacturing process of a good, or recycling a
+material used in the production or manufacturing process of a good,
+utilizing biodegradable packaging.
+(b) There is a tax credit of thirty percent (30%) of the sales and use tax paid with
+respect to:
+(1) A system, method, improvement, structure, device, or appliance
+primarily used by a renewable energy business to develop, manufacture, install,
+or maintain a good or system that generates electricity or heat from renewable
+sources of energy; or
+- 3 - 001144
+(2) A system, method, improvement, structure, device, or appliance
+primarily used by a small business to implement or improve the business's
+sustainable practices.
+(c) The department of revenue shall promulgate rules to effectuate this section.
+The rules must be promulgated in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5.
+
+Section 5:
+SECTION 4. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect January 1, 2026,
+the public welfare requiring it.
+- 4 - 001144
+[DELETED: S(((((((]
+[DELETED:  -0 ((((((((]
+[DELETED:  -0(((]
+[DELETED:  -0(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1246
+By Yarbro
+HOUSE BILL 951
+By Brooks
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 3, Part 5 and Title 67, relative to energy.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as the "Clean Energy and Jobs Act".
+SECTION 2. Tennessee Code Annotated, Title 4, Chapter 3, Part 5, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Clean energy":
+(A) Means energy that is derived from a source known to produce
+significantly lower carbon emissions than traditional fossil fuels; and
+(B) Includes energy generated from solar, wind, geothermal,
+hydropower, and biomass;
+(2) "Department" means the department of environment and
+conservation;
+(3) "Fund" means the clean energy workforce fund; and
+(4) "Office" means the department's office of energy programs.
+(b)
+(1) There is created in the state treasury the clean energy workforce
+training fund, which is separate and distinct from the general fund and all other
+reserve funds, to be administered by the office.
+HB0951
+001144
+- 1 -
+
+(2) The fund consists of moneys appropriated to the fund by the general
+assembly. Funds appropriated to the fund must only be used to provide grants to
+clean energy workforce training projects, as described in this section.
+(c) The office shall utilize the fund to provide grants to support the development,
+implementation, and operation of clean energy workforce training programs.
+(d) The office shall develop eligibility criteria by rule, and shall create an
+application with which an individual or entity may request funding.
+(e) All grant recipients are subject to audit by the comptroller of the treasury as
+to the funds received pursuant to this section.
+(f)
+(1) In addition to appropriations made to the fund, the department may
+accept other funds, public or private, by way of gift or grant to the fund. Any such
+gift or grant must be deposited into the fund to be distributed in accordance with
+this section.
+(2) Moneys in the fund may be invested by the state treasurer in
+accordance with § 9-4-602.
+(3) Interest accruing on investments and deposits of the fund must be
+credited to the fund, do not revert to the general fund, and must be carried
+forward into the subsequent fiscal year.
+(4) Any balance remaining unexpended at the end of a fiscal year in the
+fund does not revert to the general fund and must be carried forward into the
+subsequent fiscal year.
+SECTION 3. Tennessee Code Annotated, Title 67, Chapter 6, Part 3, is amended by
+adding the following as a new section:
+(a) As used in this section:
+- 2 - 001144
+
+(1) "Renewable energy business":
+(A) Means a business entity for which the primary activity or
+sources of revenue involve the development, manufacture, installation, or
+maintenance of goods that generate electricity or heat from renewable
+sources of energy, including sunlight, wind, water, geothermal heat, or
+biomass; and
+(B) Includes solar panel installation companies, wind farm
+developers, and hydroelectric power plant operators;
+(2) "Small business" means a business entity, including its affiliates, that
+employs fifty (50) or fewer full-time employees; and
+(3) "Sustainable practices":
+(A) Means a business practice the primary goal of which is to
+minimize the environmental impact of the business by reducing waste
+produced by the business, conserving resources, or reducing the amount
+of pollution produced by the business; and
+(B) Includes practices such as integrating eco-friendly material
+into the production or manufacturing process of a good, or recycling a
+material used in the production or manufacturing process of a good,
+utilizing biodegradable packaging.
+(b) There is a tax credit of thirty percent (30%) of the sales and use tax paid with
+respect to:
+(1) A system, method, improvement, structure, device, or appliance
+primarily used by a renewable energy business to develop, manufacture, install,
+or maintain a good or system that generates electricity or heat from renewable
+sources of energy; or
+- 3 - 001144
+
+(2) A system, method, improvement, structure, device, or appliance
+primarily used by a small business to implement or improve the business's
+sustainable practices.
+(c) The department of revenue shall promulgate rules to effectuate this section.
+The rules must be promulgated in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5.
+SECTION 4. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect January 1, 2026,
+the public welfare requiring it.
+- 4 - 001144
+
+[DELETED: S(((((((]
+[DELETED:  -0 ((((((((]
+[DELETED:  -0(((]
+[DELETED:  -0(S]

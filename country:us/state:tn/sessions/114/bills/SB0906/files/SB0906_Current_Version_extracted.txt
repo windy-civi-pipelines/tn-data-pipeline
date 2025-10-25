@@ -1,0 +1,448 @@
+Title: HOUSE BILL 792
+Official Title: HOUSE BILL 792
+Number of Sections: 15
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+By Behn
+SENATE BILL 906
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 29;
+Title 38; Title 39; Title 40 and Title 67, relative to
+criminal justice.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. This act is known and may be cited as the "Tennessee Sexual Violence
+Justice Act."
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 38, Chapter 1, is amended by adding
+the following new part:
+38-1-1001.
+As used in this part:
+(1) "Forensic medical examination" means the same as defined in § 39-
+13-519;
+(2) "Law enforcement personnel" means any law enforcement officer,
+detective, investigator, crime scene technician, or other personnel involved in
+investigating claims of sexual assault or processing evidence related to sexual
+assault;
+(3) "Sexual assault" means any nonconsensual sexual act prohibited
+under title 39, including rape, incest, or statutory rape;
+(4) "Trauma-informed approach" means a manner of interacting with
+victims that is sensitive to the impact of trauma and emphasizes creating a sense
+of safety and empowerment;
+(5) "Victim" means the direct target of an alleged sexual assault;
+SB0906
+003037
+- 1 -
+(6) "Victim advocate" means a professional working for a government
+agency or nonprofit organization who provides support services, counseling, or
+assistance to victims of sexual assault; and
+(7) "Victim-centered approach" means an approach that prioritizes the
+rights, needs, and desires of the victim when investigating crimes, collecting
+evidence, and interacting with victims.
+38-1-1002.
+(a) All law enforcement personnel involved in investigating sexual assault crimes
+must complete a minimum of sixteen (16) hours annually of sensitivity training provided
+by the Tennessee peace officer standards and training (POST) commission related to
+interacting with victims of sexual violence.
+(b) The curriculum for the training required by subsection (a) must be developed
+by the POST commission in coordination with sexual violence prevention organizations,
+victim advocates, and healthcare providers who perform forensic medical examinations
+and must emphasize trauma-informed, victim-centered approaches.
+(c) After the sensitivity training is completed, a participant must be assessed in a
+mock situation ensuring the training was comprehended and applied.
+(d) Law enforcement personnel must complete training within one hundred
+twenty (120) days of starting in a sexual assault investigation role.
+(e) Every three (3) years, the POST commission must present, as part of the
+required in-service training for POST-certified law enforcement officers, training on
+sexual assault response and report writing requirements, including:
+(1) Recognizing the symptoms of trauma;
+(2) Understanding the role trauma has played in a victim's life;
+(3) Responding to the needs and concerns of a victim;
+- 2 - 003037
+(4) Delivering services in a compassionate, sensitive, and nonjudgmental
+manner;
+(5) Interviewing techniques in accordance with the curriculum standards
+in this subsection (e);
+(6) Understanding cultural perceptions and common myths of sexual
+assault and sexual abuse; and
+(7) Report writing techniques in accordance with the curriculum
+standards in this subsection (e).
+(f) The training required by subsections (a) and (e) must also be presented as
+part of the training for initial police officer standards and training certification.
+(g) In order to provide the training required by subsections (a) and (e), an
+instructor must have successfully completed training on evidence-based, trauma-
+informed, victim-centered responses to cases of sexual assault and must have
+experience responding to sexual assault cases.
+(h) The POST commission is authorized to promulgate rules to effectuate this
+
+Section 4:
+section. The rules must be promulgated in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5. The rules must include the following:
+(1) Evidence-based curriculum standards for report writing and
+immediate response to sexual assault, including trauma-informed, victim-
+centered interview techniques, which have been demonstrated to minimize
+retraumatization, for all law enforcement officers; and
+(2) Evidence-based curriculum standards for trauma-informed, victim-
+centered investigation and interviewing techniques, which have been
+demonstrated to minimize retraumatization, for cases of sexual assault and for all
+law enforcement officers who conduct sexual assault investigations.
+- 3 - 003037
+
+Section 5:
+SECTION 3. Tennessee Code Annotated, Section 39-13-519(d)(1), is amended by
+redesignating the subdivision as subdivision (d)(1)(A) and adding the following new subdivision:
+(B)
+(i) By January 1, 2026, the TBI must test all previously untested sexual
+assault evidence collection kits that were submitted prior to July 1, 2025,
+prioritizing kits that are related to ongoing investigations.
+(ii) Effective July 1, 2025, the TBI must test each sexual assault evidence
+collection kit within ninety (90) days of receipt from a law enforcement agency.
+(iii) The TBI must prepare an annual report on the average number of
+days required for testing a sexual assault evidence collection kit over the prior
+calendar year, the number of untested sexual assault evidence collection kits that
+will not be tested within the required period of time, and recommendations for
+how best to meet the requirements of this subdivision (d)(1)(B). The report must
+be submitted by February 1 of each year to the governor and the chairs of the
+judiciary committee of the senate and the committee having jurisdiction over
+criminal justice-related matters of the house of representatives and posted on the
+TBI's website.
+
+Section 6:
+SECTION 4. Tennessee Code Annotated, Section 39-13-519, is amended by adding
+the following new subsection:
+(1) In testing sexual assault evidence collection kits, the TBI must develop
+autosomal DNA profiles that are eligible for entry into the combined DNA index system
+(CODIS) and other relevant state or local DNA databases.
+(2) With the goal of generating a CODIS-eligible DNA profile, if the TBI is unable
+to obtain an autosomal CODIS-eligible DNA profile, then the TBI should evaluate the
+case to determine if another DNA-typing result could be used for investigative purposes.
+- 4 - 003037
+(3) In cases where testing has resulted in a DNA profile, the laboratory must
+enter the full profile into the CODIS database and other relevant state or local DNA
+databases. The average completion rate for this analysis and classification must not
+exceed ninety (90) days.
+(4) If the TBI crime laboratories are unable to meet the deadline specified above,
+then kits must be outsourced for testing to an accredited private crime laboratory.
+
+Section 7:
+SECTION 5. Tennessee Code Annotated, Section 39-13-519(d)(2), is amended by
+deleting the language "ten (10) years" and substituting "twenty-five (25) years".
+
+Section 8:
+SECTION 6. Tennessee Code Annotated, Section 29-13-108(a), is amended by
+deleting the first sentence of the subsection and substituting:
+A claim for compensation must be filed not later than two (2) years after
+the occurrence of the crime upon which the claim is based, two (2) years after
+the death of the victim, or twelve (12) years after mental or physical manifestation
+or injury is diagnosed as a result of an act that would constitute a criminal offense
+under §§ 39-13-502 – 39-13-506, § 39-13-509, § 39-13-518, § 39-13-522, § 39-
+13-527, § 39-13-534, § 39-13-535, § 39-15-302, § 39-17-902, or §§ 39-17-1003 –
+39-17-1005, or an attempt, conspiracy, or solicitation to commit such offenses;
+provided, that upon good cause shown, the time period for filing such claim may
+be extended either before or after the expiration of the filing period.
+
+Section 9:
+SECTION 7. Tennessee Code Annotated, Section 29-13-103(a)(4), is amended by
+deleting the subdivision and substituting:
+(4) The claimant has fully cooperated with the police and the district attorney
+general in the investigation and prosecution of the offender, except in cases involving:
+(A) A victim of domestic violence, a sexual offense under §§ 39-13-502 –
+39-13-506, § 39-13-509, § 39-13-518, § 39-13-522, § 39-13-527, § 39-13-534, §
+- 5 - 003037
+39-13-535, § 39-15-302, § 39-17-902, or §§ 39-17-1003 – 39-17-1005, a human
+trafficking offense, as defined in § 39-13-314, or stalking under § 39-17-315; or
+(B) A victim where it is determined that the victim's cooperation may be
+or had been impacted due to the victim's age, physical condition, psychological
+state, cultural or linguistic barriers, or another health or safety concern that
+jeopardizes the victim's well-being, including a reasonable fear of retaliation or
+harm that would jeopardize the well-being of the victim or the victim's family;
+
+Section 10:
+SECTION 8. Tennessee Code Annotated, Section 29-13-103(a)(7), is amended by
+deleting the subdivision and substituting:
+(7) The victim or a member of the victim's family reported the offense to the
+proper law enforcement authorities within the time prescribed in § 29-13-108(a), except
+in cases involving a victim of domestic violence, a sexual offense under §§ 39-13-502 –
+39-13-506, § 39-13-509, § 39-13-518, § 39-13-522, § 39-13-527, § 39-13-534, § 39-13-
+535, § 39-15-302, § 39-17-902, or §§ 39-17-1003 – 39-17-1005, a human trafficking
+offense, as defined in § 39-13-314, or stalking under § 39-17-315.
+
+Section 11:
+SECTION 9. Tennessee Code Annotated, Section 29-13-103, is amended by adding
+the following new subsection:
+(c) In cases of domestic violence, sexual offenses, human trafficking, or stalking:
+(1) The claimant may prove the facts required by subsection (a) using
+any court documents and forms of reporting, including an application for an order
+of protection, sexual assault evidence collection kit documentation, verification of
+participation in the home address confidentiality program established under title
+40, chapter 38, part 6, or documentation that the offense was reported to a
+licensed medical provider, licensed mental health provider, tribal health provider,
+or law enforcement agency within one hundred eighty (180) days;
+- 6 - 003037
+(2) The claimant shall not be subjected to invasive questioning and may
+only be interrogated for information strictly necessary to verify eligibility; and
+(3) Upon a showing that a delay in filing a claim under this part occurred
+because of a delay in the testing of, or a delay in the DNA profile matching from,
+a sexual assault evidence collection kit or biological material collected as
+evidence related to a sexual offense, a person who is eligible for compensation
+may receive a waiver of any claim filing deadline.
+
+Section 12:
+SECTION 10. Tennessee Code Annotated, Section 38-1-903, is amended by adding
+the following new subsections:
+(d) A SART has oversight authority over local law enforcement agency handling
+of sexual assault crimes and power to conduct audits and reviews of sexual assault
+crime investigations.
+(e) Each SART must submit an annual report to the general assembly on the law
+enforcement agency's progress in implementing Section 2 of this act.
+
+Section 13:
+SECTION 11. Tennessee Code Annotated, Title 67, Chapter 1, Part 1, is amended by
+adding the following new section:
+A taxpayer may voluntarily allocate any refund due to the taxpayer toward
+funding the law enforcement training required by title 38, chapter 1, part 10 and
+expedited forensic testing of sexual assault evidence collection kits required by § 39-13-
+519(d)(1)(B), pursuant to the Tennessee Sexual Violence Justice Act. The department
+of revenue shall provide a space on each tax return for the taxpayer to indicate such
+allocation.
+
+Section 14:
+SECTION 12. Tennessee Code Annotated, Section 38-8-104, is amended by adding
+the following new subsection:
+- 7 - 003037
+(h) Any funds allocated to the commission that remain unexpended at the end of
+a fiscal year must not revert to the general fund, but must be carried forward into the
+subsequent fiscal year, with fifty percent (50%) of the remainder to be expended to fund
+sensitivity training related to interacting with victims of sexual violence, as required by
+chapter 1, part 10 of this title.
+
+Section 15:
+SECTION 13. This act takes effect July 1, 2025, the public welfare requiring it.
+- 8 - 003037
+[DELETED: S]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0S]
+[DELETED:  -0SSAS]
+[DELETED:  -0SS]
+[DELETED:  -0SS]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 792
+By Behn
+SENATE BILL 906
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 29;
+Title 38; Title 39; Title 40 and Title 67, relative to
+criminal justice.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as the "Tennessee Sexual Violence
+Justice Act."
+SECTION 2. Tennessee Code Annotated, Title 38, Chapter 1, is amended by adding
+the following new part:
+38-1-1001.
+As used in this part:
+(1) "Forensic medical examination" means the same as defined in § 39-
+13-519;
+(2) "Law enforcement personnel" means any law enforcement officer,
+detective, investigator, crime scene technician, or other personnel involved in
+investigating claims of sexual assault or processing evidence related to sexual
+assault;
+(3) "Sexual assault" means any nonconsensual sexual act prohibited
+under title 39, including rape, incest, or statutory rape;
+(4) "Trauma-informed approach" means a manner of interacting with
+victims that is sensitive to the impact of trauma and emphasizes creating a sense
+of safety and empowerment;
+(5) "Victim" means the direct target of an alleged sexual assault;
+SB0906
+003037
+- 1 -
+
+(6) "Victim advocate" means a professional working for a government
+agency or nonprofit organization who provides support services, counseling, or
+assistance to victims of sexual assault; and
+(7) "Victim-centered approach" means an approach that prioritizes the
+rights, needs, and desires of the victim when investigating crimes, collecting
+evidence, and interacting with victims.
+38-1-1002.
+(a) All law enforcement personnel involved in investigating sexual assault crimes
+must complete a minimum of sixteen (16) hours annually of sensitivity training provided
+by the Tennessee peace officer standards and training (POST) commission related to
+interacting with victims of sexual violence.
+(b) The curriculum for the training required by subsection (a) must be developed
+by the POST commission in coordination with sexual violence prevention organizations,
+victim advocates, and healthcare providers who perform forensic medical examinations
+and must emphasize trauma-informed, victim-centered approaches.
+(c) After the sensitivity training is completed, a participant must be assessed in a
+mock situation ensuring the training was comprehended and applied.
+(d) Law enforcement personnel must complete training within one hundred
+twenty (120) days of starting in a sexual assault investigation role.
+(e) Every three (3) years, the POST commission must present, as part of the
+required in-service training for POST-certified law enforcement officers, training on
+sexual assault response and report writing requirements, including:
+(1) Recognizing the symptoms of trauma;
+(2) Understanding the role trauma has played in a victim's life;
+(3) Responding to the needs and concerns of a victim;
+- 2 - 003037
+
+(4) Delivering services in a compassionate, sensitive, and nonjudgmental
+manner;
+(5) Interviewing techniques in accordance with the curriculum standards
+in this subsection (e);
+(6) Understanding cultural perceptions and common myths of sexual
+assault and sexual abuse; and
+(7) Report writing techniques in accordance with the curriculum
+standards in this subsection (e).
+(f) The training required by subsections (a) and (e) must also be presented as
+part of the training for initial police officer standards and training certification.
+(g) In order to provide the training required by subsections (a) and (e), an
+instructor must have successfully completed training on evidence-based, trauma-
+informed, victim-centered responses to cases of sexual assault and must have
+experience responding to sexual assault cases.
+(h) The POST commission is authorized to promulgate rules to effectuate this
+section. The rules must be promulgated in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5. The rules must include the following:
+(1) Evidence-based curriculum standards for report writing and
+immediate response to sexual assault, including trauma-informed, victim-
+centered interview techniques, which have been demonstrated to minimize
+retraumatization, for all law enforcement officers; and
+(2) Evidence-based curriculum standards for trauma-informed, victim-
+centered investigation and interviewing techniques, which have been
+demonstrated to minimize retraumatization, for cases of sexual assault and for all
+law enforcement officers who conduct sexual assault investigations.
+- 3 - 003037
+
+SECTION 3. Tennessee Code Annotated, Section 39-13-519(d)(1), is amended by
+redesignating the subdivision as subdivision (d)(1)(A) and adding the following new subdivision:
+(B)
+(i) By January 1, 2026, the TBI must test all previously untested sexual
+assault evidence collection kits that were submitted prior to July 1, 2025,
+prioritizing kits that are related to ongoing investigations.
+(ii) Effective July 1, 2025, the TBI must test each sexual assault evidence
+collection kit within ninety (90) days of receipt from a law enforcement agency.
+(iii) The TBI must prepare an annual report on the average number of
+days required for testing a sexual assault evidence collection kit over the prior
+calendar year, the number of untested sexual assault evidence collection kits that
+will not be tested within the required period of time, and recommendations for
+how best to meet the requirements of this subdivision (d)(1)(B). The report must
+be submitted by February 1 of each year to the governor and the chairs of the
+judiciary committee of the senate and the committee having jurisdiction over
+criminal justice-related matters of the house of representatives and posted on the
+TBI's website.
+SECTION 4. Tennessee Code Annotated, Section 39-13-519, is amended by adding
+the following new subsection:
+(1) In testing sexual assault evidence collection kits, the TBI must develop
+autosomal DNA profiles that are eligible for entry into the combined DNA index system
+(CODIS) and other relevant state or local DNA databases.
+(2) With the goal of generating a CODIS-eligible DNA profile, if the TBI is unable
+to obtain an autosomal CODIS-eligible DNA profile, then the TBI should evaluate the
+case to determine if another DNA-typing result could be used for investigative purposes.
+- 4 - 003037
+
+(3) In cases where testing has resulted in a DNA profile, the laboratory must
+enter the full profile into the CODIS database and other relevant state or local DNA
+databases. The average completion rate for this analysis and classification must not
+exceed ninety (90) days.
+(4) If the TBI crime laboratories are unable to meet the deadline specified above,
+then kits must be outsourced for testing to an accredited private crime laboratory.
+SECTION 5. Tennessee Code Annotated, Section 39-13-519(d)(2), is amended by
+deleting the language "ten (10) years" and substituting "twenty-five (25) years".
+SECTION 6. Tennessee Code Annotated, Section 29-13-108(a), is amended by
+deleting the first sentence of the subsection and substituting:
+A claim for compensation must be filed not later than two (2) years after
+the occurrence of the crime upon which the claim is based, two (2) years after
+the death of the victim, or twelve (12) years after mental or physical manifestation
+or injury is diagnosed as a result of an act that would constitute a criminal offense
+under §§ 39-13-502 – 39-13-506, § 39-13-509, § 39-13-518, § 39-13-522, § 39-
+13-527, § 39-13-534, § 39-13-535, § 39-15-302, § 39-17-902, or §§ 39-17-1003 –
+39-17-1005, or an attempt, conspiracy, or solicitation to commit such offenses;
+provided, that upon good cause shown, the time period for filing such claim may
+be extended either before or after the expiration of the filing period.
+SECTION 7. Tennessee Code Annotated, Section 29-13-103(a)(4), is amended by
+deleting the subdivision and substituting:
+(4) The claimant has fully cooperated with the police and the district attorney
+general in the investigation and prosecution of the offender, except in cases involving:
+(A) A victim of domestic violence, a sexual offense under §§ 39-13-502 –
+39-13-506, § 39-13-509, § 39-13-518, § 39-13-522, § 39-13-527, § 39-13-534, §
+- 5 - 003037
+
+39-13-535, § 39-15-302, § 39-17-902, or §§ 39-17-1003 – 39-17-1005, a human
+trafficking offense, as defined in § 39-13-314, or stalking under § 39-17-315; or
+(B) A victim where it is determined that the victim's cooperation may be
+or had been impacted due to the victim's age, physical condition, psychological
+state, cultural or linguistic barriers, or another health or safety concern that
+jeopardizes the victim's well-being, including a reasonable fear of retaliation or
+harm that would jeopardize the well-being of the victim or the victim's family;
+SECTION 8. Tennessee Code Annotated, Section 29-13-103(a)(7), is amended by
+deleting the subdivision and substituting:
+(7) The victim or a member of the victim's family reported the offense to the
+proper law enforcement authorities within the time prescribed in § 29-13-108(a), except
+in cases involving a victim of domestic violence, a sexual offense under §§ 39-13-502 –
+39-13-506, § 39-13-509, § 39-13-518, § 39-13-522, § 39-13-527, § 39-13-534, § 39-13-
+535, § 39-15-302, § 39-17-902, or §§ 39-17-1003 – 39-17-1005, a human trafficking
+offense, as defined in § 39-13-314, or stalking under § 39-17-315.
+SECTION 9. Tennessee Code Annotated, Section 29-13-103, is amended by adding
+the following new subsection:
+(c) In cases of domestic violence, sexual offenses, human trafficking, or stalking:
+(1) The claimant may prove the facts required by subsection (a) using
+any court documents and forms of reporting, including an application for an order
+of protection, sexual assault evidence collection kit documentation, verification of
+participation in the home address confidentiality program established under title
+40, chapter 38, part 6, or documentation that the offense was reported to a
+licensed medical provider, licensed mental health provider, tribal health provider,
+or law enforcement agency within one hundred eighty (180) days;
+- 6 - 003037
+
+(2) The claimant shall not be subjected to invasive questioning and may
+only be interrogated for information strictly necessary to verify eligibility; and
+(3) Upon a showing that a delay in filing a claim under this part occurred
+because of a delay in the testing of, or a delay in the DNA profile matching from,
+a sexual assault evidence collection kit or biological material collected as
+evidence related to a sexual offense, a person who is eligible for compensation
+may receive a waiver of any claim filing deadline.
+SECTION 10. Tennessee Code Annotated, Section 38-1-903, is amended by adding
+the following new subsections:
+(d) A SART has oversight authority over local law enforcement agency handling
+of sexual assault crimes and power to conduct audits and reviews of sexual assault
+crime investigations.
+(e) Each SART must submit an annual report to the general assembly on the law
+enforcement agency's progress in implementing Section 2 of this act.
+SECTION 11. Tennessee Code Annotated, Title 67, Chapter 1, Part 1, is amended by
+adding the following new section:
+A taxpayer may voluntarily allocate any refund due to the taxpayer toward
+funding the law enforcement training required by title 38, chapter 1, part 10 and
+expedited forensic testing of sexual assault evidence collection kits required by § 39-13-
+519(d)(1)(B), pursuant to the Tennessee Sexual Violence Justice Act. The department
+of revenue shall provide a space on each tax return for the taxpayer to indicate such
+allocation.
+SECTION 12. Tennessee Code Annotated, Section 38-8-104, is amended by adding
+the following new subsection:
+- 7 - 003037
+
+(h) Any funds allocated to the commission that remain unexpended at the end of
+a fiscal year must not revert to the general fund, but must be carried forward into the
+subsequent fiscal year, with fifty percent (50%) of the remainder to be expended to fund
+sensitivity training related to interacting with victims of sexual violence, as required by
+chapter 1, part 10 of this title.
+SECTION 13. This act takes effect July 1, 2025, the public welfare requiring it.
+- 8 - 003037
+
+[DELETED: S]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0S]
+[DELETED:  -0SSAS]
+[DELETED:  -0SS]
+[DELETED:  -0SS]
+[DELETED:  -0]

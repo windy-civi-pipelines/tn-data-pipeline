@@ -1,0 +1,73 @@
+Title: HOUSE BILL 1301
+Official Title: HOUSE BILL 1301
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Grills
+SENATE BILL 1234
+By Haile
+AN ACT to amend Tennessee Code Annotated, Title 28,
+Chapter 3; Title 39 and Title 40, relative to sexual
+assault.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 28, Chapter 3, Part 1, is amended by
+adding the following as a new section:
+(a) Notwithstanding §§ 28-3-104 and 28-3-118, a civil action or an injury or
+illness based on a sexual assault that occurred when the injured person was eighteen
+(18) years of age or older and is barred as of July 1, 2025, because the applicable
+period of limitation has expired, is hereby revived and action thereon may be
+commenced not earlier than six (6) months after, and not later than two (2) years after
+July 1, 2025.
+(b) Dismissal of a previous action, ordered before July 1, 2025, on grounds that
+the previous action was time-barred is not grounds for dismissal of a revival action
+pursuant to this section.
+(c) As used in this section, "sexual assault" means an offense involving rape, as
+described in § 39-13-502, § 39-13-503, or § 39-13-534; sexual battery, as described in §
+39-13-504, § 39-13-505, or § 39-13-527; or incest, as described in § 39-15-302.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB1234
+002996
+- 1 -
+[DELETED: S(((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1301
+By Grills
+SENATE BILL 1234
+By Haile
+AN ACT to amend Tennessee Code Annotated, Title 28,
+Chapter 3; Title 39 and Title 40, relative to sexual
+assault.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 28, Chapter 3, Part 1, is amended by
+adding the following as a new section:
+(a) Notwithstanding §§ 28-3-104 and 28-3-118, a civil action or an injury or
+illness based on a sexual assault that occurred when the injured person was eighteen
+(18) years of age or older and is barred as of July 1, 2025, because the applicable
+period of limitation has expired, is hereby revived and action thereon may be
+commenced not earlier than six (6) months after, and not later than two (2) years after
+July 1, 2025.
+(b) Dismissal of a previous action, ordered before July 1, 2025, on grounds that
+the previous action was time-barred is not grounds for dismissal of a revival action
+pursuant to this section.
+(c) As used in this section, "sexual assault" means an offense involving rape, as
+described in § 39-13-502, § 39-13-503, or § 39-13-534; sexual battery, as described in §
+39-13-504, § 39-13-505, or § 39-13-527; or incest, as described in § 39-15-302.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB1234
+002996
+- 1 -
+
+[DELETED: S(((S]

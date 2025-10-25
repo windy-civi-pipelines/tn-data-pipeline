@@ -1,0 +1,90 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 158
+By Lamberth
+A RESOLUTION to confirm the appointment of Marquita Qualls to
+the state university board of Tennessee State
+University.
+WHEREAS, Tennessee Code Annotated, Section 49-8-101, provides for the governance
+of Tennessee State University by a state university board; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that the governor
+shall appoint eight members to the state university board of Tennessee State University; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, further provides that at least
+three of the gubernatorial appointees shall be alumni of the institution for which they are serving
+and that at least six of the nine voting members of the state university board shall be residents
+of the State of Tennessee; and
+WHEREAS, Governor Bill Lee has appointed Marquita Qualls to the state university
+board of Tennessee State University for a term that will expire on March 31, 2027; and
+WHEREAS, a graduate of Tennessee State University's chemistry program, Ms. Qualls
+earned her Ph.D. at Purdue University and joined GSK, a major pharmaceutical company, prior
+to founding her own company, Entropia Consulting, a small management consulting firm
+specializing in strategy, operations, and development for STEM-related companies; and
+WHEREAS, she has also served as the president of the National Organization for the
+Professional Advancement of Black Chemists and Chemical Engineers and was a member of
+the team that developed the Leadership Development System for the American Chemical
+Society; and
+HJR0158
+001556
+- 1 -
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that each member
+appointed by the governor to the state university board of Tennessee State University shall be
+subject to confirmation by the senate and the house of representatives; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby confirm the appointment of Marquita Qualls to the state
+university board of Tennessee State University for a term that will expire on March 31, 2027.
+- 2 - 001556
+[DELETED: WWWW]
+[DELETED:  -0WB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 158
+By Lamberth
+A RESOLUTION to confirm the appointment of Marquita Qualls to
+the state university board of Tennessee State
+University.
+WHEREAS, Tennessee Code Annotated, Section 49-8-101, provides for the governance
+of Tennessee State University by a state university board; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that the governor
+shall appoint eight members to the state university board of Tennessee State University; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, further provides that at least
+three of the gubernatorial appointees shall be alumni of the institution for which they are serving
+and that at least six of the nine voting members of the state university board shall be residents
+of the State of Tennessee; and
+WHEREAS, Governor Bill Lee has appointed Marquita Qualls to the state university
+board of Tennessee State University for a term that will expire on March 31, 2027; and
+WHEREAS, a graduate of Tennessee State University's chemistry program, Ms. Qualls
+earned her Ph.D. at Purdue University and joined GSK, a major pharmaceutical company, prior
+to founding her own company, Entropia Consulting, a small management consulting firm
+specializing in strategy, operations, and development for STEM-related companies; and
+WHEREAS, she has also served as the president of the National Organization for the
+Professional Advancement of Black Chemists and Chemical Engineers and was a member of
+the team that developed the Leadership Development System for the American Chemical
+Society; and
+HJR0158
+001556
+- 1 -
+
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that each member
+appointed by the governor to the state university board of Tennessee State University shall be
+subject to confirmation by the senate and the house of representatives; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby confirm the appointment of Marquita Qualls to the state
+university board of Tennessee State University for a term that will expire on March 31, 2027.
+- 2 - 001556
+
+[DELETED: WWWW]
+[DELETED:  -0WB]

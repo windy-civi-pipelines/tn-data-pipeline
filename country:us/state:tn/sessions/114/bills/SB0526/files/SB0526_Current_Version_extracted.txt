@@ -1,0 +1,49 @@
+Title: HOUSE BILL 889
+Official Title: HOUSE BILL 889
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Todd
+SENATE BILL 526
+By Stevens
+AN ACT to amend Tennessee Code Annotated, Title 67,
+relative to taxation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-4-718(b), is amended by deleting
+the language "signed," and substituting instead the language "signed by the person or the
+person's authorized representative,".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0526
+001888
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 889
+By Todd
+SENATE BILL 526
+By Stevens
+AN ACT to amend Tennessee Code Annotated, Title 67,
+relative to taxation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-4-718(b), is amended by deleting
+the language "signed," and substituting instead the language "signed by the person or the
+person's authorized representative,".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0526
+001888
+- 1 -
+
+[DELETED: SS]

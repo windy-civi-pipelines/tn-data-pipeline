@@ -1,0 +1,122 @@
+Title: HOUSE BILL 77
+Official Title: HOUSE BILL 77
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Stevens
+SENATE BILL 237
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 37;
+Title 39 and Chapter 1007 of the Public Acts of
+2024, relative to juvenile offenders.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 37-1-134, is amended by adding the
+following as a new subsection:
+(m)
+(1) Notwithstanding subsections (a), (b), and (l), after a petition has been
+filed alleging delinquency based on conduct that is designated a crime or public
+offense under the laws, including local ordinances, of this state, the court, before
+hearing the petition on the merits, shall transfer the child to the sheriff of the
+county to be held according to law and to be dealt with as an adult in the criminal
+court of competent jurisdiction. The disposition of the child shall be as if the child
+were an adult if:
+(A) The child was sixteen (16) years of age or older at the time of
+the alleged conduct;
+(B) The child has a prior adjudication of delinquency for any
+offense; and
+(C) The court finds:
+(i) There is probable cause to believe that the child
+committed the delinquent act as alleged; and
+(ii) The child is not committable to an institution for the
+developmentally disabled or mentally ill.
+SB0237
+000871
+- 1 -
+(2) A hearing to determine whether the requirements of subdivision
+(m)(1) have been met must be held in conformity with §§ 37-1-124, 37-1-126,
+and 37-1-127.
+(3) Reasonable notice in writing of the time, place, and purpose of the
+hearing must be given to the child, the child's parent, guardian, or other
+custodian at least fourteen (14) days prior to the hearing.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 37-1-134(c), is amended by deleting
+"The transfer pursuant to subsection (a)" and substituting "A transfer pursuant to subsection (a)
+or (m)".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 37-1-159(d)(2), is amended by
+deleting "§ 37-1-134(a) and (b)" and substituting "§ 37-1-134(a), (b), or (m)".
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 37-1-131, is amended by deleting
+subdivision (g)(1)(B).
+
+Section 6:
+SECTION 5. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to acts committed on or after that date.
+- 2 - 000871
+[DELETED: S(((((((]
+[DELETED:  -0((SSSS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 77
+By Stevens
+SENATE BILL 237
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 37;
+Title 39 and Chapter 1007 of the Public Acts of
+2024, relative to juvenile offenders.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 37-1-134, is amended by adding the
+following as a new subsection:
+(m)
+(1) Notwithstanding subsections (a), (b), and (l), after a petition has been
+filed alleging delinquency based on conduct that is designated a crime or public
+offense under the laws, including local ordinances, of this state, the court, before
+hearing the petition on the merits, shall transfer the child to the sheriff of the
+county to be held according to law and to be dealt with as an adult in the criminal
+court of competent jurisdiction. The disposition of the child shall be as if the child
+were an adult if:
+(A) The child was sixteen (16) years of age or older at the time of
+the alleged conduct;
+(B) The child has a prior adjudication of delinquency for any
+offense; and
+(C) The court finds:
+(i) There is probable cause to believe that the child
+committed the delinquent act as alleged; and
+(ii) The child is not committable to an institution for the
+developmentally disabled or mentally ill.
+SB0237
+000871
+- 1 -
+
+(2) A hearing to determine whether the requirements of subdivision
+(m)(1) have been met must be held in conformity with §§ 37-1-124, 37-1-126,
+and 37-1-127.
+(3) Reasonable notice in writing of the time, place, and purpose of the
+hearing must be given to the child, the child's parent, guardian, or other
+custodian at least fourteen (14) days prior to the hearing.
+SECTION 2. Tennessee Code Annotated, Section 37-1-134(c), is amended by deleting
+"The transfer pursuant to subsection (a)" and substituting "A transfer pursuant to subsection (a)
+or (m)".
+SECTION 3. Tennessee Code Annotated, Section 37-1-159(d)(2), is amended by
+deleting "§ 37-1-134(a) and (b)" and substituting "§ 37-1-134(a), (b), or (m)".
+SECTION 4. Tennessee Code Annotated, Section 37-1-131, is amended by deleting
+subdivision (g)(1)(B).
+SECTION 5. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to acts committed on or after that date.
+- 2 - 000871
+
+[DELETED: S(((((((]
+[DELETED:  -0((SSSS]

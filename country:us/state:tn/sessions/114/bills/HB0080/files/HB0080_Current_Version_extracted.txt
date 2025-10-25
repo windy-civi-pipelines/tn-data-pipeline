@@ -1,0 +1,130 @@
+Title: SENATE BILL 35
+Official Title: SENATE BILL 35
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Campbell
+HOUSE BILL 80
+By Hemmer
+AN ACT to amend Tennessee Code Annotated, Title 47,
+relative to speculative tickets.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 47-50-119, is amended by deleting
+the section.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 47-50-121(a), is amended by adding
+the following as a new subdivision:
+( ) "Speculative ticket":
+(A) Means a ticket that is not in the actual or constructive possession of a
+reseller at the time of sale, advertisement, or listing; and
+(B) Includes a ticket sold by a reseller that, at the time of resale, is not:
+(i) In the physical possession of the reseller;
+(ii) Owned by the reseller; or
+(iii) Under contract to be transferred to the reseller;
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 47-50-121, is amended by adding
+the following as a new subsection:
+(e)
+(1)
+(A) A third-party ticket reseller shall not sell or offer to sell a
+speculative ticket.
+(B) A third-party ticket reseller that operates an internet website
+or other electronic service that provides a mechanism for two (2) or more
+HB0080
+000530
+- 1 -
+parties to participate in a resale transaction shall not allow the sale or
+offering for sale of a speculative ticket.
+(2)
+(A) The division of consumer affairs in the office of the attorney
+general and reporter shall enforce this subsection (e). The division shall
+establish a means by which a consumer may submit a complaint for a
+violation of this subsection.
+(B) If the division of consumer affairs finds that a third-party ticket
+reseller violated subdivision (e)(1)(A) or (e)(1)(B), then the division must
+assess a penalty of five thousand dollars ($5,000) per violation. Each
+instance of selling, offering for sale, or allowing the sale or offering for
+sale of a speculative ticket is a separate violation.
+(C) In addition to the remedy described in subdivision (e)(2)(B),
+an individual or entity that has reason to believe that a third-party ticket
+reseller violated subdivision (e)(1)(A) or (e)(1)(B) may bring a cause of
+action in a court of competent jurisdiction. If a court finds that the third-
+party ticket reseller violated subdivision (e)(1)(A) or (e)(1)(B), then the
+court must award the prevailing party actual damages, attorney fees, and
+reasonable court costs.
+
+Section 5:
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 2 - 000530
+[DELETED: SS((((((S(]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 35
+By Campbell
+HOUSE BILL 80
+By Hemmer
+AN ACT to amend Tennessee Code Annotated, Title 47,
+relative to speculative tickets.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 47-50-119, is amended by deleting
+the section.
+SECTION 2. Tennessee Code Annotated, Section 47-50-121(a), is amended by adding
+the following as a new subdivision:
+( ) "Speculative ticket":
+(A) Means a ticket that is not in the actual or constructive possession of a
+reseller at the time of sale, advertisement, or listing; and
+(B) Includes a ticket sold by a reseller that, at the time of resale, is not:
+(i) In the physical possession of the reseller;
+(ii) Owned by the reseller; or
+(iii) Under contract to be transferred to the reseller;
+SECTION 3. Tennessee Code Annotated, Section 47-50-121, is amended by adding
+the following as a new subsection:
+(e)
+(1)
+(A) A third-party ticket reseller shall not sell or offer to sell a
+speculative ticket.
+(B) A third-party ticket reseller that operates an internet website
+or other electronic service that provides a mechanism for two (2) or more
+HB0080
+000530
+- 1 -
+
+parties to participate in a resale transaction shall not allow the sale or
+offering for sale of a speculative ticket.
+(2)
+(A) The division of consumer affairs in the office of the attorney
+general and reporter shall enforce this subsection (e). The division shall
+establish a means by which a consumer may submit a complaint for a
+violation of this subsection.
+(B) If the division of consumer affairs finds that a third-party ticket
+reseller violated subdivision (e)(1)(A) or (e)(1)(B), then the division must
+assess a penalty of five thousand dollars ($5,000) per violation. Each
+instance of selling, offering for sale, or allowing the sale or offering for
+sale of a speculative ticket is a separate violation.
+(C) In addition to the remedy described in subdivision (e)(2)(B),
+an individual or entity that has reason to believe that a third-party ticket
+reseller violated subdivision (e)(1)(A) or (e)(1)(B) may bring a cause of
+action in a court of competent jurisdiction. If a court finds that the third-
+party ticket reseller violated subdivision (e)(1)(A) or (e)(1)(B), then the
+court must award the prevailing party actual damages, attorney fees, and
+reasonable court costs.
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 2 - 000530
+
+[DELETED: SS((((((S(]
+[DELETED:  -0S]

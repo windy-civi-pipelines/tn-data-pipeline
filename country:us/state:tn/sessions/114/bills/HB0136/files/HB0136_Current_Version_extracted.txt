@@ -1,0 +1,116 @@
+Title: SENATE BILL 114
+Official Title: SENATE BILL 114
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Harshbarger
+HOUSE BILL 136
+By Atchley
+AN ACT to amend Tennessee Code Annotated, Section 9-
+21-134, relative to debt reporting requirements.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 9-21-134(a), is amended by adding
+the following as new subdivisions:
+( ) "Covenant violation" means noncompliance with one (1) or more covenants
+as defined in a lending document of a finance transaction;
+( ) "Credit rating downgrade" means the reduction or elimination of a credit
+rating by any nationally recognized statistical rating organization as identified by the
+United States securities and exchange commission;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 9-21-134(c), is amended by deleting
+the subsection and substituting:
+(c)
+(1) The board shall determine the information to be disclosed pursuant to
+subdivision (c)(2).
+(2) Not later than forty-five (45) days following the issuance, reissuance,
+incurrence, execution, or assumption of a finance transaction, the public entity
+shall submit, or cause to be submitted, the information required by the board
+pursuant to subdivision (c)(1) to the governing body of the public entity, with a
+copy also submitted to the comptroller of the treasury or the comptroller's
+designee. If an open meeting of the governing body is not scheduled within the
+forty-five-day period, then the public entity shall give a copy to each member of
+HB0136
+000709
+- 1 -
+the body within such period and present the information required by subdivision
+(c)(1) to the body at the next scheduled meeting.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 9-21-134, is amended by inserting
+the following as a new subsection (d) and redesignating the existing subsection (d) as
+subsection (e):
+(d) The state funding board shall require public entities to:
+(1) Timely comply with continuing disclosure obligations, if applicable;
+(2) Disclose financial obligations and events of default on the Electronic
+Municipal Market Access (EMMA) website of the Municipal Securities
+Rulemaking Board (MSRB), if applicable; and
+(3) Disclose any event of default, covenant violation, or credit rating
+downgrade to the comptroller of the treasury or the comptroller's designee within
+ten (10) business days, in accordance with guidelines approved by the board.
+
+Section 5:
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 000709
+[DELETED: S((S(((]
+[DELETED:  -0S((((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 114
+By Harshbarger
+HOUSE BILL 136
+By Atchley
+AN ACT to amend Tennessee Code Annotated, Section 9-
+21-134, relative to debt reporting requirements.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 9-21-134(a), is amended by adding
+the following as new subdivisions:
+( ) "Covenant violation" means noncompliance with one (1) or more covenants
+as defined in a lending document of a finance transaction;
+( ) "Credit rating downgrade" means the reduction or elimination of a credit
+rating by any nationally recognized statistical rating organization as identified by the
+United States securities and exchange commission;
+SECTION 2. Tennessee Code Annotated, Section 9-21-134(c), is amended by deleting
+the subsection and substituting:
+(c)
+(1) The board shall determine the information to be disclosed pursuant to
+subdivision (c)(2).
+(2) Not later than forty-five (45) days following the issuance, reissuance,
+incurrence, execution, or assumption of a finance transaction, the public entity
+shall submit, or cause to be submitted, the information required by the board
+pursuant to subdivision (c)(1) to the governing body of the public entity, with a
+copy also submitted to the comptroller of the treasury or the comptroller's
+designee. If an open meeting of the governing body is not scheduled within the
+forty-five-day period, then the public entity shall give a copy to each member of
+HB0136
+000709
+- 1 -
+
+the body within such period and present the information required by subdivision
+(c)(1) to the body at the next scheduled meeting.
+SECTION 3. Tennessee Code Annotated, Section 9-21-134, is amended by inserting
+the following as a new subsection (d) and redesignating the existing subsection (d) as
+subsection (e):
+(d) The state funding board shall require public entities to:
+(1) Timely comply with continuing disclosure obligations, if applicable;
+(2) Disclose financial obligations and events of default on the Electronic
+Municipal Market Access (EMMA) website of the Municipal Securities
+Rulemaking Board (MSRB), if applicable; and
+(3) Disclose any event of default, covenant violation, or credit rating
+downgrade to the comptroller of the treasury or the comptroller's designee within
+ten (10) business days, in accordance with guidelines approved by the board.
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 000709
+
+[DELETED: S((S(((]
+[DELETED:  -0S((((S]

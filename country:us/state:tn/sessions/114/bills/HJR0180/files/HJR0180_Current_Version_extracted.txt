@@ -1,0 +1,63 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 180
+By Reeves
+A RESOLUTION urging the federal government to streamline the
+legal immigration process.
+WHEREAS, enforcing our nation's immigration laws is critically important to the national
+security and public safety of the United States; and
+WHEREAS, the American people deserve a federal government that puts their interests
+first and a government that understands its sacred obligation to prioritize the safety, security,
+and financial and economic well-being of Americans; and
+WHEREAS, to this end, our country and the State of Tennessee would benefit greatly
+from streamling the legal immigration process; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we urge the federal government to streamline the legal immigration
+process.
+BE IT FURTHER RESOLVED, that a certified copy of this resolution be delivered to the
+President of the United States, Donald J. Trump; the Speaker and the Clerk of the U.S. House
+of Representatives; the President and the Secretary of the U.S. Senate; and each member of
+Tennessee's Congressional delegation.
+HJR0180
+003341
+- 1 -
+[DELETED: WBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 180
+By Reeves
+A RESOLUTION urging the federal government to streamline the
+legal immigration process.
+WHEREAS, enforcing our nation's immigration laws is critically important to the national
+security and public safety of the United States; and
+WHEREAS, the American people deserve a federal government that puts their interests
+first and a government that understands its sacred obligation to prioritize the safety, security,
+and financial and economic well-being of Americans; and
+WHEREAS, to this end, our country and the State of Tennessee would benefit greatly
+from streamling the legal immigration process; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we urge the federal government to streamline the legal immigration
+process.
+BE IT FURTHER RESOLVED, that a certified copy of this resolution be delivered to the
+President of the United States, Donald J. Trump; the Speaker and the Clerk of the U.S. House
+of Representatives; the President and the Secretary of the U.S. Senate; and each member of
+Tennessee's Congressional delegation.
+HJR0180
+003341
+- 1 -
+
+[DELETED: WBB]

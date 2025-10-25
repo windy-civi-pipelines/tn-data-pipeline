@@ -1,0 +1,86 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 91
+By Johnson
+A RESOLUTION to confirm the appointment of Billy Bryan of
+Shelby County to the State Textbook and
+Instructional Materials Quality Commission.
+WHEREAS, Tennessee Code Annotated, Section 49-6-2201, provides for the creation of
+the State Textbook and Instructional Materials Quality Commission; and
+WHEREAS, Tennessee Code Annotated, Section 49-6-2201(a)(1)(C)(ii), provides that
+the governor shall appoint a teacher or instructional supervisor in the upper grade subjects,
+grades nine through twelve (9-12), to the State Textbook and Instructional Materials Quality
+Commission; and
+WHEREAS, Governor Bill Lee, acting pursuant to Tennessee Code Annotated, Section
+49-6-2201(a)(1)(C)(ii), has appointed Billy Bryan of Shelby County as a member of the State
+Textbook and Instructional Materials Quality Commission for a term that expires June 30, 2027;
+and
+WHEREAS, for the past twenty-five years, Mr. Bryan has served as a teacher at
+Millington Central High School, where he has taught such courses as economics, advanced
+placement macroeconomics, advanced placement human geography, and contemporary
+issues; he holds a Bachelor of Arts degree in History and a Master of Arts degree in Teaching
+from the University of Memphis; and
+WHEREAS, Tennessee Code Annotated, Section 49-6-2201(b)(1), provides that each
+appointed member shall be confirmed by joint resolution of the General Assembly upon
+recommendation of the Education Committee of the Senate and the Committee of the House of
+Representatives having jurisdiction over such matter; now, therefore,
+SJR0091
+001531
+- 1 -
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we hereby confirm the appointment of Billy Bryan to
+the State Textbook and Instructional Materials Quality Commission for a term that expires June
+30, 2027.
+- 2 - 001531
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 91
+By Johnson
+A RESOLUTION to confirm the appointment of Billy Bryan of
+Shelby County to the State Textbook and
+Instructional Materials Quality Commission.
+WHEREAS, Tennessee Code Annotated, Section 49-6-2201, provides for the creation of
+the State Textbook and Instructional Materials Quality Commission; and
+WHEREAS, Tennessee Code Annotated, Section 49-6-2201(a)(1)(C)(ii), provides that
+the governor shall appoint a teacher or instructional supervisor in the upper grade subjects,
+grades nine through twelve (9-12), to the State Textbook and Instructional Materials Quality
+Commission; and
+WHEREAS, Governor Bill Lee, acting pursuant to Tennessee Code Annotated, Section
+49-6-2201(a)(1)(C)(ii), has appointed Billy Bryan of Shelby County as a member of the State
+Textbook and Instructional Materials Quality Commission for a term that expires June 30, 2027;
+and
+WHEREAS, for the past twenty-five years, Mr. Bryan has served as a teacher at
+Millington Central High School, where he has taught such courses as economics, advanced
+placement macroeconomics, advanced placement human geography, and contemporary
+issues; he holds a Bachelor of Arts degree in History and a Master of Arts degree in Teaching
+from the University of Memphis; and
+WHEREAS, Tennessee Code Annotated, Section 49-6-2201(b)(1), provides that each
+appointed member shall be confirmed by joint resolution of the General Assembly upon
+recommendation of the Education Committee of the Senate and the Committee of the House of
+Representatives having jurisdiction over such matter; now, therefore,
+SJR0091
+001531
+- 1 -
+
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we hereby confirm the appointment of Billy Bryan to
+the State Textbook and Instructional Materials Quality Commission for a term that expires June
+30, 2027.
+- 2 - 001531
+
+[DELETED:  -0]

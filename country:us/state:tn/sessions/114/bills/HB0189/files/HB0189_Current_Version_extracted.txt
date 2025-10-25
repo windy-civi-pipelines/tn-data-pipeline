@@ -1,0 +1,90 @@
+Title: SENATE BILL 397
+Official Title: SENATE BILL 397
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Rose
+HOUSE BILL 189
+By Gant
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 4, Part 17, relative to taxation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-4-1703, is amended by deleting
+subsections (a) and (b) and substituting instead the following:
+(a)
+(1) For purposes of this part, the tax year begins on June 1 of each year
+and ends on May 31 of the following year. The privilege tax established by this
+part is due and payable on June 1 of each tax year. Taxes paid after June 1 are
+delinquent.
+(2) The privilege tax imposed by this part is:
+For a tax year ending on or before May 31, 2026 $400
+For a tax year ending after May 31, 2026 $0
+(b) A person who is licensed or registered for two (2) or more professions taxed
+pursuant to this part is not required to pay more than one (1) tax in an amount set by
+subsection (a).
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 67-4-1703, is amended by adding
+the following new subsection:
+(e) The tax shall not be levied upon the privilege of engaging in a vocation,
+profession, business, or occupation listed in § 67-4-1702 on or after June 1, 2026. This
+subsection (e) does not absolve a taxpayer of liability for a tax duly levied by this part
+during a tax year ending before June 1, 2026.
+HB0189
+001769
+- 1 -
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to privilege taxes due and payable after May 31, 2026.
+- 2 - 001769
+[DELETED: S(  $   $(S(]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 397
+By Rose
+HOUSE BILL 189
+By Gant
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 4, Part 17, relative to taxation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-4-1703, is amended by deleting
+subsections (a) and (b) and substituting instead the following:
+(a)
+(1) For purposes of this part, the tax year begins on June 1 of each year
+and ends on May 31 of the following year. The privilege tax established by this
+part is due and payable on June 1 of each tax year. Taxes paid after June 1 are
+delinquent.
+(2) The privilege tax imposed by this part is:
+For a tax year ending on or before May 31, 2026 $400
+For a tax year ending after May 31, 2026 $0
+(b) A person who is licensed or registered for two (2) or more professions taxed
+pursuant to this part is not required to pay more than one (1) tax in an amount set by
+subsection (a).
+SECTION 2. Tennessee Code Annotated, Section 67-4-1703, is amended by adding
+the following new subsection:
+(e) The tax shall not be levied upon the privilege of engaging in a vocation,
+profession, business, or occupation listed in § 67-4-1702 on or after June 1, 2026. This
+subsection (e) does not absolve a taxpayer of liability for a tax duly levied by this part
+during a tax year ending before June 1, 2026.
+HB0189
+001769
+- 1 -
+
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to privilege taxes due and payable after May 31, 2026.
+- 2 - 001769
+
+[DELETED: S(  $   $(S(]
+[DELETED:  -0S]

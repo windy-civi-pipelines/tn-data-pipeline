@@ -1,0 +1,53 @@
+Title: SENATE BILL 118
+Official Title: SENATE BILL 118
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Hatcher
+HOUSE BILL 54
+By Moon
+AN ACT to amend Tennessee Code Annotated, Title 43;
+Title 44; Title 47; Title 48 and Title 66, relative to
+property.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 66-29-165(b), is amended by
+designating the existing language as subdivision (b)(1) and adding the following as subdivision
+(b)(2):
+(2) The report may be submitted electronically.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0054
+000993
+- 1 -
+[DELETED: S(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 118
+By Hatcher
+HOUSE BILL 54
+By Moon
+AN ACT to amend Tennessee Code Annotated, Title 43;
+Title 44; Title 47; Title 48 and Title 66, relative to
+property.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 66-29-165(b), is amended by
+designating the existing language as subdivision (b)(1) and adding the following as subdivision
+(b)(2):
+(2) The report may be submitted electronically.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0054
+000993
+- 1 -
+
+[DELETED: S(S]

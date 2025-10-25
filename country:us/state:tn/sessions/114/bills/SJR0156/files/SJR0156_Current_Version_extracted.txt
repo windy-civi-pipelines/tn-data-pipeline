@@ -1,0 +1,147 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 2
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 156
+By Massey
+A RESOLUTION to recognize Johnnie Sharp, Jr., on the occasion
+of his retirement.
+WHEREAS, our nation was conceived by individuals who were willing to sacrifice their
+personal concerns to ensure the public safety and welfare, and the Volunteer State is especially
+proud to be the home of so many valiant individuals; and
+WHEREAS, one such person is Johnnie Sharp, Jr., who took his much-deserved
+retirement from the Federal Bureau of Investigation (FBI) on January 31, 2025; and
+WHEREAS, in August 2022, FBI Director Christopher Wray named Johnnie Sharp, Jr.,
+as the Assistant Director of the IT Infrastructure Division at the FBI's campus in Huntsville,
+Alabama; he most recently served as special agent in charge of the Birmingham Field Office in
+Alabama; and
+WHEREAS, Mr. Sharp is the first person to hold an Assistant Director position in
+Huntsville, where the FBI is locating some of its technical and specialized training activities; and
+WHEREAS, Johnnie Sharp, Jr., joined the FBI as a special agent in 1998 and was
+assigned to the Pittsburgh Field Office to investigate counterintelligence and counterterrorism
+matters; he also served as a firearms instructor and on the SWAT Team; and
+WHEREAS, in 2005, he was promoted to Supervisory Special Agent and transferred to
+one of the International Terrorism sections in the Counterterrorism Division at FBI Headquarters
+in Washington, D.C.; and
+WHEREAS, in 2008, Mr. Sharp was named a Squad Supervisor of the
+Counterintelligence, Cyber, and Technical programs in the Jackson Field Office in Mississippi;
+and
+WHEREAS, he served for several months as the FBI's Deputy On-scene Commander in
+Iraq in 2009, in which position he was responsible for leading counterterrorism operations; and
+SJR0156
+003514
+- 1 -
+WHEREAS, after returning to Mississippi, Johnnie Sharp, Jr., was promoted in 2013 to
+Assistant Special Agent in Charge of the Jackson Field Office's National Security Branch, where
+he managed the Cyber, Counterintelligence, Counterterrorism, Weapons of Mass Destruction,
+Crisis Management, and Technical programs; and
+WHEREAS, Mr. Sharp was promoted to Section Chief of the Technical Surveillance
+
+Section 2:
+Section in the Operational Technology Division at Headquarters in 2015; as Section Chief, he
+provided management over eight technical units responsible for evidence and intelligence
+collection capabilities; and
+WHEREAS, during his estimable career, Johnnie Sharp, Jr., served temporary FBI
+assignments in London, Cairo, New Delhi, and Riyadh, Saudi Arabia; he was selected to serve
+as the Special Agent in Charge of the Birmingham Field Office in Alabama in 2017; and
+WHEREAS, Mr. Sharp holds a bachelor's degree from the University of Tennessee; prior
+to beginning his distinguished tenure with the FBI, he served as a deputy sheriff and police
+officer in Knoxville; and
+WHEREAS, Johnnie Sharp, Jr., epitomizes the spirit and commitment that are
+characteristic of a true Tennessean, and his professionalism and dedication to public service
+are evident to all who know him; and
+WHEREAS, we find it appropriate to recognize and applaud Mr. Sharp for his dedication
+to our nation and the State of Tennessee and its citizens; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and commend Johnnie Sharp, Jr., on the
+occasion of his retirement from the Federal Bureau of Investigation, thank him for his
+meritorious service, and extend to him our heartfelt wishes for a happy and fulfilling retirement
+and every continued success in his future endeavors.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+- 2 - 003514
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 003514
+[DELETED: WWWWWWWW]
+[DELETED:  -0WWWWWWBB]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 156
+By Massey
+A RESOLUTION to recognize Johnnie Sharp, Jr., on the occasion
+of his retirement.
+WHEREAS, our nation was conceived by individuals who were willing to sacrifice their
+personal concerns to ensure the public safety and welfare, and the Volunteer State is especially
+proud to be the home of so many valiant individuals; and
+WHEREAS, one such person is Johnnie Sharp, Jr., who took his much-deserved
+retirement from the Federal Bureau of Investigation (FBI) on January 31, 2025; and
+WHEREAS, in August 2022, FBI Director Christopher Wray named Johnnie Sharp, Jr.,
+as the Assistant Director of the IT Infrastructure Division at the FBI's campus in Huntsville,
+Alabama; he most recently served as special agent in charge of the Birmingham Field Office in
+Alabama; and
+WHEREAS, Mr. Sharp is the first person to hold an Assistant Director position in
+Huntsville, where the FBI is locating some of its technical and specialized training activities; and
+WHEREAS, Johnnie Sharp, Jr., joined the FBI as a special agent in 1998 and was
+assigned to the Pittsburgh Field Office to investigate counterintelligence and counterterrorism
+matters; he also served as a firearms instructor and on the SWAT Team; and
+WHEREAS, in 2005, he was promoted to Supervisory Special Agent and transferred to
+one of the International Terrorism sections in the Counterterrorism Division at FBI Headquarters
+in Washington, D.C.; and
+WHEREAS, in 2008, Mr. Sharp was named a Squad Supervisor of the
+Counterintelligence, Cyber, and Technical programs in the Jackson Field Office in Mississippi;
+and
+WHEREAS, he served for several months as the FBI's Deputy On-scene Commander in
+Iraq in 2009, in which position he was responsible for leading counterterrorism operations; and
+SJR0156
+003514
+- 1 -
+
+WHEREAS, after returning to Mississippi, Johnnie Sharp, Jr., was promoted in 2013 to
+Assistant Special Agent in Charge of the Jackson Field Office's National Security Branch, where
+he managed the Cyber, Counterintelligence, Counterterrorism, Weapons of Mass Destruction,
+Crisis Management, and Technical programs; and
+WHEREAS, Mr. Sharp was promoted to Section Chief of the Technical Surveillance
+Section in the Operational Technology Division at Headquarters in 2015; as Section Chief, he
+provided management over eight technical units responsible for evidence and intelligence
+collection capabilities; and
+WHEREAS, during his estimable career, Johnnie Sharp, Jr., served temporary FBI
+assignments in London, Cairo, New Delhi, and Riyadh, Saudi Arabia; he was selected to serve
+as the Special Agent in Charge of the Birmingham Field Office in Alabama in 2017; and
+WHEREAS, Mr. Sharp holds a bachelor's degree from the University of Tennessee; prior
+to beginning his distinguished tenure with the FBI, he served as a deputy sheriff and police
+officer in Knoxville; and
+WHEREAS, Johnnie Sharp, Jr., epitomizes the spirit and commitment that are
+characteristic of a true Tennessean, and his professionalism and dedication to public service
+are evident to all who know him; and
+WHEREAS, we find it appropriate to recognize and applaud Mr. Sharp for his dedication
+to our nation and the State of Tennessee and its citizens; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and commend Johnnie Sharp, Jr., on the
+occasion of his retirement from the Federal Bureau of Investigation, thank him for his
+meritorious service, and extend to him our heartfelt wishes for a happy and fulfilling retirement
+and every continued success in his future endeavors.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+- 2 - 003514
+
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 003514
+
+[DELETED: WWWWWWWW]
+[DELETED:  -0WWWWWWBB]
+[DELETED:  -0]

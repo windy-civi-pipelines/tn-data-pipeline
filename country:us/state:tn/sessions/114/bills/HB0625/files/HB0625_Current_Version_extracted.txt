@@ -1,0 +1,77 @@
+Title: SENATE BILL 662
+Official Title: SENATE BILL 662
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Akbari
+HOUSE BILL 625
+By Hardaway
+AN ACT to amend Tennessee Code Annotated, Title 33;
+Title 40 and Title 52, relative to mental health
+evaluations.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 33-6-401, is amended by
+redesignating the section as subsection (a) and adding the following:
+(b)
+(1) There is a rebuttable presumption that a person meets the standard
+in subsection (a) for emergency detention and examination if the person was
+charged with an offense described in subdivision (b)(3) and ordered by the
+criminal, circuit, or general sessions court to undergo an evaluation under § 33-7-
+301 to determine whether the person is incompetent to stand trial or the person's
+mental capacity at the time of the commission of the crime.
+(2) The presumption established by subdivision (b)(1) may be rebutted
+only by clear and convincing evidence that the person does not pose an
+imminent substantial likelihood of serious harm.
+(3) This subsection (b) applies to any offense for which the defendant, if
+convicted, would be required to serve at least eighty-five percent (85%) of the
+sentence imposed before becoming eligible for release from incarceration,
+pursuant to § 40-35-501.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0625
+000612
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 662
+By Akbari
+HOUSE BILL 625
+By Hardaway
+AN ACT to amend Tennessee Code Annotated, Title 33;
+Title 40 and Title 52, relative to mental health
+evaluations.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 33-6-401, is amended by
+redesignating the section as subsection (a) and adding the following:
+(b)
+(1) There is a rebuttable presumption that a person meets the standard
+in subsection (a) for emergency detention and examination if the person was
+charged with an offense described in subdivision (b)(3) and ordered by the
+criminal, circuit, or general sessions court to undergo an evaluation under § 33-7-
+301 to determine whether the person is incompetent to stand trial or the person's
+mental capacity at the time of the commission of the crime.
+(2) The presumption established by subdivision (b)(1) may be rebutted
+only by clear and convincing evidence that the person does not pose an
+imminent substantial likelihood of serious harm.
+(3) This subsection (b) applies to any offense for which the defendant, if
+convicted, would be required to serve at least eighty-five percent (85%) of the
+sentence imposed before becoming eligible for release from incarceration,
+pursuant to § 40-35-501.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+HB0625
+000612
+- 1 -
+
+[DELETED: SS]

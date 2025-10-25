@@ -1,0 +1,96 @@
+Title: SENATE BILL 665
+Official Title: SENATE BILL 665
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Taylor
+HOUSE BILL 613
+By Vaughan
+AN ACT to amend Tennessee Code Annotated, Title 69,
+relative to mitigation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 69-3-108(g), is amended by adding
+the following new subdivision:
+(6) On or before July 1, 2025, and on or before July 1 of each year thereafter,
+the division of water resources in the department, in collaboration with United States
+army corps of engineers, as necessary, shall report the following information to the
+governor, the comptroller of the treasury, the chair of the committee of the house of
+representatives having jurisdiction over commerce, and the chair of the commerce and
+labor committee of the senate the following information for the preceding twelve (12)
+months:
+(A) The number of applications for permits filed pursuant to this section;
+and
+(B) For permits required to have a provision for adequate compensatory
+mitigation pursuant to subdivision (g)(4)(E), the mechanism of compensatory
+mitigation provided for in the permit, including mitigation banking, permittee-
+responsible mitigation, or in-lieu fee payments as approved by the department. If
+the mechanism of compensatory mitigation is:
+(i) An in-lieu fee program, then the report must include the in-lieu
+fee instrument sponsor, the number of mitigation credits sold for the
+HB0613
+002531
+- 1 -
+permitted project, and the amount of money received by the sponsor for
+such credits; and
+(ii) Mitigation banking, then the report must include the mitigation
+bank sponsor, the number of mitigation credits sold for the permitted
+project, and the amount of money received by the sponsor for such
+credits.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 002531
+[DELETED: S((((]
+[DELETED:  -0(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 665
+By Taylor
+HOUSE BILL 613
+By Vaughan
+AN ACT to amend Tennessee Code Annotated, Title 69,
+relative to mitigation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 69-3-108(g), is amended by adding
+the following new subdivision:
+(6) On or before July 1, 2025, and on or before July 1 of each year thereafter,
+the division of water resources in the department, in collaboration with United States
+army corps of engineers, as necessary, shall report the following information to the
+governor, the comptroller of the treasury, the chair of the committee of the house of
+representatives having jurisdiction over commerce, and the chair of the commerce and
+labor committee of the senate the following information for the preceding twelve (12)
+months:
+(A) The number of applications for permits filed pursuant to this section;
+and
+(B) For permits required to have a provision for adequate compensatory
+mitigation pursuant to subdivision (g)(4)(E), the mechanism of compensatory
+mitigation provided for in the permit, including mitigation banking, permittee-
+responsible mitigation, or in-lieu fee payments as approved by the department. If
+the mechanism of compensatory mitigation is:
+(i) An in-lieu fee program, then the report must include the in-lieu
+fee instrument sponsor, the number of mitigation credits sold for the
+HB0613
+002531
+- 1 -
+
+permitted project, and the amount of money received by the sponsor for
+such credits; and
+(ii) Mitigation banking, then the report must include the mitigation
+bank sponsor, the number of mitigation credits sold for the permitted
+project, and the amount of money received by the sponsor for such
+credits.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 002531
+
+[DELETED: S((((]
+[DELETED:  -0(S]

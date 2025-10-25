@@ -1,0 +1,98 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 428
+By Watson
+A RESOLUTION to recognize and congratulate Chattanooga
+Employees Federal Credit Union on the
+occasion of its 100th anniversary.
+WHEREAS, it is fitting that the members of this General Assembly recognize those
+dynamic financial institutions whose contributions have been vital to the economic life of their
+respective communities; and
+WHEREAS, for the past century, Chattanooga Federal Employees Credit Union has
+capably served and earned the trust of customers in Tennessee; and
+WHEREAS, a not-for-profit, member-owned financial institution that exists to serve its
+members, Chattanooga Federal was chartered on January 13, 1925, and is the oldest
+established credit union in the region; and
+WHEREAS, Chattanooga Federal offers a complete line of financial products and
+services to meet customer needs; and
+WHEREAS, all family members of those eligible for membership may also join the credit
+union and take advantage of the many services; and
+WHEREAS, by virtue of being a member of Chattanooga Federal, individuals' savings
+are federally insured to at least $250,000 and backed by the full faith and credit of the United
+States Government through the National Credit Union Administration, a U.S. Government
+agency; and
+WHEREAS, Chattanooga Federal has demonstrated a steadfast commitment to
+excellence for a century now, serving customers with nothing less than the utmost
+professionalism and financial acumen; now, therefore,
+SJR0428
+007221
+- 1 -
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and congratulate the leadership, board
+members, and employees of Chattanooga Federal Employees Credit Union on the occasion of
+the institution's 100th anniversary, commend their unflagging commitment to quality and
+integrity, and extend to them our best wishes for much continued success in the future.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 007221
+[DELETED: 0 ]
+[DELETED:  -0B0 B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 428
+By Watson
+A RESOLUTION to recognize and congratulate Chattanooga
+Employees Federal Credit Union on the
+occasion of its 100th anniversary.
+WHEREAS, it is fitting that the members of this General Assembly recognize those
+dynamic financial institutions whose contributions have been vital to the economic life of their
+respective communities; and
+WHEREAS, for the past century, Chattanooga Federal Employees Credit Union has
+capably served and earned the trust of customers in Tennessee; and
+WHEREAS, a not-for-profit, member-owned financial institution that exists to serve its
+members, Chattanooga Federal was chartered on January 13, 1925, and is the oldest
+established credit union in the region; and
+WHEREAS, Chattanooga Federal offers a complete line of financial products and
+services to meet customer needs; and
+WHEREAS, all family members of those eligible for membership may also join the credit
+union and take advantage of the many services; and
+WHEREAS, by virtue of being a member of Chattanooga Federal, individuals' savings
+are federally insured to at least $250,000 and backed by the full faith and credit of the United
+States Government through the National Credit Union Administration, a U.S. Government
+agency; and
+WHEREAS, Chattanooga Federal has demonstrated a steadfast commitment to
+excellence for a century now, serving customers with nothing less than the utmost
+professionalism and financial acumen; now, therefore,
+SJR0428
+007221
+- 1 -
+
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and congratulate the leadership, board
+members, and employees of Chattanooga Federal Employees Credit Union on the occasion of
+the institution's 100th anniversary, commend their unflagging commitment to quality and
+integrity, and extend to them our best wishes for much continued success in the future.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 007221
+
+[DELETED: 0 ]
+[DELETED:  -0B0 B]

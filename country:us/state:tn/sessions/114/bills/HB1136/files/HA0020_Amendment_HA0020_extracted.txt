@@ -1,0 +1,183 @@
+Title: AMEND S e n ate Bill No. 556* House Bill No. 1136
+Official Title: AMEND S e n ate Bill No. 556* House Bill No. 1136
+Number of Sections: 9
+Source: versions - Amendment HA0020
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+House Commerce 1
+Amendment No. 1 to HB1136
+Vaughan
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 65-5-202, is amended by deleting
+subsections (a) and (b) and substituting:
+(a) As used in this part:
+(1) "Broadband internet access service":
+(A) Has the same meaning as defined in 47 CFR 8.1, or a
+successor federal rule; and
+(B) Does not include intrastate service that was tariffed with the
+public utility commission and in effect as of May 15, 2006; furthermore,
+the intrastate service shall not be reclassified, bundled, de-tariffed,
+declared obsolete, or otherwise recharacterized to avoid the imposition of
+inspection fees by the public utility commission; and
+(2) "Interconnected VoIP service" has the same meaning as provided in
+47 U.S.C. § 153, or a successor federal law.
+(b)
+(1) Broadband internet access services are not telecommunications
+services under the laws of this state.
+(2) This part does not:
+(A) Restrict any authority delegated to the public utility
+commission or another state agency to administer a federal grant
+program under federal statute, rule, or order;
+HA0020
+003552
+- 1 -
+(B) Restrict the application to broadband internet access service,
+or providers thereof, of any law that applies generally to the conduct of
+business in this state related to consumer protection and fair competition;
+(C) Modify or affect the rights or obligations of any carrier under
+the federal Telecommunications Act of 1996 (47 U.S.C. § 151, et seq.); or
+(D) Restrict the assessment of nondiscriminatory fees against
+interconnected VoIP service associated with enhanced 911 service,
+telecommunications relay services, or universal service assessments
+under § 65-5-107.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 65-5-203, is amended by deleting the
+
+Section 4:
+section and substituting:
+Except as provided in § 65-5-202, a government entity within this state, including
+the public utility commission and any agency or subdivision of this state, shall not enact,
+adopt, or enforce any law, rule, regulation, ordinance, standard, order, or other provision
+with the force of law that has the effect of regulating the entry, rates, terms, or conditions
+of any broadband internet access service or interconnected VoIP service, or otherwise
+treating a provider of either broadband internet access service or interconnected VoIP
+service as a carrier.
+
+Section 5:
+SECTION 3. Tennessee Code Annotated, Section 65-5-109(q), is amended by deleting
+the subsection.
+
+Section 6:
+SECTION 4. Tennessee Code Annotated, Section 65-4-101(6), is amended by adding
+the following as a new subdivision:
+( ) "Public utility" does not include a provider, owner, operator, or manager of
+broadband internet access services, as defined in § 65-5-202;
+
+Section 7:
+SECTION 5. Tennessee Code Annotated, Section 65-4-101, is amended by deleting
+subdivision (7) and substituting:
+(7) "Telecommunications service provider":
+- 2 - 003552
+(A) Means any incumbent local exchange telephone company or
+certificated individual or entity, or individual or entity operating pursuant to the
+approval by the former public service commission of a franchise within § 65-4-
+207(b), authorized by law to provide, and offering or providing for hire, any
+telecommunications service, telephone service, telegraph service, paging
+service, or communications service similar to such services unless otherwise
+exempted from this definition by state or federal law; and
+(B) Does not include an individual or entity that constructs, owns,
+operates, manages, offers, or maintains broadband internet access services, as
+defined in § 65-5-202.
+
+Section 8:
+SECTION 6. Tennessee Code Annotated, Section 65-25-102(13), is amended by
+inserting "broadband internet access service, as defined in § 65-5-202, or" between "does not
+include" and "the furnishing of telephone service".
+
+Section 9:
+SECTION 7. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 003552
+[DELETED:  a HS((((((]
+[DELETED:  -0(((S(]
+[DELETED:  -0SS]
+
+
+================================================================================
+
+Raw Text:
+House Commerce 1
+Amendment No. 1 to HB1136
+Vaughan
+Signature of Sponsor
+AMEND S e n ate Bill No. 556* House Bill No. 1136
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 65-5-202, is amended by deleting
+subsections (a) and (b) and substituting:
+(a) As used in this part:
+(1) "Broadband internet access service":
+(A) Has the same meaning as defined in 47 CFR 8.1, or a
+successor federal rule; and
+(B) Does not include intrastate service that was tariffed with the
+public utility commission and in effect as of May 15, 2006; furthermore,
+the intrastate service shall not be reclassified, bundled, de-tariffed,
+declared obsolete, or otherwise recharacterized to avoid the imposition of
+inspection fees by the public utility commission; and
+(2) "Interconnected VoIP service" has the same meaning as provided in
+47 U.S.C. § 153, or a successor federal law.
+(b)
+(1) Broadband internet access services are not telecommunications
+services under the laws of this state.
+(2) This part does not:
+(A) Restrict any authority delegated to the public utility
+commission or another state agency to administer a federal grant
+program under federal statute, rule, or order;
+HA0020
+003552
+- 1 -
+
+(B) Restrict the application to broadband internet access service,
+or providers thereof, of any law that applies generally to the conduct of
+business in this state related to consumer protection and fair competition;
+(C) Modify or affect the rights or obligations of any carrier under
+the federal Telecommunications Act of 1996 (47 U.S.C. § 151, et seq.); or
+(D) Restrict the assessment of nondiscriminatory fees against
+interconnected VoIP service associated with enhanced 911 service,
+telecommunications relay services, or universal service assessments
+under § 65-5-107.
+SECTION 2. Tennessee Code Annotated, Section 65-5-203, is amended by deleting the
+section and substituting:
+Except as provided in § 65-5-202, a government entity within this state, including
+the public utility commission and any agency or subdivision of this state, shall not enact,
+adopt, or enforce any law, rule, regulation, ordinance, standard, order, or other provision
+with the force of law that has the effect of regulating the entry, rates, terms, or conditions
+of any broadband internet access service or interconnected VoIP service, or otherwise
+treating a provider of either broadband internet access service or interconnected VoIP
+service as a carrier.
+SECTION 3. Tennessee Code Annotated, Section 65-5-109(q), is amended by deleting
+the subsection.
+SECTION 4. Tennessee Code Annotated, Section 65-4-101(6), is amended by adding
+the following as a new subdivision:
+( ) "Public utility" does not include a provider, owner, operator, or manager of
+broadband internet access services, as defined in § 65-5-202;
+SECTION 5. Tennessee Code Annotated, Section 65-4-101, is amended by deleting
+subdivision (7) and substituting:
+(7) "Telecommunications service provider":
+- 2 - 003552
+
+(A) Means any incumbent local exchange telephone company or
+certificated individual or entity, or individual or entity operating pursuant to the
+approval by the former public service commission of a franchise within § 65-4-
+207(b), authorized by law to provide, and offering or providing for hire, any
+telecommunications service, telephone service, telegraph service, paging
+service, or communications service similar to such services unless otherwise
+exempted from this definition by state or federal law; and
+(B) Does not include an individual or entity that constructs, owns,
+operates, manages, offers, or maintains broadband internet access services, as
+defined in § 65-5-202.
+SECTION 6. Tennessee Code Annotated, Section 65-25-102(13), is amended by
+inserting "broadband internet access service, as defined in § 65-5-202, or" between "does not
+include" and "the furnishing of telephone service".
+SECTION 7. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 003552
+
+[DELETED:  a HS((((((]
+[DELETED:  -0(((S(]
+[DELETED:  -0SS]

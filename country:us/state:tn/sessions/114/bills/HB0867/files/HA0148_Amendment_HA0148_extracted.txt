@@ -1,0 +1,73 @@
+Title: AMEND S e n ate Bill No. 898 House Bill No. 867*
+Official Title: AMEND S e n ate Bill No. 898 House Bill No. 867*
+Number of Sections: 1
+Source: versions - Amendment HA0148
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House Insurance 1
+Amendment No. 1 to HB0867
+Kumar
+Signature of Sponsor
+by deleting § 71-5-805 in SECTION 1 and substituting:
+71-5-805. Pilot participation goals.
+The bureau shall implement the pilot program in as many counties as necessary
+to ensure participation of no more than three hundred (300) eligible participants. The
+participating managed care organization shall ensure that eligible participants in the
+counties selected by the bureau have access to the pilot program. The pilot program
+must be operational no later than one hundred eighty (180) calendar days after the date
+on which the contract is entered between the participating managed care organization
+and the technology vendor, and must conclude no later than two (2) years after the date
+on which the pilot program becomes operational.
+AND FURTHER AMEND by deleting the following in § 71-5-806 of SECTION 1:
+It is the legislative intent that an initial appropriation of six hundred thousand dollars
+($600,000) be appropriated in fiscal year 2025-2026 and each subsequent fiscal year to
+offset the costs of the pilot program.
+and substituting instead:
+It is the legislative intent that the pilot program costs no more than six hundred thousand
+dollars ($600,000) and that an amount sufficient to offset the costs be appropriated in
+fiscal year 2025-2026.
+AND FURTHER AMEND by inserting the language "for the duration of the pilot program"
+immediately after the word "thereafter" and preceding the comma in § 71-5-808 of SECTION 1.
+HA0148
+006003
+- 1 -
+[DELETED:  a H7T]
+
+
+================================================================================
+
+Raw Text:
+House Insurance 1
+Amendment No. 1 to HB0867
+Kumar
+Signature of Sponsor
+AMEND S e n ate Bill No. 898 House Bill No. 867*
+by deleting § 71-5-805 in SECTION 1 and substituting:
+71-5-805. Pilot participation goals.
+The bureau shall implement the pilot program in as many counties as necessary
+to ensure participation of no more than three hundred (300) eligible participants. The
+participating managed care organization shall ensure that eligible participants in the
+counties selected by the bureau have access to the pilot program. The pilot program
+must be operational no later than one hundred eighty (180) calendar days after the date
+on which the contract is entered between the participating managed care organization
+and the technology vendor, and must conclude no later than two (2) years after the date
+on which the pilot program becomes operational.
+AND FURTHER AMEND by deleting the following in § 71-5-806 of SECTION 1:
+It is the legislative intent that an initial appropriation of six hundred thousand dollars
+($600,000) be appropriated in fiscal year 2025-2026 and each subsequent fiscal year to
+offset the costs of the pilot program.
+and substituting instead:
+It is the legislative intent that the pilot program costs no more than six hundred thousand
+dollars ($600,000) and that an amount sufficient to offset the costs be appropriated in
+fiscal year 2025-2026.
+AND FURTHER AMEND by inserting the language "for the duration of the pilot program"
+immediately after the word "thereafter" and preceding the comma in § 71-5-808 of SECTION 1.
+HA0148
+006003
+- 1 -
+
+[DELETED:  a H7T]

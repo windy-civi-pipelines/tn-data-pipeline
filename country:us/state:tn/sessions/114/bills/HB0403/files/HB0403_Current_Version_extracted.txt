@@ -1,0 +1,57 @@
+Title: SENATE BILL 482
+Official Title: SENATE BILL 482
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Bowling
+HOUSE BILL 403
+By Crawford
+AN ACT to amend Tennessee Code Annotated, Title 39,
+Chapter 13 and Title 40, relative to criminal
+offenses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 39-13-605(d)(1)(A), is amended by
+deleting "Class A misdemeanor" and substituting "Class D felony".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 39-13-605, is amended by deleting
+subdivisions (d)(2) and (d)(3).
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to offenses committed on or after that date.
+HB0403
+001145
+- 1 -
+[DELETED: SSS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 482
+By Bowling
+HOUSE BILL 403
+By Crawford
+AN ACT to amend Tennessee Code Annotated, Title 39,
+Chapter 13 and Title 40, relative to criminal
+offenses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 39-13-605(d)(1)(A), is amended by
+deleting "Class A misdemeanor" and substituting "Class D felony".
+SECTION 2. Tennessee Code Annotated, Section 39-13-605, is amended by deleting
+subdivisions (d)(2) and (d)(3).
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to offenses committed on or after that date.
+HB0403
+001145
+- 1 -
+
+[DELETED: SSS]

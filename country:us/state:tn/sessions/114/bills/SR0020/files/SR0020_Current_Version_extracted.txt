@@ -1,0 +1,90 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE RESOLUTION 20
+By Lamar
+A RESOLUTION to honor Dr. LaDonna Boyd in celebration of
+Women's Day on the Hill.
+WHEREAS, Women's Day on the Hill is a time to honor the achievements of those
+Tennessee women who have paved the way for every person to have the opportunity to pursue
+the American dream; and
+WHEREAS, the Volunteer State is proud to be the home of the awe-inspiring Dr.
+LaDonna Boyd, who serves as the fifth-generation President/CEO of the R.H. Boyd Family of
+Companies in Nashville, in which position she has proven herself a powerhouse of innovation
+and creativity, transforming the business landscape while championing social causes close to
+her heart; and
+WHEREAS, an advocate for economic empowerment, she is dedicated to creating
+opportunities for underserved communities, elevating educational access for all, and driving
+forward wellness initiatives; and
+WHEREAS, she has further served her fellow citizens by devoting her time and talents
+to various organizations, including Alpha Kappa Alpha Sorority, Inc.; the National Museum of
+African American Music; the National Museum of African American History and Culture, of
+which she is a founding member; the Nashville Ballet; the Metro Davidson County Historic
+Zoning Commission; the Evangelical Christian Publishers Association; the Economic and
+Finance Advisory Board for the College of Business at Tennessee State University; and the
+Holding Company for Citizens Savings Bank and Trust, which she currently serves as chair; and
+WHEREAS, in saluting Dr. Boyd on this special occasion, let us remember that when
+women succeed, America succeeds, as does Tennessee; now, therefore,
+SR0020
+003935
+- 1 -
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby honor and commend
+Dr. LaDonna Boyd on her many contributions to the State of Tennessee as we celebrate
+Women's Day on the Hill.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 003935
+[DELETED: WWWW]
+[DELETED:  -0BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE RESOLUTION 20
+By Lamar
+A RESOLUTION to honor Dr. LaDonna Boyd in celebration of
+Women's Day on the Hill.
+WHEREAS, Women's Day on the Hill is a time to honor the achievements of those
+Tennessee women who have paved the way for every person to have the opportunity to pursue
+the American dream; and
+WHEREAS, the Volunteer State is proud to be the home of the awe-inspiring Dr.
+LaDonna Boyd, who serves as the fifth-generation President/CEO of the R.H. Boyd Family of
+Companies in Nashville, in which position she has proven herself a powerhouse of innovation
+and creativity, transforming the business landscape while championing social causes close to
+her heart; and
+WHEREAS, an advocate for economic empowerment, she is dedicated to creating
+opportunities for underserved communities, elevating educational access for all, and driving
+forward wellness initiatives; and
+WHEREAS, she has further served her fellow citizens by devoting her time and talents
+to various organizations, including Alpha Kappa Alpha Sorority, Inc.; the National Museum of
+African American Music; the National Museum of African American History and Culture, of
+which she is a founding member; the Nashville Ballet; the Metro Davidson County Historic
+Zoning Commission; the Evangelical Christian Publishers Association; the Economic and
+Finance Advisory Board for the College of Business at Tennessee State University; and the
+Holding Company for Citizens Savings Bank and Trust, which she currently serves as chair; and
+WHEREAS, in saluting Dr. Boyd on this special occasion, let us remember that when
+women succeed, America succeeds, as does Tennessee; now, therefore,
+SR0020
+003935
+- 1 -
+
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby honor and commend
+Dr. LaDonna Boyd on her many contributions to the State of Tennessee as we celebrate
+Women's Day on the Hill.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 003935
+
+[DELETED: WWWW]
+[DELETED:  -0BB]

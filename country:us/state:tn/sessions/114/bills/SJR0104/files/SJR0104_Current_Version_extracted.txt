@@ -1,0 +1,86 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 104
+By Johnson
+A RESOLUTION to confirm the appointment of Terica Smith to the
+state university board of Tennessee State
+University.
+WHEREAS, Tennessee Code Annotated, Section 49-8-101, provides for the governance
+of Tennessee State University by a state university board; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that the governor
+shall appoint eight members to the state university board of Tennessee State University; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, further provides that at least
+three of the gubernatorial appointees shall be alumni of the institution for which they are serving
+and that at least six of the nine voting members of the state university board shall be residents
+of the State of Tennessee; and
+WHEREAS, Governor Bill Lee has appointed Terica Smith to the state university board
+of Tennessee State University for a term that will expire on March 31, 2028; and
+WHEREAS, a graduate of Tennessee State University and the University of Memphis
+Cecil C. Humphreys School of Law, Ms. Smith serves as the deputy mayor and director of
+human resources for Madison County; and
+WHEREAS, she was appointed by Governor Lee to the Board of Judicial Conduct in
+2021 and the Governor's Council for Judicial Appointments in 2023; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that each member
+appointed by the governor to the state university board of Tennessee State University shall be
+subject to confirmation by the senate and the house of representatives; now, therefore,
+SJR0104
+001559
+- 1 -
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we hereby confirm the appointment of Terica Smith
+to the state university board of Tennessee State University for a term that will expire on March
+31, 2028.
+- 2 - 001559
+[DELETED: WWWWW]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 104
+By Johnson
+A RESOLUTION to confirm the appointment of Terica Smith to the
+state university board of Tennessee State
+University.
+WHEREAS, Tennessee Code Annotated, Section 49-8-101, provides for the governance
+of Tennessee State University by a state university board; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that the governor
+shall appoint eight members to the state university board of Tennessee State University; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, further provides that at least
+three of the gubernatorial appointees shall be alumni of the institution for which they are serving
+and that at least six of the nine voting members of the state university board shall be residents
+of the State of Tennessee; and
+WHEREAS, Governor Bill Lee has appointed Terica Smith to the state university board
+of Tennessee State University for a term that will expire on March 31, 2028; and
+WHEREAS, a graduate of Tennessee State University and the University of Memphis
+Cecil C. Humphreys School of Law, Ms. Smith serves as the deputy mayor and director of
+human resources for Madison County; and
+WHEREAS, she was appointed by Governor Lee to the Board of Judicial Conduct in
+2021 and the Governor's Council for Judicial Appointments in 2023; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that each member
+appointed by the governor to the state university board of Tennessee State University shall be
+subject to confirmation by the senate and the house of representatives; now, therefore,
+SJR0104
+001559
+- 1 -
+
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we hereby confirm the appointment of Terica Smith
+to the state university board of Tennessee State University for a term that will expire on March
+31, 2028.
+- 2 - 001559
+
+[DELETED: WWWWW]
+[DELETED:  -0B]

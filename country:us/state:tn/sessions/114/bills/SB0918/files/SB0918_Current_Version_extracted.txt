@@ -1,0 +1,63 @@
+Title: HOUSE BILL 940
+Official Title: HOUSE BILL 940
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Camper
+SENATE BILL 918
+By Campbell
+AN ACT to amend Tennessee Code Annotated, Title 69,
+Chapter 9, relative to personal watercraft.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 69-9-505, is amended by deleting the
+language "twelve (12)" and substituting "sixteen (16)".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 69, Chapter 9, Part 5, is amended by
+adding the following as a new section:
+It is unlawful for any person to own, operate, or to allow another person to
+operate a personal watercraft upon the waters of Tennessee unless such person is able
+to furnish proof of financial responsibility for the operation of the personal watercraft in
+the amounts specified in § 55-12-102(12)(D)(i).
+
+Section 4:
+SECTION 3. Section 1 of this act takes effect upon becoming a law, the public welfare
+requiring it. Section 2 of this act takes effect July 1, 2025, the public welfare requiring it.
+SB0918
+002890
+- 1 -
+[DELETED: SSIS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 940
+By Camper
+SENATE BILL 918
+By Campbell
+AN ACT to amend Tennessee Code Annotated, Title 69,
+Chapter 9, relative to personal watercraft.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 69-9-505, is amended by deleting the
+language "twelve (12)" and substituting "sixteen (16)".
+SECTION 2. Tennessee Code Annotated, Title 69, Chapter 9, Part 5, is amended by
+adding the following as a new section:
+It is unlawful for any person to own, operate, or to allow another person to
+operate a personal watercraft upon the waters of Tennessee unless such person is able
+to furnish proof of financial responsibility for the operation of the personal watercraft in
+the amounts specified in § 55-12-102(12)(D)(i).
+SECTION 3. Section 1 of this act takes effect upon becoming a law, the public welfare
+requiring it. Section 2 of this act takes effect July 1, 2025, the public welfare requiring it.
+SB0918
+002890
+- 1 -
+
+[DELETED: SSIS]

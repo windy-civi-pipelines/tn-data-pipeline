@@ -1,0 +1,102 @@
+Title: HOUSE BILL 1002
+Official Title: HOUSE BILL 1002
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Haston
+SENATE BILL 1003
+By Hensley
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-6-105, is amended by deleting
+subsections (g) and (h) and by designating the existing language of subsection (e) as
+subdivision (e)(1) and adding the following new subdivisions:
+(2) The state board shall approve at least one (1) universal screener for pre-
+kindergarten students to be used as an alternative growth model for purposes of
+subdivision (e)(1) to generate individual growth scores for pre-kindergarten teachers
+pursuant to the evaluation guidelines developed by the department. The universal
+screener approved by the state board to evaluate pre-kindergarten teachers must not be
+based on the pre-k/kindergarten portfolio growth model.
+(3) LEAs and public charter schools that provide a voluntary pre-kindergarten
+program shall allow pre-kindergarten teachers to use the results of a universal screener
+approved by the state board pursuant to subdivision (e)(2) as an alternative growth
+model to generate individual growth scores for pre-kindergarten teachers.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 49-6-1508, is amended by deleting
+subsection (d) and substituting instead the following:
+(d) LEAs and public charter schools may allow teachers in the non-tested grades
+kindergarten through two (K-2) to use the results of the Tennessee universal math
+screener, the Tennessee universal reading screener, or a universal reading screener
+approved by the state board of education, as described in subsection (b), as an
+SB1003
+003074
+- 1 -
+alternative growth model for purposes of §§ 49-1-302(d)(2)(B)(ix) and 49-6-105(e) to
+generate individual growth scores for such teachers pursuant to the evaluation
+guidelines developed by the department. The department shall not base the Tennessee
+universal math screener, the Tennessee universal reading screener, or a universal
+reading screener approved by the state board of education used to evaluate teachers
+pursuant to this subsection (d) on the pre-k/kindergarten portfolio growth model.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to the 2025-2026 school year and each school year thereafter.
+- 2 - 003074
+[DELETED: S(S(]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1002
+By Haston
+SENATE BILL 1003
+By Hensley
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-6-105, is amended by deleting
+subsections (g) and (h) and by designating the existing language of subsection (e) as
+subdivision (e)(1) and adding the following new subdivisions:
+(2) The state board shall approve at least one (1) universal screener for pre-
+kindergarten students to be used as an alternative growth model for purposes of
+subdivision (e)(1) to generate individual growth scores for pre-kindergarten teachers
+pursuant to the evaluation guidelines developed by the department. The universal
+screener approved by the state board to evaluate pre-kindergarten teachers must not be
+based on the pre-k/kindergarten portfolio growth model.
+(3) LEAs and public charter schools that provide a voluntary pre-kindergarten
+program shall allow pre-kindergarten teachers to use the results of a universal screener
+approved by the state board pursuant to subdivision (e)(2) as an alternative growth
+model to generate individual growth scores for pre-kindergarten teachers.
+SECTION 2. Tennessee Code Annotated, Section 49-6-1508, is amended by deleting
+subsection (d) and substituting instead the following:
+(d) LEAs and public charter schools may allow teachers in the non-tested grades
+kindergarten through two (K-2) to use the results of the Tennessee universal math
+screener, the Tennessee universal reading screener, or a universal reading screener
+approved by the state board of education, as described in subsection (b), as an
+SB1003
+003074
+- 1 -
+
+alternative growth model for purposes of §§ 49-1-302(d)(2)(B)(ix) and 49-6-105(e) to
+generate individual growth scores for such teachers pursuant to the evaluation
+guidelines developed by the department. The department shall not base the Tennessee
+universal math screener, the Tennessee universal reading screener, or a universal
+reading screener approved by the state board of education used to evaluate teachers
+pursuant to this subsection (d) on the pre-k/kindergarten portfolio growth model.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to the 2025-2026 school year and each school year thereafter.
+- 2 - 003074
+
+[DELETED: S(S(]
+[DELETED:  -0S]

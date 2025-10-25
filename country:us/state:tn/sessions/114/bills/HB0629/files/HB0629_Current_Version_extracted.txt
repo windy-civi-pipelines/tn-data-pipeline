@@ -1,0 +1,128 @@
+Title: SENATE BILL 1186
+Official Title: SENATE BILL 1186
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Akbari
+HOUSE BILL 629
+By Hardaway
+AN ACT to amend Tennessee Code Annotated, Title 37;
+Title 39; Title 40, Chapter 11 and Title 49, relative
+to juveniles.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 37-1-128(a), is amended by adding
+the following new subdivision:
+(3) If the court appoints a person or entity to take charge of a child pursuant to
+subdivision (a)(1), then the court may order the child to wear a global positioning
+monitoring system device and order the entity that operates the global positioning
+monitoring system to notify the appointed person or entity if the child violates the
+instructions issued by the court upon release. As used in this subdivision (a)(3), "global
+positioning monitoring system" means the same as defined in § 40-11-152.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 49-6-3401(g), is amended by
+redesignating subdivision (g)(5) as subdivision (g)(5)(A), by deleting the language "subdivision
+(g)(5)" wherever it appears and substituting instead the language "subdivision (g)(5)(A)", and by
+adding the following as a new subdivision (g)(5)(B):
+(B)
+(i) If a student is expelled for committing a zero tolerance offense for
+threatening mass violence on school property or at a school-related activity in
+accordance with this section, then the director of schools or the head of the
+public charter school shall require the student to undergo counseling and a
+mental health evaluation to determine whether the student is a threat to
+HB0629
+002523
+- 1 -
+themselves or to others before the student may return to school, regardless of
+whether the student has completed the term of the student's expulsion.
+(ii) The mental health evaluation required in subdivision (g)(5)(B)(i) must
+be conducted on an outpatient basis by a mental health agency or a licensed
+private practitioner designated by the commissioner of mental health and
+substance abuse services. The evaluator shall report its findings to the director
+of schools or the head of the public charter school. A report submitted to a
+director of schools or head of a public charter school pursuant to this subdivision
+(g)(5)(B)(ii) is confidential and must not be shared with others, except as may
+otherwise be required by law.
+(iii) The costs of the counseling and mental health evaluation required
+pursuant to subdivision (g)(5)(B)(i) must be borne by the student's parents or the
+student, if the student is eighteen (18) years of age or older.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 49-6-4002(e)(5), is amended by
+deleting "§ 49-6-3401(g)(5)" and substituting "§ 49-6-3401(g)(5)(A)".
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 49-6-4301(a)(3), is amended by
+deleting "§ 49-6-3401(g)(5)" and substituting "§ 49-6-3401(g)(5)(A)".
+
+Section 6:
+SECTION 5. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to actions occurring on or after that date.
+- 2 - 002523
+[DELETED: SS((]
+[DELETED:  -0((SSS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1186
+By Akbari
+HOUSE BILL 629
+By Hardaway
+AN ACT to amend Tennessee Code Annotated, Title 37;
+Title 39; Title 40, Chapter 11 and Title 49, relative
+to juveniles.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 37-1-128(a), is amended by adding
+the following new subdivision:
+(3) If the court appoints a person or entity to take charge of a child pursuant to
+subdivision (a)(1), then the court may order the child to wear a global positioning
+monitoring system device and order the entity that operates the global positioning
+monitoring system to notify the appointed person or entity if the child violates the
+instructions issued by the court upon release. As used in this subdivision (a)(3), "global
+positioning monitoring system" means the same as defined in § 40-11-152.
+SECTION 2. Tennessee Code Annotated, Section 49-6-3401(g), is amended by
+redesignating subdivision (g)(5) as subdivision (g)(5)(A), by deleting the language "subdivision
+(g)(5)" wherever it appears and substituting instead the language "subdivision (g)(5)(A)", and by
+adding the following as a new subdivision (g)(5)(B):
+(B)
+(i) If a student is expelled for committing a zero tolerance offense for
+threatening mass violence on school property or at a school-related activity in
+accordance with this section, then the director of schools or the head of the
+public charter school shall require the student to undergo counseling and a
+mental health evaluation to determine whether the student is a threat to
+HB0629
+002523
+- 1 -
+
+themselves or to others before the student may return to school, regardless of
+whether the student has completed the term of the student's expulsion.
+(ii) The mental health evaluation required in subdivision (g)(5)(B)(i) must
+be conducted on an outpatient basis by a mental health agency or a licensed
+private practitioner designated by the commissioner of mental health and
+substance abuse services. The evaluator shall report its findings to the director
+of schools or the head of the public charter school. A report submitted to a
+director of schools or head of a public charter school pursuant to this subdivision
+(g)(5)(B)(ii) is confidential and must not be shared with others, except as may
+otherwise be required by law.
+(iii) The costs of the counseling and mental health evaluation required
+pursuant to subdivision (g)(5)(B)(i) must be borne by the student's parents or the
+student, if the student is eighteen (18) years of age or older.
+SECTION 3. Tennessee Code Annotated, Section 49-6-4002(e)(5), is amended by
+deleting "§ 49-6-3401(g)(5)" and substituting "§ 49-6-3401(g)(5)(A)".
+SECTION 4. Tennessee Code Annotated, Section 49-6-4301(a)(3), is amended by
+deleting "§ 49-6-3401(g)(5)" and substituting "§ 49-6-3401(g)(5)(A)".
+SECTION 5. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to actions occurring on or after that date.
+- 2 - 002523
+
+[DELETED: SS((]
+[DELETED:  -0((SSS]

@@ -1,0 +1,100 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE RESOLUTION 67
+By Massey
+A RESOLUTION to commemorate the 250th anniversary of the
+U.S. Army.
+WHEREAS, the contributions and sacrifices of the men and women who have served in
+the United States Army since its inception in 1775 have been vital in maintaining our freedoms
+and way of life; and
+WHEREAS, the U.S. Army will celebrate its 250th birthday on June 14, 2025,
+commemorating its establishment on that date in 1775, more than one year before the signing
+of the Declaration of Independence; and
+WHEREAS, the Army was formed when the Second Continental Congress passed a
+resolution that created a national Army of "six companies of expert riflemen" to join forces near
+Boston; and
+WHEREAS, the U.S. Army had a significant role in the growth and development of the
+United States, winning the new republic's independence in an arduous eight-year struggle
+against Great Britain; the Army remains committed to the security of our nation still today; and
+WHEREAS, in honor of 250 years of devotion and history, there will be a wide-reaching,
+inclusive celebration, with the anniversary theme "This We'll Defend," highlighting the Army's
+ongoing commitment to protecting the nation; and
+WHEREAS, the Army Historical Foundation is involved in the celebration, and the Army
+Center of Military History is launching an eighteen-month awareness campaign about the
+milestones of the U.S. Army in American history; and
+WHEREAS, to further mark the 250th anniversary of the Army, the National Museum of
+the U.S. Army will open a new exhibit focusing on the Revolutionary War in June 2025; there
+SR0067
+005993
+- 1 -
+will be an effort to engage American civil society, educators, and others in this storytelling
+project; and
+WHEREAS, it is most fitting that we pause to reflect on the important contributions and
+sacrifices of those who have served in the United States Army since its founding; now,
+therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we commemorate the United
+States Army's 250th anniversary and acknowledge and honor the contributions of all veterans to
+the principles of democracy, individual freedom, and human rights.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 005993
+[DELETED: 0 W0 0 ]
+[DELETED:  -0B0 B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE RESOLUTION 67
+By Massey
+A RESOLUTION to commemorate the 250th anniversary of the
+U.S. Army.
+WHEREAS, the contributions and sacrifices of the men and women who have served in
+the United States Army since its inception in 1775 have been vital in maintaining our freedoms
+and way of life; and
+WHEREAS, the U.S. Army will celebrate its 250th birthday on June 14, 2025,
+commemorating its establishment on that date in 1775, more than one year before the signing
+of the Declaration of Independence; and
+WHEREAS, the Army was formed when the Second Continental Congress passed a
+resolution that created a national Army of "six companies of expert riflemen" to join forces near
+Boston; and
+WHEREAS, the U.S. Army had a significant role in the growth and development of the
+United States, winning the new republic's independence in an arduous eight-year struggle
+against Great Britain; the Army remains committed to the security of our nation still today; and
+WHEREAS, in honor of 250 years of devotion and history, there will be a wide-reaching,
+inclusive celebration, with the anniversary theme "This We'll Defend," highlighting the Army's
+ongoing commitment to protecting the nation; and
+WHEREAS, the Army Historical Foundation is involved in the celebration, and the Army
+Center of Military History is launching an eighteen-month awareness campaign about the
+milestones of the U.S. Army in American history; and
+WHEREAS, to further mark the 250th anniversary of the Army, the National Museum of
+the U.S. Army will open a new exhibit focusing on the Revolutionary War in June 2025; there
+SR0067
+005993
+- 1 -
+
+will be an effort to engage American civil society, educators, and others in this storytelling
+project; and
+WHEREAS, it is most fitting that we pause to reflect on the important contributions and
+sacrifices of those who have served in the United States Army since its founding; now,
+therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we commemorate the United
+States Army's 250th anniversary and acknowledge and honor the contributions of all veterans to
+the principles of democracy, individual freedom, and human rights.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 005993
+
+[DELETED: 0 W0 0 ]
+[DELETED:  -0B0 B]

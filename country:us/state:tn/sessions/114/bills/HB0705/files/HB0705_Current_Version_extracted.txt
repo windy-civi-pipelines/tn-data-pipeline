@@ -1,0 +1,47 @@
+Title: SENATE BILL 865
+Official Title: SENATE BILL 865
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Stevens
+HOUSE BILL 705
+By Gant
+AN ACT to amend Tennessee Code Annotated, Title 56,
+relative to insurance.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 56-2-904(a), is amended by deleting
+the language "no later than June 1" wherever it appears and substituting "no later than July 1".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0705
+002579
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 865
+By Stevens
+HOUSE BILL 705
+By Gant
+AN ACT to amend Tennessee Code Annotated, Title 56,
+relative to insurance.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 56-2-904(a), is amended by deleting
+the language "no later than June 1" wherever it appears and substituting "no later than July 1".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0705
+002579
+- 1 -
+
+[DELETED: SS]

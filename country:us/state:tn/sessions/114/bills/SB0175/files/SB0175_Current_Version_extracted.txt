@@ -1,0 +1,96 @@
+Title: HOUSE BILL 36
+Official Title: HOUSE BILL 36
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Davis
+SENATE BILL 175
+By Massey
+AN ACT to amend Tennessee Code Annotated, Title 40
+and Title 41, relative to inmates.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 40-35-501, is amended by deleting
+subdivision (x)(1) and substituting:
+(x)
+(1) Notwithstanding this part or chapter 28, part 1 of this title to the
+contrary, the commissioner of correction may certify as eligible for parole an
+inmate who:
+(A) Is at least fifty-five (55) years of age;
+(B) Has served a minimum of ten (10) years in custody;
+(C) Is not serving a sentence for:
+(i) A violent sexual offense, as defined in § 40-39-202; or
+(ii) More than one (1) conviction for first degree murder,
+pursuant to § 39-13-202, or facilitation of first degree murder; and
+(D) Is not serving a sentence of imprisonment for life without
+possibility of parole.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 41-21-227, is amended by deleting
+subdivision (i)(2)(A) and substituting:
+(2)
+(A) Subdivision (i)(1) applies only to inmates who, due to the inmate's
+chronically debilitated or incapacitated medical condition:
+SB0175
+000669
+- 1 -
+(i) Have a medical prognosis of mortality within one (1) year or
+less; or
+(ii) Are no longer able to perform at least one (1) of the activities
+of daily living in a prison environment.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 000669
+[DELETED: S((((((((S((]
+[DELETED:  -0((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 36
+By Davis
+SENATE BILL 175
+By Massey
+AN ACT to amend Tennessee Code Annotated, Title 40
+and Title 41, relative to inmates.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-35-501, is amended by deleting
+subdivision (x)(1) and substituting:
+(x)
+(1) Notwithstanding this part or chapter 28, part 1 of this title to the
+contrary, the commissioner of correction may certify as eligible for parole an
+inmate who:
+(A) Is at least fifty-five (55) years of age;
+(B) Has served a minimum of ten (10) years in custody;
+(C) Is not serving a sentence for:
+(i) A violent sexual offense, as defined in § 40-39-202; or
+(ii) More than one (1) conviction for first degree murder,
+pursuant to § 39-13-202, or facilitation of first degree murder; and
+(D) Is not serving a sentence of imprisonment for life without
+possibility of parole.
+SECTION 2. Tennessee Code Annotated, Section 41-21-227, is amended by deleting
+subdivision (i)(2)(A) and substituting:
+(2)
+(A) Subdivision (i)(1) applies only to inmates who, due to the inmate's
+chronically debilitated or incapacitated medical condition:
+SB0175
+000669
+- 1 -
+
+(i) Have a medical prognosis of mortality within one (1) year or
+less; or
+(ii) Are no longer able to perform at least one (1) of the activities
+of daily living in a prison environment.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 000669
+
+[DELETED: S((((((((S((]
+[DELETED:  -0((S]

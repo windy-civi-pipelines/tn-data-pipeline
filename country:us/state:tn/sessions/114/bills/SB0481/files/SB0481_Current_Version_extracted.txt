@@ -1,0 +1,55 @@
+Title: HOUSE BILL 1229
+Official Title: HOUSE BILL 1229
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Lafferty
+SENATE BILL 481
+By Lowe
+AN ACT to amend Tennessee Code Annotated, Title 40,
+Chapter 33, relative to forfeiture.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 40-33-206, is amended by deleting
+subsection (b).
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 40-33-205(a), is amended by
+deleting the language "cost bond or".
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to seizures occurring on or after that date.
+SB0481
+001591
+- 1 -
+[DELETED: SSS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1229
+By Lafferty
+SENATE BILL 481
+By Lowe
+AN ACT to amend Tennessee Code Annotated, Title 40,
+Chapter 33, relative to forfeiture.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-33-206, is amended by deleting
+subsection (b).
+SECTION 2. Tennessee Code Annotated, Section 40-33-205(a), is amended by
+deleting the language "cost bond or".
+SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to seizures occurring on or after that date.
+SB0481
+001591
+- 1 -
+
+[DELETED: SSS]

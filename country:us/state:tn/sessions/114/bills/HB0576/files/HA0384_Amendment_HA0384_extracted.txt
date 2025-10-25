@@ -1,0 +1,710 @@
+Title: AMEND S e n ate Bill No. 1245 House Bill No. 576*
+Official Title: AMEND S e n ate Bill No. 1245 House Bill No. 576*
+Number of Sections: 23
+Source: versions - Amendment HA0384
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+House Judiciary 1
+Amendment No. 1 to HB0576
+Farmer
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 4-3-1304(a), is amended by adding
+the following as a new subdivision:
+(11) Board of professional bondsmen;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 40-11-124, is amended by adding
+the following as a new subsection:
+(c)
+(1)
+(A) The department of commerce and insurance shall provide the
+clerk, sheriff, municipal courts, and other inferior courts with a current
+approved list of professional bondsmen licensed by the board of
+professional bondsmen.
+(B) The clerk, sheriff, municipal courts, and other inferior courts
+shall have available a list of licensed professional bondsmen or other
+sureties approved and qualified as solvent by the courts of record with
+criminal jurisdiction within the county. The approved lists must be
+provided by the judges of those courts.
+(2) An undertaking must not be accepted unless the professional
+bondsman or other surety is licensed under part 3 of this chapter and approved
+and qualified as solvent by the courts of record with criminal jurisdiction within the
+county.
+HA0384
+006400
+- 1 -
+(3) Notwithstanding the issuance by an association of a guaranteed
+arrest or bail bond certificate, as defined in § 40-11-145, a professional
+bondsman licensed by the board of professional bondsmen, pursuant to part 3 of
+this chapter, shall provide proof of such licensure to all courts of this state having
+jurisdiction and authorized to admit to bail when appearing before such courts.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 40-11-125(a), is amended by
+deleting the language:
+In addition to the requirements of part 3 of this chapter regulating professional
+bondsmen, approval of a professional bondsman or other surety may be withheld,
+withdrawn or suspended by any court if, after investigation, it appears that a bondsman:
+and substituting the language:
+In addition to the requirements of part 3 of this chapter regulating professional
+bondsmen, licensure of a professional bondsman may be withheld, withdrawn,
+suspended, revoked, or denied by the board of professional bondsmen if, after
+investigation, it appears that a professional bondsman:
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 40-11-125, is amended by deleting
+subsections (b)-(d) and substituting the following:
+(b) If, after investigation, the board finds a professional bondsman to be in
+violation of any of the statutes enumerated in this section, then the board shall notify the
+bondsman in writing of the bondsman's right to a hearing prior to imposing any sanction
+permitted under this chapter. If the bondsman fails to notify the board in writing within
+ten (10) days from the date of the board's notice that the bondsman seeks a hearing,
+then such hearing is waived and the board may impose upon the bondsman any
+sanction or discipline permitted by this chapter. All hearings conducted pursuant to this
+subsection (b) must be in accordance with the Uniform Administrative Procedures Act,
+compiled in title 4, chapter 5.
+- 2 - 006400
+(c) The board shall remove the offending professional bondsman's name from
+the approved list as maintained on the board's registry under § 40-11-314 and notify all
+courts in which the professional bondsman is approved to practice.
+(d)
+(1) Notwithstanding the board's authority under this section, a court may
+deny, withhold, suspend, or revoke an approved professional bondsman's
+bonding privileges in such court upon the court's determination that the
+professional bondsman's conduct is detrimental to the bondsman's client or is
+disruptive to the court or court proceedings.
+(2) The court shall notify the board of its action, and the board may strike
+the offending bondsman from the approved list as maintained on the board's
+registry under § 40-11-314, following review by the board.
+(3) Any bondsman whose bonding privileges have been denied, withheld,
+suspended, or revoked under subdivision (d)(1) has the right of appeal to the
+next highest court having criminal jurisdiction, and the appeal must be heard de
+novo.
+(e) Any disciplinary action taken against a professional bondsman under this
+
+Section 6:
+section must be published in accordance with § 56-1-302(a)(9).
+
+Section 7:
+SECTION 5. Tennessee Code Annotated, Section 40-11-127, is amended by deleting
+the section and substituting the following:
+Upon a finding by a district attorney general that a professional bondsman has
+violated this chapter, the district attorney general may:
+(1) File a complaint with the board of professional bondsmen that details
+all violations alleged to have been committed by the professional bondsman for
+further action, if necessary, by the department; and
+- 3 - 006400
+(2) Prefer charges to have a bail bondsman stricken from the approved
+list pursuant to § 40-11-125 with the same provisions for notice, answer, and
+hearing before the court, and the same right of appeal.
+
+Section 8:
+SECTION 6. Tennessee Code Annotated, Section 40-11-132(1), is amended by
+deleting the subdivision.
+
+Section 9:
+SECTION 7. Tennessee Code Annotated, Section 40-11-133(d), is amended by
+deleting the language "Any approved bail bondsman in good standing" and substituting the
+language "Any licensed professional bondsman in good standing with the board of professional
+bondsmen".
+
+Section 10:
+SECTION 8. Tennessee Code Annotated, Section 40-11-303(a), is amended by
+deleting "file with the clerk of the circuit or criminal court in each county" and substituting "file
+with the board of professional bondsmen and the clerk of the circuit or criminal court of each
+county".
+
+Section 11:
+SECTION 9. Tennessee Code Annotated, Section 40-11-306, is amended by adding
+the following language at the end of the section:
+The court shall report any action taken under this section to the board of professional
+bondsmen for review to determine if additional disciplinary action is to be taken against
+the professional bondsman.
+
+Section 12:
+SECTION 10. Tennessee Code Annotated, Section 40-11-306, is amended by
+designating the existing language as subsection (a) and adding the following as a new
+subsection:
+(b) In addition to the limitations imposed under subsection (a), the board of
+professional bondsmen may suspend or revoke the professional bondsman's license to
+practice bail bonding in this state upon its review of the findings of the investigation by
+the court. A person whose license to practice bail bonding has been suspended or
+revoked under this subsection (b) may appeal such action by the board pursuant to § 40-
+11-125.
+- 4 - 006400
+
+Section 13:
+SECTION 11. Tennessee Code Annotated, Section 40-11-313, is amended by deleting
+the section and substituting:
+(a) It is unlawful for a person to act as a professional bondsman, directly or
+indirectly, while:
+(1) Serving as a constitutionally elected peace officer, or as such officer's
+deputy, or any duly elected or appointed county official; or
+(2) Owning, operating, or being an employee of a qualified electronic
+monitoring provider, as defined in § 40-11-152(a).
+(b) Subdivision (a)(1) does not apply to any duly elected member of the county
+legislative body.
+(c) Subdivision (a)(2) does not apply to a person who was a professional
+bondsman and owned a qualified electronic monitoring provider prior to January 1, 2025.
+
+Section 14:
+SECTION 12. Tennessee Code Annotated, Section 40-11-317(a), is amended by
+deleting the subsection and substituting the following:
+(a) In addition to any other qualifications required by law, a person seeking to
+become a professional bondsman shall file an application for licensure with the board of
+professional bondsmen. In addition, the applicant shall submit to a criminal history
+background check by the Tennessee bureau of investigation as provided for under § 38-
+6-109 and is responsible for any fees associated with the criminal history background
+check. The Tennessee bureau of investigation shall submit the results of the criminal
+background check to the clerks of all courts in which the professional bondsman is
+qualified and to the board.
+
+Section 15:
+SECTION 13. Tennessee Code Annotated, Section 40-11-317(c), is amended by
+deleting the subsection and substituting:
+(c)
+(1) If a court finds that a bondsman has individually or as a corporation
+owner been discharged in a bankruptcy proceeding leaving unsatisfied
+- 5 - 006400
+outstanding forfeitures with any court, then the court may order that the
+bondsman be prohibited from executing bonds, bail, or other undertakings as
+surety in the court, and must notify the board of professional bondsmen of the
+finding.
+(2) If the board is notified that a bondsman has individually or as a
+corporation owner been discharged in a bankruptcy proceeding leaving
+unsatisfied outstanding forfeitures with any court, then the board may suspend or
+revoke the bondsman's license to practice bail bonding in this state.
+
+Section 16:
+SECTION 14. Tennessee Code Annotated, Section 40-11-319(a), is amended by
+deleting the language:
+shall notify, in writing, within seventy-two (72) hours of the arrest, the court or
+courts in which the professional bondsman is qualified
+and substituting the language:
+shall notify the board of professional bondsmen in writing within seventy-two (72)
+hours of the arrest
+
+Section 17:
+SECTION 15. Tennessee Code Annotated, Section 40-11-319(c), is amended by
+deleting the subsection and substituting the following:
+(c) Upon receipt of the notice, the board may proceed in accordance with § 40-
+11-125 if such action is warranted.
+
+Section 18:
+SECTION 16. Tennessee Code Annotated, Section 40-11-319(d), is amended by
+deleting the subsection and substituting the following:
+(d) Failure to comply with this section must result in an automatic suspension of
+the professional bondsman's bonding privileges until the board conducts a hearing
+pursuant to § 40-11-125(b), or until the criminal charges against the professional
+bondsman are resolved.
+
+Section 19:
+SECTION 17. Tennessee Code Annotated, Title 40, Chapter 11, Part 3, is amended by
+adding the following as a new section:
+- 6 - 006400
+40-11-314.
+(a) On or after March 1, 2026, a person shall not operate as a professional
+bondsman in this state unless the person is licensed by the board of professional
+bondsmen under this section.
+(b)
+(1) There is created a state board to be known and designated as the
+board of professional bondsmen for this state. The board consists of seven (7)
+members who must possess good moral character, must be residents of this
+state, and are appointed as follows:
+(A) Two (2) members to be appointed by the speaker of the
+house of representatives, who meet the following qualifications:
+(i) One (1) member who is licensed as a professional
+bondsman; and
+(ii) One (1) member who is a chief of police;
+(B) Three (3) members to be appointed by the governor, who
+meet the following qualifications:
+(i) One (1) member who is licensed as a professional
+bondsman;
+(ii) One (1) member who is a district attorney general; and
+(iii) One (1) member who is a judge with jurisdiction to
+issue bond; and
+(C) Two (2) members to be appointed by the speaker of the
+senate, who meet the following qualifications:
+(i) One (1) member who is licensed as a professional
+bondsman; and
+(ii) One (1) member who is a sheriff.
+(2)
+- 7 - 006400
+(A) Members of the board must be appointed in accordance with
+subdivision (b)(2)(B). It is the purpose of this section that at least one (1)
+member shall retire from the board at the end of each year, thereby
+creating a rotating board.
+(B) The members' terms shall be staggered as follows:
+(i) The member of the board appointed pursuant to
+subdivision (b)(1)(A)(i) shall serve an initial term of one (1) year;
+(ii) The member of the board appointed pursuant to
+subdivision (b)(1)(A)(ii) shall serve an initial term of two (2) years;
+(iii) The member of the board appointed pursuant to
+subdivision (b)(1)(B)(i) shall serve an initial term of three (3) years;
+(iv) The member of the board appointed pursuant to
+subdivision (b)(1)(B)(ii) shall serve an initial term of four (4) years;
+(v) The member of the board appointed pursuant to
+subdivision (b)(1)(B)(iii) shall serve an initial term of five (5) years;
+(vi) The member of the board appointed pursuant to
+subdivision (b)(1)(C)(i) shall serve an initial term of six (6) years;
+and
+(vii) The member of the board appointed pursuant to
+subdivision (b)(1)(C)(ii) shall serve an initial term of seven (7)
+years.
+(C) The appointing authorities shall appoint a new member to the
+board upon the expiration of the terms prescribed in subdivision (b)(2)(B)
+and upon the expiration of all subsequent terms. All subsequent terms
+must be for six (6) years.
+(D) A member must not be reappointed for one (1) year after the
+completion of a term on the board.
+- 8 - 006400
+(3) Vacancies occurring on the board must be filled in accordance with
+this section for the balance of the unexpired term.
+(c)
+(1) The administrative office of the courts shall provide a list of all
+licensed bondsmen in this state upon the request of the board. The request must
+be made prior to March 1, 2026.
+(2) The board of professional bondsmen, in consultation and cooperation
+with members of the judiciary in this state, shall promulgate rules for the
+regulation of professional bondsmen that are reasonably necessary to carry out
+this chapter, including, but not limited to, rules to:
+(A) Implement and administer the licensure program created by
+this section, including, but not limited to, the establishment of adequate
+licensure and renewal fees to cover the cost of implementing and
+administering the licensure program for professional bondsmen;
+(B) Establish procedures for handling disciplinary matters
+involving professional bondsmen licensed under this section and for
+persons engaged in the unauthorized practice of bail bonding;
+(C) Assess civil penalties for violations;
+(D) Establish the standards of practice and qualifications for the
+issuance of a license to be a professional bondsman under this section.
+The standards and qualifications include, but are not limited to,
+procedures to require professional bondsmen to submit to criminal history
+background checks in accordance with §§ 38-6-109 and 55-10-426;
+(E) Establish any other procedures deemed necessary by the
+department for the supervision of professional bondsmen licensed under
+this section; and
+- 9 - 006400
+(F) Establish procedures for the approval of the continuing
+education programs for professional bondsmen, to be administered by an
+approved third-party contractor under part 4 of this chapter.
+(3) The rules must be promulgated in accordance with this chapter and
+the Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+(d) A person eighteen (18) years of age or older may apply for a license to
+operate as a professional bondsman.
+(e) An application for licensure as a professional bondsman must be submitted
+on a form prescribed by the board.
+(f) A certificate of licensure expires two (2) years from the date of the licensure
+or renewal.
+(g) A licensed professional bondsman shall list each place of business within this
+state with reference to its specific location, upon licensure and upon subsequent
+renewals of the licensure.
+(h) Included on each license and renewal form must be a section in which the
+licensee declares, under penalty of perjury pursuant to § 39-16-702(a)(3), whether the
+licensee has previously been revoked or convicted of a violation of this chapter. In
+addition, the applicant shall submit to a criminal history background check by the
+Tennessee bureau of investigation as provided for under § 38-6-109, and is responsible
+for any fees associated with the criminal history background check. The Tennessee
+bureau of investigation shall submit the results of the criminal background check to the
+board.
+(i) A licensee who has been convicted of a violation of this chapter, which
+resulted in a revocation of their license is prohibited from licensure under this chapter for
+five (5) years from the date of conviction.
+(j) The board shall create and keep up to date a registry that includes, but is not
+limited to, the approved list of professional bondsmen licensed by the board, the names
+- 10 - 006400
+of all persons licensed as professional bondsmen, and a list of names of persons who
+have been disciplined by the board in the previous five (5) years for violating this
+chapter. The board shall post and maintain the registry on the department of commerce
+and insurance's website.
+(k) Notwithstanding another law to the contrary, a license issued pursuant to this
+
+Section 20:
+section becomes inactive upon notification to the department that the licensee is no
+longer in business at the licensed location.
+(l) The board shall serve as the centralized entity for filing and evaluating
+complaints against professional bondsmen.
+(m) This section does not require a judge to allow a licensed professional
+bondsman to admit persons to bail in the judge's court. A judge may deny a professional
+bondsman the privilege of admitting persons to bail in the judge's court regardless of the
+professional bondsman's licensure status. If a judge denies a licensed professional
+bondsman's request to admit persons to bail in the judge's court, then the judge must
+provide the bondsman with written notice of the denial and the reasons for such denial.
+
+Section 21:
+SECTION 18. Tennessee Code Annotated, Title 40, Chapter 11, Part 3, is amended by
+adding the following as a new section:
+Each licensed professional bondsman shall inform the board in writing of each
+county in which the licensed professional bondsman has been approved by a judge to
+admit persons to bail.
+
+Section 22:
+SECTION 19. Notwithstanding Sections 40-11-314(b)(1)(A)(i), (b)(1)(B)(i), and
+(b)(1)(C)(i), for the purpose of establishing the board of professional bondsmen, the appointing
+entities may initially appoint a bondsman who is approved to make bonds by a court within this
+state to the positions that must be filled by a licensed professional bondman. After March 1,
+2026, the licensing requirements of Sections 40-11-314(b)(1)(A)(i), (b)(1)(B)(i), and (b)(1)(C)(i)
+apply for any newly appointed member of the board.
+- 11 - 006400
+
+Section 23:
+SECTION 20. For the purpose of promulgating rules and appointing members to the
+board, this act takes effect upon becoming a law, the public welfare requiring it. For all other
+purposes, this act takes effect January 1, 2026, the public welfare requiring it.
+- 12 - 006400
+[DELETED:  a HS(S]
+[DELETED:  -0SS(]
+[DELETED:  -0(S]
+[DELETED:  -0]
+[DELETED:  -0S]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0(]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0SES]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+House Judiciary 1
+Amendment No. 1 to HB0576
+Farmer
+Signature of Sponsor
+AMEND S e n ate Bill No. 1245 House Bill No. 576*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 4-3-1304(a), is amended by adding
+the following as a new subdivision:
+(11) Board of professional bondsmen;
+SECTION 2. Tennessee Code Annotated, Section 40-11-124, is amended by adding
+the following as a new subsection:
+(c)
+(1)
+(A) The department of commerce and insurance shall provide the
+clerk, sheriff, municipal courts, and other inferior courts with a current
+approved list of professional bondsmen licensed by the board of
+professional bondsmen.
+(B) The clerk, sheriff, municipal courts, and other inferior courts
+shall have available a list of licensed professional bondsmen or other
+sureties approved and qualified as solvent by the courts of record with
+criminal jurisdiction within the county. The approved lists must be
+provided by the judges of those courts.
+(2) An undertaking must not be accepted unless the professional
+bondsman or other surety is licensed under part 3 of this chapter and approved
+and qualified as solvent by the courts of record with criminal jurisdiction within the
+county.
+HA0384
+006400
+- 1 -
+
+(3) Notwithstanding the issuance by an association of a guaranteed
+arrest or bail bond certificate, as defined in § 40-11-145, a professional
+bondsman licensed by the board of professional bondsmen, pursuant to part 3 of
+this chapter, shall provide proof of such licensure to all courts of this state having
+jurisdiction and authorized to admit to bail when appearing before such courts.
+SECTION 3. Tennessee Code Annotated, Section 40-11-125(a), is amended by
+deleting the language:
+In addition to the requirements of part 3 of this chapter regulating professional
+bondsmen, approval of a professional bondsman or other surety may be withheld,
+withdrawn or suspended by any court if, after investigation, it appears that a bondsman:
+and substituting the language:
+In addition to the requirements of part 3 of this chapter regulating professional
+bondsmen, licensure of a professional bondsman may be withheld, withdrawn,
+suspended, revoked, or denied by the board of professional bondsmen if, after
+investigation, it appears that a professional bondsman:
+SECTION 4. Tennessee Code Annotated, Section 40-11-125, is amended by deleting
+subsections (b)-(d) and substituting the following:
+(b) If, after investigation, the board finds a professional bondsman to be in
+violation of any of the statutes enumerated in this section, then the board shall notify the
+bondsman in writing of the bondsman's right to a hearing prior to imposing any sanction
+permitted under this chapter. If the bondsman fails to notify the board in writing within
+ten (10) days from the date of the board's notice that the bondsman seeks a hearing,
+then such hearing is waived and the board may impose upon the bondsman any
+sanction or discipline permitted by this chapter. All hearings conducted pursuant to this
+subsection (b) must be in accordance with the Uniform Administrative Procedures Act,
+compiled in title 4, chapter 5.
+- 2 - 006400
+
+(c) The board shall remove the offending professional bondsman's name from
+the approved list as maintained on the board's registry under § 40-11-314 and notify all
+courts in which the professional bondsman is approved to practice.
+(d)
+(1) Notwithstanding the board's authority under this section, a court may
+deny, withhold, suspend, or revoke an approved professional bondsman's
+bonding privileges in such court upon the court's determination that the
+professional bondsman's conduct is detrimental to the bondsman's client or is
+disruptive to the court or court proceedings.
+(2) The court shall notify the board of its action, and the board may strike
+the offending bondsman from the approved list as maintained on the board's
+registry under § 40-11-314, following review by the board.
+(3) Any bondsman whose bonding privileges have been denied, withheld,
+suspended, or revoked under subdivision (d)(1) has the right of appeal to the
+next highest court having criminal jurisdiction, and the appeal must be heard de
+novo.
+(e) Any disciplinary action taken against a professional bondsman under this
+section must be published in accordance with § 56-1-302(a)(9).
+SECTION 5. Tennessee Code Annotated, Section 40-11-127, is amended by deleting
+the section and substituting the following:
+Upon a finding by a district attorney general that a professional bondsman has
+violated this chapter, the district attorney general may:
+(1) File a complaint with the board of professional bondsmen that details
+all violations alleged to have been committed by the professional bondsman for
+further action, if necessary, by the department; and
+- 3 - 006400
+
+(2) Prefer charges to have a bail bondsman stricken from the approved
+list pursuant to § 40-11-125 with the same provisions for notice, answer, and
+hearing before the court, and the same right of appeal.
+SECTION 6. Tennessee Code Annotated, Section 40-11-132(1), is amended by
+deleting the subdivision.
+SECTION 7. Tennessee Code Annotated, Section 40-11-133(d), is amended by
+deleting the language "Any approved bail bondsman in good standing" and substituting the
+language "Any licensed professional bondsman in good standing with the board of professional
+bondsmen".
+SECTION 8. Tennessee Code Annotated, Section 40-11-303(a), is amended by
+deleting "file with the clerk of the circuit or criminal court in each county" and substituting "file
+with the board of professional bondsmen and the clerk of the circuit or criminal court of each
+county".
+SECTION 9. Tennessee Code Annotated, Section 40-11-306, is amended by adding
+the following language at the end of the section:
+The court shall report any action taken under this section to the board of professional
+bondsmen for review to determine if additional disciplinary action is to be taken against
+the professional bondsman.
+SECTION 10. Tennessee Code Annotated, Section 40-11-306, is amended by
+designating the existing language as subsection (a) and adding the following as a new
+subsection:
+(b) In addition to the limitations imposed under subsection (a), the board of
+professional bondsmen may suspend or revoke the professional bondsman's license to
+practice bail bonding in this state upon its review of the findings of the investigation by
+the court. A person whose license to practice bail bonding has been suspended or
+revoked under this subsection (b) may appeal such action by the board pursuant to § 40-
+11-125.
+- 4 - 006400
+
+SECTION 11. Tennessee Code Annotated, Section 40-11-313, is amended by deleting
+the section and substituting:
+(a) It is unlawful for a person to act as a professional bondsman, directly or
+indirectly, while:
+(1) Serving as a constitutionally elected peace officer, or as such officer's
+deputy, or any duly elected or appointed county official; or
+(2) Owning, operating, or being an employee of a qualified electronic
+monitoring provider, as defined in § 40-11-152(a).
+(b) Subdivision (a)(1) does not apply to any duly elected member of the county
+legislative body.
+(c) Subdivision (a)(2) does not apply to a person who was a professional
+bondsman and owned a qualified electronic monitoring provider prior to January 1, 2025.
+SECTION 12. Tennessee Code Annotated, Section 40-11-317(a), is amended by
+deleting the subsection and substituting the following:
+(a) In addition to any other qualifications required by law, a person seeking to
+become a professional bondsman shall file an application for licensure with the board of
+professional bondsmen. In addition, the applicant shall submit to a criminal history
+background check by the Tennessee bureau of investigation as provided for under § 38-
+6-109 and is responsible for any fees associated with the criminal history background
+check. The Tennessee bureau of investigation shall submit the results of the criminal
+background check to the clerks of all courts in which the professional bondsman is
+qualified and to the board.
+SECTION 13. Tennessee Code Annotated, Section 40-11-317(c), is amended by
+deleting the subsection and substituting:
+(c)
+(1) If a court finds that a bondsman has individually or as a corporation
+owner been discharged in a bankruptcy proceeding leaving unsatisfied
+- 5 - 006400
+
+outstanding forfeitures with any court, then the court may order that the
+bondsman be prohibited from executing bonds, bail, or other undertakings as
+surety in the court, and must notify the board of professional bondsmen of the
+finding.
+(2) If the board is notified that a bondsman has individually or as a
+corporation owner been discharged in a bankruptcy proceeding leaving
+unsatisfied outstanding forfeitures with any court, then the board may suspend or
+revoke the bondsman's license to practice bail bonding in this state.
+SECTION 14. Tennessee Code Annotated, Section 40-11-319(a), is amended by
+deleting the language:
+shall notify, in writing, within seventy-two (72) hours of the arrest, the court or
+courts in which the professional bondsman is qualified
+and substituting the language:
+shall notify the board of professional bondsmen in writing within seventy-two (72)
+hours of the arrest
+SECTION 15. Tennessee Code Annotated, Section 40-11-319(c), is amended by
+deleting the subsection and substituting the following:
+(c) Upon receipt of the notice, the board may proceed in accordance with § 40-
+11-125 if such action is warranted.
+SECTION 16. Tennessee Code Annotated, Section 40-11-319(d), is amended by
+deleting the subsection and substituting the following:
+(d) Failure to comply with this section must result in an automatic suspension of
+the professional bondsman's bonding privileges until the board conducts a hearing
+pursuant to § 40-11-125(b), or until the criminal charges against the professional
+bondsman are resolved.
+SECTION 17. Tennessee Code Annotated, Title 40, Chapter 11, Part 3, is amended by
+adding the following as a new section:
+- 6 - 006400
+
+40-11-314.
+(a) On or after March 1, 2026, a person shall not operate as a professional
+bondsman in this state unless the person is licensed by the board of professional
+bondsmen under this section.
+(b)
+(1) There is created a state board to be known and designated as the
+board of professional bondsmen for this state. The board consists of seven (7)
+members who must possess good moral character, must be residents of this
+state, and are appointed as follows:
+(A) Two (2) members to be appointed by the speaker of the
+house of representatives, who meet the following qualifications:
+(i) One (1) member who is licensed as a professional
+bondsman; and
+(ii) One (1) member who is a chief of police;
+(B) Three (3) members to be appointed by the governor, who
+meet the following qualifications:
+(i) One (1) member who is licensed as a professional
+bondsman;
+(ii) One (1) member who is a district attorney general; and
+(iii) One (1) member who is a judge with jurisdiction to
+issue bond; and
+(C) Two (2) members to be appointed by the speaker of the
+senate, who meet the following qualifications:
+(i) One (1) member who is licensed as a professional
+bondsman; and
+(ii) One (1) member who is a sheriff.
+(2)
+- 7 - 006400
+
+(A) Members of the board must be appointed in accordance with
+subdivision (b)(2)(B). It is the purpose of this section that at least one (1)
+member shall retire from the board at the end of each year, thereby
+creating a rotating board.
+(B) The members' terms shall be staggered as follows:
+(i) The member of the board appointed pursuant to
+subdivision (b)(1)(A)(i) shall serve an initial term of one (1) year;
+(ii) The member of the board appointed pursuant to
+subdivision (b)(1)(A)(ii) shall serve an initial term of two (2) years;
+(iii) The member of the board appointed pursuant to
+subdivision (b)(1)(B)(i) shall serve an initial term of three (3) years;
+(iv) The member of the board appointed pursuant to
+subdivision (b)(1)(B)(ii) shall serve an initial term of four (4) years;
+(v) The member of the board appointed pursuant to
+subdivision (b)(1)(B)(iii) shall serve an initial term of five (5) years;
+(vi) The member of the board appointed pursuant to
+subdivision (b)(1)(C)(i) shall serve an initial term of six (6) years;
+and
+(vii) The member of the board appointed pursuant to
+subdivision (b)(1)(C)(ii) shall serve an initial term of seven (7)
+years.
+(C) The appointing authorities shall appoint a new member to the
+board upon the expiration of the terms prescribed in subdivision (b)(2)(B)
+and upon the expiration of all subsequent terms. All subsequent terms
+must be for six (6) years.
+(D) A member must not be reappointed for one (1) year after the
+completion of a term on the board.
+- 8 - 006400
+
+(3) Vacancies occurring on the board must be filled in accordance with
+this section for the balance of the unexpired term.
+(c)
+(1) The administrative office of the courts shall provide a list of all
+licensed bondsmen in this state upon the request of the board. The request must
+be made prior to March 1, 2026.
+(2) The board of professional bondsmen, in consultation and cooperation
+with members of the judiciary in this state, shall promulgate rules for the
+regulation of professional bondsmen that are reasonably necessary to carry out
+this chapter, including, but not limited to, rules to:
+(A) Implement and administer the licensure program created by
+this section, including, but not limited to, the establishment of adequate
+licensure and renewal fees to cover the cost of implementing and
+administering the licensure program for professional bondsmen;
+(B) Establish procedures for handling disciplinary matters
+involving professional bondsmen licensed under this section and for
+persons engaged in the unauthorized practice of bail bonding;
+(C) Assess civil penalties for violations;
+(D) Establish the standards of practice and qualifications for the
+issuance of a license to be a professional bondsman under this section.
+The standards and qualifications include, but are not limited to,
+procedures to require professional bondsmen to submit to criminal history
+background checks in accordance with §§ 38-6-109 and 55-10-426;
+(E) Establish any other procedures deemed necessary by the
+department for the supervision of professional bondsmen licensed under
+this section; and
+- 9 - 006400
+
+(F) Establish procedures for the approval of the continuing
+education programs for professional bondsmen, to be administered by an
+approved third-party contractor under part 4 of this chapter.
+(3) The rules must be promulgated in accordance with this chapter and
+the Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+(d) A person eighteen (18) years of age or older may apply for a license to
+operate as a professional bondsman.
+(e) An application for licensure as a professional bondsman must be submitted
+on a form prescribed by the board.
+(f) A certificate of licensure expires two (2) years from the date of the licensure
+or renewal.
+(g) A licensed professional bondsman shall list each place of business within this
+state with reference to its specific location, upon licensure and upon subsequent
+renewals of the licensure.
+(h) Included on each license and renewal form must be a section in which the
+licensee declares, under penalty of perjury pursuant to § 39-16-702(a)(3), whether the
+licensee has previously been revoked or convicted of a violation of this chapter. In
+addition, the applicant shall submit to a criminal history background check by the
+Tennessee bureau of investigation as provided for under § 38-6-109, and is responsible
+for any fees associated with the criminal history background check. The Tennessee
+bureau of investigation shall submit the results of the criminal background check to the
+board.
+(i) A licensee who has been convicted of a violation of this chapter, which
+resulted in a revocation of their license is prohibited from licensure under this chapter for
+five (5) years from the date of conviction.
+(j) The board shall create and keep up to date a registry that includes, but is not
+limited to, the approved list of professional bondsmen licensed by the board, the names
+- 10 - 006400
+
+of all persons licensed as professional bondsmen, and a list of names of persons who
+have been disciplined by the board in the previous five (5) years for violating this
+chapter. The board shall post and maintain the registry on the department of commerce
+and insurance's website.
+(k) Notwithstanding another law to the contrary, a license issued pursuant to this
+section becomes inactive upon notification to the department that the licensee is no
+longer in business at the licensed location.
+(l) The board shall serve as the centralized entity for filing and evaluating
+complaints against professional bondsmen.
+(m) This section does not require a judge to allow a licensed professional
+bondsman to admit persons to bail in the judge's court. A judge may deny a professional
+bondsman the privilege of admitting persons to bail in the judge's court regardless of the
+professional bondsman's licensure status. If a judge denies a licensed professional
+bondsman's request to admit persons to bail in the judge's court, then the judge must
+provide the bondsman with written notice of the denial and the reasons for such denial.
+SECTION 18. Tennessee Code Annotated, Title 40, Chapter 11, Part 3, is amended by
+adding the following as a new section:
+Each licensed professional bondsman shall inform the board in writing of each
+county in which the licensed professional bondsman has been approved by a judge to
+admit persons to bail.
+SECTION 19. Notwithstanding Sections 40-11-314(b)(1)(A)(i), (b)(1)(B)(i), and
+(b)(1)(C)(i), for the purpose of establishing the board of professional bondsmen, the appointing
+entities may initially appoint a bondsman who is approved to make bonds by a court within this
+state to the positions that must be filled by a licensed professional bondman. After March 1,
+2026, the licensing requirements of Sections 40-11-314(b)(1)(A)(i), (b)(1)(B)(i), and (b)(1)(C)(i)
+apply for any newly appointed member of the board.
+- 11 - 006400
+
+SECTION 20. For the purpose of promulgating rules and appointing members to the
+board, this act takes effect upon becoming a law, the public welfare requiring it. For all other
+purposes, this act takes effect January 1, 2026, the public welfare requiring it.
+- 12 - 006400
+
+[DELETED:  a HS(S]
+[DELETED:  -0SS(]
+[DELETED:  -0(S]
+[DELETED:  -0]
+[DELETED:  -0S]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0(]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0SES]
+[DELETED:  -0]

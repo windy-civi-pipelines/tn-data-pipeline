@@ -1,0 +1,77 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 645
+By Crowe
+AN ACT to amend Tennessee Code Annotated, Title 2,
+relative to voting.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 2-9-110, is amended by adding the
+following new subsection (d):
+(d) Notwithstanding another law to the contrary, voting equipment and machines
+must not transmit or receive a ballot, or otherwise be used to cast a ballot, using the
+internet, except as authorized for members of the military and overseas citizens in
+accordance with chapter 6, part 5 of this title.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 2, Chapter 2, Part 1, is amended by
+adding the following as a new section:
+Notwithstanding another law to the contrary, a county election commission shall
+not accept a post office box (P.O. Box) as a valid residential address for purposes of
+registering to vote or voting in this state.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 2-7-115(a), is amended by deleting
+the second sentence and substituting:
+If a registered voter has changed residence to another place inside Tennessee but
+outside of the county where the voter is registered, the voter must vote in a polling place
+in accordance with the voter's current residence.
+
+Section 5:
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0645
+000637
+- 1 -
+[DELETED: S(SNSS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 645
+By Crowe
+AN ACT to amend Tennessee Code Annotated, Title 2,
+relative to voting.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 2-9-110, is amended by adding the
+following new subsection (d):
+(d) Notwithstanding another law to the contrary, voting equipment and machines
+must not transmit or receive a ballot, or otherwise be used to cast a ballot, using the
+internet, except as authorized for members of the military and overseas citizens in
+accordance with chapter 6, part 5 of this title.
+SECTION 2. Tennessee Code Annotated, Title 2, Chapter 2, Part 1, is amended by
+adding the following as a new section:
+Notwithstanding another law to the contrary, a county election commission shall
+not accept a post office box (P.O. Box) as a valid residential address for purposes of
+registering to vote or voting in this state.
+SECTION 3. Tennessee Code Annotated, Section 2-7-115(a), is amended by deleting
+the second sentence and substituting:
+If a registered voter has changed residence to another place inside Tennessee but
+outside of the county where the voter is registered, the voter must vote in a polling place
+in accordance with the voter's current residence.
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+SB0645
+000637
+- 1 -
+
+[DELETED: S(SNSS]

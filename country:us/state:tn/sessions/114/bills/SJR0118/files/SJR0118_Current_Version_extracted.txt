@@ -1,0 +1,73 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 118
+By Johnson
+A RESOLUTION to confirm the appointment of Lynn Richardson
+of Elizabethton to the Tennessee Ethics
+Commission.
+WHEREAS, pursuant to Tennessee Code Annotated, Section 3-6-103, Governor Bill Lee
+has selected Lynn Richardson of Elizabethton as his appointee from the majority party to the
+Tennessee Ethics Commission; and
+WHEREAS, Ms. Richardson is a highly respected journalist who has served as president
+and publisher of the Elizabethton Star, publisher of the Herald & Tribune in Jonesborough, and
+director and founder of the Newspapers in Education program for the Johnson City Press; and
+WHEREAS, in recognition of her lengthy career in publishing, she has received
+numerous first-place awards from the Tennessee Press Association for excellence in the
+editorial, news, feature writing, and news photography categories, and she has served the
+organization as president, district director, and board member; and
+WHEREAS, Ms. Richardson gives back to her community as a board member for the
+Elizabethton/Carter County Boys and Girls Club and the Isaiah 117 House; and
+WHEREAS, Tennessee Code Annotated, Section 3-6-103, requires that each
+gubernatorial appointee be confirmed by a two-thirds (2/3) vote of approval by each house of
+the General Assembly; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that this body hereby confirms the appointment of Lynn
+Richardson to the Tennessee Ethics Commission, such term to expire on December 31, 2028.
+SJR0118
+003322
+- 1 -
+[DELETED: WW ,  rH ;WWW]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 118
+By Johnson
+A RESOLUTION to confirm the appointment of Lynn Richardson
+of Elizabethton to the Tennessee Ethics
+Commission.
+WHEREAS, pursuant to Tennessee Code Annotated, Section 3-6-103, Governor Bill Lee
+has selected Lynn Richardson of Elizabethton as his appointee from the majority party to the
+Tennessee Ethics Commission; and
+WHEREAS, Ms. Richardson is a highly respected journalist who has served as president
+and publisher of the Elizabethton Star, publisher of the Herald & Tribune in Jonesborough, and
+director and founder of the Newspapers in Education program for the Johnson City Press; and
+WHEREAS, in recognition of her lengthy career in publishing, she has received
+numerous first-place awards from the Tennessee Press Association for excellence in the
+editorial, news, feature writing, and news photography categories, and she has served the
+organization as president, district director, and board member; and
+WHEREAS, Ms. Richardson gives back to her community as a board member for the
+Elizabethton/Carter County Boys and Girls Club and the Isaiah 117 House; and
+WHEREAS, Tennessee Code Annotated, Section 3-6-103, requires that each
+gubernatorial appointee be confirmed by a two-thirds (2/3) vote of approval by each house of
+the General Assembly; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that this body hereby confirms the appointment of Lynn
+Richardson to the Tennessee Ethics Commission, such term to expire on December 31, 2028.
+SJR0118
+003322
+- 1 -
+
+[DELETED: WW ,  rH ;WWW]

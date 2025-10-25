@@ -1,0 +1,88 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 109
+By Johnson
+A RESOLUTION to confirm the appointment of Thomas D.
+Lehrman to the Public Charter School
+Commission.
+WHEREAS, Tennessee Code Annotated, Section 49-13-105, provides for the creation of
+the Public Charter School Commission; and
+WHEREAS, Tennessee Code Annotated, Section 49-13-105(b)(1)(A), provides that the
+commission be composed of nine members appointed by the governor; and
+WHEREAS, Tennessee Code Annotated, Section 49-13-105(c)(3), provides that at least
+three members from each grand division of the State shall serve on the commission; and
+WHEREAS, Governor Bill Lee, acting pursuant to Tennessee Code Annotated, Section
+49-13-105, has appointed Thomas D. Lehrman as a member of the Public Charter School
+Commission representing Middle Tennessee for a term that will expire on June 30, 2029; and
+WHEREAS, Thomas Lehrman is the managing partner of Teamworthy Ventures and the
+former co-founder and co-chief executive officer of Gerson Lehrman Group; and
+WHEREAS, Mr. Lehrman is a graduate of Duke University and Yale Law School and
+served as a director of the Office of WMD Terrorism at the U.S. Department of State and as a
+member of the professional staff on the President's WMD Commission; and
+WHEREAS, he has a long history of board service at private and charter schools in New
+York, having served on the boards of KIPP NYC Public Charter Schools, Brooklyn Excelsior
+Charter School, Cold Spring Harbor Laboratory, and his alma mater, The Buckley School; and
+WHEREAS, Tennessee Code Annotated, Section 49-13-105(b)(1)(A), provides that
+each appointed member shall be confirmed by joint resolution of the general assembly; now,
+therefore,
+SJR0109
+003242
+- 1 -
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we confirm the appointment of Thomas D. Lehrman
+to the Public Charter School Commission for a term that will expire on June 30, 2029.
+- 2 - 003242
+[DELETED: W]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 109
+By Johnson
+A RESOLUTION to confirm the appointment of Thomas D.
+Lehrman to the Public Charter School
+Commission.
+WHEREAS, Tennessee Code Annotated, Section 49-13-105, provides for the creation of
+the Public Charter School Commission; and
+WHEREAS, Tennessee Code Annotated, Section 49-13-105(b)(1)(A), provides that the
+commission be composed of nine members appointed by the governor; and
+WHEREAS, Tennessee Code Annotated, Section 49-13-105(c)(3), provides that at least
+three members from each grand division of the State shall serve on the commission; and
+WHEREAS, Governor Bill Lee, acting pursuant to Tennessee Code Annotated, Section
+49-13-105, has appointed Thomas D. Lehrman as a member of the Public Charter School
+Commission representing Middle Tennessee for a term that will expire on June 30, 2029; and
+WHEREAS, Thomas Lehrman is the managing partner of Teamworthy Ventures and the
+former co-founder and co-chief executive officer of Gerson Lehrman Group; and
+WHEREAS, Mr. Lehrman is a graduate of Duke University and Yale Law School and
+served as a director of the Office of WMD Terrorism at the U.S. Department of State and as a
+member of the professional staff on the President's WMD Commission; and
+WHEREAS, he has a long history of board service at private and charter schools in New
+York, having served on the boards of KIPP NYC Public Charter Schools, Brooklyn Excelsior
+Charter School, Cold Spring Harbor Laboratory, and his alma mater, The Buckley School; and
+WHEREAS, Tennessee Code Annotated, Section 49-13-105(b)(1)(A), provides that
+each appointed member shall be confirmed by joint resolution of the general assembly; now,
+therefore,
+SJR0109
+003242
+- 1 -
+
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we confirm the appointment of Thomas D. Lehrman
+to the Public Charter School Commission for a term that will expire on June 30, 2029.
+- 2 - 003242
+
+[DELETED: W]
+[DELETED:  -0B]

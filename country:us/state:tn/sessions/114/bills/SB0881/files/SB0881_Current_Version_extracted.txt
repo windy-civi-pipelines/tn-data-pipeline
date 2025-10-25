@@ -1,0 +1,348 @@
+Title: HOUSE BILL 1244
+Official Title: HOUSE BILL 1244
+Number of Sections: 10
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+By Martin B
+SENATE BILL 881
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 56,
+relative to pharmacy benefits managers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 56-7-3110, is amended by adding
+the following at the end of the section immediately preceding the period:
+, subject to § 56-2-305(c)(7)
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 56-2-305(c), is amended by adding
+the following new subdivision:
+(7) Violations made by pharmacy benefits managers as defined in § 56-7-3102.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 56-7-3102, is amended by adding
+the following as new, appropriately designated subdivisions:
+( ) "Clean claim":
+(A) Means a claim received by a pharmacy benefits manager for
+adjudication that:
+(i) Requires no further information, adjustment, or alteration by
+the provider of the services in order to be processed and paid by the
+pharmacy benefits manager; and
+(ii) Has no defect or impropriety, including a lack of any required
+substantiating documentation or particular circumstance requiring special
+treatment that prevents timely payment from being made on the claim
+under § 56-7-3124;
+SB0881
+002620
+- 1 -
+(B) Includes resubmitted paper claims with previously identified
+deficiencies corrected; and
+(C) Does not include:
+(i) A duplicate claim; or
+(ii) A claim submitted more than ninety (90) days after the date of
+service;
+( ) "Duplicate claim" means an original claim and its duplicate, when the
+duplicate is filed within thirty (30) days of the original claim;
+( ) "Pay" means that the pharmacy benefits manager must send the provider
+cash or a cash equivalent in full satisfaction of the allowed portion of the claim, or give
+the provider a credit against any outstanding balance owed by that provider to the
+pharmacy benefits manager. A payment occurs on the date when the cash, cash
+equivalent, or notice of credit is mailed or otherwise sent to the provider;
+( ) "Submitted" means that the provider mails or otherwise sends a claim to the
+pharmacy benefits manager. A submission occurs on the date the claim is mailed or
+otherwise sent to the pharmacy benefits manager;
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Title 56, Chapter 7, Part 31, is amended by
+adding the following as a new section:
+56-7-3124. Prompt payment standards.
+(a) Not later than thirty (30) calendar days after the date that a pharmacy
+benefits manager receives a claim submitted on paper from a provider, a pharmacy
+benefits manager shall:
+(1) For a clean claim, pay the total covered amount of the claim;
+- 2 - 002620
+(2) Pay the portion of the claim that constitutes a clean claim and that is
+not in dispute and notify the provider in writing why the remaining portion of the
+claim will not be paid; or
+(3) Notify the provider in writing of all reasons why the claim does not
+constitute a clean claim and will not be paid and what substantiating
+documentation and information is required to adjudicate the claim as a clean
+claim.
+(b) Not later than fourteen (14) calendar days after receiving a claim by
+electronic submission, a pharmacy benefits manager shall:
+(1) For a clean claim, pay the total covered amount of the claim;
+(2) Pay the portion of the claim that constitutes a clean claim and that is
+not in dispute and notify the provider why the remaining portion of the claim will
+not be paid; or
+(3) Notify the provider of the reason why the claim does not constitute a
+clean claim and will not be paid and what substantiating documentation or
+information is required to adjudicate the claim.
+(c) A paper claim must not be denied upon resubmission for lack of
+substantiating documentation or information that has been previously provided by the
+healthcare provider.
+(d) A pharmacy benefits manager shall timely provide contracted providers with
+all necessary information to properly submit a claim.
+(e) A pharmacy benefits manager that does not comply with subdivision (b)(1)
+shall pay one percent (1%) interest per month, accruing from the day after the payment
+was due, on that amount of the claim that remains unpaid.
+(f) Regulatory oversight.
+- 3 - 002620
+(1) The commissioner shall ensure, as part of the department's ongoing
+regulatory oversight of pharmacy benefits managers, that pharmacy benefits
+managers properly process and pay claims in accordance with this section.
+(2)
+(A) If the commissioner finds a pharmacy benefits manager has
+failed during any calendar year to properly process and pay ninety-five
+percent (95%) of all clean claims received from all providers during that
+year in accordance with this section, then the commissioner may levy an
+aggregate penalty up to ten thousand dollars ($10,000), if reasonable
+notice in writing is given of the intent to levy the penalty.
+(B) If the commissioner finds a pharmacy benefits manager has
+failed during any calendar year to properly process and pay eighty-five
+percent (85%) of all clean claims received from all providers during that
+year in accordance with this section, then the commissioner may levy an
+aggregate penalty in an amount of not less than ten thousand dollars
+($10,000) nor more than one hundred thousand dollars ($100,000), if
+reasonable notice in writing is given of the intent to levy the penalty.
+(C) If the commissioner finds a pharmacy benefits manager has
+failed during any calendar year to properly process and pay sixty percent
+(60%) of all clean claims received from all providers during that year in
+accordance with this section, then the commissioner may levy an
+aggregate penalty in an amount of not less than one hundred thousand
+dollars ($100,000) nor more than two hundred thousand dollars
+($200,000), if reasonable notice in writing is given of the intent to levy the
+penalty.
+- 4 - 002620
+(D) In determining the amount of any penalty, the commissioner
+shall take into account whether the failure to achieve the standards in this
+
+Section 6:
+section is due to circumstances beyond the pharmacy benefits manager's
+control and whether the pharmacy benefits manager has been in the
+business of processing claims for two (2) years or less.
+(E) The pharmacy benefits manager may request an
+administrative hearing contesting the assessment of any administrative
+penalty imposed by the commissioner within thirty (30) days after receipt
+of the notice of the assessment.
+(3) The commissioner may issue an order directing a pharmacy benefits
+manager or a representative of a pharmacy benefits manager to cease and
+desist from engaging in any act or practice in violation of this section. Within
+fifteen (15) days after service of the cease and desist order, the respondent may
+request a hearing on the question of whether acts or practices in violation of this
+
+Section 7:
+section have occurred.
+(4) All hearings under this part must be conducted pursuant to the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+(5) In the case of any violations of this section, if the commissioner elects
+not to issue a cease and desist order, or in the event of noncompliance with a
+cease and desist order issued by the commissioner, the commissioner may
+institute a proceeding to obtain injunctive or other appropriate relief in the
+chancery court of Davidson County.
+(6) Examinations to determine compliance with this section may be
+conducted by the commissioner's staff. The commissioner may, if necessary,
+contract with qualified, impartial outside sources to assist in examinations to
+- 5 - 002620
+determine compliance with this section. The expenses of the examinations must
+be assessed against pharmacy benefits managers in accordance with § 56-32-
+115(e). For other pharmacy benefits managers, the commissioner shall bill the
+expenses of the examinations to those entities in accordance with § 56-1-413.
+(g) Rules.
+The commissioner shall adopt rules in accordance with the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5, to effectuate
+compliance with this section.
+
+Section 8:
+SECTION 5. Tennessee Code Annotated, Section 56-7-3206(c)(3)(A), is amended by
+adding the following new subdivision:
+(vii) Apply the findings from the appeal as to the rate of the reimbursement and
+actual cost for the particular drug or medical product or device to all remaining refills on
+the issued prescription drug or medical product or device, if the reimbursement aligns
+with the appeal.
+
+Section 9:
+SECTION 6. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 10:
+SECTION 7. This act takes effect upon becoming a law, the public welfare requiring it.
+- 6 - 002620
+[DELETED: SS(]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0S(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1244
+By Martin B
+SENATE BILL 881
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 56,
+relative to pharmacy benefits managers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 56-7-3110, is amended by adding
+the following at the end of the section immediately preceding the period:
+, subject to § 56-2-305(c)(7)
+SECTION 2. Tennessee Code Annotated, Section 56-2-305(c), is amended by adding
+the following new subdivision:
+(7) Violations made by pharmacy benefits managers as defined in § 56-7-3102.
+SECTION 3. Tennessee Code Annotated, Section 56-7-3102, is amended by adding
+the following as new, appropriately designated subdivisions:
+( ) "Clean claim":
+(A) Means a claim received by a pharmacy benefits manager for
+adjudication that:
+(i) Requires no further information, adjustment, or alteration by
+the provider of the services in order to be processed and paid by the
+pharmacy benefits manager; and
+(ii) Has no defect or impropriety, including a lack of any required
+substantiating documentation or particular circumstance requiring special
+treatment that prevents timely payment from being made on the claim
+under § 56-7-3124;
+SB0881
+002620
+- 1 -
+
+(B) Includes resubmitted paper claims with previously identified
+deficiencies corrected; and
+(C) Does not include:
+(i) A duplicate claim; or
+(ii) A claim submitted more than ninety (90) days after the date of
+service;
+( ) "Duplicate claim" means an original claim and its duplicate, when the
+duplicate is filed within thirty (30) days of the original claim;
+( ) "Pay" means that the pharmacy benefits manager must send the provider
+cash or a cash equivalent in full satisfaction of the allowed portion of the claim, or give
+the provider a credit against any outstanding balance owed by that provider to the
+pharmacy benefits manager. A payment occurs on the date when the cash, cash
+equivalent, or notice of credit is mailed or otherwise sent to the provider;
+( ) "Submitted" means that the provider mails or otherwise sends a claim to the
+pharmacy benefits manager. A submission occurs on the date the claim is mailed or
+otherwise sent to the pharmacy benefits manager;
+SECTION 4. Tennessee Code Annotated, Title 56, Chapter 7, Part 31, is amended by
+adding the following as a new section:
+56-7-3124. Prompt payment standards.
+(a) Not later than thirty (30) calendar days after the date that a pharmacy
+benefits manager receives a claim submitted on paper from a provider, a pharmacy
+benefits manager shall:
+(1) For a clean claim, pay the total covered amount of the claim;
+- 2 - 002620
+
+(2) Pay the portion of the claim that constitutes a clean claim and that is
+not in dispute and notify the provider in writing why the remaining portion of the
+claim will not be paid; or
+(3) Notify the provider in writing of all reasons why the claim does not
+constitute a clean claim and will not be paid and what substantiating
+documentation and information is required to adjudicate the claim as a clean
+claim.
+(b) Not later than fourteen (14) calendar days after receiving a claim by
+electronic submission, a pharmacy benefits manager shall:
+(1) For a clean claim, pay the total covered amount of the claim;
+(2) Pay the portion of the claim that constitutes a clean claim and that is
+not in dispute and notify the provider why the remaining portion of the claim will
+not be paid; or
+(3) Notify the provider of the reason why the claim does not constitute a
+clean claim and will not be paid and what substantiating documentation or
+information is required to adjudicate the claim.
+(c) A paper claim must not be denied upon resubmission for lack of
+substantiating documentation or information that has been previously provided by the
+healthcare provider.
+(d) A pharmacy benefits manager shall timely provide contracted providers with
+all necessary information to properly submit a claim.
+(e) A pharmacy benefits manager that does not comply with subdivision (b)(1)
+shall pay one percent (1%) interest per month, accruing from the day after the payment
+was due, on that amount of the claim that remains unpaid.
+(f) Regulatory oversight.
+- 3 - 002620
+
+(1) The commissioner shall ensure, as part of the department's ongoing
+regulatory oversight of pharmacy benefits managers, that pharmacy benefits
+managers properly process and pay claims in accordance with this section.
+(2)
+(A) If the commissioner finds a pharmacy benefits manager has
+failed during any calendar year to properly process and pay ninety-five
+percent (95%) of all clean claims received from all providers during that
+year in accordance with this section, then the commissioner may levy an
+aggregate penalty up to ten thousand dollars ($10,000), if reasonable
+notice in writing is given of the intent to levy the penalty.
+(B) If the commissioner finds a pharmacy benefits manager has
+failed during any calendar year to properly process and pay eighty-five
+percent (85%) of all clean claims received from all providers during that
+year in accordance with this section, then the commissioner may levy an
+aggregate penalty in an amount of not less than ten thousand dollars
+($10,000) nor more than one hundred thousand dollars ($100,000), if
+reasonable notice in writing is given of the intent to levy the penalty.
+(C) If the commissioner finds a pharmacy benefits manager has
+failed during any calendar year to properly process and pay sixty percent
+(60%) of all clean claims received from all providers during that year in
+accordance with this section, then the commissioner may levy an
+aggregate penalty in an amount of not less than one hundred thousand
+dollars ($100,000) nor more than two hundred thousand dollars
+($200,000), if reasonable notice in writing is given of the intent to levy the
+penalty.
+- 4 - 002620
+
+(D) In determining the amount of any penalty, the commissioner
+shall take into account whether the failure to achieve the standards in this
+section is due to circumstances beyond the pharmacy benefits manager's
+control and whether the pharmacy benefits manager has been in the
+business of processing claims for two (2) years or less.
+(E) The pharmacy benefits manager may request an
+administrative hearing contesting the assessment of any administrative
+penalty imposed by the commissioner within thirty (30) days after receipt
+of the notice of the assessment.
+(3) The commissioner may issue an order directing a pharmacy benefits
+manager or a representative of a pharmacy benefits manager to cease and
+desist from engaging in any act or practice in violation of this section. Within
+fifteen (15) days after service of the cease and desist order, the respondent may
+request a hearing on the question of whether acts or practices in violation of this
+section have occurred.
+(4) All hearings under this part must be conducted pursuant to the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+(5) In the case of any violations of this section, if the commissioner elects
+not to issue a cease and desist order, or in the event of noncompliance with a
+cease and desist order issued by the commissioner, the commissioner may
+institute a proceeding to obtain injunctive or other appropriate relief in the
+chancery court of Davidson County.
+(6) Examinations to determine compliance with this section may be
+conducted by the commissioner's staff. The commissioner may, if necessary,
+contract with qualified, impartial outside sources to assist in examinations to
+- 5 - 002620
+
+determine compliance with this section. The expenses of the examinations must
+be assessed against pharmacy benefits managers in accordance with § 56-32-
+115(e). For other pharmacy benefits managers, the commissioner shall bill the
+expenses of the examinations to those entities in accordance with § 56-1-413.
+(g) Rules.
+The commissioner shall adopt rules in accordance with the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5, to effectuate
+compliance with this section.
+SECTION 5. Tennessee Code Annotated, Section 56-7-3206(c)(3)(A), is amended by
+adding the following new subdivision:
+(vii) Apply the findings from the appeal as to the rate of the reimbursement and
+actual cost for the particular drug or medical product or device to all remaining refills on
+the issued prescription drug or medical product or device, if the reimbursement aligns
+with the appeal.
+SECTION 6. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 7. This act takes effect upon becoming a law, the public welfare requiring it.
+- 6 - 002620
+
+[DELETED: SS(]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0S(S]

@@ -1,0 +1,191 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 710
+By Jones R
+A RESOLUTION to honor the memory of James W. "Jim" Ayers of
+Parsons.
+WHEREAS, the members of this General Assembly were greatly saddened to learn of
+the passing of James W. "Jim" Ayers, a distinguished Tennessean whose legacy of business
+acumen, philanthropic leadership, and unwavering dedication to rural communities will endure
+for generations; and
+WHEREAS, Mr. Ayers was the founder and chairman of FirstBank, which, under his
+leadership and vision, grew from a single bank with $14 million in assets in 1984 to one of
+Tennessee's largest financial institutions, with over $13 billion in assets and a footprint
+extending across the Southeast; and
+WHEREAS, born on November 19, 1943, in Parsons, Jim Ayers came from very humble
+beginnings and embraced the values of honesty, hard work, and generosity and the importance
+of education instilled in him by his father, who worked in a sawmill and on the family farm, and
+his mother, who ran a fabric shop; and
+WHEREAS, a self-described entrepreneur from the time he was eight years old, Mr.
+Ayers began earning money by shining shoes for ten cents a pair; at the age of ten, he was
+driving a tractor on the family farm and putting in eight to ten hours of labor on the weekends;
+and
+WHEREAS, Jim Ayers spent a summer selling books for the Southwestern Company at
+the age of sixteen; traveling to McComb, Mississippi, he joined the company's summer sales
+force, staying in a boarding house while being paid ten dollars a week to knock on doors, selling
+mostly Bibles; and
+WHEREAS, after graduating from Parsons High School in 1961, he attended Memphis
+State University, now the University of Memphis; during his sophomore year there, he started
+his family before receiving a degree in accounting in 1965; and
+HJR0710
+009349
+- 1 -
+WHEREAS, Mr. Ayers began his career in the healthcare sector before founding
+American Health Centers, a network of forty nursing homes across Tennessee; and
+WHEREAS, in 2006, he married the love of his life, Janet Ayers, who affectionately
+called him "Jimbo"; and
+WHEREAS, his enduring legacy in banking began in 1984 with the acquisition of
+Farmers State Bank in Scotts Hill, eventually leading to his founding of FirstBank; Mr. Ayers
+served as Chief Executive Officer and later Executive Chairman of FirstBank, taking the
+company public in 2016, while never losing sight of the personal service and rural roots that
+defined his approach to leadership; and
+WHEREAS, driven by a deep sense of purpose and guided by the biblical principle, "To
+whom much is given, much is expected," Mr. Ayers founded The Ayers Foundation in 1999 to
+improve the quality of life for Tennesseans through education, conservation, and social welfare;
+and
+WHEREAS, through the Ayers Foundation, Jim and Janet Ayers's impact has been
+profound, directly supporting over 30,000 rural Tennessee students by helping them develop a
+plan to reach their goals, whether it be an apprenticeship, the military, a workforce certificate, or
+a college degree; and
+WHEREAS, Mr. Ayers's generosity extended to many of Tennessee's educational
+institutions, including Jackson State Community College, where he served as an honorary
+member of the Foundation Board of Trustees, as well as Bethel University, Freed-Hardeman
+University, Union University, and the University of Memphis, all of which awarded him honorary
+doctoral degrees; and
+WHEREAS, Jim and Janet Ayers's philanthropy extended further through the creation of
+the Ayers Institute at the Vanderbilt-Ingram Cancer Center, the Ayers Children's Hospital in
+Jackson, and the Ayers Institute for Teacher Learning and Innovation at Lipscomb University;
+and
+- 2 - 009349
+WHEREAS, in recognition of the enduring impact that Jim Ayers made, Vanderbilt
+University Medical Center is naming its new $500 million tower after Mr. Ayers; the Jim Ayers
+Tower is scheduled to open in October 2025; and
+WHEREAS, his contributions to the civic and educational fabric of Tennessee earned
+him numerous accolades, including the Joe Kraft Humanitarian Award from the Community
+Foundation of Middle Tennessee, the Distinguished Alumni Award from the University of
+Memphis, the Silver Beaver Award from the Boy Scouts of America, Nashvillian of the Year by
+Easterseals of Tennessee, and induction into the Horatio Alger Association of Distinguished
+Americans and the Nashville Entrepreneur Center Hall of Fame; and
+WHEREAS, Jim Ayers leaves behind an indelible legacy of integrity and probity in public
+life, compassion and loyalty in private life, and diligence and dedication in all his chosen
+endeavors; and
+WHEREAS, it is fitting that the members of this General Assembly should pause to
+remember the bountiful life of this exceptional public servant and human being; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor the life and legacy of James W. "Jim" Ayers, reflecting fondly
+upon his impeccable character and his stalwart commitment to living the examined life with
+courage and conviction.
+BE IT FURTHER RESOLVED, that we express our sympathy and offer our condolences
+to the family of Mr. Ayers.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 009349
+[DELETED: WWWWWW]
+[DELETED:  -0WWWWWWW]
+[DELETED:  -0WWWWBBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 710
+By Jones R
+A RESOLUTION to honor the memory of James W. "Jim" Ayers of
+Parsons.
+WHEREAS, the members of this General Assembly were greatly saddened to learn of
+the passing of James W. "Jim" Ayers, a distinguished Tennessean whose legacy of business
+acumen, philanthropic leadership, and unwavering dedication to rural communities will endure
+for generations; and
+WHEREAS, Mr. Ayers was the founder and chairman of FirstBank, which, under his
+leadership and vision, grew from a single bank with $14 million in assets in 1984 to one of
+Tennessee's largest financial institutions, with over $13 billion in assets and a footprint
+extending across the Southeast; and
+WHEREAS, born on November 19, 1943, in Parsons, Jim Ayers came from very humble
+beginnings and embraced the values of honesty, hard work, and generosity and the importance
+of education instilled in him by his father, who worked in a sawmill and on the family farm, and
+his mother, who ran a fabric shop; and
+WHEREAS, a self-described entrepreneur from the time he was eight years old, Mr.
+Ayers began earning money by shining shoes for ten cents a pair; at the age of ten, he was
+driving a tractor on the family farm and putting in eight to ten hours of labor on the weekends;
+and
+WHEREAS, Jim Ayers spent a summer selling books for the Southwestern Company at
+the age of sixteen; traveling to McComb, Mississippi, he joined the company's summer sales
+force, staying in a boarding house while being paid ten dollars a week to knock on doors, selling
+mostly Bibles; and
+WHEREAS, after graduating from Parsons High School in 1961, he attended Memphis
+State University, now the University of Memphis; during his sophomore year there, he started
+his family before receiving a degree in accounting in 1965; and
+HJR0710
+009349
+- 1 -
+
+WHEREAS, Mr. Ayers began his career in the healthcare sector before founding
+American Health Centers, a network of forty nursing homes across Tennessee; and
+WHEREAS, in 2006, he married the love of his life, Janet Ayers, who affectionately
+called him "Jimbo"; and
+WHEREAS, his enduring legacy in banking began in 1984 with the acquisition of
+Farmers State Bank in Scotts Hill, eventually leading to his founding of FirstBank; Mr. Ayers
+served as Chief Executive Officer and later Executive Chairman of FirstBank, taking the
+company public in 2016, while never losing sight of the personal service and rural roots that
+defined his approach to leadership; and
+WHEREAS, driven by a deep sense of purpose and guided by the biblical principle, "To
+whom much is given, much is expected," Mr. Ayers founded The Ayers Foundation in 1999 to
+improve the quality of life for Tennesseans through education, conservation, and social welfare;
+and
+WHEREAS, through the Ayers Foundation, Jim and Janet Ayers's impact has been
+profound, directly supporting over 30,000 rural Tennessee students by helping them develop a
+plan to reach their goals, whether it be an apprenticeship, the military, a workforce certificate, or
+a college degree; and
+WHEREAS, Mr. Ayers's generosity extended to many of Tennessee's educational
+institutions, including Jackson State Community College, where he served as an honorary
+member of the Foundation Board of Trustees, as well as Bethel University, Freed-Hardeman
+University, Union University, and the University of Memphis, all of which awarded him honorary
+doctoral degrees; and
+WHEREAS, Jim and Janet Ayers's philanthropy extended further through the creation of
+the Ayers Institute at the Vanderbilt-Ingram Cancer Center, the Ayers Children's Hospital in
+Jackson, and the Ayers Institute for Teacher Learning and Innovation at Lipscomb University;
+and
+- 2 - 009349
+
+WHEREAS, in recognition of the enduring impact that Jim Ayers made, Vanderbilt
+University Medical Center is naming its new $500 million tower after Mr. Ayers; the Jim Ayers
+Tower is scheduled to open in October 2025; and
+WHEREAS, his contributions to the civic and educational fabric of Tennessee earned
+him numerous accolades, including the Joe Kraft Humanitarian Award from the Community
+Foundation of Middle Tennessee, the Distinguished Alumni Award from the University of
+Memphis, the Silver Beaver Award from the Boy Scouts of America, Nashvillian of the Year by
+Easterseals of Tennessee, and induction into the Horatio Alger Association of Distinguished
+Americans and the Nashville Entrepreneur Center Hall of Fame; and
+WHEREAS, Jim Ayers leaves behind an indelible legacy of integrity and probity in public
+life, compassion and loyalty in private life, and diligence and dedication in all his chosen
+endeavors; and
+WHEREAS, it is fitting that the members of this General Assembly should pause to
+remember the bountiful life of this exceptional public servant and human being; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor the life and legacy of James W. "Jim" Ayers, reflecting fondly
+upon his impeccable character and his stalwart commitment to living the examined life with
+courage and conviction.
+BE IT FURTHER RESOLVED, that we express our sympathy and offer our condolences
+to the family of Mr. Ayers.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 009349
+
+[DELETED: WWWWWW]
+[DELETED:  -0WWWWWWW]
+[DELETED:  -0WWWWBBB]

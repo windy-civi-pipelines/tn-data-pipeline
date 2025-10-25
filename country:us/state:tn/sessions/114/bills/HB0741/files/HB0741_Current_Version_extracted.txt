@@ -1,0 +1,495 @@
+Title: SENATE BILL 1174
+Official Title: SENATE BILL 1174
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+By Akbari
+HOUSE BILL 741
+By McKenzie
+AN ACT to amend Tennessee Code Annotated, Title 38,
+Chapter 1, relative to body cameras for law
+enforcement officers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 38, Chapter 1, is amended by adding
+the following as a new part:
+38-1-1001. As used in this part:
+(1) "Body camera recording" or "recording" means any audio or video recording
+taken by a law enforcement officer through use of a body camera;
+(2) "Law enforcement agency" means a governmental unit of one (1) or more
+persons employed full time or part time by the state, or political subdivision of the state,
+for the purpose of preventing and detecting crime and enforcing laws or local ordinances
+and the employees of which are authorized to make arrests for crimes while acting within
+the scope of their authority;
+(3) "Law enforcement officer" means any person authorized by law to conduct
+searches and effectuate arrests and who is employed by the state, a county, a
+municipality, or a metropolitan form of government;
+(4) "Minor" means any person under eighteen (18) years of age;
+(5) "Next of kin" means a person's spouse, parents, legal guardians,
+grandparents, siblings, and children; and
+(6) "Subject of the recording" means:
+HB0741
+002861
+- 1 -
+(A) A person, including a law enforcement officer, suspect, victim,
+detainee, conversant, injured party, or other similarly situated person, who
+appears or can be heard on the body camera recording; and
+(B) Does not include a person who only incidentally appears or is heard
+on the body camera recording.
+38-1-1002.
+(a) A law enforcement agency that uses body cameras shall adopt a written
+policy for the use of the body cameras by its law enforcement officers in compliance with
+this part. Law enforcement officers must receive a copy of the written policy and training
+in the use of body cameras before using such cameras. The training must include, at a
+minimum, instruction on this part and the agency's written policy.
+(b) Only law enforcement officers with the authority to conduct searches and
+make arrests are permitted to wear a body camera. Law enforcement officers who serve
+an undercover role are not subject to this part.
+(c) A written policy adopted by a law enforcement agency pursuant to subsection
+(a) must include, at a minimum, guidelines on the use of body cameras by law
+enforcement officers to:
+(1) Ensure that body cameras are worn by law enforcement officers in a
+location and manner that maximizes the camera's ability to capture video footage
+of the officer's activities;
+(2) Provide standards for when a law enforcement officer must enable
+and disable recording functions of the body camera, including:
+(A) A requirement that a law enforcement officer activate a body
+camera whenever responding to a call for service;
+- 2 - 002861
+(B) A requirement that body cameras be activated at the initiation
+of a law enforcement or investigative encounter between a law
+enforcement officer and a member of the public, except when there is an
+immediate threat to the officer's or another's life or safety that makes
+activating the body camera impossible or dangerous;
+(C) A requirement that in situations as described in subdivision
+(c)(2)(B) in which activating a body camera is impossible or dangerous, a
+law enforcement officer must activate the camera at the first reasonable
+opportunity to do so;
+(D) A requirement that a law enforcement officer must not
+deactivate a body camera until the encounter between a law enforcement
+officer and a member of the public has fully concluded and the law
+enforcement officer leaves the scene; and
+(E) A requirement that a law enforcement officer currently at the
+scene or arriving thereafter who is equipped with a body camera must
+activate the camera and record the situation upon arrival, and that the
+body camera must remain on until the officer leaves the scene; and
+(3) Require law enforcement officers wearing body cameras to notify the
+subjects of the recording that the subjects are being recorded by a body camera
+as close to the inception of the encounter as is reasonably possible.
+(d) Notwithstanding subsection (c), the written policy must make exceptions to
+the use of body cameras in the following circumstances:
+(1) Prior to entering a private residence without a warrant or in non-
+exigent circumstances, a law enforcement officer shall ask the occupant if the
+occupant wants the officer to discontinue use of the officer's body camera. If the
+- 3 - 002861
+occupant responds affirmatively, then the law enforcement officer must
+immediately discontinue use of the body camera;
+(2) When interacting with an apparent crime victim, including, but not
+limited to, a victim of domestic abuse, as defined in § 36-3-601, or a victim of
+rape, as defined in § 39-13-503, a law enforcement officer shall, as soon as
+practicable, ask the victim if the victim wants the officer to discontinue use of the
+officer's body camera. If the victim responds affirmatively, then the law
+enforcement officer must immediately discontinue use of the body camera; and
+(3) When interacting with a person seeking to anonymously report a
+crime or assist in an ongoing law enforcement investigation, a law enforcement
+officer shall, as soon as practicable, ask the person if the person wants the
+officer to discontinue use of the officer's body camera. If the person responds
+affirmatively, then the law enforcement officer must immediately discontinue use
+of the body camera.
+(e) Requests to discontinue use of a body camera made pursuant to subsection
+(d), and the responses thereto, must be recorded by the body camera prior to
+discontinuing use of the body camera.
+38-1-1003.
+(a) Body cameras must not be used in a manner inconsistent with the purposes
+described in this part.
+(b) Body cameras must not be used to gather intelligence information based on
+First Amendment protected speech, association, or religion, or to record activity that is
+unrelated to a response to a call for service or a law enforcement or investigative
+encounter between a law enforcement officer and a member of the public.
+- 4 - 002861
+(c) Law enforcement officers must not activate a body camera while on the
+grounds of any public, private, or parochial elementary or secondary school, as defined
+in § 49-6-301, except when responding to an imminent threat to life or safety.
+38-1-1004.
+(a) A law enforcement agency providing a body camera to an officer as
+authorized by this part shall establish a written policy for the retention of data by the
+agency in compliance with this section.
+(b) Except as provided in subsection (c), body camera recordings must be
+retained by the law enforcement agency that employs the officer, or an authorized agent
+as described in § 38-1-1005(d), whose body camera captured the recording, for six (6)
+months from the date it was recorded, after which time the recording must be
+permanently deleted.
+(c) Notwithstanding subsection (b):
+(1) Body camera recordings must be automatically retained for at least
+three (3) years if the body camera recordings involve:
+(A) Any use of force;
+(B) Events leading up to and including an arrest for a felony
+offense, or events that constitute a felony offense; or
+(C) An encounter about which a complaint has been registered by
+a subject of the body camera recording within the six (6) months following
+the recording.
+(2) Body camera recordings must be retained for at least three (3) years
+if voluntarily requested, within six (6) months following the recording, by:
+- 5 - 002861
+(A) The law enforcement officer using the body camera, if that
+officer reasonably asserts the recording has evidentiary or exculpatory
+value;
+(B) A law enforcement officer who is a subject of the body camera
+recording, if that officer reasonably asserts the recording has evidentiary
+or exculpatory value;
+(C) A superior officer of a law enforcement officer using a body
+camera or who is a subject of the recording, if that superior officer
+reasonably asserts the recording has evidentiary or exculpatory value;
+(D) A law enforcement officer, if the recording is being retained
+solely and exclusively for police training purposes;
+(E) A member of the public who is a subject of the recording;
+(F) A parent or legal guardian of a minor who is a subject of the
+recording; or
+(G) A deceased subject's next of kin or legally authorized
+designee.
+(d) To effectuate subdivisions (c)(2)(E), (c)(2)(F), and (c)(2)(G), the persons
+specified in those subdivisions may review the specific body camera recording in order
+to make a determination as to whether the person will voluntarily request the recording
+be subject to a three-year retention period.
+(e) Body camera recordings are part of the public record for the purpose of
+public inspection under § 10-7-503, except for the following:
+(1) A body camera recording not subject to a minimum three-year
+retention period pursuant to subsection (c);
+- 6 - 002861
+(2) A body camera recording that is subject to a minimum three-year
+retention period solely and exclusively pursuant to subdivision (c)(1)(C), if the
+subject of the body camera recording requests the body camera recordings not
+be made available to the public;
+(3) A body camera recording that is subject to a minimum three-year
+retention period solely and exclusively pursuant to subdivisions (c)(2)(A),
+(c)(2)(B), (c)(2)(C), or (c)(2)(D);
+(4) A body camera recording that is subject to a minimum three-year
+retention period solely and exclusively pursuant to subdivision (c)(2)(E), (c)(2)(F),
+or (c)(2)(G), if the person makes a voluntary request that the body camera
+recording not be made available to the public; and
+(5) A body camera recording depicting circumstances described in § 10-
+7-504(u).
+(f) A law enforcement officer shall not review, or receive an accounting of, any
+body camera recording that is subject to a minimum three-year retention period pursuant
+to subdivision (c)(1) prior to completing any required initial reports, statements, and
+interviews regarding the recorded event.
+(g) A body camera recording retained beyond six (6) months solely and
+exclusively pursuant to subdivision (c)(2)(D) is not admissible as evidence in any
+criminal, civil, or administrative proceeding.
+38-1-1005.
+(a) A law enforcement agency providing a body camera to an officer as
+authorized by this part shall adopt a written policy for access to body camera recordings
+by the agency in compliance with this section.
+- 7 - 002861
+(b) Body camera recordings that are not subject to a minimum three-year
+retention period pursuant to § 38-1-1004 are not subject to automated analysis or
+analytics.
+(c) Body camera recordings must not be divulged, or used by any law
+enforcement agency, for any commercial or other non-law enforcement purpose.
+(d) If a law enforcement agency authorizes a third party to act as its authorized
+agent in maintaining body camera recordings, then the authorized agent is not permitted
+to independently access, view, or alter any body camera recording, except to
+permanently delete the recording as required by law or agency retention policies.
+38-1-1006.
+(a) If a law enforcement officer, employee, or authorized agent violates this part
+regarding the use of body cameras, fails to adhere to the access to recordings and
+retention requirements contained in this part or to any written policy enacted in
+compliance with this part, or intentionally interferes with a body camera's ability to
+accurately capture body camera recordings:
+(1)
+(A) The law enforcement agency shall take appropriate
+disciplinary action against the individual officer, employee, or agent;
+(B) The law enforcement agency shall adopt appropriate
+standards for sanctions of an officer or employee who violates this part;
+and
+(C) The law enforcement agency shall specify in a contract with
+an agent the disciplinary action that must take place if the agent violates
+this part;
+- 8 - 002861
+(2) A rebuttable evidentiary presumption must be adopted in favor of
+criminal defendants who reasonably assert that exculpatory evidence was
+destroyed or not captured; and
+(3) A rebuttable evidentiary presumption must be adopted on behalf of
+civil plaintiffs suing the government, a law enforcement agency, or law
+enforcement officers for damages based on police misconduct who reasonably
+assert that evidence supporting the plaintiffs' claim was destroyed or not
+captured.
+(b) The law enforcement agency shall adopt a written policy setting forth
+disciplinary action and procedures under subdivision (a)(1) in compliance with title 38,
+chapter 8, part 3, § 8-30-319, and any other applicable law.
+(c) The rebuttable presumptions in subsection (a) may be overcome by contrary
+evidence or proof of exigent circumstances that made compliance with this part
+impossible.
+(d) A body camera recording created in contravention of this or any other
+applicable law must be immediately destroyed and is not admissible as evidence in any
+criminal, civil, or administrative proceeding.
+(e) This part does not contravene any laws governing the maintenance and
+destruction of evidence in criminal investigations and prosecutions.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to recordings on or after that date.
+- 9 - 002861
+[DELETED: S3(((]
+[DELETED:  -0((3(]
+[DELETED:  -0((((]
+[DELETED:  -0]
+[DELETED:  -0(]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0(((]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1174
+By Akbari
+HOUSE BILL 741
+By McKenzie
+AN ACT to amend Tennessee Code Annotated, Title 38,
+Chapter 1, relative to body cameras for law
+enforcement officers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 38, Chapter 1, is amended by adding
+the following as a new part:
+38-1-1001. As used in this part:
+(1) "Body camera recording" or "recording" means any audio or video recording
+taken by a law enforcement officer through use of a body camera;
+(2) "Law enforcement agency" means a governmental unit of one (1) or more
+persons employed full time or part time by the state, or political subdivision of the state,
+for the purpose of preventing and detecting crime and enforcing laws or local ordinances
+and the employees of which are authorized to make arrests for crimes while acting within
+the scope of their authority;
+(3) "Law enforcement officer" means any person authorized by law to conduct
+searches and effectuate arrests and who is employed by the state, a county, a
+municipality, or a metropolitan form of government;
+(4) "Minor" means any person under eighteen (18) years of age;
+(5) "Next of kin" means a person's spouse, parents, legal guardians,
+grandparents, siblings, and children; and
+(6) "Subject of the recording" means:
+HB0741
+002861
+- 1 -
+
+(A) A person, including a law enforcement officer, suspect, victim,
+detainee, conversant, injured party, or other similarly situated person, who
+appears or can be heard on the body camera recording; and
+(B) Does not include a person who only incidentally appears or is heard
+on the body camera recording.
+38-1-1002.
+(a) A law enforcement agency that uses body cameras shall adopt a written
+policy for the use of the body cameras by its law enforcement officers in compliance with
+this part. Law enforcement officers must receive a copy of the written policy and training
+in the use of body cameras before using such cameras. The training must include, at a
+minimum, instruction on this part and the agency's written policy.
+(b) Only law enforcement officers with the authority to conduct searches and
+make arrests are permitted to wear a body camera. Law enforcement officers who serve
+an undercover role are not subject to this part.
+(c) A written policy adopted by a law enforcement agency pursuant to subsection
+(a) must include, at a minimum, guidelines on the use of body cameras by law
+enforcement officers to:
+(1) Ensure that body cameras are worn by law enforcement officers in a
+location and manner that maximizes the camera's ability to capture video footage
+of the officer's activities;
+(2) Provide standards for when a law enforcement officer must enable
+and disable recording functions of the body camera, including:
+(A) A requirement that a law enforcement officer activate a body
+camera whenever responding to a call for service;
+- 2 - 002861
+
+(B) A requirement that body cameras be activated at the initiation
+of a law enforcement or investigative encounter between a law
+enforcement officer and a member of the public, except when there is an
+immediate threat to the officer's or another's life or safety that makes
+activating the body camera impossible or dangerous;
+(C) A requirement that in situations as described in subdivision
+(c)(2)(B) in which activating a body camera is impossible or dangerous, a
+law enforcement officer must activate the camera at the first reasonable
+opportunity to do so;
+(D) A requirement that a law enforcement officer must not
+deactivate a body camera until the encounter between a law enforcement
+officer and a member of the public has fully concluded and the law
+enforcement officer leaves the scene; and
+(E) A requirement that a law enforcement officer currently at the
+scene or arriving thereafter who is equipped with a body camera must
+activate the camera and record the situation upon arrival, and that the
+body camera must remain on until the officer leaves the scene; and
+(3) Require law enforcement officers wearing body cameras to notify the
+subjects of the recording that the subjects are being recorded by a body camera
+as close to the inception of the encounter as is reasonably possible.
+(d) Notwithstanding subsection (c), the written policy must make exceptions to
+the use of body cameras in the following circumstances:
+(1) Prior to entering a private residence without a warrant or in non-
+exigent circumstances, a law enforcement officer shall ask the occupant if the
+occupant wants the officer to discontinue use of the officer's body camera. If the
+- 3 - 002861
+
+occupant responds affirmatively, then the law enforcement officer must
+immediately discontinue use of the body camera;
+(2) When interacting with an apparent crime victim, including, but not
+limited to, a victim of domestic abuse, as defined in § 36-3-601, or a victim of
+rape, as defined in § 39-13-503, a law enforcement officer shall, as soon as
+practicable, ask the victim if the victim wants the officer to discontinue use of the
+officer's body camera. If the victim responds affirmatively, then the law
+enforcement officer must immediately discontinue use of the body camera; and
+(3) When interacting with a person seeking to anonymously report a
+crime or assist in an ongoing law enforcement investigation, a law enforcement
+officer shall, as soon as practicable, ask the person if the person wants the
+officer to discontinue use of the officer's body camera. If the person responds
+affirmatively, then the law enforcement officer must immediately discontinue use
+of the body camera.
+(e) Requests to discontinue use of a body camera made pursuant to subsection
+(d), and the responses thereto, must be recorded by the body camera prior to
+discontinuing use of the body camera.
+38-1-1003.
+(a) Body cameras must not be used in a manner inconsistent with the purposes
+described in this part.
+(b) Body cameras must not be used to gather intelligence information based on
+First Amendment protected speech, association, or religion, or to record activity that is
+unrelated to a response to a call for service or a law enforcement or investigative
+encounter between a law enforcement officer and a member of the public.
+- 4 - 002861
+
+(c) Law enforcement officers must not activate a body camera while on the
+grounds of any public, private, or parochial elementary or secondary school, as defined
+in § 49-6-301, except when responding to an imminent threat to life or safety.
+38-1-1004.
+(a) A law enforcement agency providing a body camera to an officer as
+authorized by this part shall establish a written policy for the retention of data by the
+agency in compliance with this section.
+(b) Except as provided in subsection (c), body camera recordings must be
+retained by the law enforcement agency that employs the officer, or an authorized agent
+as described in § 38-1-1005(d), whose body camera captured the recording, for six (6)
+months from the date it was recorded, after which time the recording must be
+permanently deleted.
+(c) Notwithstanding subsection (b):
+(1) Body camera recordings must be automatically retained for at least
+three (3) years if the body camera recordings involve:
+(A) Any use of force;
+(B) Events leading up to and including an arrest for a felony
+offense, or events that constitute a felony offense; or
+(C) An encounter about which a complaint has been registered by
+a subject of the body camera recording within the six (6) months following
+the recording.
+(2) Body camera recordings must be retained for at least three (3) years
+if voluntarily requested, within six (6) months following the recording, by:
+- 5 - 002861
+
+(A) The law enforcement officer using the body camera, if that
+officer reasonably asserts the recording has evidentiary or exculpatory
+value;
+(B) A law enforcement officer who is a subject of the body camera
+recording, if that officer reasonably asserts the recording has evidentiary
+or exculpatory value;
+(C) A superior officer of a law enforcement officer using a body
+camera or who is a subject of the recording, if that superior officer
+reasonably asserts the recording has evidentiary or exculpatory value;
+(D) A law enforcement officer, if the recording is being retained
+solely and exclusively for police training purposes;
+(E) A member of the public who is a subject of the recording;
+(F) A parent or legal guardian of a minor who is a subject of the
+recording; or
+(G) A deceased subject's next of kin or legally authorized
+designee.
+(d) To effectuate subdivisions (c)(2)(E), (c)(2)(F), and (c)(2)(G), the persons
+specified in those subdivisions may review the specific body camera recording in order
+to make a determination as to whether the person will voluntarily request the recording
+be subject to a three-year retention period.
+(e) Body camera recordings are part of the public record for the purpose of
+public inspection under § 10-7-503, except for the following:
+(1) A body camera recording not subject to a minimum three-year
+retention period pursuant to subsection (c);
+- 6 - 002861
+
+(2) A body camera recording that is subject to a minimum three-year
+retention period solely and exclusively pursuant to subdivision (c)(1)(C), if the
+subject of the body camera recording requests the body camera recordings not
+be made available to the public;
+(3) A body camera recording that is subject to a minimum three-year
+retention period solely and exclusively pursuant to subdivisions (c)(2)(A),
+(c)(2)(B), (c)(2)(C), or (c)(2)(D);
+(4) A body camera recording that is subject to a minimum three-year
+retention period solely and exclusively pursuant to subdivision (c)(2)(E), (c)(2)(F),
+or (c)(2)(G), if the person makes a voluntary request that the body camera
+recording not be made available to the public; and
+(5) A body camera recording depicting circumstances described in § 10-
+7-504(u).
+(f) A law enforcement officer shall not review, or receive an accounting of, any
+body camera recording that is subject to a minimum three-year retention period pursuant
+to subdivision (c)(1) prior to completing any required initial reports, statements, and
+interviews regarding the recorded event.
+(g) A body camera recording retained beyond six (6) months solely and
+exclusively pursuant to subdivision (c)(2)(D) is not admissible as evidence in any
+criminal, civil, or administrative proceeding.
+38-1-1005.
+(a) A law enforcement agency providing a body camera to an officer as
+authorized by this part shall adopt a written policy for access to body camera recordings
+by the agency in compliance with this section.
+- 7 - 002861
+
+(b) Body camera recordings that are not subject to a minimum three-year
+retention period pursuant to § 38-1-1004 are not subject to automated analysis or
+analytics.
+(c) Body camera recordings must not be divulged, or used by any law
+enforcement agency, for any commercial or other non-law enforcement purpose.
+(d) If a law enforcement agency authorizes a third party to act as its authorized
+agent in maintaining body camera recordings, then the authorized agent is not permitted
+to independently access, view, or alter any body camera recording, except to
+permanently delete the recording as required by law or agency retention policies.
+38-1-1006.
+(a) If a law enforcement officer, employee, or authorized agent violates this part
+regarding the use of body cameras, fails to adhere to the access to recordings and
+retention requirements contained in this part or to any written policy enacted in
+compliance with this part, or intentionally interferes with a body camera's ability to
+accurately capture body camera recordings:
+(1)
+(A) The law enforcement agency shall take appropriate
+disciplinary action against the individual officer, employee, or agent;
+(B) The law enforcement agency shall adopt appropriate
+standards for sanctions of an officer or employee who violates this part;
+and
+(C) The law enforcement agency shall specify in a contract with
+an agent the disciplinary action that must take place if the agent violates
+this part;
+- 8 - 002861
+
+(2) A rebuttable evidentiary presumption must be adopted in favor of
+criminal defendants who reasonably assert that exculpatory evidence was
+destroyed or not captured; and
+(3) A rebuttable evidentiary presumption must be adopted on behalf of
+civil plaintiffs suing the government, a law enforcement agency, or law
+enforcement officers for damages based on police misconduct who reasonably
+assert that evidence supporting the plaintiffs' claim was destroyed or not
+captured.
+(b) The law enforcement agency shall adopt a written policy setting forth
+disciplinary action and procedures under subdivision (a)(1) in compliance with title 38,
+chapter 8, part 3, § 8-30-319, and any other applicable law.
+(c) The rebuttable presumptions in subsection (a) may be overcome by contrary
+evidence or proof of exigent circumstances that made compliance with this part
+impossible.
+(d) A body camera recording created in contravention of this or any other
+applicable law must be immediately destroyed and is not admissible as evidence in any
+criminal, civil, or administrative proceeding.
+(e) This part does not contravene any laws governing the maintenance and
+destruction of evidence in criminal investigations and prosecutions.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to recordings on or after that date.
+- 9 - 002861
+
+[DELETED: S3(((]
+[DELETED:  -0((3(]
+[DELETED:  -0((((]
+[DELETED:  -0]
+[DELETED:  -0(]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0(((]
+[DELETED:  -0S]

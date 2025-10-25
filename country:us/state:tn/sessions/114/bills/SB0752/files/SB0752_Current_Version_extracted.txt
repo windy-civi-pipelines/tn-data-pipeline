@@ -1,0 +1,47 @@
+Title: HOUSE BILL 526
+Official Title: HOUSE BILL 526
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Scarbrough
+SENATE BILL 752
+By Yager
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 4, Part 7, relative to the Business Tax Act.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-4-715(g), is amended by deleting
+"two (2) calendar months" and substituting instead "sixty (60) calendar days".
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0752
+001402
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 526
+By Scarbrough
+SENATE BILL 752
+By Yager
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 4, Part 7, relative to the Business Tax Act.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-4-715(g), is amended by deleting
+"two (2) calendar months" and substituting instead "sixty (60) calendar days".
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SB0752
+001402
+- 1 -
+
+[DELETED: SS]

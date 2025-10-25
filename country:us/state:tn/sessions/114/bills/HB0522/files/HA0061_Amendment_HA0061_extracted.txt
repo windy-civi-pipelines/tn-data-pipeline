@@ -1,0 +1,128 @@
+Title: AMEND S e n ate Bill No. 386* House Bill No. 522
+Official Title: AMEND S e n ate Bill No. 386* House Bill No. 522
+Number of Sections: 3
+Source: versions - Amendment HA0061
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House Education 1
+Amendment No. 1 to HB0522
+White
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 6, Part 3, is amended by
+adding the following as a new section:
+(a) This section is known and may be cited as the "Early Behavioral Intervention
+and Reporting Act."
+(b) As used in this section, "early warning signs" means evidence of a student's
+safety, health, or behavioral issues and includes, but is not limited to, indicators of a
+student engaging in or being the victim of harassment, intimidation, bullying, or cyber-
+bullying; making or receiving threats of violence; and exhibiting signs of substance
+abuse, mental health issues, self-harm, or suicidal ideation.
+(c) Each LEA and public charter school shall implement a computer-based
+system that teachers and school staff must use to input data of early warning signs
+demonstrated by students enrolled in the LEA or public charter school. Each LEA and
+public charter school shall ensure that each teacher and school staff member is trained
+to identify early warning signs and on how to input data into the computer-based system.
+(d) The computer-based system implemented pursuant to subsection (c) must:
+(1) Align with the requirements in § 49-6-4503; the School Discipline Act,
+compiled in part 41 of this chapter; and the school safety plans adopted by the
+LEA or public charter school pursuant to the Schools Against Violence in
+Education (SAVE) Act, compiled in part 8 of this chapter;
+HA0061
+004159
+- 1 -
+(2) Include a database that is capable of receiving and maintaining
+student data entered by teachers and school staff on the early warning signs
+demonstrated by its students; and
+(3) Immediately notify the LEA personnel serving on the LEA's threat
+assessment team created pursuant to § 49-6-2701, or the employee of the public
+charter school who is designated to receive such notifications, when an early
+warning sign is entered into the system for a student.
+(e) The LEA or public charter school personnel receiving a notification of an
+early warning sign of a student pursuant to subdivision (d)(3) shall review the
+notification, and any notifications of the student previously received, and determine
+whether further action is needed to address the student's behavior.
+(f) Each LEA and public charter school shall annually submit a report to the
+department of education summarizing the data collected in the immediately preceding
+school year and the interventions provided, if any.
+(g) Reports made pursuant to this section must comply with the Family
+Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g); § 10-7-504; the Data
+Accessibility, Transparency, and Accountability Act, compiled in chapter 1, part 7 of this
+title; and all other relevant privacy laws.
+(h) If the commissioner of education finds that an LEA or public charter school is
+not complying with this section, then the commissioner may withhold state funds, in an
+amount determined by the commissioner, from the LEA or public charter school until the
+LEA or public charter school is in compliance with this section.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 004159
+[DELETED:  a HS(((((]
+[DELETED:  -0((((((S]
+
+
+================================================================================
+
+Raw Text:
+House Education 1
+Amendment No. 1 to HB0522
+White
+Signature of Sponsor
+AMEND S e n ate Bill No. 386* House Bill No. 522
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 6, Part 3, is amended by
+adding the following as a new section:
+(a) This section is known and may be cited as the "Early Behavioral Intervention
+and Reporting Act."
+(b) As used in this section, "early warning signs" means evidence of a student's
+safety, health, or behavioral issues and includes, but is not limited to, indicators of a
+student engaging in or being the victim of harassment, intimidation, bullying, or cyber-
+bullying; making or receiving threats of violence; and exhibiting signs of substance
+abuse, mental health issues, self-harm, or suicidal ideation.
+(c) Each LEA and public charter school shall implement a computer-based
+system that teachers and school staff must use to input data of early warning signs
+demonstrated by students enrolled in the LEA or public charter school. Each LEA and
+public charter school shall ensure that each teacher and school staff member is trained
+to identify early warning signs and on how to input data into the computer-based system.
+(d) The computer-based system implemented pursuant to subsection (c) must:
+(1) Align with the requirements in § 49-6-4503; the School Discipline Act,
+compiled in part 41 of this chapter; and the school safety plans adopted by the
+LEA or public charter school pursuant to the Schools Against Violence in
+Education (SAVE) Act, compiled in part 8 of this chapter;
+HA0061
+004159
+- 1 -
+
+(2) Include a database that is capable of receiving and maintaining
+student data entered by teachers and school staff on the early warning signs
+demonstrated by its students; and
+(3) Immediately notify the LEA personnel serving on the LEA's threat
+assessment team created pursuant to § 49-6-2701, or the employee of the public
+charter school who is designated to receive such notifications, when an early
+warning sign is entered into the system for a student.
+(e) The LEA or public charter school personnel receiving a notification of an
+early warning sign of a student pursuant to subdivision (d)(3) shall review the
+notification, and any notifications of the student previously received, and determine
+whether further action is needed to address the student's behavior.
+(f) Each LEA and public charter school shall annually submit a report to the
+department of education summarizing the data collected in the immediately preceding
+school year and the interventions provided, if any.
+(g) Reports made pursuant to this section must comply with the Family
+Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g); § 10-7-504; the Data
+Accessibility, Transparency, and Accountability Act, compiled in chapter 1, part 7 of this
+title; and all other relevant privacy laws.
+(h) If the commissioner of education finds that an LEA or public charter school is
+not complying with this section, then the commissioner may withhold state funds, in an
+amount determined by the commissioner, from the LEA or public charter school until the
+LEA or public charter school is in compliance with this section.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 004159
+
+[DELETED:  a HS(((((]
+[DELETED:  -0((((((S]

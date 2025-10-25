@@ -1,0 +1,90 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 334
+By Oliver
+A RESOLUTION to honor the memory of Josselin Corea
+Escalante and the other victims of the Antioch
+High School shooting.
+WHEREAS, on January 22, 2025, Josselin Corea Escalante lost her life to a senseless
+act of violence in a shooting at Antioch High School; and
+WHEREAS, two of her classmates were also injured in the attack; and
+WHEREAS, a native of Guatemala and a beloved daughter, sister, niece, and friend,
+Josselin Corea Escalante was a bright sixteen-year-old young woman who played soccer and
+dreamed of becoming a doctor; and
+WHEREAS, although her life was all too brief, Josselin lived her life with compassion,
+courage, and enthusiasm, and she will be forever missed by everyone who knew and loved her;
+and
+WHEREAS, the greater Nashville community and the State of Tennessee mourn the
+heartbreaking loss of Ms. Escalante's life and acknowledge the grief of all those impacted by the
+act of violence; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor the memory of Josselin Corea Escalante,
+giving thanks for her bountiful life and the joy she brought to her family and classmates, and
+offer our sincerest condolences to the family and friends of Ms. Escalante.
+BE IT FURTHER RESOLVED, that we honor the two other students injured in the attack
+and extend to them our best wishes for successful recovery from their injuries.
+SJR0334
+006514
+- 1 -
+BE IT FURTHER RESOLVED, that we offer our thoughts and prayers to all members of
+the Antioch High School community affected by this tragic event.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 006514
+[DELETED: WWWWWBB]
+[DELETED:  -0BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 334
+By Oliver
+A RESOLUTION to honor the memory of Josselin Corea
+Escalante and the other victims of the Antioch
+High School shooting.
+WHEREAS, on January 22, 2025, Josselin Corea Escalante lost her life to a senseless
+act of violence in a shooting at Antioch High School; and
+WHEREAS, two of her classmates were also injured in the attack; and
+WHEREAS, a native of Guatemala and a beloved daughter, sister, niece, and friend,
+Josselin Corea Escalante was a bright sixteen-year-old young woman who played soccer and
+dreamed of becoming a doctor; and
+WHEREAS, although her life was all too brief, Josselin lived her life with compassion,
+courage, and enthusiasm, and she will be forever missed by everyone who knew and loved her;
+and
+WHEREAS, the greater Nashville community and the State of Tennessee mourn the
+heartbreaking loss of Ms. Escalante's life and acknowledge the grief of all those impacted by the
+act of violence; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor the memory of Josselin Corea Escalante,
+giving thanks for her bountiful life and the joy she brought to her family and classmates, and
+offer our sincerest condolences to the family and friends of Ms. Escalante.
+BE IT FURTHER RESOLVED, that we honor the two other students injured in the attack
+and extend to them our best wishes for successful recovery from their injuries.
+SJR0334
+006514
+- 1 -
+
+BE IT FURTHER RESOLVED, that we offer our thoughts and prayers to all members of
+the Antioch High School community affected by this tragic event.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 006514
+
+[DELETED: WWWWWBB]
+[DELETED:  -0BB]

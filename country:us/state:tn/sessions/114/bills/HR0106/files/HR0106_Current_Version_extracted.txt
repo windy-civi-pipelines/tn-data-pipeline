@@ -1,0 +1,90 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE RESOLUTION 106
+By Miller
+A RESOLUTION to commend Jadyn Cochrane for exemplary
+service as a legislative intern.
+WHEREAS, each legislative session, this body is pleased to recognize certain persons
+who have committed themselves, through their adroit service, to the betterment of the legislative
+process; and
+WHEREAS, Jadyn Cochrane is one such individual, who has distinguished herself in her
+role as a legislative intern for Representative Larry Miller; Ms. Cochrane's work has resulted in
+innumerable benefits for the legislators she assisted and the General Assembly as a whole; and
+WHEREAS, a student at Tennessee State University, where she is highly regarded by
+her peers, Ms. Cochrane has achieved academic success while majoring in political science
+and participating in numerous extracurricular activities, including Tennessee Intercollegiate
+State Legislature; the National Association of Colored Women's Club, Incorporated, Women of
+Empowerment, The Frankie J. Pierce Federated Chapter; and the Appellate Moot Court
+Collegiate Challenge; and
+WHEREAS, eager to familiarize herself with the characteristics and complexities of
+Tennessee State government and to further her studies, Jadyn Cochrane brought her many
+abilities and singular expertise to Capitol Hill for the 2025 session of the One Hundred
+Fourteenth General Assembly; and
+WHEREAS, throughout the 2025 legislative session, Jadyn Cochrane has surpassed all
+criteria that define a devoted and conscientious legislative intern; and
+WHEREAS, Jadyn Cochrane has performed her many duties with extraordinary insight
+and rare decorum; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby
+HR0106
+007189
+- 1 -
+commend Jadyn Cochrane for outstanding service as a legislative intern for Representative
+Larry Miller and extend to her our best wishes for every future success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 007189
+[DELETED: WWWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE RESOLUTION 106
+By Miller
+A RESOLUTION to commend Jadyn Cochrane for exemplary
+service as a legislative intern.
+WHEREAS, each legislative session, this body is pleased to recognize certain persons
+who have committed themselves, through their adroit service, to the betterment of the legislative
+process; and
+WHEREAS, Jadyn Cochrane is one such individual, who has distinguished herself in her
+role as a legislative intern for Representative Larry Miller; Ms. Cochrane's work has resulted in
+innumerable benefits for the legislators she assisted and the General Assembly as a whole; and
+WHEREAS, a student at Tennessee State University, where she is highly regarded by
+her peers, Ms. Cochrane has achieved academic success while majoring in political science
+and participating in numerous extracurricular activities, including Tennessee Intercollegiate
+State Legislature; the National Association of Colored Women's Club, Incorporated, Women of
+Empowerment, The Frankie J. Pierce Federated Chapter; and the Appellate Moot Court
+Collegiate Challenge; and
+WHEREAS, eager to familiarize herself with the characteristics and complexities of
+Tennessee State government and to further her studies, Jadyn Cochrane brought her many
+abilities and singular expertise to Capitol Hill for the 2025 session of the One Hundred
+Fourteenth General Assembly; and
+WHEREAS, throughout the 2025 legislative session, Jadyn Cochrane has surpassed all
+criteria that define a devoted and conscientious legislative intern; and
+WHEREAS, Jadyn Cochrane has performed her many duties with extraordinary insight
+and rare decorum; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby
+HR0106
+007189
+- 1 -
+
+commend Jadyn Cochrane for outstanding service as a legislative intern for Representative
+Larry Miller and extend to her our best wishes for every future success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 007189
+
+[DELETED: WWWWWWB]
+[DELETED:  -0B]

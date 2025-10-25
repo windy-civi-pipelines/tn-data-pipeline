@@ -1,0 +1,49 @@
+Title: SENATE BILL 526
+Official Title: SENATE BILL 526
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Stevens
+HOUSE BILL 889
+By Todd
+AN ACT to amend Tennessee Code Annotated, Title 67,
+relative to taxation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-4-718(b), is amended by deleting
+the language "signed," and substituting instead the language "signed by the person or the
+person's authorized representative,".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0889
+001888
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 526
+By Stevens
+HOUSE BILL 889
+By Todd
+AN ACT to amend Tennessee Code Annotated, Title 67,
+relative to taxation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-4-718(b), is amended by deleting
+the language "signed," and substituting instead the language "signed by the person or the
+person's authorized representative,".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0889
+001888
+- 1 -
+
+[DELETED: SS]

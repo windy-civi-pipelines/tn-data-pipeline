@@ -1,0 +1,65 @@
+Title: SENATE BILL 671
+Official Title: SENATE BILL 671
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Taylor
+HOUSE BILL 555
+By Capley
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 40, relative to burglary.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 39-13-1002, is amended by deleting
+subsections (c) and (d) and substituting:
+(c) Burglary is a Class D felony.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 40-32-101, is amended by deleting
+subdivision (g)(1)(A)(xxi).
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 40-32-101, is amended by deleting
+subdivision (g)(1)(D)(xviii) and substituting:
+(xviii) Section 39-13-1002 — Burglary — other than habitation;
+
+Section 5:
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to offenses committed on or after that date.
+HB0555
+001288
+- 1 -
+[DELETED: S(SS(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 671
+By Taylor
+HOUSE BILL 555
+By Capley
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 40, relative to burglary.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 39-13-1002, is amended by deleting
+subsections (c) and (d) and substituting:
+(c) Burglary is a Class D felony.
+SECTION 2. Tennessee Code Annotated, Section 40-32-101, is amended by deleting
+subdivision (g)(1)(A)(xxi).
+SECTION 3. Tennessee Code Annotated, Section 40-32-101, is amended by deleting
+subdivision (g)(1)(D)(xviii) and substituting:
+(xviii) Section 39-13-1002 — Burglary — other than habitation;
+SECTION 4. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to offenses committed on or after that date.
+HB0555
+001288
+- 1 -
+
+[DELETED: S(SS(S]

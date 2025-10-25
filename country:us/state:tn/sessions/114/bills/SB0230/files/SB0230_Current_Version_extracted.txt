@@ -1,0 +1,116 @@
+Title: HOUSE BILL 223
+Official Title: HOUSE BILL 223
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Clemmons
+SENATE BILL 230
+By Campbell
+AN ACT to amend Tennessee Code Annotated, Title 9,
+Chapter 8; Title 16; Title 18; Title 20; Title 21; Title
+27; Title 28; Title 29; Title 45 and Title 47, relative
+to credit data.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, is amended by adding
+the following as a new part:
+47-18-5801.
+As used in this part:
+(1) "Consumer report" has the same meaning as defined by 15 U.S.C. §
+1681a(d);
+(2) "Consumer reporting agency" has the same meaning as defined by
+15 U.S.C. § 1681a(f); and
+(3) "Medical debt" means a debt reported to a collection agency or a
+judgment entered by a court for the collection of a debt that was incurred due to
+the cost of healthcare services and related expenses.
+47-18-5802.
+(a) Beginning July 1, 2025, a consumer reporting agency shall not include on a
+consumer report a record of a medical debt that is filed in this state.
+(b) If a consumer reporting agency includes information in a consumer report in
+violation of subsection (a), then the person to whom the consumer report applies may
+dispute the completeness or accuracy of such information, as provided under the federal
+Fair Credit Reporting Act (15 U.S.C. § 1681i).
+SB0230
+001013
+- 1 -
+47-18-5803.
+(a) A violation of this part constitutes a violation of the Tennessee Consumer
+Protection Act of 1977, compiled in part 1 of this chapter. A violation of this part
+constitutes an unfair or deceptive act or practice affecting trade or commerce and is
+subject to the penalties and remedies as provided in the Tennessee Consumer
+Protection Act of 1977, in addition to the penalties and remedies in this part.
+(b) The attorney general and reporter has all of the investigative and
+enforcement authority that the attorney general and reporter has under the Tennessee
+Consumer Protection Act of 1977 relating to alleged violations of this part. The attorney
+general and reporter may institute any proceedings involving alleged violations of this
+part in Davidson County circuit or chancery court or any other venue otherwise permitted
+by law.
+(c) Costs of any kind or nature cannot be taxed against the attorney general and
+reporter or the state in actions commenced under this part.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 001013
+[DELETED: S4A(((4((]
+[DELETED:  -04(((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 223
+By Clemmons
+SENATE BILL 230
+By Campbell
+AN ACT to amend Tennessee Code Annotated, Title 9,
+Chapter 8; Title 16; Title 18; Title 20; Title 21; Title
+27; Title 28; Title 29; Title 45 and Title 47, relative
+to credit data.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, is amended by adding
+the following as a new part:
+47-18-5801.
+As used in this part:
+(1) "Consumer report" has the same meaning as defined by 15 U.S.C. §
+1681a(d);
+(2) "Consumer reporting agency" has the same meaning as defined by
+15 U.S.C. § 1681a(f); and
+(3) "Medical debt" means a debt reported to a collection agency or a
+judgment entered by a court for the collection of a debt that was incurred due to
+the cost of healthcare services and related expenses.
+47-18-5802.
+(a) Beginning July 1, 2025, a consumer reporting agency shall not include on a
+consumer report a record of a medical debt that is filed in this state.
+(b) If a consumer reporting agency includes information in a consumer report in
+violation of subsection (a), then the person to whom the consumer report applies may
+dispute the completeness or accuracy of such information, as provided under the federal
+Fair Credit Reporting Act (15 U.S.C. § 1681i).
+SB0230
+001013
+- 1 -
+
+47-18-5803.
+(a) A violation of this part constitutes a violation of the Tennessee Consumer
+Protection Act of 1977, compiled in part 1 of this chapter. A violation of this part
+constitutes an unfair or deceptive act or practice affecting trade or commerce and is
+subject to the penalties and remedies as provided in the Tennessee Consumer
+Protection Act of 1977, in addition to the penalties and remedies in this part.
+(b) The attorney general and reporter has all of the investigative and
+enforcement authority that the attorney general and reporter has under the Tennessee
+Consumer Protection Act of 1977 relating to alleged violations of this part. The attorney
+general and reporter may institute any proceedings involving alleged violations of this
+part in Davidson County circuit or chancery court or any other venue otherwise permitted
+by law.
+(c) Costs of any kind or nature cannot be taxed against the attorney general and
+reporter or the state in actions commenced under this part.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 001013
+
+[DELETED: S4A(((4((]
+[DELETED:  -04(((S]

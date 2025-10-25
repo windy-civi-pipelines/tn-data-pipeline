@@ -1,0 +1,102 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 2
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 27
+By Johnson
+A RESOLUTION authorizing low-income housing tax credits.
+WHEREAS, Tennessee has prioritized low-income and affordable housing for
+Tennesseans across this great State; and
+WHEREAS, to continue this State's progress in increasing low-income and affordable
+housing for Tennesseans, it is important to provide mechanisms for building, developing, and
+rehabilitating such housing; and
+WHEREAS, there is a federal income tax liability credit for low-income housing; and
+WHEREAS, the federal income tax liability credit rate for eligible developments is
+determined through competitive and noncompetitive credits for new construction costs,
+rehabilitation costs, acquisitions costs, and use of tax-exempt bonds; and
+WHEREAS, in 2024, Public Chapter 971, was enacted, which authorizes the Tennessee
+Housing Development Agency to allocate Tennessee rural and workforce housing tax credits
+against taxpayer liability; and
+WHEREAS, the Tennessee Housing Development Agency shall allocate such credits to
+qualified projects pursuant to the agency's qualified allocation plan that is developed pursuant to
+
+Section 2:
+Section 42 of the Internal Revenue Code of 1986 (26 U.S.C. § 42); and
+WHEREAS, under Public Chapter 971 of 2024, to the extent such qualified projects
+exist, at least fifty percent of the authorized Tennessee rural and workforce housing tax credits
+must be allocated to qualified projects in an eligible rural area, and no more than fifty percent of
+the authorized Tennessee rural and workforce housing tax credits may be allocated to qualified
+projects outside of eligible rural areas; now, therefore,
+SJR0027
+000921
+- 1 -
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that pursuant to Public Chapter 971 of 2024, the
+members of this General Assembly hereby direct the Tennessee Housing Development Agency
+to utilize the following authorizations of Tennessee rural and workforce housing tax credits
+pursuant to the qualified allocation plan developed by the agency:
+There is authorized in calendar year 2026, $10,000,000 per year for ten years;
+There is authorized in calendar year 2027, $10,000,000 per year for ten years; and
+There is authorized in calendar year 2028, $10,000,000 per year for ten years.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 000921
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 27
+By Johnson
+A RESOLUTION authorizing low-income housing tax credits.
+WHEREAS, Tennessee has prioritized low-income and affordable housing for
+Tennesseans across this great State; and
+WHEREAS, to continue this State's progress in increasing low-income and affordable
+housing for Tennesseans, it is important to provide mechanisms for building, developing, and
+rehabilitating such housing; and
+WHEREAS, there is a federal income tax liability credit for low-income housing; and
+WHEREAS, the federal income tax liability credit rate for eligible developments is
+determined through competitive and noncompetitive credits for new construction costs,
+rehabilitation costs, acquisitions costs, and use of tax-exempt bonds; and
+WHEREAS, in 2024, Public Chapter 971, was enacted, which authorizes the Tennessee
+Housing Development Agency to allocate Tennessee rural and workforce housing tax credits
+against taxpayer liability; and
+WHEREAS, the Tennessee Housing Development Agency shall allocate such credits to
+qualified projects pursuant to the agency's qualified allocation plan that is developed pursuant to
+Section 42 of the Internal Revenue Code of 1986 (26 U.S.C. § 42); and
+WHEREAS, under Public Chapter 971 of 2024, to the extent such qualified projects
+exist, at least fifty percent of the authorized Tennessee rural and workforce housing tax credits
+must be allocated to qualified projects in an eligible rural area, and no more than fifty percent of
+the authorized Tennessee rural and workforce housing tax credits may be allocated to qualified
+projects outside of eligible rural areas; now, therefore,
+SJR0027
+000921
+- 1 -
+
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that pursuant to Public Chapter 971 of 2024, the
+members of this General Assembly hereby direct the Tennessee Housing Development Agency
+to utilize the following authorizations of Tennessee rural and workforce housing tax credits
+pursuant to the qualified allocation plan developed by the agency:
+There is authorized in calendar year 2026, $10,000,000 per year for ten years;
+There is authorized in calendar year 2027, $10,000,000 per year for ten years; and
+There is authorized in calendar year 2028, $10,000,000 per year for ten years.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 000921
+
+[DELETED:  -0]

@@ -1,0 +1,88 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 112
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Section 8-
+30-102 and Title 8, Chapter 50, Part 1, relative to
+state employees.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 8-30-102(b), is amended by inserting
+the following new subdivisions:
+(14) The Tennessee sports wagering council and its employees;
+(15) Full-time board members of the board of parole; and
+(16) Full-time board members of the inmate disciplinary oversight board.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 8-50-113, is amended by adding the
+following as a new subsection (b) and redesignating the existing subsections accordingly:
+(b) Notwithstanding subsection (a), bereavement leave granted in accordance
+with subsection (a) for the officers and employees of the various agencies, boards, and
+departments of state government identified in §§ 8-30-102(a), 8-30-102(b)(2)-(11), and
+8-30-102(b)(13)-(16) must be granted without charge to the officers' or employees'
+accumulated leave accounts as follows:
+(1) Three (3) days paid leave in the event of death of such officers' or
+employees' siblings, grandparents, grandchildren, foster parents, or parents-in-
+law;
+(2) Five (5) days paid leave in the event of death of such officers' or
+employees' parents or stepparents; and
+(3) Ten (10) days paid leave in the event of death of such officers' or
+employees' spouse, children, or stepchildren.
+HB0112
+000807
+- 1 -
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 000807
+[DELETED: S(((S((((]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 112
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Section 8-
+30-102 and Title 8, Chapter 50, Part 1, relative to
+state employees.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 8-30-102(b), is amended by inserting
+the following new subdivisions:
+(14) The Tennessee sports wagering council and its employees;
+(15) Full-time board members of the board of parole; and
+(16) Full-time board members of the inmate disciplinary oversight board.
+SECTION 2. Tennessee Code Annotated, Section 8-50-113, is amended by adding the
+following as a new subsection (b) and redesignating the existing subsections accordingly:
+(b) Notwithstanding subsection (a), bereavement leave granted in accordance
+with subsection (a) for the officers and employees of the various agencies, boards, and
+departments of state government identified in §§ 8-30-102(a), 8-30-102(b)(2)-(11), and
+8-30-102(b)(13)-(16) must be granted without charge to the officers' or employees'
+accumulated leave accounts as follows:
+(1) Three (3) days paid leave in the event of death of such officers' or
+employees' siblings, grandparents, grandchildren, foster parents, or parents-in-
+law;
+(2) Five (5) days paid leave in the event of death of such officers' or
+employees' parents or stepparents; and
+(3) Ten (10) days paid leave in the event of death of such officers' or
+employees' spouse, children, or stepchildren.
+HB0112
+000807
+- 1 -
+
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 000807
+
+[DELETED: S(((S((((]
+[DELETED:  -0S]

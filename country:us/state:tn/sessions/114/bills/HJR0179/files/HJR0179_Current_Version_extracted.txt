@@ -1,0 +1,106 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 179
+By Sparks
+A RESOLUTION to recognize the mental health consequences of
+social media on K-12 students.
+WHEREAS, the mental health crisis among young people has reached alarming levels,
+with rising rates of anxiety, depression, and self-harm, particularly since the early 2010s; and
+WHEREAS, Jonathan Haidt's The Anxious Generation identifies key contributors: the
+proliferation of smartphones and social media, the decline of unstructured play, and the rise of
+overprotective parenting; policymakers have a crucial role in reversing these trends by
+implementing regulations and policies that support healthier childhood development; and
+WHEREAS, research shows a strong correlation between excessive screen time and
+declining mental health in adolescents, and social media platforms use engagement-driven
+algorithms that expose youth to harmful content, fostering anxiety and depression; and
+WHEREAS, policymakers should enact laws and regulations that: (1) set age restrictions
+on social media use, similar to existing regulations for tobacco and alcohol; (2) require social
+media companies to provide age-appropriate settings and limit algorithm-driven content for
+minors; and (3) introduce digital well-being curricula in schools to educate youth on healthy
+technology habits; and
+WHEREAS, Mr. Haidt's work also recognizes that free play is essential for building
+resilience, social skills, and emotional intelligence, yet it has drastically declined due to over-
+scheduling and safety concerns, and overregulation of play spaces and excessive adult
+intervention limit children's opportunities for real-world learning; and
+WHEREAS, policymakers at both the state and local levels should: (1) reassess and
+reduce unnecessary regulations on play spaces to encourage more free play in communities;
+(2) incentivize schools and municipalities to create play-friendly environments, including outdoor
+HJR0179
+003143
+- 1 -
+recess requirements; and (3) promote awareness campaigns on the benefits of independent
+play for children's development; and
+WHEREAS, additionally, excessive risk aversion in parenting has led to children lacking
+autonomy and problem-solving skills, and overregulation and parental fears limit youth
+opportunities for independence and decision-making; and
+WHEREAS, state lawmakers should: (1) support parental education programs that
+encourage age-appropriate independence; (2) encourage "Let Grow" initiatives that promote
+walking to school, outdoor play, and self-directed activities; and (3) reform liability laws that
+discourage schools and communities from allowing free play; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we recognize the mental health consequences of social media on K-12
+students and support efforts to address this issue in the State of Tennessee.
+- 2 - 003143
+[DELETED: WW  WWWW]
+[DELETED:  -0WWB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 179
+By Sparks
+A RESOLUTION to recognize the mental health consequences of
+social media on K-12 students.
+WHEREAS, the mental health crisis among young people has reached alarming levels,
+with rising rates of anxiety, depression, and self-harm, particularly since the early 2010s; and
+WHEREAS, Jonathan Haidt's The Anxious Generation identifies key contributors: the
+proliferation of smartphones and social media, the decline of unstructured play, and the rise of
+overprotective parenting; policymakers have a crucial role in reversing these trends by
+implementing regulations and policies that support healthier childhood development; and
+WHEREAS, research shows a strong correlation between excessive screen time and
+declining mental health in adolescents, and social media platforms use engagement-driven
+algorithms that expose youth to harmful content, fostering anxiety and depression; and
+WHEREAS, policymakers should enact laws and regulations that: (1) set age restrictions
+on social media use, similar to existing regulations for tobacco and alcohol; (2) require social
+media companies to provide age-appropriate settings and limit algorithm-driven content for
+minors; and (3) introduce digital well-being curricula in schools to educate youth on healthy
+technology habits; and
+WHEREAS, Mr. Haidt's work also recognizes that free play is essential for building
+resilience, social skills, and emotional intelligence, yet it has drastically declined due to over-
+scheduling and safety concerns, and overregulation of play spaces and excessive adult
+intervention limit children's opportunities for real-world learning; and
+WHEREAS, policymakers at both the state and local levels should: (1) reassess and
+reduce unnecessary regulations on play spaces to encourage more free play in communities;
+(2) incentivize schools and municipalities to create play-friendly environments, including outdoor
+HJR0179
+003143
+- 1 -
+
+recess requirements; and (3) promote awareness campaigns on the benefits of independent
+play for children's development; and
+WHEREAS, additionally, excessive risk aversion in parenting has led to children lacking
+autonomy and problem-solving skills, and overregulation and parental fears limit youth
+opportunities for independence and decision-making; and
+WHEREAS, state lawmakers should: (1) support parental education programs that
+encourage age-appropriate independence; (2) encourage "Let Grow" initiatives that promote
+walking to school, outdoor play, and self-directed activities; and (3) reform liability laws that
+discourage schools and communities from allowing free play; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we recognize the mental health consequences of social media on K-12
+students and support efforts to address this issue in the State of Tennessee.
+- 2 - 003143
+
+[DELETED: WW  WWWW]
+[DELETED:  -0WWB]

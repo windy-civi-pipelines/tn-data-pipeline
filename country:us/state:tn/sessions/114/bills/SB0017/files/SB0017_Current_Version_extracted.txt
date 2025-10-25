@@ -1,0 +1,94 @@
+Title: HOUSE BILL 1202
+Official Title: HOUSE BILL 1202
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Kumar
+SENATE BILL 17
+By Gardenhire
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 6; Title 7; Title 8; Title 40 and Chapter 716 of
+the Public Acts of 2024, relative to law
+enforcement.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 7-68-105, is amended by deleting
+subsection (a) and substituting:
+(1) All law enforcement agencies and officials shall, in accordance with 8 U.S.C.
+
+Section 3:
+§ 1357(g)(10), communicate with the appropriate federal official regarding the
+immigration status of any individual who has been arrested for a criminal offense,
+including reporting knowledge that a particular alien is not lawfully present in the United
+States or otherwise cooperate with the appropriate federal official in the identification,
+apprehension, detention, or removal of aliens not lawfully present in the United States.
+(2) Subdivision (a)(1) does not apply to:
+(A) A school resource officer with regard to the immigration status of a
+student of the local education agency to which the school resource officer has
+been assigned; and
+(B) An individual who has not been arrested by the law enforcement
+agency or official, including an individual whose contact with a law enforcement
+agency is due to the individual's status as a victim of or witness to a criminal
+offense.
+(3) A law enforcement agency that does not comply with the requirements of
+subdivision (a)(1) may be subject to a civil penalty in an amount of no more than one
+SB0017
+000083
+- 1 -
+thousand dollars ($1,000). An action to enforce such civil penalty may be brought by the
+attorney general and reporter.
+
+Section 4:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 000083
+[DELETED: S]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1202
+By Kumar
+SENATE BILL 17
+By Gardenhire
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 6; Title 7; Title 8; Title 40 and Chapter 716 of
+the Public Acts of 2024, relative to law
+enforcement.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 7-68-105, is amended by deleting
+subsection (a) and substituting:
+(1) All law enforcement agencies and officials shall, in accordance with 8 U.S.C.
+§ 1357(g)(10), communicate with the appropriate federal official regarding the
+immigration status of any individual who has been arrested for a criminal offense,
+including reporting knowledge that a particular alien is not lawfully present in the United
+States or otherwise cooperate with the appropriate federal official in the identification,
+apprehension, detention, or removal of aliens not lawfully present in the United States.
+(2) Subdivision (a)(1) does not apply to:
+(A) A school resource officer with regard to the immigration status of a
+student of the local education agency to which the school resource officer has
+been assigned; and
+(B) An individual who has not been arrested by the law enforcement
+agency or official, including an individual whose contact with a law enforcement
+agency is due to the individual's status as a victim of or witness to a criminal
+offense.
+(3) A law enforcement agency that does not comply with the requirements of
+subdivision (a)(1) may be subject to a civil penalty in an amount of no more than one
+SB0017
+000083
+- 1 -
+
+thousand dollars ($1,000). An action to enforce such civil penalty may be brought by the
+attorney general and reporter.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+- 2 - 000083
+
+[DELETED: S]
+[DELETED:  -0S]

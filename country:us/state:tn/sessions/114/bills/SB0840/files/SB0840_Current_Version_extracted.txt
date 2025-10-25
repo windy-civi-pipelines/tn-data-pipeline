@@ -1,0 +1,242 @@
+Title: HOUSE BILL 966
+Official Title: HOUSE BILL 966
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Hawk
+SENATE BILL 840
+By Walley
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 51; Title 8, Chapter 4; Title 9 and Title 49,
+relative to the use of excess lottery funds pursuant
+to Article XI, Section 5 of the Constitution of
+Tennessee.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 4-51-111, is amended by adding the
+following language as a new subsection (g):
+(g)
+(1) There are created two (2) special accounts in the state treasury, with
+the first to be known as the "K-12 lottery capital outlay special account," referred
+to as the "lottery capital outlay account", and the second to be known as the
+"early learning program account".
+(2) Any funds remaining in the lottery for education account, including the
+balances of the general shortfall reserve subaccount and the special reserve
+subaccount created pursuant to subdivision (b)(4), at the end of each fiscal year
+in excess of two hundred fifty million dollars ($250,000,000) are deemed excess
+lottery funds and must be allocated and transferred to the lottery capital outlay
+account and the early learning program account. Excess lottery funds must be
+distributed equally between the two (2) special accounts.
+(3)
+(A) Moneys in the lottery capital outlay account must be used
+exclusively for capital outlay projects for K-12 educational facilities
+consistent with Article XI, § 5 of the Constitution of Tennessee and in
+SB0840
+002154
+- 1 -
+accordance with § 8-4-120. Such moneys must supplement, not
+supplant, non-lottery educational resources for capital outlay projects for
+K-12 educational facilities.
+(B) Moneys in the early learning program account must be used
+exclusively for expenses needed to operate new or existing pre-
+kindergarten (pre-K) programs consistent with Article XI, § 5 of the
+Constitution of Tennessee and in accordance with § 8-4-120. Such
+moneys must supplement, not supplant, non-lottery educational
+resources for capital outlay projects for K-12 educational facilities.
+(4) Any balance remaining unexpended at the end of a fiscal year in the
+special accounts does not revert to the lottery for education account or the
+general fund but must be carried forward into the subsequent fiscal year.
+(5) Notwithstanding this section to the contrary, interest accruing on
+investments and deposits of the special accounts must be credited to the
+accounts, do not revert to the lottery for education account or the general fund,
+and must be carried forward into the subsequent fiscal year.
+(6) Moneys in the special accounts must be invested by the state
+treasurer in accordance with § 9-4-603.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 8, Chapter 4, Part 1, is amended by
+adding the following language as a new section:
+8-4-120.
+(a)
+(1) The comptroller shall develop and administer a grant program for
+capital outlay projects for K-12 educational facilities using funds available in the
+K-12 lottery capital outlay special account created pursuant to § 4-51-111(g).
+- 2 - 002154
+(2) The comptroller shall develop and administer a grant program for new
+or existing pre-kindergarten (pre-K) programs using funds available in the early
+learning program account created pursuant to § 4-51-111(g).
+(b) The comptroller shall:
+(1) Establish a uniform application form and application process for
+grants awarded pursuant to this section; and
+(2) Establish matching dollar requirements for grants awarded pursuant
+to this section based on need.
+(c)
+(1) Grants must be awarded or credited annually to each local education
+agency (LEA) in this state.
+(2) Except as provided in subdivision (c)(3), each LEA shall be awarded
+an amount equal to the sum of the annual allocation and transfer made to each
+account pursuant to § 4-51-111(g)(2), if any, and accrued interest pursuant to §
+4-51-111(g)(5), if any, less a reasonable amount pursuant to subsection (e),
+times the ratio of the LEA's average daily membership to the state total average
+daily membership. For the purposes of this subdivision, "average daily
+membership" has the same meaning as defined in § 49-3-104.
+(3) Individual LEA grants not awarded pursuant to subdivision (c)(2) in
+any year must be credited and accumulated for the benefit of the individual LEA
+and included in the LEA's grant availability in each subsequent year until
+awarded; provided, that if grants are not available in a subsequent year pursuant
+to subdivision (c)(2), an LEA may apply for the amount credited and accumulated
+for the benefit of the LEA. Any unawarded amounts, plus any accrued interest,
+must carry forward in the name of the individual LEA until awarded.
+- 3 - 002154
+(d) The comptroller is authorized to audit an LEA awarded a grant pursuant to
+this section for compliance with this section and § 4-51-111(g).
+(e) Costs incurred by the comptroller in administering a grant program created
+under subdivision (a)(1) or (a)(2), must be funded from the K-12 lottery capital outlay
+special account or the early learning program account, as applicable and as part of such
+program.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 49-4-901, is amended by deleting the
+language "allocated first to early learning programs" and substituting instead the language
+"allocated to early learning programs and capital outlay projects for K-12 educational facilities in
+accordance with § 4-51-111(g)".
+
+Section 5:
+SECTION 4.
+(a) The Comptroller of the Treasury is authorized to promulgate rules as the
+Comptroller may deem necessary to effectuate the purposes of this act. All such rules
+must be promulgated in accordance with the Uniform Administrative Procedures Act,
+compiled in Tennessee Code Annotated, Title 4, Chapter 5.
+(b) Notwithstanding Tennessee Code Annotated, Sections 4-5-208 and 4-5-209
+or any other law to the contrary, the Comptroller of the Treasury is authorized to
+promulgate emergency rules to implement this act.
+
+Section 6:
+SECTION 5. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 002154
+[DELETED: (((((]
+[DELETED:  -0((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((SS((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 966
+By Hawk
+SENATE BILL 840
+By Walley
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 51; Title 8, Chapter 4; Title 9 and Title 49,
+relative to the use of excess lottery funds pursuant
+to Article XI, Section 5 of the Constitution of
+Tennessee.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 4-51-111, is amended by adding the
+following language as a new subsection (g):
+(g)
+(1) There are created two (2) special accounts in the state treasury, with
+the first to be known as the "K-12 lottery capital outlay special account," referred
+to as the "lottery capital outlay account", and the second to be known as the
+"early learning program account".
+(2) Any funds remaining in the lottery for education account, including the
+balances of the general shortfall reserve subaccount and the special reserve
+subaccount created pursuant to subdivision (b)(4), at the end of each fiscal year
+in excess of two hundred fifty million dollars ($250,000,000) are deemed excess
+lottery funds and must be allocated and transferred to the lottery capital outlay
+account and the early learning program account. Excess lottery funds must be
+distributed equally between the two (2) special accounts.
+(3)
+(A) Moneys in the lottery capital outlay account must be used
+exclusively for capital outlay projects for K-12 educational facilities
+consistent with Article XI, § 5 of the Constitution of Tennessee and in
+SB0840
+002154
+- 1 -
+
+accordance with § 8-4-120. Such moneys must supplement, not
+supplant, non-lottery educational resources for capital outlay projects for
+K-12 educational facilities.
+(B) Moneys in the early learning program account must be used
+exclusively for expenses needed to operate new or existing pre-
+kindergarten (pre-K) programs consistent with Article XI, § 5 of the
+Constitution of Tennessee and in accordance with § 8-4-120. Such
+moneys must supplement, not supplant, non-lottery educational
+resources for capital outlay projects for K-12 educational facilities.
+(4) Any balance remaining unexpended at the end of a fiscal year in the
+special accounts does not revert to the lottery for education account or the
+general fund but must be carried forward into the subsequent fiscal year.
+(5) Notwithstanding this section to the contrary, interest accruing on
+investments and deposits of the special accounts must be credited to the
+accounts, do not revert to the lottery for education account or the general fund,
+and must be carried forward into the subsequent fiscal year.
+(6) Moneys in the special accounts must be invested by the state
+treasurer in accordance with § 9-4-603.
+SECTION 2. Tennessee Code Annotated, Title 8, Chapter 4, Part 1, is amended by
+adding the following language as a new section:
+8-4-120.
+(a)
+(1) The comptroller shall develop and administer a grant program for
+capital outlay projects for K-12 educational facilities using funds available in the
+K-12 lottery capital outlay special account created pursuant to § 4-51-111(g).
+- 2 - 002154
+
+(2) The comptroller shall develop and administer a grant program for new
+or existing pre-kindergarten (pre-K) programs using funds available in the early
+learning program account created pursuant to § 4-51-111(g).
+(b) The comptroller shall:
+(1) Establish a uniform application form and application process for
+grants awarded pursuant to this section; and
+(2) Establish matching dollar requirements for grants awarded pursuant
+to this section based on need.
+(c)
+(1) Grants must be awarded or credited annually to each local education
+agency (LEA) in this state.
+(2) Except as provided in subdivision (c)(3), each LEA shall be awarded
+an amount equal to the sum of the annual allocation and transfer made to each
+account pursuant to § 4-51-111(g)(2), if any, and accrued interest pursuant to §
+4-51-111(g)(5), if any, less a reasonable amount pursuant to subsection (e),
+times the ratio of the LEA's average daily membership to the state total average
+daily membership. For the purposes of this subdivision, "average daily
+membership" has the same meaning as defined in § 49-3-104.
+(3) Individual LEA grants not awarded pursuant to subdivision (c)(2) in
+any year must be credited and accumulated for the benefit of the individual LEA
+and included in the LEA's grant availability in each subsequent year until
+awarded; provided, that if grants are not available in a subsequent year pursuant
+to subdivision (c)(2), an LEA may apply for the amount credited and accumulated
+for the benefit of the LEA. Any unawarded amounts, plus any accrued interest,
+must carry forward in the name of the individual LEA until awarded.
+- 3 - 002154
+
+(d) The comptroller is authorized to audit an LEA awarded a grant pursuant to
+this section for compliance with this section and § 4-51-111(g).
+(e) Costs incurred by the comptroller in administering a grant program created
+under subdivision (a)(1) or (a)(2), must be funded from the K-12 lottery capital outlay
+special account or the early learning program account, as applicable and as part of such
+program.
+SECTION 3. Tennessee Code Annotated, Section 49-4-901, is amended by deleting the
+language "allocated first to early learning programs" and substituting instead the language
+"allocated to early learning programs and capital outlay projects for K-12 educational facilities in
+accordance with § 4-51-111(g)".
+SECTION 4.
+(a) The Comptroller of the Treasury is authorized to promulgate rules as the
+Comptroller may deem necessary to effectuate the purposes of this act. All such rules
+must be promulgated in accordance with the Uniform Administrative Procedures Act,
+compiled in Tennessee Code Annotated, Title 4, Chapter 5.
+(b) Notwithstanding Tennessee Code Annotated, Sections 4-5-208 and 4-5-209
+or any other law to the contrary, the Comptroller of the Treasury is authorized to
+promulgate emergency rules to implement this act.
+SECTION 5. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 002154
+
+[DELETED: (((((]
+[DELETED:  -0((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((SS((S]

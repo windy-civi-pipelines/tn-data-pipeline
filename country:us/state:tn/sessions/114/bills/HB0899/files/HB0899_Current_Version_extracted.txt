@@ -1,0 +1,122 @@
+Title: SENATE BILL 723
+Official Title: SENATE BILL 723
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Lowe
+HOUSE BILL 899
+By Todd
+AN ACT to amend Tennessee Code Annotated, Title 47,
+Chapter 18 and Title 68, Chapter 201, relative to
+weather modification.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, is amended by adding
+the following as a new part:
+47-18-5801.
+As used in this part:
+(1) "Cloud seeding" means a method of weather modification for the
+purpose of directing rainfall to a specific location by a process of injecting,
+releasing, or dispersing chemicals into the atmosphere by any means;
+(2) "Weather modification" means an activity or service performed by a
+public or private entity with the expressed purpose of changing the composition,
+behavior, or dynamics of the atmosphere; and
+(3) "Weather-related company" means a public or private entity that
+offers as a service weather forecasting, modeling and data analysis, atmospheric
+and environmental assessments, weather modification, or cloud seeding.
+47-18-5802.
+It is unlawful for a weather-related company to do any of the following in this
+state:
+(1) Seeding or dispersing of any substance into clouds or fog, to alter
+drop size distribution, produce ice crystals or coagulation of droplets, alter the
+HB0899
+000655
+- 1 -
+development of hail or lightning, or influence in any way the natural development
+cycle of clouds or their environment;
+(2) Using fires or heat sources to influence convective circulation or
+evaporate fog;
+(3) Modifying the solar radiation exchange of the earth or clouds through
+the release of gases, dusts, liquids, or aerosols into the atmosphere; or
+(4) Modifying the characteristics of land or water surfaces by dusting or
+treating the surfaces with powders, liquid sprays, dyes, or other materials.
+47-18-5803.
+A violation of this part constitutes a violation of the Tennessee Consumer
+Protection Act of 1977, compiled in part 1 of this chapter. A violation of this part
+constitutes an unfair or deceptive act or practice affecting trade or commerce and is
+subject to the penalties and remedies as provided in the Tennessee Consumer
+Protection Act of 1977.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 47-18-104(b), is amended by adding
+the following as a new subdivision:
+( ) Violating § 47-18-5802;
+
+Section 4:
+SECTION 3. This act takes effect on July 1, 2025, the public welfare requiring it.
+- 2 - 000655
+[DELETED: AI]
+[DELETED:  -0S(]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 723
+By Lowe
+HOUSE BILL 899
+By Todd
+AN ACT to amend Tennessee Code Annotated, Title 47,
+Chapter 18 and Title 68, Chapter 201, relative to
+weather modification.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, is amended by adding
+the following as a new part:
+47-18-5801.
+As used in this part:
+(1) "Cloud seeding" means a method of weather modification for the
+purpose of directing rainfall to a specific location by a process of injecting,
+releasing, or dispersing chemicals into the atmosphere by any means;
+(2) "Weather modification" means an activity or service performed by a
+public or private entity with the expressed purpose of changing the composition,
+behavior, or dynamics of the atmosphere; and
+(3) "Weather-related company" means a public or private entity that
+offers as a service weather forecasting, modeling and data analysis, atmospheric
+and environmental assessments, weather modification, or cloud seeding.
+47-18-5802.
+It is unlawful for a weather-related company to do any of the following in this
+state:
+(1) Seeding or dispersing of any substance into clouds or fog, to alter
+drop size distribution, produce ice crystals or coagulation of droplets, alter the
+HB0899
+000655
+- 1 -
+
+development of hail or lightning, or influence in any way the natural development
+cycle of clouds or their environment;
+(2) Using fires or heat sources to influence convective circulation or
+evaporate fog;
+(3) Modifying the solar radiation exchange of the earth or clouds through
+the release of gases, dusts, liquids, or aerosols into the atmosphere; or
+(4) Modifying the characteristics of land or water surfaces by dusting or
+treating the surfaces with powders, liquid sprays, dyes, or other materials.
+47-18-5803.
+A violation of this part constitutes a violation of the Tennessee Consumer
+Protection Act of 1977, compiled in part 1 of this chapter. A violation of this part
+constitutes an unfair or deceptive act or practice affecting trade or commerce and is
+subject to the penalties and remedies as provided in the Tennessee Consumer
+Protection Act of 1977.
+SECTION 2. Tennessee Code Annotated, Section 47-18-104(b), is amended by adding
+the following as a new subdivision:
+( ) Violating § 47-18-5802;
+SECTION 3. This act takes effect on July 1, 2025, the public welfare requiring it.
+- 2 - 000655
+
+[DELETED: AI]
+[DELETED:  -0S(]

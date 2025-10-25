@@ -1,0 +1,132 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 303
+By Capley
+A RESOLUTION to honor the memory of Antonio "Tony" Santini of
+Lawrenceburg.
+WHEREAS, the members of this General Assembly were greatly saddened to learn of
+the passing of Antonio "Tony" Santini; and
+WHEREAS, Tony Santini was a highly respected member of his community and a
+consummate professional who worked assiduously to improve the quality of life for his fellow
+citizens in numerous capacities; and
+WHEREAS, Mr. Santini was born on September 18, 1936, in Siderno Marina, Reggio
+Calabria, Italy, but as his mother was unable to travel into town to register his birth until the next
+day, his birthday was always celebrated on September 19; and
+WHEREAS, growing up in Siderno, Tony Santini played soccer and fished in the lonian
+Sea before joining the Italian Merchant Marines; through his service, he immigrated to the
+United States, eventually settling in Massachusetts; and
+WHEREAS, in Massachusetts, Mr. Santini met the love of his life, Lucille Medeiros
+Santini, while working in a textile factory; the couple soon married and enjoyed sixty-one years
+of marriage before his passing; and
+WHEREAS, in 1964, the Santinis moved to Middle Tennessee, where Tony Santini had
+received a promotion to manage factories; soon after the move, they started a family; and
+WHEREAS, Mr. Santini's entrepreneurial spirit later led him to cattle farming and
+establishing multiple successful businesses; and
+WHEREAS, Tony Santini enjoyed fishing, spending time with his family and friends,
+good Italian wine and food, and traveling to his hometown in Italy; his love for music often led
+him to give impromptu concertos for his loved ones; and
+WHEREAS, Mr. Santini was deeply devoted to his family and always endeavored to
+remain true to family values of the highest order; and
+HJR0303
+004051
+- 1 -
+WHEREAS, in addition to his beloved wife, Tony Santini is survived by daughters, Maria
+L. Santini and Annamaria Santini (Blake) Lay; sons, Frank Santini and Vince (Amy) Santini;
+eight grandchildren, Alex Bolin, Britt Bolin, Francesca Lay, Aidan Lay, Sophia Santini, Kade Lay,
+Nate Santini, and Crews Kroeger; as well as many nieces and nephews who cared deeply for
+him; and
+WHEREAS, he was preceded in death by his mother, Maria Pellegrino Santini; father,
+Ugo Santini; sisters, Giuseppina Sgambelluri and Angelina Barila; and brother, Francesco
+"Frank" Santini; and
+WHEREAS, Mr. Santini leaves behind an indelible legacy of integrity and probity in
+public life, compassion and loyalty in private life, and diligence and dedication in all his chosen
+endeavors; and
+WHEREAS, it is fitting that the members of this General Assembly should pause to
+remember the bountiful life of this exceptional gentleman; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor the memory of Antonio "Tony" Santini, reflecting fondly upon his
+impeccable character and his stalwart commitment to living the examined life with courage and
+conviction.
+BE IT FURTHER RESOLVED, that we express our sympathy and offer our condolences
+to the family of Mr. Santini.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 004051
+[DELETED: WWWWWWWWW]
+[DELETED:  -0WWWWBBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 303
+By Capley
+A RESOLUTION to honor the memory of Antonio "Tony" Santini of
+Lawrenceburg.
+WHEREAS, the members of this General Assembly were greatly saddened to learn of
+the passing of Antonio "Tony" Santini; and
+WHEREAS, Tony Santini was a highly respected member of his community and a
+consummate professional who worked assiduously to improve the quality of life for his fellow
+citizens in numerous capacities; and
+WHEREAS, Mr. Santini was born on September 18, 1936, in Siderno Marina, Reggio
+Calabria, Italy, but as his mother was unable to travel into town to register his birth until the next
+day, his birthday was always celebrated on September 19; and
+WHEREAS, growing up in Siderno, Tony Santini played soccer and fished in the lonian
+Sea before joining the Italian Merchant Marines; through his service, he immigrated to the
+United States, eventually settling in Massachusetts; and
+WHEREAS, in Massachusetts, Mr. Santini met the love of his life, Lucille Medeiros
+Santini, while working in a textile factory; the couple soon married and enjoyed sixty-one years
+of marriage before his passing; and
+WHEREAS, in 1964, the Santinis moved to Middle Tennessee, where Tony Santini had
+received a promotion to manage factories; soon after the move, they started a family; and
+WHEREAS, Mr. Santini's entrepreneurial spirit later led him to cattle farming and
+establishing multiple successful businesses; and
+WHEREAS, Tony Santini enjoyed fishing, spending time with his family and friends,
+good Italian wine and food, and traveling to his hometown in Italy; his love for music often led
+him to give impromptu concertos for his loved ones; and
+WHEREAS, Mr. Santini was deeply devoted to his family and always endeavored to
+remain true to family values of the highest order; and
+HJR0303
+004051
+- 1 -
+
+WHEREAS, in addition to his beloved wife, Tony Santini is survived by daughters, Maria
+L. Santini and Annamaria Santini (Blake) Lay; sons, Frank Santini and Vince (Amy) Santini;
+eight grandchildren, Alex Bolin, Britt Bolin, Francesca Lay, Aidan Lay, Sophia Santini, Kade Lay,
+Nate Santini, and Crews Kroeger; as well as many nieces and nephews who cared deeply for
+him; and
+WHEREAS, he was preceded in death by his mother, Maria Pellegrino Santini; father,
+Ugo Santini; sisters, Giuseppina Sgambelluri and Angelina Barila; and brother, Francesco
+"Frank" Santini; and
+WHEREAS, Mr. Santini leaves behind an indelible legacy of integrity and probity in
+public life, compassion and loyalty in private life, and diligence and dedication in all his chosen
+endeavors; and
+WHEREAS, it is fitting that the members of this General Assembly should pause to
+remember the bountiful life of this exceptional gentleman; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor the memory of Antonio "Tony" Santini, reflecting fondly upon his
+impeccable character and his stalwart commitment to living the examined life with courage and
+conviction.
+BE IT FURTHER RESOLVED, that we express our sympathy and offer our condolences
+to the family of Mr. Santini.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 004051
+
+[DELETED: WWWWWWWWW]
+[DELETED:  -0WWWWBBB]

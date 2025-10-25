@@ -1,0 +1,51 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 97
+By Moon
+AN ACT to amend Tennessee Code Annotated, Title 8,
+Chapter 33, relative to state employees in military
+service.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 8-33-101, is amended by adding the
+following as a new subdivision:
+( ) "Working day" means the number of hours an employee is scheduled to work
+in a 24-hour period.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0097
+001107
+- 1 -
+[DELETED: S(]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 97
+By Moon
+AN ACT to amend Tennessee Code Annotated, Title 8,
+Chapter 33, relative to state employees in military
+service.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 8-33-101, is amended by adding the
+following as a new subdivision:
+( ) "Working day" means the number of hours an employee is scheduled to work
+in a 24-hour period.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB0097
+001107
+- 1 -
+
+[DELETED: S(]

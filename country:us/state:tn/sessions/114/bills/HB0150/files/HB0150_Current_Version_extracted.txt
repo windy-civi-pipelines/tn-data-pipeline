@@ -1,0 +1,61 @@
+Title: SENATE BILL 138
+Official Title: SENATE BILL 138
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Bailey
+HOUSE BILL 150
+By Gant
+AN ACT to amend Tennessee Code Annotated, Title 68
+and Title 71, relative to TennCare.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 71-5-165, is amended by inserting
+the following as a new subsection (b) and redesignating the existing subsection (b) and all
+subsequent subsections accordingly:
+(b) The bureau of TennCare shall reimburse a public or private air ambulance
+service that bills for transports and has a base of operations in this state that provides a
+covered emergency or nonemergency service to a TennCare recipient at a rate not less
+than sixty-seven and one-half percent (67.5%) of the federal medicare program's
+allowable charge for participating providers.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to reimbursement for transports that occur on or after the effective date of this act.
+HB0150
+001327
+- 1 -
+[DELETED: S(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 138
+By Bailey
+HOUSE BILL 150
+By Gant
+AN ACT to amend Tennessee Code Annotated, Title 68
+and Title 71, relative to TennCare.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 71-5-165, is amended by inserting
+the following as a new subsection (b) and redesignating the existing subsection (b) and all
+subsequent subsections accordingly:
+(b) The bureau of TennCare shall reimburse a public or private air ambulance
+service that bills for transports and has a base of operations in this state that provides a
+covered emergency or nonemergency service to a TennCare recipient at a rate not less
+than sixty-seven and one-half percent (67.5%) of the federal medicare program's
+allowable charge for participating providers.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to reimbursement for transports that occur on or after the effective date of this act.
+HB0150
+001327
+- 1 -
+
+[DELETED: S(S]
